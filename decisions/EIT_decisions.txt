@@ -1,0 +1,66 @@
+country_decisions = {	
+	eit_respawn_kaguya = {
+		potential = {
+			NOT = { has_ruler_flag = th_original_kaguya }
+			NOT = { has_country_modifier = forbid_respawn_cd }
+			OR = {
+				tag = EIT
+				was_tag = EIT
+			}
+		}
+
+		major = yes
+		
+		allow = {
+			if = {
+				limit = {
+					NOT = { has_country_flag = th_free_respawn }
+				}
+				dip_power_cost = 150
+			}
+		}
+			
+		effect = {
+			if = {
+				limit = {
+					NOT = { has_country_flag = th_free_respawn }
+				}
+				dip_power_cost = 150
+			}
+			country_event = {
+				id = flavor_eit.101
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	eit_buy_kurils = {
+		potential = {
+			has_country_flag = EIT_can_buy_kurils
+			NOT = { owns_or_non_sovereign_subject_of = 1032 }
+		}
+
+		major = yes
+		
+		allow = {
+			NOT = { owns_or_non_sovereign_subject_of = 1032 }
+			treasury = 100
+		}
+			
+		effect = {
+			1032 = {
+				owner = {
+					country_event = {
+						id = flavor_eit.6
+					}
+				}
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

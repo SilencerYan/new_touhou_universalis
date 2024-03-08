@@ -1,0 +1,45 @@
+government = monarchy
+add_government_reform = Gensokyan_monarchy
+government_rank = 1
+primary_culture = "Scarlett"
+add_accepted_culture = "Fairy"
+religion = th_hakureishinto
+technology_group = tech_gensokyan
+capital = 4968
+historical_rival = MHG
+historical_friend = HNG
+historical_friend = FLR
+th_discover_default = yes
+1443.1.1 = {
+  monarch = {
+    name = "Œ…s|‰ƒšN"  # Remilia
+    dynasty = "¯eaSŒ…yr"  # Scarlet
+    birth_date = 943.7.9
+    adm = 4
+    dip = 4
+    mil = 6
+    female = yes
+  }
+  add_ruler_personality = immortal_personality
+  set_ruler_flag = touhou_character_ruler
+  set_ruler_flag = touhou_original_ruler
+  set_ruler_flag = th_original_remi
+}
+1443.2.3 = {
+  Heir = {
+    name = "™‚pQ5g2—"  # Flandre
+    monarch_name = "™‚pQ5g2—"  # Flandre
+    dynasty = "¯eaSŒ…yr"  # Scarlet
+    birth_date = 948.3.23
+    death_date = 9999.1.5
+    adm = 5
+    dip = 3
+    mil = 6
+    female = yes
+    claim = 100
+  }
+  add_heir_personality = immortal_personality
+  set_heir_flag = touhou_character_ruler
+  set_heir_flag = touhou_original_heir
+  set_heir_flag = th_original_flan
+}

@@ -1,0 +1,492 @@
+﻿l_english:
+ beer: "dUR‘"
+ beerDESC: "dUR‘=fNÍy^×S0kÎ„vn™™eÿàQ*NNªuåNegNôvñm×SNLuT0WºNìN„vœU1r0ƒR=fNÍyÑSu‘R‘¾|n™™eÿIN‰1u4l0¦žË‚ÿ8^=f'Y¦ž	ÿ0dUR‘±‚ŒTu‘Ík6Rb0"
+ apiculture: "‰Q‡"
+ apicultureDESC: "‰Q‡=fNè•VºNeQÜw„vLˆNÊSœQNžRõÿ‰mÊS0RHNTÍyîv„vwÛLˆùW²wN¡rt‡²0ƒRôVÕuNwgq™eÊS6eÆ–1u‡‡uµN„v‡‡0‡!‡ÊSvQÖN	g÷N<PúQµNiregUSV0"
+ whaling: "¸œ|œ"
+ whalingDESC: "¸œ|œúQµNiràVvQTÍy(uwY×Sýgc0¸œÐc¼púQ„v¹l=fNÍyR5„vÃq™eegnÿ2SvQ=f(WjOHNÿfãNÁT„vów¹lnfÊSKNMR0¸œ¹l«ˆ(ueg¹pop06RjO¥w‚våNÊSuµNb¦mÑn¹l0¸œ¨šŒT¸œ‰˜ÿ(WÐg›N¸œ|œ«ŽNÑS°s„vNÍyänß˜Óu„g	ÿ«ˆ(ueg6R.TÍyFUÁTÿSìb't«Žøwcˆ0è–O¨š¶gŒTåTwQ0"
+ lumber: "(gPg"
+ lumberDESC: "(gPg=fNÍyúW,g8fFUÁTÿÙÌ‘c(uŽNTÍyú^Qr06R.ŒTåTz‚(u„v RåT(gPg0SŸS(gRrR0=•Vv^ RåTbhÆQHSøRT¿O—V0R†N(gPgÿ¹e¿OÅˆxSŒTÐ“0"
+ palm_oil: "Õhˆi¹l"
+ palm_oilDESC: "Õhˆi¹l=fNÍy^Ûl²Nf„vFUÁTÿÙ=fÎN¹lÕhˆihÿfRTHNElaeis guineensis	ÿ„vœgžR-NÐcÖSúQeg„vNÍyiir¹l01uŽNvQìryr„v'`(ŒTØšµNÏ‘ÿOvQbHN†NNÍyY(uN^Ûl”^(uŽNTLˆTN„v¹l0"
+ cinnamon: "‰wBh"
+ cinnamonDESC: "‰wBhÙÍyØš¦^Eu•„vFUÁTÿ=fNÍyÎN‰wBhÑyh(g…Q®v-NÐcÖS„v™™™e0ƒRåN)n–f0uŽ„v™™lŒTìryr„v›±sTSwû•T0‰wBh«ˆ(uŽNùpj™ÊSoƒ(u„v†SòSENÜÿàVw÷N<PNòƒ0"
+ saffron: "Ï…¢u±‚"
+ saffronDESC: "Ï…¢u±‚=fNÍyÍs5NØšÅ–„v8fÁTÿvQ«ˆÇ‘Æ–ŽNå‹±‚5gs‚KN„vXj¢ur‚±‚ñg4Y0Ï…¢u±‚àVvQìryr„v™™l0Î˜sTŒTœœs‚„vNwr‚yr'`w^HNºNåw0àQ*NNªuåNegÿÏ…¢u±‚Nôv×S0RºNìN„vÍsÆ‰ÿv^«ˆ(uŽNTÍyùpj™0ISoƒŒTŽ¹R(u0"
+ opium: "&žGr"
+ opiumDESC: "&žGr=fNÍyÍs5NLˆ•„v8fÁTÿvQ«ˆÐcÖSŽNBŸ|iir-N0Ù=fNÍyHVHe»ž‰‘ir(ÿàQ*NNªuåNegNôv«ˆ(uŽNIS—uŒT1ZPNîv„v0&žGr„vuµNÇzSìb6e·ƒÎNBŸ|ÍyZƒ-NnúQ„vsN‹vr‚öw²m0Næe6e·ƒÿöw²m1SO«ˆ RåTbNÍyh¶rir(ÿsSu&žGr0"
+ rice: "Izs|"
+ riceDESC: "'Ys|=fNÍyINß˜ÿmN=fNLuNˆm9g^Ûl„v7ŒirKNNÿjOHNNÍy8fFUÁT(WNT0WHS|Q	gÍ‘‰aIN0ÙÌ‘jOHN8fÁT„v'Ys|ÿc„v=f²NfŽNýV¶RN^HWô•„vÙÍyupImjOir0"
+ rum: "gÆYR‘"
+ rumDESC: "gÆYR‘=fNÍy¸„™R‘¾|n™™eÿ1uu…oRµNÁTÿ‚YÖ|‡ÿbôv¥cÎNu…AlÿÇÑSu‘ŒT¸„™Çz6Rb0¸„™²m=fNÍynˆo„v²mSOÿ8^(Waj(gvh-NH–‘0"
+ horses: "lš9S"
+ horsesDESC: "lš9S(WàQ*NNªuåNegÿàVvQ(uNO(u„vY7h'`wNôv=fNÍyÍ‘‰FUÁT0ƒRìN=fÄ–O„vÛV¢w¨RirÿåN›RÏ‘0OewcŒTàVÚ‹W„ðy0lš9SIN‰(uŽNÐ“0œQNuµNåNÊSSO²wi‹NIržR(uîv„v0"
+ olive_oil: "Dj„i"
+ olive_oilDESC: "Dj„ijOHNNÍy8fÁTÿàVvQ(u^ÛlŒTùpj™÷N<PwY×SR—Pw0Dj„i=fDj„ih„vœgžRÿŸSµNŽN0W-Nwm0WHSÿ°s(WNLu¸‹Y0W¹eý	gÍyi0"
+ amber: "%tÀs"
+ amberDESC: "%tÀs=fNÍyhSówÿê°eówhVöeãNåNegÿ1SàVvQr‚ýlŒTê6qŽw×S0RºNìN„vR—Pw0jOHNRówÎNäSãN0R°s(WýˆV	g÷N<P0"
+ jade: "‰sów"
+ jadeDESC: "‰sów«ˆ(uegR.¸‹YžR(u„vbêNV'`„virÁTÿÎN²R…QÅˆp™ir0R‰shV'Ng0‰sów«ˆ²‹HN=f0^‹sRów00"
+ marble: "'Ytów"
+ marbleDESC: "'Ytów=fNÍyŽKN„v©SówÿTöejOHNú^QrŒTz‚=gÕ–QX„vPg™ewY×SR—Pw0'Ytów	gNwY7h„vœ˜r‚ŒTbV¶rÿ	g›N=fUSr‚„vÿ	g›Nhˆb—	gNwY—	¶r„vag¹uÿvQ…QèmNS+TNw¸‹YNT„vœ˜r‚0"
+ lead: "Å”"
+ leadDESC: "ƒR=fNÍyÔk'YYpenfPg™eÆR¦^ôf'Y„vÍ‘Ñ‘^S0Å”=fo„vŒTïSI•„vÿwN	gN*NøvùRƒNO„v”q¹p0Å”«ˆ(ueg6R.PR9V0"
+ cloves: "N™™"
+ clovesDESC: "(WpS<SlšœäS²›SN„vÐgÍyhÓu	g„v±‚¨š5gÎ˜r^Tÿ1Sb†NNÍyn™™ÛV¢n„v™™™eN™™ÿ^Ûl(uŽNNLuT0W„vNTÜƒ´w0"
+ mercury: "4lö”"
+ mercuryDESC: "4lö”=fNÍyÑ‘^SÿwQ	gìryr„v²R)nN²m`yr'`0ƒR=fNÍyøvSVz	g„vÑ‘^SÿIN‰(W1gxÿwŠ^-NÑS°sÿ(W±Ì‘ƒRNkxúxÓuT04lö”«ˆ²‹HNwQ	goƒ(uyr'`ÿKS¡r¥cæ‰4lö”žR(NOùReP·^µNuN)RqVÍT0ƒR«ˆ(uŽNoƒŒTS†YÁT0"
+ camel: "†š|š"
+ camelDESC: "†š|š«ˆºN‰|oš‰QŒTO(u(WvQÖN¨RirˆV¾–uXR„v™l.o0WHSÿàVHNƒRìNˆV•Nµköeô•êS—‰ˆVS„v4l0ƒRìN«ˆ(ujO³R¨R0Ð“0b‰N0µNvYŒTµN‰wÿƒRìN„vÛkÑSmN=fïS(uŽNÍs5„vúQãSºuÇuÁT„vPg™e0"
+ gunpowder: "kpoƒ"
+ gunpowderDESC: "kpoƒ=fNÍy1ukxów0kxúxŒT(g­p„v‰|+g÷mTirÄub„v¸poƒ0"
+ elephants: "'YaŒ"
+ elephantsDESC: "†SòSNÿ'YaŒ«ˆ²‹HN=fïS`„vb‰NåTwQ0ÖNìNÅˆY†NÔv2uegÝO²bêñT„v«ŽSOÿ‚YœgÖNìN„vSYr³Y'Y„vÝ‹ÿØO«ˆ RN•)R„vÁ”bÄžÜ”„vS4Y0"
+ tin: "!•"
+ tinDESC: "!•=fNÍywPŽ†„vÑ‘^Sÿ=fR—Ü”„v-NÃVèRÿvQYOR1uÜ”Äub0ƒRmN«ˆ(uŽN›Q‹Nîv„v0"
+ dates: "0i±g"
+ datesDESC: "àQCSt^egÿ0i±gNôv=f-NNŒTpS¦^³lAmßW„vINß˜0"
+ cheese: "vYj‘"
+ cheeseDESC: "êäSåNegvYj‘1S=fåe8^ß˜ÁTÿvYj‘6RjOR=fNè•bŸq„vz‚=g0vYj‘=fÎNirvY-NÐcÖS„vsN6RÁTÿ1uirvY„vË†‹vj‘Ë†‹vÝQúVwbÿwQ	gYÍyÎ˜sT0(0WŒTbV¶r0"
+ citrus: "ÑgXj"
+ citrusDESC: "ÑgXj=fNÍyiirÿvQœgžRåNæ‚sTbx‘sTHNIN0ƒRìNgR=f'Ym2m„vŸSuiirÿ–Nwéeg‡ef.O­d0RšN2mÿv^ÎN±Ì‘.O­d0Rte*NçeNLu0ôv0R14NªuÿƒRìNMbwck(W'k2mAmLˆwegÿFOTeg«ˆ²‹HN=fNÍybYˆOÁT2SvQ=fuYj0"
+ seafood: "wmœœ"
+ seafoodDESC: "wmœœcûNUO«ˆºN‰|Æ‰HNß˜ir„vwmmuirÿ2SvQ=f|œ‰|ŒT‰|0‰|SìbTÍyoSO¨RirŒT2uóX‰|¨Rir0"
+ carpet: "0Wïk"
+ carpetDESC: "0Wïk=fNÍyºuÇuwb„v0Wg†‰Övirÿ8^1uD–(WÌwlˆN„vNBSÒuÛkÄub00Wïk.OßuN=f(uŠÛkZP„v0"
+ nutmeg: "FŒI…"
+ nutmegDESC: "FŒI…=fS³‚™™„v‰wFŒI…hÍyPRèxb‰|+gT6Rb„v™™™e0FŒI…	gNÍyìryr„v›±™™sTŒTNÍy)n–f„v®VusTSÿƒR«ˆ(uegÙuTÍyØpqß˜ÁTŒsT0"
+ maize: "‰ss|"
+ maizeDESC: "‰s‡Ížÿ8^«ˆðyHN‰ss|ÿ=fŽ2m„vIN‰jOirÿ2SvQ=f(W-NŽ2mÿ±Ì‘„vu•agöNˆVtó`ÿNÇƒRmNibce0R†NŽ2mvQÖN0WHS0ƒRùRŽýVºN„vjO(uŒT'YYpe'k2m7ŒirN7hÿ=fºN‰|ŒT¨Rirß˜(u„vNÍyIN‰jOir0"
+ pearls: "Ísàs"
+ pearlsDESC: "O(„v)Y6qÍsàs=f^—8^z	g„vàsR01uŽN'YS0bV¶r0œ˜r‚0hˆb—(Ï‘0¹eTŒTIQýlÿƒRìN„v÷N<PNvQÖNÍs5Rów„v÷N<Pøv<O0US—˜)Y6qÍsàs8^jOHN6eÏ…ÁTúQ.UÿbjOHNìryr„vàsR„v-NÃV0"
+ metalworking: "Ñ‘^S RåT"
+ metalworkingDESC: "Ñ‘^S RåT=f(uÑ‘^Seg6R.US*Nö–öN0ÄuöNb'Y‹WÓu„g„vÇz0\n\nwýN Rbÿøv»wýN·ƒ—Vÿ§G+5%§!uµNHe‡s\nßu»lw RbÿwýNFUÁTuµNÿ§G+0.1§!"
+ silver: "ö”"
+ silverDESC: "‹vö”êäSåNeg1SjOHN5Í‘Ñ‘^S«ˆVÇ‘úQegÿ•gåNegNôv«ˆ(ueg6RjOÅˆp™ÁT0àsR0Øš÷N<P„v™wQŒThV¿v0"
+ exotic_animals: "VßW¨Rir"
+ exotic_animalsDESC: "VßW¨RirSìbTÍyT7h„vÍsz¨RirÿƒRìN«ˆSVjO Rirr™‰QÿHNÌRºN&^egÐgÍyZg0"
+ vanilla: "™™Iƒ"
+ vanillaDESC: "™™Iƒ=fNÍynê™™IƒpQ„vŒsTÁTÿŸSµNŽNŽýVWSèŒT-NèÿIN‰=f¨X‰åT0™™IƒjOHNçTKQ›R„vûm RBR(W'k2mˆVAmLˆ0"
+ munitions: "›Q—ÁT"
+ munitionsDESC: "›Q—ÁT=fb‰N-NO(u„v›Q‹NirDÿyr+R=ffkhVŒT9Voƒ0"
+ woodworking: "(gåTN"
+ woodworkingDESC: "(gåTN=f(u(g4Y6RjOirÁTÿSìbqjÜgŒT¶RwQ„vµNN0"
+ ebony: "ÑžŽj"
+ ebonyDESC: "ÑžŽj(0WšSÍ‘ÿHTppÑžr‚ÿtó`„vÕ–IRPg™e0(gPgY(uŽN6RjObYˆOÁTUSÈ‰Ügÿv^åNÕ–IRÅˆp™hˆb—0"
+ tar: "&q¹l"
+ tarDESC: "&q¹l=fNÍy˜|'`ir(ÿïSåNÎNTÍy	gHgir(-N·ƒ—VÿIN‰=fÎNŒgh-N·ƒ—VÿKS¡r&q¹l7hµNÁTïSåNÎNTÍy	gHgir(-N·ƒ—Vÿ‚Yål­p0&q¹l=fS'kÏuNm„vÍ‘‰èRÿ«ˆ^Ûl(ujO(g9‚„v2–PBRÿ2–bk(g9‚PÂp0"
+ sulfur: "kxúx"
+ sulfurDESC: "kxúxÿ(WäSãN«ˆðyHNówAmÄžÿ•gåNegNôvNkpqSIm¨R	gsQÿÙã‰Ê‘†NHNÀNHNäSãNúWcw’V²‹HNƒRïSýw=fT›<›0kxúx=fkpoƒuµN-NgÍ‘‰„vŸS™e0"
+ leather: "®vi—"
+ leatherDESC: "®vi—=f1u±—6R„v¨Rir®v²wÿ8^=fir®v	ÿ6Rb„vNÍyZWç—	gö^US'`„vPg™e0ƒRïS(uŽNuµN¸‹Y5Í‘irÁTÿ‚Ycˆg0fNM|0Ôv2u0™X¸uŒT¶RwQ0NLuT0W^ÛlÇ‘(uTÍyŽb=guµN¸‹YNTÁTÍy„v®vi—0"
+ jewellery: "–™p™"
+ jewelleryDESC: "–™p™SìbHN†NSbnbwiO4b„vTÍyÅˆp™ÁTÿ‚Yøwˆ”0bc0y˜þ”03w¯s0T`W0Kbo•ŒT–ˆcb0–™p™ïSåND–(W«ŽSObcˆgN0"
+ maple_syrup: "«gÖ|Fm"
+ maple_syrupDESC: "«gÖ|FmgR=f1uSŽWW„6R.ŒTO(u„vÿÙÍy6RjOÕl«ˆ'k2m–klwÇ‘(uÿv^n9eÛ†NuµN¹eÕl0"
+ potato: "lšÃ”¯…"
+ potatoDESC: "lšÃ”¯…(W16NªuNJSöS1u‰ísYrºNÎNŽ2mVeQ'k2mÿ–TbHNNLu¸‹Y0WHS„vINß˜0"
+ steam_engine: "¸„‹lHg"
+ steam_engineDESC: "¸„‹lHg=fNÍyíp›RHgÿO(u¸„‹ljOHNåTjOAmSOgbLˆHg°håTjO0¸„‹lHg)R(u¸„‹l‹S›R¨c¨RIm^X(WWñgSO…QegÞVÐ¨R0"
+ zinc: "•"
+ zincDESC: "•=fNÍy	gIQýl„vÑ‘^SÿNÜ”NwïSåN6R.úQÄžÜ”ÿ•8^(uŽN6RjOºNÏP0Õ–QXŒT™wQ0•gée=fpS¦^ºNÎNÿwów-NR»yúQeg„vÿÔk'k2mºNb-NýVºNØéeàQ*NNªuÿ¯u¦^gØš„v•(WTNöegmNµNŽNpS¦^0"
+ optics: "IQfRêNhV"
+ opticsDESC: "IQfRêNhV=fcSbèx»sƒt6Rb„vÿ(uŽNëwckÆ‰›R„vêNhVÿÔk‚Y1595t^æTóS„vYTIQfR>f®Vj•ŒT1608t^„v˜bSgÜj•ÿÙ2NÍyÑSfýúQ°s(WwƒpQ„v<wj•6R.N-NÃV0"
+ cannon: " RœQ®p"
+ cannonDESC: "NÍy'Y‹W„vÍ‘®pÿÇO(ufnÐ‹ÿv^(Wb‰N-N•beQO(u0"
+ tomato: "‰¢uÿg"
+ tomatoDESC: "Î‘u‰¢uÿgŸSµNŽNWSŽ2m‰è0Ù›NÎ‘uHr,g„v‰¢uÿgêS	gFŒPR'YS0‰ísYrºN–™HQŠb‰¢uÿgVÛ'k2mÿbHN‰ísYrŒTa'Y)R„vß˜ir0(WÕlýVŒTS'kÿ‰¢uÿg«ˆ²‹HN=fNÍyÂ‰O'`iir0"
+ champagne: "™™ßi"
+ champagneDESC: "ÙÍyyrŠk„vwálR‘IN‰=f(WÕlýV™™ßi0WHS„vîOSb–6RšR„v%N<hÄ‰RNuµN„v0"
+ llama: "Ž2m|š"
+ llamaDESC: "Ž2m|šŒTƒRìN„vS*NÑ²NŠ|š«ˆºN‰|oš‰Qv^(uŽN³RjOÿƒRìN„vÛkÑS=fïS(uŽNºuÇu„vÍs5úQãSµNÁT0"
+ indigo: "i—R—Óg™e"
+ indigoDESC: "i—R—Óg™e=fÎNÐg›Niir„vöSPR-NÐcÖS„v)Y6qÓg™eÿƒR„vúQ°sùRhQtÏuNm„vqVÍT‡˜'YÿàVHNÝ„r‚Óg™eþfÏuøvSVz	g0"
+ sea_turtle: "wmŸŸ"
+ sea_turtleDESC: "wmŸŸ=fSV0WºNl„vIN‰sir0wmŸŸ‰w(W-NýV«ˆÆ‰HNŽsTsO´wÿïSåNØš÷NVSÙuFUºN0wmŸŸ„voRµNÁTmN«ˆ(uŽN.Oßu-NISŒTS†YÁT0"
+ sake: "nR‘"
+ sakeDESC: "nR‘=fÍyÑSnŽNåe,g„vR‘¾|n™™e06qwàVHNvQjOHN‚‚åeN„všR6R0êNVåNÊS›N¸‹&`Nï`ÿnR‘(W‰^ó`aNÌ‘TlSSW„NòTbVb	g^–„v(u0"
+ custard: "Ë†Äžq‘"
+ custardDESC: "+R¡rbÿPWIr™‚pQúQeg¿O=fÿ"
+ cucumber: "ÄžÜt"
+ cucumberDESC: "ÄžÜt=fÍy…uiirÿàVvQœgžRïS›Oß˜(uw«ˆ^ÛlÍyi0vQwnŽNpS¦^ÿNNåwHNUOÿ³låz=f=UNŒcácÙÍy,…Üƒ`N'`„v‰^ó`aNOOl0"
+ magic_flowers: "T››RTåeu„"
+ magic_flowersDESC: "Î˜Á‰‹^™™åNÊSÙGr0uÎ‘„v„vIN‰ýwÏ‘egn0±‚5gKˆN†Nc	gwåNàe¹E–„výwÏ‘ÿêS‰‹^™™yYêñTµc6RNwEQÈvT››R„vTåeu„ÿyY¿Oýw·ƒ—VøvƒŽNs^öeôfY„výwÏ‘0"
+ miasma: "4vl"
+ miasmaDESC: "T›LuNbðN×N„vÒk.tÿwNïS«ˆ(uŽNI–ÝuYegwÊSLeºN0vQýwO*NºN4YUfîv)wÿv^NýwHNvQNb†‰Öv„vHSßWÐc›OàeÈaïSûQ„vbrúV2–¡V0"
+ magical_artifacts: "T›ÕlhVwQ"
+ magical_artifactsDESC: "‰^ó`aN=fGrEQánT››R„vW0WÿàVdkO	gT›ÕlhVwQŒTT›Õlp™ÁTXR(WmN1SN³HNGY†N06qw4O–Nw'YÓuLu„v÷mqNÿT›ÕlhVwQòTce^óYLuÿKS¡rS	gÑS°sÿFOÙ›NSwQØ=fHNvQåb	gw!.s†Nø‹Y÷N<P0"
+ magic_tomes: "T›ÕlxQM|"
+ magic_tomesDESC: "àVHN'YÓuLu„vŸ^VÿT›ÕlfNmN–KNÛVceö–K„0ƒRìN±øvSV„v›RÏ‘«ˆ(u•†N0W¹eÿFO0RîvMRHNbkÿêS	g‰^ó`aN„vT›ÕlOc	gÙ›NfNM|ÿwNÖNìNckªR›R6eÆ–ceK„(WNLuT0W„vGràz‹kwS0"
+ strawberry: "Iƒ“ƒ"
+ strawberryDESC: "Iƒ“ƒ^ÛlÍyiŽNNLuT0WNàVvQœœ¢u„vr‚iVÊSQm«Ž„vnuw«ˆ^‰Š	g R0vQR«ˆÑS°s(W‰^ó`aNÌ‘mN	gu•ÿl¬w1Sb†NŽsTÿÙùRŽNp`çT1rN†N4lœg„v–Y¾|ìNegô‹2SHN‚Ydk0"
+ orb_blue: ",‚å‚KN‰s"
+ orb_blueDESC: "t…Ï…NwàeÔk›RÏ‘„vT››Rt0ncô‹úQêŽNø‹^yKNKbÿvQt…+TúQ†NNÍyïSáONàVžR„vlôV0‰sRHNkQÍyÿÏkÍyGW+T	gNT„v›RÏ‘ÿÙÍy‰sêSXR(WŽN‰^ó`aNÿwN=fidYW–SHY„vÁy	gir0"
+ mod_options_title: "8fÁTÓbUS¾‹n"
+ mod_options_desc: "8fÁTÀoIm¾‹n"
+ marcin_events.1.t: "8fÁTÓbUS¾‹n"
+ marcin_events.1.d: "§G=f§! = ãNhˆNwSOŽN0WþVNúQ°s\n§R&T§! = ãNhˆNwNOŽN0WþVNúQ°s\n\n§R¨`—‰TNÚn¨RMbýww0RvQYO„vFUÁTŒTúQ/ÔÞV	c®”0§!"
+ marcin_events.2.a: "§G=f§!"
+ marcin_events.2.b: "§R&T§!"
+ marcin_events.close: "£event_button_red£"
+ marcin_events.2.d: "(WÙÌ‘ÿ¨`ïSåNšRIN8fÁT=f&TúQ°s"
+ marcin_events.2.t: "dUR‘"
+ marcin_events.3.t: "‰Q‡"
+ marcin_events.4.t: "(gPg"
+ marcin_events.5.t: "Õhˆi¹l"
+ marcin_events.6.t: "¸œ|œ"
+ marcin_events.7.t: "‰wBh"
+ marcin_events.8.t: "Ï…¢u±‚"
+ marcin_events.9.t: "Izs|"
+ marcin_events.10.t: "&žGr"
+ marcin_events.11.t: "gÆYR‘"
+ marcin_events.12.t: "lš9S"
+ marcin_events.13.t: "Dj„i¹l"
+ marcin_events.14.t: "%tÀs"
+ marcin_events.15.t: "‰sów"
+ marcin_events.16.t: "'Ytów"
+ marcin_events.17.t: "Å”"
+ marcin_events.18.t: "N™™"
+ marcin_events.19.t: "4lö”"
+ marcin_events.20.t: "†š|š"
+ marcin_events.21.t: "kpoƒ"
+ marcin_events.22.t: "'YaŒ"
+ marcin_events.23.t: "!•"
+ marcin_events.24.t: "0i±g"
+ marcin_events.25.t: "‚ëX"
+ marcin_events.26.t: "ÑgXj"
+ marcin_events.27.t: "wmœœ"
+ marcin_events.28.t: "0Wïk"
+ marcin_events.29.t: "R—Ü”"
+ marcin_events.30.t: "‰ss|"
+ marcin_events.31.t: "Ísàs"
+ marcin_events.32.t: "Ñ‘^S RåT"
+ marcin_events.33.t: "ö”"
+ marcin_events.34.t: "VßW¨Rir"
+ marcin_events.35.t: "™™Iƒ"
+ marcin_events.36.t: "›Q—ÁT"
+ marcin_events.37.t: "(gåTN"
+ marcin_events.38.t: "ÑžŽj"
+ marcin_events.39.t: "&q¹l"
+ marcin_events.40.t: "kxúx"
+ marcin_events.41.t: "®vi—"
+ marcin_events.42.t: "–™p™"
+ marcin_events.43.t: "«gÖ|Fm"
+ marcin_events.44.t: "lšÃ”¯…"
+ marcin_events.45.t: "¸„‹lHg"
+ marcin_events.46.t: "•"
+ marcin_events.47.t: "IQfRêNhV"
+ marcin_events.48.t: "Ûk®vcˆir"
+ marcin_events.49.t: "Ç‘ÿwú^Qr"
+ marcin_events.50.t: "kp®p"
+ marcin_events.51.t: "‰¢uÿg"
+ marcin_events.52.t: "™™ßi"
+ marcin_events.53.t: "Ž2m|š"
+ marcin_events.54.t: "i—R—Óg™e"
+ marcin_events.55.t: "wmŸŸ"
+ marcin_events.1.a: "dUR‘ = §G=f§!"
+ marcin_events.1.b: "dUR‘ = §R&T§!"
+ marcin_events.1.a.2: "‰Q‡ = §G=f§!"
+ marcin_events.1.b.2: "‰Q‡ = §R&T§!"
+ marcin_events.1.a.4: "(gPg = §G=f§!"
+ marcin_events.1.b.4: "(gPg = §R&T§!"
+ marcin_events.1.a.5: "Õhˆi¹l = §G=f§!"
+ marcin_events.1.b.5: "Õhˆi¹l = §R&T§!"
+ marcin_events.1.a.6: "¸œ|œ = §G=f§!"
+ marcin_events.1.b.6: "¸œ|œ = §R&T§!"
+ marcin_events.1.a.7: "‰wBh = §G=f§!"
+ marcin_events.1.b.7: "‰wBh = §R&T§!"
+ marcin_events.1.a.8: "Ï…¢u±‚ = §G=f§!"
+ marcin_events.1.b.8: "Ï…¢u±‚ = §R&T§!"
+ marcin_events.1.a.9: "Izs| = §G=f§!"
+ marcin_events.1.b.9: "Izs| = §R&T§!"
+ marcin_events.1.a.10: "&žGr = §G=f§!"
+ marcin_events.1.b.10: "&žGr = §R&T§!"
+ marcin_events.1.a.11: "gÆYR‘ = §G=f§!"
+ marcin_events.1.b.11: "gÆYR‘ = §R&T§!"
+ marcin_events.1.a.12: "lš9S = §G=f§!"
+ marcin_events.1.b.12: "lš9S = §R&T§!"
+ marcin_events.1.a.13: "Dj„i¹l = §G=f§!"
+ marcin_events.1.b.13: "Dj„i¹l = §R&T§!"
+ marcin_events.1.a.14: "%tÀs = §G=f§!"
+ marcin_events.1.b.14: "%tÀs = §R&T§!"
+ marcin_events.1.a.15: "‰sów = §G=f§!"
+ marcin_events.1.b.15: "‰sów = §R&T§!"
+ marcin_events.1.a.16: "'Ytów = §G=f§!"
+ marcin_events.1.b.16: "'Ytów = §R&T§!"
+ marcin_events.1.a.17: "Å” = §G=f§!"
+ marcin_events.1.b.17: "Å” = §R&T§!"
+ marcin_events.1.a.18: "N™™ = §G=f§!"
+ marcin_events.1.b.18: "N™™ = §R&T§!"
+ marcin_events.1.a.19: "4lö” = §G=f§!"
+ marcin_events.1.b.19: "4lö” = §R&T§!"
+ marcin_events.1.a.20: "†š|š = §G=f§!"
+ marcin_events.1.b.20: "†š|š = §R&T§!"
+ marcin_events.1.a.21: "kpoƒ = §G=f§!"
+ marcin_events.1.b.21: "kpoƒ = §R&T§!"
+ marcin_events.1.a.22: "'YaŒ = §G=f§!"
+ marcin_events.1.b.22: "'YaŒ = §R&T§!"
+ marcin_events.1.a.23: "!• = §G=f§!"
+ marcin_events.1.b.23: "!• = §R&T§!"
+ marcin_events.1.a.24: "0i±g = §G=f§!"
+ marcin_events.1.b.24: "0i±g = §R&T§!"
+ marcin_events.1.a.25: "vYj‘ = §G=f§!"
+ marcin_events.1.b.25: "vYj‘ = §R&T§!"
+ marcin_events.1.a.26: "ÑgXj = §G=f§!"
+ marcin_events.1.b.26: "ÑgXj = §R&T§!"
+ marcin_events.1.a.27: "wmœœ = §G=f§!"
+ marcin_events.1.b.27: "wmœœ = §R&T§!"
+ marcin_events.1.a.28: "ïkPR = §G=f§!"
+ marcin_events.1.b.28: "ïkPR = §R&T§!"
+ marcin_events.1.a.29: "R—Ü” = §G=f§!"
+ marcin_events.1.b.29: "R—Ü” = §R&T§!"
+ marcin_events.1.a.30: "‰ss| = §G=f§!"
+ marcin_events.1.b.30: "‰ss| = §R&T§!"
+ marcin_events.1.a.31: "Ísàs = §G=f§!"
+ marcin_events.1.b.31: "Ísàs = §R&T§!"
+ marcin_events.1.a.33: "ö” = §G=f§!"
+ marcin_events.1.b.33: "ö” = §R&T§!"
+ marcin_events.1.a.34: "VßW¨Rir = §G=f§!"
+ marcin_events.1.b.34: "VßW¨Rir = §R&T§!"
+ marcin_events.1.a.35: "™™Iƒ = §G=f§!"
+ marcin_events.1.b.35: "™™Iƒ = §R&T§!"
+ marcin_events.1.a.38: "ÑžŽj = §G=f§!"
+ marcin_events.1.b.38: "ÑžŽj = §R&T§!"
+ marcin_events.1.a.39: "&q¹l = §G=f§!"
+ marcin_events.1.b.39: "&q¹l = §R&T§!"
+ marcin_events.1.a.40: "kxúx = §G=f§!"
+ marcin_events.1.b.40: "kxúx = §R&T§!"
+ marcin_events.1.a.43: "«gÖ|Fm = §G=f§!"
+ marcin_events.1.b.43: "«gÖ|Fm = §R&T§!"
+ marcin_events.1.a.44: "lšÃ”¯… = §G=f§!"
+ marcin_events.1.b.44: "lšÃ”¯… = §R&T§!"
+ marcin_events.1.a.46: "•= §G=f§!"
+ marcin_events.1.b.46: "•= §R&T§!"
+ marcin_events.1.a.49: "Ç‘ÿwú^Qr = §G=f§!"
+ marcin_events.1.b.49: "Ç‘ÿwú^Qr = §R&T§!"
+ marcin_events.1.a.51: "‰¢uÿg = §G=f§!"
+ marcin_events.1.b.51: "‰¢uÿg = §R&T§!"
+ marcin_events.1.a.52: "™™ßi = §G=f§!"
+ marcin_events.1.b.52: "™™ßi = §R&T§!"
+ marcin_events.1.a.53: "Ž2m|š = §G=f§!"
+ marcin_events.1.b.53: "Ž2m|š = §R&T§!"
+ marcin_events.1.a.54: "i—R—Óg™e = §G=f§!"
+ marcin_events.1.b.54: "i—R—Óg™e = §R&T§!"
+ marcin_events.1.a.55: "wmŸŸ = §G=f§!"
+ marcin_events.1.b.55: "wmŸŸ = §R&T§!"
+ Black_marble: "Ñžr‚'Ytów"
+ potato_tooltip: "lšÃ”¯…8fÁTS(W'k2mibce0"
+ tomato_tooltip: "‰¢uÿg8fÁTS(W'k2mibce0"
+ yuuka_power: "×S‹^™™µc6R"
+ desc_yuuka_power: "êS‰‹^™™µc6RNwÙ›N±‚ISÿyY¿OýwÎN-N·ƒÖS0RôfY›RÏ‘ÿ"
+ flavor_tiu.1.t: "°e„vŽsT"
+ flavor_tiu.1.d: "ib.V0RYLuNb&^ÞVeg„vNÅNÅNêS	gTðXÊS’Qi–Ee‹N0SV‰^ó`aN„vOOlìNGN†NIƒ“ƒöeÿÖNìNëkNß‘u0WSvQ&^ÞV†N¶R04lœg«ˆÑS°s”^(uKNYOYN—V0R†N^SŽNêñTNýNåwT¦^ÿ(WÜƒ´w0u¹pÊSTÍyß˜ir-N0RYýýwÁ‰0RIƒ“ƒ„v«ŽqVÿyr+R=f–Y¾|ìNÑS°s«N×SNÅN=fTN4lœgwòTÿ‹Y‹YÁTSMb=fsQ.•ÿ"
+ flavor_tiu.1.a: "bìN—V‹Y‹Y)R(uÿ"
+ genso_berries.tt: "§RIƒ“ƒ§!S(W‰^ó`aNibceÿ"
+ STRAWBERRIES: "Iƒ“ƒÎ˜LˆŽN‰^ó`aN"
+ flavor_tiu.2.t: "ZSKN‹O'Ymy"
+ flavor_tiu.2.d: "ÈS0R†NÏkt^„vÙ*NöePÿºNºNåNZSKN^yKNTøv0N0kZwNHWÿTVT7h„vsO´w0u¹pÊSR‘4lnŽNvQô•0‹†6qÐgMO&&Ðg2NMOÑYZNO‰lxmŽNvQ-NÿFOvQÖNºNýONT«N×SNwÙŽ‹YöeIQÿ‰^ó`aNàVT›ÕlNb‰NwOØS—V‹kw‘ÿFOºNºN…QÃV†våwnm°sŽN‹O'YmyKNN„vo‚‹YÎ˜ŒŒ	gY„^%N^y1W0"
+ flavor_tiu.2.a: "òTÏuVËY	gºN»SSbdyYéO†N&&"
+ merry_gathering: "0kZwNHW"
+ desc_merry_gathering: "¡lŒýwùRjg·^FdKbÿ"
+ uniforms: "6Rg"
+ uniformsDESC: "ŠegŠY„vVßRuQ«ˆ8lEN'`„v8^Y›QÖSãNÿÙmNàVdküRô†NýV¶RùR6Rg„v—Bl0SV0W^N°s(WòTVËYuµN6RgåNán³—Bl0"
+ marble_sculpture: "'YtówÕ–QX"
+ marble_sculptureDESC: "'YtówÕ–QXsS(u'YtówR.	NôuËzSOþVbV„vz‚=g0Õ–QX=fgäSw„vz‚=gKNN0uó(WmtzØuIuKNMRÿéegºN‰|1SòTÏu(uów4YQX.†NTÍybV¶r0"
+ marcin_events.56.t: "6Rg"
+ marcin_events.57.t: "'YtówÕ–QX"
+ cigars: "ê–ƒ"
+ cigarsDESC: "ê–ƒ=f(uÏuÇwSFc RåT„vr^åqåNÊSÑSu‘ßpöS6Rb„vßpIƒ6RÁTÿ	gTÍyHSøRŒTbV¶r0"
+ chocolate: "çTKQ›R"
+ chocolateDESC: "çTKQ›R=fNÍy1uäpïSïSFŒŒTèxŽx„vïSïSFŒ6Rb„vß˜ÁTÿïSjOHN²mSO0úVSObÊ|¶rirUSìrß˜(uÿmNïSjOHNvQÖNß˜ÁT„vŒsTBR0"
+ silver_debuff: "ö”"
+ marcin_events.58.t: "ê–ƒ"
+ marcin_events.59.t: "çTKQ›R"
+ Debug_event.1.t: "9eØSTGE8fÁT"
+ Debug_event.2.t: "9eØSTGEjo(W8fÁT"
+ Debug_event.3.t: "9eØSŸSHr8fÁT"
+ Debug_event.1.d: ""
+ Debug_event.2.d: ""
+ Debug_event.3.d: ""
+ fur_clothing: "Ûk®vcˆir"
+ fur_clothingDESC: "Ûk®v8^«ˆ²‹HN=fgée(uŽNgÅˆŒT«ŽSOÅˆp™„vPg™eKNN01uŽNvQÝO–f'`ŒTw(u'`ÿÛk®v(WNLuT0Wg)nŒTbgÒR·Q„vlP-NýïSåNzNw0"
+ jade_sculptures: "‰sÕ–QX"
+ jade_sculpturesDESC: "‰sÕ–QXsS(u‰sR.	NôuËzSOþVbV„vz‚=g0Õ–QX=fgäSw„vz‚=gKNN0uó(WmtzÁXIuKNMRÿéegºN‰|1SòTÏuSów4YQX.bTÍybV¶r0ÎN±öeVËYÿÙ›NºNåT6RÁTNekekÑSUS0R†NÊN)Y„vYBg7hŒŒ0"
+ millet: "Íž‰|"
+ milletDESC: "Íž‰|=fNÍyÍy‰|Y7hÿ‹|žRƒS„v7Œirÿ(WNLuT0Wý«ˆ^ÛlÍyiÿb(ujOr™™eb(ujOºN‰|ß˜ir08^«ˆðyHNÍž‰|„virÍy^SŽNWzÑyÿFON›NÍž‰|mN^SŽNvQÖNTÍyR‰|²0"
+ exotic_fur: "VßWÛk®v"
+ exotic_furDESC: "ée(W11NªuÿÛk®v1SbHN†N0ÌRŒT>yO0WMO„vaŒVÿwNÅNÅN=fúQŽNÝO–f—‰0'k2m‡v²RbXTÏu8^zNwÛk®v'Ycˆ0Ûk®v—e÷rŒTÛk®vp™ÁT0"
+ marcin_events.60.t: "‰sÕ–QX"
+ marcin_events.61.t: "Íž‰|"
+ marcin_events.62.t: "VßWÛk®v"
+ marcin_events.1.a.61: "Íž‰| = §G=f§!"
+ marcin_events.1.b.61: "Íž‰| = §R&T§!"
+ marcin_events.1.a.62: "VßWÛk®v = §G=f§!"
+ marcin_events.1.b.62: "VßWÛk®v = §R&T§!"
+ String_Instruments: "&VPNhV"
+ String_InstrumentsDESC: "&VPNhV=f‰¹eäSxQó—PN„vèRPNhVÿSÐc4t0-NÐc4t0'YÐc4tŒTNOó—Ðc4t	ÿÊSvQÖN¸‹YåN=c¨R„v&VHNðXn„vPNhV„vðy0"
+ marcin_events.63.t: "&VPNhV"
+ string_GOODS_Marcin_Beer: "§GdUR‘§!"
+ string_GOODS_Marcin_Beer_NO: "§RdUR‘§!"
+ string_GOODS_Marcin_Apiculture: "§G‰Q‡§!"
+ string_GOODS_Marcin_Apiculture_NO: "§R‰Q‡§!"
+ string_GOODS_Marcin_Lumber: "§G(gPg§!"
+ string_GOODS_Marcin_Lumber_NO: "§R(gPg§!"
+ string_GOODS_Marcin_Palm_oil: "§GÕhˆi¹l§!"
+ string_GOODS_Marcin_Palm_oil_NO: "§RÕhˆi¹l§!"
+ string_GOODS_Marcin_Whaling: "§G¸œ|œ§!"
+ string_GOODS_Marcin_Whaling_NO: "§R¸œ|œ§!"
+ string_GOODS_Marcin_Cinnamon: "§G‰wBh§!"
+ string_GOODS_Marcin_Cinnamon_NO: "§R‰wBh§!"
+ string_GOODS_Marcin_Saffron: "§GÏ…¢u±‚§!"
+ string_GOODS_Marcin_Saffron_NO: "§RÏ…¢u±‚§!"
+ string_GOODS_Marcin_Rice: "§G'Ys|§!"
+ string_GOODS_Marcin_Rice_NO: "§R'Ys|§!"
+ string_GOODS_Marcin_Opium: "§G&žGr§!"
+ string_GOODS_Marcin_Opium_NO: "§R&žGr§!"
+ string_GOODS_Marcin_Rum: "§GgÆYR‘§!"
+ string_GOODS_Marcin_Rum_NO: "§RgÆYR‘§!"
+ string_GOODS_Marcin_Horses: "§Glš9S§!"
+ string_GOODS_Marcin_Horses_NO: "§Rlš9S§!"
+ string_GOODS_Marcin_Olive_oil: "§GDj„i¹l§!"
+ string_GOODS_Marcin_Olive_oil_NO: "§RDj„i¹l§!"
+ string_GOODS_Marcin_Amber: "§G%tÀs§!"
+ string_GOODS_Marcin_Amber_NO: "§R%tÀs§!"
+ string_GOODS_Marcin_Jade: "§G‰sów§!"
+ string_GOODS_Marcin_Jade_NO: "§R‰sów§!"
+ string_GOODS_Marcin_Marble: "§G'Ytów§!"
+ string_GOODS_Marcin_Marble_NO: "§R'Ytów§!"
+ string_GOODS_Marcin_Lead: "§GÅ”§!"
+ string_GOODS_Marcin_Lead_NO: "§RÅ”§!"
+ string_GOODS_Marcin_Cloves: "§GN™™§!"
+ string_GOODS_Marcin_Cloves_NO: "§RN™™§!"
+ string_GOODS_Marcin_Mercury: "§G4lö”§!"
+ string_GOODS_Marcin_Mercury_NO: "§R4lö”§!"
+ string_GOODS_Marcin_Camel: "§G†š|š§!"
+ string_GOODS_Marcin_Camel_NO: "§R†š|š§!"
+ string_GOODS_Marcin_Gunpowder: "§Gkpoƒ§!"
+ string_GOODS_Marcin_Gunpowder_NO: "§Rkpoƒ§!"
+ string_GOODS_Marcin_Elephants: "§G'YaŒ§!"
+ string_GOODS_Marcin_Elephants_NO: "§R'YaŒ§!"
+ string_GOODS_Marcin_Tin: "§G!•§!"
+ string_GOODS_Marcin_Tin_NO: "§R!•§!"
+ string_GOODS_Marcin_Dates: "§G0i±g§!"
+ string_GOODS_Marcin_Dates_NO: "§R0i±g§!"
+ string_GOODS_Marcin_Cheese: "§GvYj‘§!"
+ string_GOODS_Marcin_Cheese_NO: "§RvYj‘§!"
+ string_GOODS_Marcin_Citrus: "§GÑgXj§!"
+ string_GOODS_Marcin_Citrus_NO: "§RÑgXj§!"
+ string_GOODS_Marcin_Seafood: "§Gwmœœ§!"
+ string_GOODS_Marcin_Seafood_NO: "§Rwmœœ§!"
+ string_GOODS_Marcin_Carpet: "§G0Wïk§!"
+ string_GOODS_Marcin_Carpet_NO: "§R0Wïk§!"
+ string_GOODS_Marcin_Nutmeg: "§GFŒI…§!"
+ string_GOODS_Marcin_Nutmeg_NO: "§RFŒI…§!"
+ string_GOODS_Marcin_Maize: "§G‰ss|§!"
+ string_GOODS_Marcin_Maize_NO: "§R‰ss|§!"
+ string_GOODS_Marcin_Pearls: "§GÍsàs§!"
+ string_GOODS_Marcin_Pearls_NO: "§RÍsàs§!"
+ string_GOODS_Marcin_Metalworking: "§GÑ‘^S RåT§!"
+ string_GOODS_Marcin_Metalworking_NO: "§RÑ‘^S RåT§!"
+ string_GOODS_Marcin_Silver: "§Gö”§!"
+ string_GOODS_Marcin_Silver_NO: "§Rö”§!"
+ string_GOODS_Marcin_Exotic_animals: "§GVßW¨Rir§!"
+ string_GOODS_Marcin_Exotic_animals_NO: "§RVßW¨Rir§!"
+ string_GOODS_Marcin_Vanilla: "§G™™Iƒ§!"
+ string_GOODS_Marcin_Vanilla_NO: "§R™™Iƒ§!"
+ string_GOODS_Marcin_Munitions: "§G›Q—ÁT§!"
+ string_GOODS_Marcin_Munitions_NO: "§R›Q—ÁT§!"
+ string_GOODS_Marcin_Woodworking: "§G(gåTN§!"
+ string_GOODS_Marcin_Woodworking_NO: "§R(gåTN§!"
+ string_GOODS_Marcin_Ebony: "§GÑžŽj§!"
+ string_GOODS_Marcin_Ebony_NO: "§RÑžŽj§!"
+ string_GOODS_Marcin_Tar: "§G&q¹l§!"
+ string_GOODS_Marcin_Tar_NO: "§R&q¹l§!"
+ string_GOODS_Marcin_Sulfur: "§Gkxúx§!"
+ string_GOODS_Marcin_Sulfur_NO: "§Rkxúx§!"
+ string_GOODS_Marcin_Leather: "§G®vi—§!"
+ string_GOODS_Marcin_Leather_NO: "§R®vi—§!"
+ string_GOODS_Marcin_Jewellery: "§G–™p™§!"
+ string_GOODS_Marcin_Jewellery_NO: "§R–™p™§!"
+ string_GOODS_Marcin_Maple_syrup: "§G«gÖ|Fm§!"
+ string_GOODS_Marcin_Maple_syrup_NO: "§R«gÖ|Fm§!"
+ string_GOODS_Marcin_Potato: "§GlšÃ”¯…§!"
+ string_GOODS_Marcin_Potato_NO: "§RlšÃ”¯…§!"
+ string_GOODS_Marcin_Steam_engine: "§G¸„‹lHg§!"
+ string_GOODS_Marcin_Steam_engine_NO: "§R¸„‹lHg§!"
+ string_GOODS_Marcin_Zinc: "§G•§!"
+ string_GOODS_Marcin_Zinc_NO: "§R•§!"
+ string_GOODS_Marcin_Optics: "§GIQfRêNhV§!"
+ string_GOODS_Marcin_Optics_NO: "§RIQfRêNhV§!"
+ string_GOODS_Marcin_Fur_clothing: "§GÛk®vcˆir§!"
+ string_GOODS_Marcin_Fur_clothing_NO: "§RÛk®vcˆir§!"
+ string_GOODS_Marcin_Cannon: "§G RœQ®p§!"
+ string_GOODS_Marcin_Cannon_NO: "§R RœQ®p§!"
+ string_GOODS_Marcin_Tomato: "§G‰¢uÿg§!"
+ string_GOODS_Marcin_Tomato_NO: "§R‰¢uÿg§!"
+ string_GOODS_Marcin_Champagne: "§G™™ßi§!"
+ string_GOODS_Marcin_Champagne_NO: "§R™™ßi§!"
+ string_GOODS_Marcin_Llama: "§GŽ2m|š§!"
+ string_GOODS_Marcin_Llama_NO: "§RŽ2m|š§!"
+ string_GOODS_Marcin_Indigo: "§Gi—R—Óg™e§!"
+ string_GOODS_Marcin_Indigo_NO: "§Ri—R—Óg™e§!"
+ string_GOODS_Marcin_Sea_turtle: "§GwmŸŸ§!"
+ string_GOODS_Marcin_Sea_turtle_NO: "§RwmŸŸ§!"
+ string_GOODS_Marcin_Uniforms: "§G6Rg§!"
+ string_GOODS_Marcin_Uniforms_NO: "§R6Rg§!"
+ string_GOODS_Marcin_Marble_sculpture: "§G'YtówÕ–QX§!"
+ string_GOODS_Marcin_Marble_sculpture_NO: "§R'YtówÕ–QX§!"
+ string_GOODS_Marcin_Cigars: "§Gê–ƒ§!"
+ string_GOODS_Marcin_Cigars_NO: "§Rê–ƒ§!"
+ string_GOODS_Marcin_Chocolate: "§GçTKQ›R§!"
+ string_GOODS_Marcin_Chocolate_NO: "§RçTKQ›R§!"
+ string_GOODS_Marcin_Jade_sculptures: "§G‰sÕ–QX§!"
+ string_GOODS_Marcin_Jade_sculptures_NO: "§R‰sÕ–QX§!"
+ string_GOODS_Marcin_Millet: "§GÍž‰|§!"
+ string_GOODS_Marcin_Millet_NO: "§RÍž‰|§!"
+ string_GOODS_Marcin_Exotic_fur: "§GVßWÛk®v§!"
+ string_GOODS_Marcin_Exotic_fur_NO: "§RVßWÛk®v§!"
+ string_GOODS_Marcin_String_instruments: "§G&VPNhV§!"
+ string_GOODS_Marcin_String_instruments_NO: "§R&VPNhV§!"
+ marcin_events.101.t: "8fÁTÓbUS¾‹n"
+ marcin_events.101.d: ",gMODVeQ†NwmÏ‘°e8fÁTÿSìb	gyršR‰|‹W„vÿwir0œQµNÁTNbYˆOÁTIr0\n\n,gMOD„vzúQ¹pKNN¿O(WŽN©s¶RïS9hncêñTœU‹YÀoIm8fÁTTŒQ0dk¾‹nû|ßuAQ¸‹©s¶Rc	ó`‰ ReQb»S‰cÀoImó8nbSV-N„vyršR8fÁTÿÐc›O†NØš¦^„všR6RSÊS®VŒ'`0"
+ GOODS_Marcin_YES: "§G=f§!|§R&T§!\n[Root.GetBeerTGE] [Root.GetApicultureTGE] [Root.GetWhalingTGE] [Root.GetLumberTGE] [Root.GetPalm_oilTGE] [Root.GetSaffronTGE] [Root.GetRiceTGE] [Root.GetOpiumTGE] [Root.GetRumTGE] [Root.GetHorsesTGE] [Root.GetOlive_oilTGE] [Root.GetAmberTGE] [Root.GetMarbleTGE] [Root.GetLeadTGE] [Root.GetClovesTGE] [Root.GetMercuryTGE] [Root.GetCamelTGE] [Root.GetGunpowderTGE] [Root.GetElephantsTGE] [Root.GetTinTGE] [Root.GetDatesTGE] [Root.GetCheeseTGE] [Root.GetCitrusTGE] [Root.GetSeafoodTGE] [Root.GetCarpetTGE] [Root.GetNutmegTGE] [Root.GetMaizeTGE] [Root.GetPearlsTGE] [Root.GetMetalworkingTGE] [Root.GetExotic_animalsTGE] [Root.GetVanillaTGE] [Root.GetMunitionsTGE] [Root.GetWoodworkingTGE] [Root.GetEbonyTGE] [Root.GetTarTGE] [Root.GetSulfurTGE] [Root.GetLeatherTGE] [Root.GetJewelleryTGE] [Root.GetMaple_syrupTGE] [Root.GetPotatoTGE] [Root.GetSteam_engineTGE] [Root.GetZincTGE] [Root.GetOpticsTGE] [Root.GetCannonTGE] [Root.GetTomatoTGE] [Root.GetChampagneTGE] [Root.GetLlamaTGE] [Root.GetIndigoTGE] [Root.GetSea_turtleTGE] [Root.GetUniformsTGE] [Root.GetMarble_sculptureTGE] [Root.GetCigarsTGE] [Root.GetChocolateTGE] [Root.GetCinnamonTGE] [Root.GetJadeTGE] [Root.GetMilletTGE] [Root.GetExotic_furTGE] [Root.GetString_instrumentsTGE]"
+ marcin_events.1.finish: "gÈu¾‹n"
+ marcin_events.back: "£event_button_color_red_back£"
+ marcin_events.1.basic: "£event_button_yellow_goods£"
+ marcin_events.1.latent: "£event_button_blue_latent£"
+ marcin_events.102.t: "8fÁTÓbUS¾‹n"
+ marcin_events.102.d: "§G=f§! = asTNw`OïSåNú^¾‹yršR„våTHWegHN`O„vwýNVeQjo(W8fÁT0\n§R&T§! = asTNw`ONïSåNú^¾‹yršR„våTHWegHN`O„vwýNVeQjo(W8fÁT0\n\n§R`O—‰TNÚn¨RMbýwågwvQÖN8fÁTNúQ/ÔÞV.•0§!"
+ marcin_events.yes: "§G=f§!"
+ marcin_events.no: "§R&T§!"
+ marcin_events.103.t: "8fÁTÓbUS¾‹n"
+ marcin_events.103.d: "§R÷‹èlaÿNæeŒRb¾‹nÿ`ONbÝOXR„vôf9eSàeÕlb`YóŸS¶r0§!\n\n§R`OnxšR‰çuíuTÿ§!"
+ marcin_events.102.a.32: "Ñ‘^S RåT = §G=f§!"
+ marcin_events.102.b.32: "Ñ‘^S RåT = §R&T§!"
+ marcin_events.102.a.36: "›Q—ÁT = §G=f§!"
+ marcin_events.102.b.36: "›Q—ÁT = §R&T§!"
+ marcin_events.102.a.37: "(gåTN = §G=f§!"
+ marcin_events.102.b.37: "(gåTN = §R&T§!"
+ marcin_events.102.a.41: "®vi— = §G=f§!"
+ marcin_events.102.b.41: "®vi— = §R&T§!"
+ marcin_events.102.a.42: "–™p™ = §G=f§!"
+ marcin_events.102.b.42: "–™p™ = §R&T§!"
+ marcin_events.102.a.45: "¸„‹lHg = §G=f§!"
+ marcin_events.102.b.45: "¸„‹lHg = §R&T§!"
+ marcin_events.102.a.47: "IQfRêNhV = §G=f§!"
+ marcin_events.102.b.47: "IQfRêNhV = §R&T§!"
+ marcin_events.102.a.48: "Ûk®vcˆir = §G=f§!"
+ marcin_events.102.b.48: "Ûk®vcˆir = §R&T§!"
+ marcin_events.102.a.50: " RœQ®p = §G=f§!"
+ marcin_events.102.b.50: " RœQ®p = §R&T§!"
+ marcin_events.102.a.56: "6Rg = §G=f§!"
+ marcin_events.102.b.56: "6Rg = §R&T§!"
+ marcin_events.102.a.57: "'YtówÕ–QX = §G=f§!"
+ marcin_events.102.b.57: "'YtówÕ–QX = §R&T§!"
+ marcin_events.102.a.58: "ê–ƒ = §G=f§!"
+ marcin_events.102.b.58: "ê–ƒ = §R&T§!"
+ marcin_events.102.a.59: "çTKQ›R = §G=f§!"
+ marcin_events.102.b.59: "çTKQ›R = §R&T§!"
+ marcin_events.102.a.60: "‰sÕ–QX = §G=f§!"
+ marcin_events.102.b.60: "‰sÕ–QX = §R&T§!"
+ marcin_events.102.a.63: "&VPNhV = §G=f§!"
+ marcin_events.102.b.63: "&VPNhV = §R&T§!"

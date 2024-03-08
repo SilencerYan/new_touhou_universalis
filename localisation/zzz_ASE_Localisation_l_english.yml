@@ -1,0 +1,581 @@
+﻿l_english:
+ ase_exploration_corp: "¢ci–uQâV"
+ ase_glorious_renaissance: "‰Lq„v‡ez‚YtQ"
+ ase_ruling_dynasty: "ßu»l¶RÏe"
+ ase_build_fleet: "Äuú^0‚–"
+ ase_build_fleet_desc: "óSåb	g6X‚Í‘‹W0‚9‚b20d‰‹W0‚9‚"
+ ase_piles_gold: "ÄžÑ‘bX"
+ ase_piles_gold_desc: "åb	góS3*NwýNuµNÄžÑ‘b‹vö”"
+ ase_dynamic_court: "Im›R«R÷^"
+ ase_dynamic_court_desc: "	gXw÷‹ÏkÍy‰|‹W„vŒ˜î•"
+ ase_delhi_hindustani_claims: "±RðypS¦^¯efW"
+ ase_ethiopia_prester_john: "myøS‹s¦uð"
+ ase_florence_renaissance: "Xb¯eaS³u‡ez‚YtQ"
+ ase_hungary_defense: "SYr)R2–¡R"
+ ase_malacca_spices: "lšmQ2u™™™e"
+ ase_ming_grand_imperial_projects: "^ýVGYÂ‰"
+ ase_qoyunlu_feuds: "Ñž‹vŠYÇN"
+ ase_songhai_timbuktu_university: "÷^ôTKQþV'YfR"
+ ase_vijayanagar_nayankara: "³uÅ–KQÉb"
+ tas_hakurei_retrench: "ZSKN¶R't)ªcËe"
+ tas_forester_thinktank: "T›sYzf“^"
+ tas_scarlet_levy: "¢uT›V6e"
+ tas_fairy_draft: "–Y¾|VìS"
+ ase_foster_piety: "ÃOÛT†Ú‹"
+ ase_foster_piety_desc: "óSåb	g10µ^úR™^b'YYeX"
+ ase_prepare_war: "Yb"
+ ase_prepare_war_desc: "òT ReQyó—>mTwßvb)YINYeTwßv"
+ ase_strength_unity: "âVÓu1S=f›RÏ‘"
+ ase_strength_unity_desc: "åb	g100%—RYeßuN"
+ ase_jerusalem_ambition: "6wï’d·QÄ–ÃV"
+ ase_muslim_jihad: "	TÈT·V"
+ ase_confessionalism: "²‹áOININ"
+ ase_dharmic_syncretism: "¾id—RYe‡T"
+ tas_gensokyan_supremacy: "‰^ó`aNÀoÅ`"
+ ase_bavaria_centralisation: "ôTO)RšNÆ–Cg"
+ ase_brandenburg_war_commissariat: "ÃRpQ‰v!Xb‰NI`r"
+ ase_palatinate_court: "nfÕlS(ƒ«R÷^"
+ ase_papal_warrior: "Ye÷^kSëX"
+ ase_saxony_piety: "(„KQîhT†Ú‹"
+ ase_switzerland_neutrality: "^tëX-NËz"
+ ase_taungu_military_reforms: "NT›Q‹N‡eS"
+ tas_moriya_volunteer: "ˆRâwINÇR"
+ tas_makai_missionary: "T›Lu.OYeëX"
+ tas_netherworld_phantom: "¥QLu­‹Ãu"
+ tas_flandre_glory: "™‚pQ·V¯ecƒw"
+ tas_full_any_religious_tooltip: "§Y[Root.GetName]§!òTŒRbûNa§Yìryr—RYetõV§!"
+ ase_economic_theory: "ÏuNmtº‹"
+ ase_economic_theory_desc: "òTŒRb8ftõVÄubÏuNmtõVÄu"
+ ase_innovative_culture: "R°e‡eS"
+ ase_innovative_culture_desc: "åb	góS30R°e¦^"
+ ase_stable_society: "3zšR>yO"
+ ase_stable_society_desc: "åb	gNOŽN-7„vhQýVÛSqN¦^"
+ ase_strategic_warfare: "beuùR—b"
+ ase_cultural_relativism: "‡eSøvùRININ"
+ ase_imperial_control: "^ýVÍdµc"
+ ase_japan_prosperity: "åe,gAucƒ"
+ ase_morocco_expedition: "idmåTy0W"
+ ase_maghrebi_piracy: "ôTôTÌ‘wm×v"
+ tas_princess_authority: "lQINCgZ"
+ tas_chireiden_fuel: "0Wup¿kÃq™e"
+ tas_sunflower_march: "*Y3–±‚0uÛ›Q"
+ ase_industrial_nation: "åTNýV¶R"
+ ase_industrial_nation_desc: "åb	g5µ^”q‰p"
+ ase_powerful_diplomacy: "HVCgY²N"
+ ase_powerful_diplomacy_desc: "åb	g7*NY²NsQû|hMO"
+ ase_join_revolution: "ÂSNi—‹T"
+ ase_join_revolution_desc: "=fi—‹TýV¶R"
+ ase_enlightened_governance: "Vf»lýV"
+ ase_nationalistic_fervor: "lÏeININípÅ`"
+ ase_uniform_education: "6R¦^SYe²w"
+ ase_universal_literacy: "Æ‹WRnfÊS"
+ ase_germany_industrialisation: "·Va×VåTNS"
+ ase_hanover_marriages: "Ilú‹ZTwûY"
+ ase_italian_hegemony: "a'Y)R8—Cg"
+ ase_marathas_horsemen: "lšÉbTX‘šKb"
+ ase_united_states: "Ž)RZWluQ"
+ tas_mayohiga_vassal: "÷KN¶RD–¸^"
+ tas_lunarian_conquest: "gKNlVg"
+ tas_united_gensokyo: "‰^ó`aNTwßv"
+ ase_justified_wars: "ckSVSb‰N"
+ ase_improved_wartaxes: "9eo‚b‰Nz"
+ ase_cavalry_armies: "‘šuQè–"
+ ase_glorious_renaissance_modifier: "‰Lq„v‡ez‚YtQ"
+ ase_ruling_dynasty_modifier: "ßu»l¶RÏe"
+ ase_floating_batteries: "nm¨R®pðS"
+ ase_religious_wars: "—RYeb‰N"
+ ase_mercenary_discipline: "Ç–cOuQ­‹Ãu"
+ ase_powerful_tradeships: "HV›R„vFU9‚"
+ ase_institutional_spread: "`no.O­d"
+ ase_prestigious_conversion: ".OYeZg"
+ ase_confessionalism_modifier: "²‹áOININ"
+ ase_dharmic_syncretism_modifier: "¾id—RYe‡T"
+ tas_gensokyan_supremacy_modifier: "‰^ó`aNÀoÅ`"
+ ase_flexible_rivalries: "upIm¿RLe"
+ ase_protecting_forts: "2–²b‰^X"
+ ase_efficient_autonomy: "ØšHeê»l"
+ ase_harsher_treatment: " RP%Nw‘G•‹S"
+ ase_administrative_efficiency: "ØšHeLˆ?e"
+ ase_absolute_government: "N6R?eœ^"
+ ase_strategic_warfare_modifier: "beuùR—b"
+ ase_cultural_relativism_modifier: "‡eSøvùRININ"
+ ase_imperial_control_modifier: "^ýVÍdµc"
+ splendor_triggered_modifier_1: "«R÷^‰Lq"
+ splendor_triggered_modifier_2: "«R÷^‰Lq"
+ splendor_triggered_modifier_3: "Ákmp'`›RÏ‘"
+ ase_jihad_triggered_modifier: "1Wb"
+ age_splendor_expanded_events.1.T: "dkHN–Ï…‹NöN"
+ age_splendor_expanded_events.1.D: "vQ=UN„vîv„v=fHN†NJTåwvQÖN„vÓbUS¶RÏeMODdkMODckYŽNuHeSV-NÿFO`ON”^w0Rdk‹NöN0\n‚Yœg`Ow0R†Ndk‹NöNÿ±HN÷‹ŒTÓbUS¶RÏediscordÌ‘„vMelvasulô‹NðX0"
+ age_splendor_expanded_events.1.OPT1: "MelvasulÿÓbUS¶RÏeDiscord"
+ Ages_Splendor_Expanded_Events.1.T: "ÝOYuöeãNýw›R  äSxQöeãN"
+ Ages_Splendor_Expanded_Events.1.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.1.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.2.T: "ÝOYuöeãNýw›R  ZfgäSxQöeãN"
+ Ages_Splendor_Expanded_Events.2.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.2.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.2.OPT2: " RHVb¹e¾|ñ‚kS–"
+ Ages_Splendor_Expanded_Events.2.OPT3: "ú^Ëz8fÜV–"
+ Ages_Splendor_Expanded_Events.2.OPT4: "ib'YVuQƒôV"
+ Ages_Splendor_Expanded_Events.2.OPT5: "­‹ÃuäSxQöeãNS†˜"
+ Ages_Splendor_Expanded_Events.2.OPT6: "9eÛLˆ?e"
+ Ages_Splendor_Expanded_Events.2.OPT7: "ŒcäSxQöeãNY²N˜R"
+ Ages_Splendor_Expanded_Events.3.T: "ÝOYuöeãNýw›R  'YÁ™VöeãN"
+ Ages_Splendor_Expanded_Events.3.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.3.OPT2: "9e„UTäR"
+ Ages_Splendor_Expanded_Events.3.OPT3: "ú^ËzšRES¹p"
+ Ages_Splendor_Expanded_Events.3.OPT4: " RëVib.V"
+ Ages_Splendor_Expanded_Events.3.OPT5: "9eÛLˆ›Q"
+ Ages_Splendor_Expanded_Events.3.OPT6: "žX R›Qw™"
+ Ages_Splendor_Expanded_Events.3.OPT7: "éTúV¹†u"
+ Ages_Splendor_Expanded_Events.3.OPT8: "xvzIeÎWb=g"
+ Ages_Splendor_Expanded_Events.4.T: "ÝOYuöeãNýw›R  Ñž—föeãN"
+ Ages_Splendor_Expanded_Events.4.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.4.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.4.OPT2: "9eÛz­ˆb=g"
+ Ages_Splendor_Expanded_Events.4.OPT3: "ÃOÛ¹ƒXib.V"
+ Ages_Splendor_Expanded_Events.4.OPT4: "nYýV«R÷^"
+ Ages_Splendor_Expanded_Events.4.OPT5: "3zšRýV…Q"
+ Ages_Splendor_Expanded_Events.4.OPT6: "VìS›Q–"
+ Ages_Splendor_Expanded_Events.4.OPT7: "4lÌ‘wkp†Nÿ"
+ Ages_Splendor_Expanded_Events.4.OPT8: "¥c³u—RYeSpe>m"
+ RULER_STAT_15_TOOLTIP: "`O„v«R÷^‰LqØšŽN15"
+ muslim_jihad_tt: "=T(u	TÈT·VåN(WN§RVïz§!ÊS§RVYe’V§!VböeÙuˆN§YF–›QëXl§!§G+10%§!"
+ ase_jihad_triggered_modifier_TT: "åb	göeãNýw›Rÿ§Y1Wb§!"
+ ase_chosen_retain_age_ability: "§Rv^*g§!	ébÝOYuHQMRöeãN„v§YöeãNýw›R§!0"
+ ase_jihad_triggered_modifier_TT_infinite: "òT§MÝOYu§!öeãNýw›R§Y1Wb§!"
+ ase_aragon_consulate_sea: "wmmt‹NO"
+ ase_castile_inquisition: "aS¯e‚„)RšN—RYeÁˆ2R"
+ ase_cusco_inca_qhapaq_nan: "pS RïQ"
+ tas_mima_presence: "E›T›>f°s"
+ tas_higan_arbitrator: "PNíV„vÁˆ2R•"
+ tas_oni_warchief: "<›ÏebK‘"
+ ase_centralised_state: "Æ–CgSýV¶R"
+ ase_ayutthaya_venice_east: "N¹eZ<S¯e"
+ ase_centralised_state_modifier: "öeãNýw›Rÿ§YÆ–CgSýV¶R§!"
+ ase_classical_architecture: "äSxQú^Qr"
+ ase_classical_philosophy: "äSxQòTfR"
+ ase_classical_additional_generals: "˜Y„vS†˜"
+ ase_classical_ambush_tactics: "OûQb=g"
+ ase_classical_great_people: "O'YºNir"
+ ase_classical_defence: "cENµb—b"
+ ase_lateclassical_elite_guard: "¾|ñ‚kS–"
+ ase_lateclassical_expeditions: "8fÜV–"
+ ase_lateclassical_conscription: "VuQ"
+ ase_lateclassical_generals: "äSxQöeãNS†˜"
+ ase_lateclassical_administration: "ØšHeLˆ?e"
+ ase_lateclassical_diplomacy: "äSxQöeãNY²N˜R"
+ ase_migration_foraging: "TäR"
+ ase_migration_resettlement: "Í‘°e‰Rn"
+ ase_migration_expansion: "ëVib.V"
+ ase_migration_marching: "•Lˆ›Q"
+ ase_migration_looting: "«R c"
+ ase_migration_border_walls: "¹ƒXØš™X"
+ ase_migration_siege: "IeÎWb=g"
+ ase_darkage_raiding: "¿lwm«R c"
+ ase_darkage_border_disputes: "!jÊ|¹ƒX"
+ ase_darkage_spies: "ô•Œ"
+ ase_darkage_stable_empire: "3zšR^ýV"
+ ase_darkage_warlords: "›Q–"
+ ase_darkage_fire_galleys: "·Ukp9‚–"
+ ase_darkage_religious_acceptance: "—RYeËR¹R"
+ ase_feudal_glorious_battles: "cƒwKNb"
+ ase_feudal_tax: "Sú^z"
+ ase_feudal_loyalty: "Sú^HeàV"
+ ase_feudal_mercenaries: "cOuQ"
+ ase_feudal_levies: "Sú^VuQÕl"
+ ase_feudal_military_duty: "IN¡RuQ6R"
+ ase_feudal_law: "Sú^Õl"
+ ase_highmiddle_religious_studies: "—RYexvz"
+ ase_highmiddle_crusaders: "ASWR›QKN‹s"
+ ase_highmiddle_castles: "-NNªuÎW!X"
+ ase_highmiddle_lasting_dynasty: "ENÜ‹sg"
+ ase_highmiddle_shock_tactics: "²QûQb=g"
+ ase_highmiddle_knights: "-NNªu‘šëX"
+ ase_highmiddle_fertile_farmlands: "¥wƒlw0W"
+ ase_latemiddle_legitimacy: "ckßu‹sg"
+ ase_latemiddle_trade: "-NNªu8f"
+ ase_latemiddle_missionary: "˜Y„v.OYeëX"
+ ase_latemiddle_proselytism: "Rñ‹9e—R"
+ ase_latemiddle_cheaper_mercenaries: "É^÷NcOuQ"
+ ase_latemiddle_state_administration: "ýV¶RLˆ?e"
+ ase_latemiddle_careful_diplomacy: "(ŒNaY²N"
+ ase_allow_anti_revolutionary_zeal: "ÍSi—‹TípÅ`"
+ ase_napoleonic_warfare: "ÿb4xÑNb=g"
+ ase_more_ships_can_fire: "wm›Q¥cb"
+ ase_backrow_artillery: "9eo‚®puQSz"
+ ase_same_contine_lib_desire: "àVÚ‹„v^SýV"
+ ase_enlightened_governance_modifier: "Vf»lýV"
+ ase_uniform_education_modifier: "ßuNYe²w"
+ ase_universal_literacy_modifier: "hQlkbòv"
+ ase_industrial_construction: "åTNú^¾‹"
+ ase_industrial_development: "Þ˜ÑSUS"
+ ase_industrial_colonization: "ÜÝ–kl"
+ ase_industrial_skilled_workers: "ŸqÃuŽbåT"
+ ase_industrial_weapons_industry: "fkhVåTN"
+ ase_industrial_nationalist_zeal: "lÏeININÂríp"
+ ase_industrial_grand_artillery: "Æ–-N®puQ"
+ ase_greatwar_secret_police: "ØyÆRf‹ßR"
+ ase_greatwar_intelligence_network: "Å`¥bQÜu"
+ ase_greatwar_relations: "ýVE–sQû|"
+ ase_greatwar_war_industry: "b‰NµNN"
+ ase_greatwar_total_war: "hQb—b‰N"
+ ase_greatwar_military_expansion: "›Q‹Nib.V"
+ Ages_Splendor_Expanded_Events.1.OPT2: "YtQäSxQú^Qr"
+ Ages_Splendor_Expanded_Events.1.OPT3: "åb±bäSxQòTfR"
+ Ages_Splendor_Expanded_Events.1.OPT4: "b›Q„v°e†˜–ˆ"
+ Ages_Splendor_Expanded_Events.1.OPT5: "9eÛOûQb=g"
+ Ages_Splendor_Expanded_Events.1.OPT6: "D©ROºN"
+ Ages_Splendor_Expanded_Events.1.OPT7: "9eÛ2–¡Vÿ"
+ Ages_Splendor_Expanded_Events.3.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.5.T: "ÝOYuöeãNýw›R  Sú^öeãN"
+ Ages_Splendor_Expanded_Events.5.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.5.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.5.OPT2: "HNcƒwwb"
+ Ages_Splendor_Expanded_Events.5.OPT3: "žX6eãlz"
+ Ages_Splendor_Expanded_Events.5.OPT4: "éTúVSú^àVÚ‹"
+ Ages_Splendor_Expanded_Events.5.OPT5: "ÛbßRÉ^÷NcOuQ"
+ Ages_Splendor_Expanded_Events.5.OPT6: "žX RãlVìS"
+ Ages_Splendor_Expanded_Events.5.OPT7: "3uJT›Q‹NIN¡R"
+ Ages_Splendor_Expanded_Events.5.OPT8: "Ç‘(uSú^Õl"
+ Ages_Splendor_Expanded_Events.6.T: "ÝOYuöeãNýw›R  Ûvg-NNªuöeãN"
+ Ages_Splendor_Expanded_Events.6.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.6.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.6.OPT2: "9eÛ—RYexvz"
+ Ages_Splendor_Expanded_Events.6.OPT3: "^y1WSb‰N"
+ Ages_Splendor_Expanded_Events.6.OPT4: "åTzfRxvz"
+ Ages_Splendor_Expanded_Events.6.OPT5: "ENÜ‹sg"
+ Ages_Splendor_Expanded_Events.6.OPT6: "9eÛ²QûQb=g"
+ Ages_Splendor_Expanded_Events.6.OPT7: "ÄuÇu-NNªu‘šëX"
+ Ages_Splendor_Expanded_Events.6.OPT8: "9eÛLp‰n"
+ Ages_Splendor_Expanded_Events.10.T: "ÝOYuöeãNýw›R  Zfg-NNªuöeãN"
+ Ages_Splendor_Expanded_Events.10.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.10.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.10.OPT2: "bìNSckßuSbìN„v‹sg0"
+ Ages_Splendor_Expanded_Events.10.OPT3: "bìNS9eÛb¹e8f0"
+ Ages_Splendor_Expanded_Events.10.OPT4: "O	gôfYºNegcVbìN„v.OYe‹NN0"
+ Ages_Splendor_Expanded_Events.10.OPT5: "ºNºNýSeQYe0"
+ Ages_Splendor_Expanded_Events.10.OPT6: "bÇ–cO›QâVSO8lÜHe³R0"
+ Ages_Splendor_Expanded_Events.10.OPT7: "b¹eLˆ?eSO×SÊv0"
+ Ages_Splendor_Expanded_Events.10.OPT8: "bìNOÇ–(u(ŒNa„vY²N˜R0"
+ Ages_Splendor_Expanded_Events.11.T: "ÝOYuöeãNýw›R  0Wt'YÑS°söeãN"
+ Ages_Splendor_Expanded_Events.11.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.11.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.11.OPT2: "bìNSckSVSb¹eb‰N0"
+ Ages_Splendor_Expanded_Events.11.OPT3: "bìNSÐcGSb¹eb‰Nz6eÆ–0"
+ Ages_Splendor_Expanded_Events.11.OPT4: "bìNSibEQb¹e‘šuQè–0"
+ Ages_Splendor_Expanded_Events.11.OPT5: "–kl0WÑSUSS×SâdGSÿ"
+ Ages_Splendor_Expanded_Events.11.OPT6: "‡ez‚YtQ„vIQ‰8lXR0"
+ Ages_Splendor_Expanded_Events.11.OPT7: "bìN„v¶RÏeSNQ«ˆWØV0"
+ Ages_Splendor_Expanded_Events.12.T: "ÝOYuöeãNýw›R  —RYe9ei—öeãN"
+ Ages_Splendor_Expanded_Events.12.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.12.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.12.OPT2: "bìN„vwm›QSôfHN„Ub0"
+ Ages_Splendor_Expanded_Events.12.OPT3: "bìN=fNOjPbkHNb¹e—RYewb„v0"
+ Ages_Splendor_Expanded_Events.12.OPT4: "cOuQâVSO«ˆteT0"
+ Ages_Splendor_Expanded_Events.12.OPT5: "¡l	gŒýw!cNbìN„v‰‹W9‚êS0"
+ Ages_Splendor_Expanded_Events.12.OPT6: "`noTYŒm8lNjPGk0"
+ Ages_Splendor_Expanded_Events.12.OPT7: "bìNSçuíu.OYe0"
+ Ages_Splendor_Expanded_Events.12.OPT8: "O¯epQKNLeS‰bh0"
+ Ages_Splendor_Expanded_Events.12.OPT9: "bìNSÑSUSbìN„v²‹áOININ0"
+ Ages_Splendor_Expanded_Events.12.OPT10: "bìNSžR°s¾id—RYe‡T0"
+ Ages_Splendor_Expanded_Events.12.OPT11: "bìNÅV‰˜ÝOcùRbìN—RYe„vípñV0"
+ Ages_Splendor_Expanded_Events.13.T: "ÝOYuöeãNýw›R  N6RININöeãN"
+ Ages_Splendor_Expanded_Events.13.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.13.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.13.OPT2: "bìNS9ebcbìN„v¿RLe0"
+ Ages_Splendor_Expanded_Events.13.OPT3: "bìNSÝOkSb¹e‰^X0"
+ Ages_Splendor_Expanded_Events.13.OPT4: "bìNSOb¹eê»lôfwQHe‡s0"
+ Ages_Splendor_Expanded_Events.13.OPT5: "bìNS%Nw‘ùR…Vb¹eÛS›Q0"
+ Ages_Splendor_Expanded_Events.13.OPT6: "bìNSôfHNØšHe0WLˆ?e0"
+ Ages_Splendor_Expanded_Events.13.OPT7: "bìNSLˆN6Rßu»l0"
+ Ages_Splendor_Expanded_Events.13.OPT8: "bìNS(Wb‰N-NZP‹YbeuÄ‰R0"
+ Ages_Splendor_Expanded_Events.13.OPT9: "bìNOŸlwTÍy‡eS0"
+ Ages_Splendor_Expanded_Events.13.OPT10: "bìNOµc6R»lN„vÏkNèR0"
+ Ages_Splendor_Expanded_Events.13.OPT11: "bìNOObýVÆ–CgS0"
+ Ages_Splendor_Expanded_Events.20.T: "ÝOYuöeãNýw›R  'Yi—‹TöeãN"
+ Ages_Splendor_Expanded_Events.20.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.20.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.20.OPT2: "s^o`²OÅ`êu"
+ Ages_Splendor_Expanded_Events.20.OPT3: "fR`Nÿb4xÑNb=g"
+ Ages_Splendor_Expanded_Events.20.OPT4: "wSeQwmb"
+ Ages_Splendor_Expanded_Events.20.OPT5: "ö^•®pûQÝ»y"
+ Ages_Splendor_Expanded_Events.20.OPT6: "éTúV^SýVàVÚ‹"
+ Ages_Splendor_Expanded_Events.20.OPT7: "Vf»lýV"
+ Ages_Splendor_Expanded_Events.20.OPT8: "hQýV'`ib.VípÅ`"
+ Ages_Splendor_Expanded_Events.20.OPT9: "6R¦^SYe²w"
+ Ages_Splendor_Expanded_Events.20.OPT10: "±RJT^Ûlxvz"
+ Ages_Splendor_Expanded_Events.21.T: "ÝOYuöeãNýw›R  åTNöeãN"
+ Ages_Splendor_Expanded_Events.21.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.21.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.21.OPT2: "yrYåTNú^¾‹"
+ Ages_Splendor_Expanded_Events.21.OPT3: " RHVÑSUS›R¦^"
+ Ages_Splendor_Expanded_Events.21.OPT4: "FcbrÜ¹e–kl0W"
+ Ages_Splendor_Expanded_Events.21.OPT5: "Ç–(uŸqÃuŽbåT"
+ Ages_Splendor_Expanded_Events.21.OPT6: "	g^fkhVuµN"
+ Ages_Splendor_Expanded_Events.21.OPT7: "±R.OÂríp"
+ Ages_Splendor_Expanded_Events.21.OPT8: "®puQÐc("
+ Ages_Splendor_Expanded_Events.22.T: "ÝOYuöeãNýw›R  NLu'YböeãN"
+ Ages_Splendor_Expanded_Events.22.D: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0\ndk‹NöNSAQ¸‹`O	éb1y˜ÇŽV„vöeãNýw›Rv^SvQÝOYuHN8lENîOck0"
+ Ages_Splendor_Expanded_Events.22.OPT1: "	g†Nå‹	y˜`O¿OïSåNzTQjO	éb0"
+ Ages_Splendor_Expanded_Events.22.OPT2: "Ç–(uØyÆRf‹ßR"
+ Ages_Splendor_Expanded_Events.22.OPT3: "¾‹Ëzyr¡RHgsQ"
+ Ages_Splendor_Expanded_Events.22.OPT4: "9e„UáO"
+ Ages_Splendor_Expanded_Events.22.OPT5: "rešRb‰NµNN"
+ Ages_Splendor_Expanded_Events.22.OPT6: "s^aˆhQb—b‰N"
+ Ages_Splendor_Expanded_Events.22.OPT7: "Nèlib.V"
+ ASE_Splendor_Events.1.T: "O(u‰Lq¹ppe"
+ ASE_Splendor_Events.1.D: "bìN„v‰Lqßu»lNb&^eg„vAucƒòTÜ…ÇbìNùR‰Lq„v•beQ=f‚YdkKNYÿNbåNHNUONÓbUSNbìN„v‰LqbTÿ"
+ ASE_Splendor_Events.1.OPT1: "bìN9eåeQjO2R­e0"
+ ASE_Splendor_Events.1.OPT2: "b¹eßu»lSO×SÊv0"
+ ASE_Splendor_Events.1.OPT3: "bìNSZgSSW„0"
+ ASE_Splendor_Events.1.OPT4: "HN†N^y1W„váOðNÿ"
+ ASE_Splendor_Events.1.OPT5: "HN†N^y1W„váOðNÿïS	„v"
+ ASE_Splendor_Events.1.OPT6: "Lˆ?eŒ˜î•ÿ"
+ ASE_Splendor_Events.1.OPT7: "§M0Œ˜î•‰|‹WÓbUS0mod-N„vLˆ?eŒ˜î•§!"
+ ASE_Splendor_Events.1.OPT8: "Y²NŒ˜î•ÿ"
+ ASE_Splendor_Events.1.OPT9: "§M0Œ˜î•‰|‹WÓbUS0mod-N„vY²NŒ˜î•§!"
+ ASE_Splendor_Events.1.OPT10: "›Q‹NŒ˜î•"
+ ASE_Splendor_Events.2.T: "Lˆ?eŒ˜î•ÿ"
+ ASE_Splendor_Events.2.D: "Ù*N	y˜SAQ¸‹bìNÇ–(uNTLˆ?eŒ˜î•0"
+ ASE_Splendor_Events.2.OPT1: "bSébåeQjO³QšR0"
+ ASE_Splendor_Events.2.OPT2: "©‹bìNÇ–(uNMO£adm£z‚=g¶R0"
+ ASE_Splendor_Events.2.OPT3: "©‹bìNÇ–(uNMO£adm£¡R¯‹˜R0"
+ ASE_Splendor_Events.2.OPT4: "©‹bìNÇ–(uNMO£adm£ø”^N¶R0"
+ ASE_Splendor_Events.2.OPT5: "©‹bìNÇ–(uNMO£adm£ê6qÑyfR¶R0"
+ ASE_Splendor_Events.2.OPT6: "©‹bìNÇ–(uNMO£adm£òTfR¶R0"
+ ASE_Splendor_Events.2.OPT7: "©‹bìNÇ–(uNMO£adm£^yfR¶R0"
+ ASE_Splendor_Events.2.OPT8: "©‹bìNÇ–(uNMO£adm£0¡RI`¡r0"
+ ASE_Splendor_Events.3.T: "§M0Œ˜î•‰|‹WÓbUS0mod-N„vLˆ?eŒ˜î•§!"
+ ASE_Splendor_Events.3.D: "Ù*N	y˜SAQ¸‹bìNÎNgsOModder§MLimonen Zitrone§!6RjOúQeg„vÝuN‹YMod§YŒ˜î•‰|‹WÓbUS§!-NÇ–(uNTyrŠk„vLˆ?eŒ˜î•0"
+ ASE_Splendor_Events.3.OPT1: "bSébåeQjO³QšR0"
+ ASE_Splendor_Events.3.OPT2: "©‹bìNÇ–(uNMO£adm£àVžRO4O0"
+ ASE_Splendor_Events.3.OPT3: "©‹bìNÇ–(uNMO£adm£«R÷^IS^0"
+ ASE_Splendor_Events.3.OPT4: "©‹bìNÇ–(uNMO£adm£¢gHgINYe0"
+ ASE_Splendor_Events.3.OPT5: "©‹bìNÇ–(uNMO£adm£'YINYe0"
+ ASE_Splendor_Events.3.OPT6: "©‹bìNÇ–(uNMO£adm£'YINYe0"
+ ASE_Splendor_Events.3.OPT7: "©‹bìNÇ–(uNMO£adm£'YINYe0"
+ ASE_Splendor_Events.3.OPT8: "©‹bìNÇ–(uNMO£adm£Vz˜R0"
+ ASE_Splendor_Events.3.OPT9: "©‹bìNÇ–(uNMO£adm£ú^Qr^0"
+ ASE_Splendor_Events.3.OPT10: "©‹bìNÇ–(uNMO£adm£'YLˆ?e¶R0"
+ ASE_Splendor_Events.3.OPT11: "©‹bìNÇ–(uNMO£adm£I`¡r0"
+ ASE_Splendor_Events.3.OPT12: "©‹bìNÇ–(uNMO£adm£Lˆ?e)YMb0"
+ ASE_Splendor_Events.3.OPT13: "©‹bìNÇ–(uNMO£adm£ÍS*˜RXT0"
+ ASE_Splendor_Events.3.OPT14: "©‹bìNÇ–(uNMO£adm£–™øv0"
+ ASE_Splendor_Events.3.OPT15: "©‹bìNÇ–(uNMO£adm£–™-^è•0"
+ ASE_Splendor_Events.3.OPT16: "©‹bìNÇ–(uNMO£adm£I`t0"
+ ASE_Splendor_Events.3.OPT17: "©‹bìNÇ–(uNMO£adm£»lýVN¶R0"
+ ASE_Splendor_Events.3.OPT18: "©‹bìNÇ–(uNMO£adm£ØmÑ‘w0"
+ ASE_Splendor_Events.3.OPT19: "©‹bìNÇ–(uNMO£adm£ê1u`ó`¶R0"
+ ASE_Splendor_Events.3.OPT20: "©‹bìNÇ–(uNMO£adm£i—‹T¶R0"
+ ASE_Splendor_Events.3.OPT21: "©‹bìNÇ–(uNMO£adm£9ei—¶R0"
+ ASE_Splendor_Events.3.OPT22: "©‹bìNÇ–(uNMO£adm£ýV^0"
+ ASE_Splendor_Events.3.OPT23: "©‹bìNÇ–(uNMO£adm£HQÁ‰w0"
+ ASE_Splendor_Events.3.OPT24: "©‹bìNÇ–(uNMO£adm£'YòTfR¶R0"
+ ASE_Splendor_Events.3.OPT25: "©‹bìNÇ–(uNMO£adm£'YI`¡r0"
+ ASE_Splendor_Events.3.OPT26: "©‹bìNÇ–(uNMO£adm£îOëX0"
+ ASE_Splendor_Events.3.OPT27: "©‹bìNÇ–(uNMO£adm£FZWè•^Sw0"
+ ASE_Splendor_Events.3.OPT28: "©‹bìNÇ–(uNMO£adm£PŸs|fRw0"
+ ASE_Splendor_Events.3.OPT29: "©‹bìNÇ–(uNMO£adm£w±Ye˜RÚP0"
+ ASE_Splendor_Events.3.OPT30: "©‹bìNÇ–(uNMO£adm£.OYeëX0"
+ ASE_Splendor_Events.3.OPT31: "©‹bìNÇ–(uNMO£adm£ëX'Y+Y0"
+ ASE_Splendor_Events.4.T: "Y²NŒ˜î•ÿ"
+ ASE_Splendor_Events.4.D: "Ù*N	y˜SAQ¸‹bìNÇ–(uNTY²NŒ˜î•0"
+ ASE_Splendor_Events.4.OPT1: "bSébåeQjO³QšR0"
+ ASE_Splendor_Events.4.OPT2: "©‹bìNÇ–(uNMO£dip£–klI`cw0"
+ ASE_Splendor_Events.4.OPT3: "©‹bìNÇ–(uNMO£dip£Y²N˜R0"
+ ASE_Splendor_Events.4.OPT4: "©‹bìNÇ–(uNMO£dip£wm›Q9ei—¶R0"
+ ASE_Splendor_Events.4.OPT5: "©‹bìNÇ–(uNMO£dip£*‚wm¶R0"
+ ASE_Splendor_Events.4.OPT6: "©‹bìNÇ–(uNMO£dip£ô•Œ–™0"
+ ASE_Splendor_Events.4.OPT7: "©‹bìNÇ–(uNMO£dip£?e»l¶R0"
+ ASE_Splendor_Events.4.OPT8: "©‹bìNÇ–(uNMO£dip£FUºN0"
+ ASE_Splendor_Events.5.T: "§M0Œ˜î•‰|‹WÓbUS0mod-N„vY²NŒ˜î•§!"
+ ASE_Splendor_Events.5.D: "Ù*N	y˜SAQ¸‹bìNÎNgsOModder§MLimonen Zitrone§!6RjOúQeg„vÝuN‹YMod§YŒ˜î•‰|‹WÓbUS§!-NÇ–(uNTyrŠk„vY²NŒ˜î•0"
+ ASE_Splendor_Events.5.OPT1: "bSébåeQjO³QšR0"
+ ASE_Splendor_Events.5.OPT2: "©‹bìNÇ–(uNMO£dip£àVžRO4O0"
+ ASE_Splendor_Events.5.OPT3: "©‹bìNÇ–(uNMO£dip£¾YO0"
+ ASE_Splendor_Events.5.OPT4: "©‹bìNÇ–(uNMO£dip£¶^+Y0"
+ ASE_Splendor_Events.5.OPT5: "©‹bìNÇ–(uNMO£dip£4lKbVßR˜R0"
+ ASE_Splendor_Events.5.OPT6: "©‹bìNÇ–(uNMO£dip£S•N¶R0"
+ ASE_Splendor_Events.5.OPT7: "©‹bìNÇ–(uNMO£dip£wm×v9‚•0"
+ ASE_Splendor_Events.5.OPT8: "©‹bìNÇ–(uNMO£dip£'YŒ2R¶R0"
+ ASE_Splendor_Events.5.OPT9: "©‹bìNÇ–(uNMO£dip£oRKb0"
+ ASE_Splendor_Events.5.OPT10: "©‹bìNÇ–(uNMO£dip£ÅeLˆFU0"
+ ASE_Splendor_Events.5.OPT11: "©‹bìNÇ–(uNMO£dip£.Oßuwm›Qb=g¶R0"
+ ASE_Splendor_Events.5.OPT12: "©‹bìNÇ–(uNMO£dip£Y²N)YMb0"
+ ASE_Splendor_Events.5.OPT13: "©‹bìNÇ–(uNMO£dip£‡eSNXT0"
+ ASE_Splendor_Events.5.OPT14: "©‹bìNÇ–(uNMO£dip£äNO0"
+ ASE_Splendor_Events.5.OPT15: "©‹bìNÇ–(uNMO£dip£'YfN°‹˜R0"
+ ASE_Splendor_Events.5.OPT16: "©‹bìNÇ–(uNMO£dip£yrO0"
+ ASE_Splendor_Events.5.OPT17: "©‹bìNÇ–(uNMO£dip£.T‚wœQ0"
+ ASE_Splendor_Events.5.OPT18: "©‹bìNÇ–(uNMO£dip£LˆOFU0"
+ ASE_Splendor_Events.5.OPT19: "©‹bìNÇ–(uNMO£dip£†SòSfR¶R0"
+ ASE_Splendor_Events.5.OPT20: "©‹bìNÇ–(uNMO£dip£ÍyiíVIN0"
+ ASE_Splendor_Events.6.T: "›Q‹NŒ˜î•ÿ"
+ ASE_Splendor_Events.6.D: "Ù*N	y˜SAQ¸‹bìNÇ–(uNT›Q‹NŒ˜î•0"
+ ASE_Splendor_Events.6.OPT1: "bSébåeQjO³QšR0"
+ ASE_Splendor_Events.6.OPT2: "©‹bìNÇ–(uNMO£mil£F–›QÄuÇuw0"
+ ASE_Splendor_Events.6.OPT3: "©‹bìNÇ–(uNMO£mil£F–›Q9ei—¶R0"
+ ASE_Splendor_Events.6.OPT4: "©‹bìNÇ–(uNMO£mil£Ye˜R0"
+ ASE_Splendor_Events.6.OPT5: "©‹bìNÇ–(uNMO£mil£F–›Q–•0"
+ ASE_Splendor_Events.6.OPT6: "©‹bìNÇ–(uNMO£mil£VuQ˜R0"
+ ASE_Splendor_Events.6.OPT7: "©‹bìNÇ–(uNMO£mil£2–¡VN¶R0"
+ ASE_Splendor_Events.6.OPT8: "©‹bìNÇ–(uNMO£mil£›Q—˜R0"
+ ASE_Splendor_Events.7.T: "§M0Œ˜î•‰|‹WÓbUS0mod-N„v›Q‹NŒ˜î•§!"
+ ASE_Splendor_Events.7.D: "Ù*N	y˜SAQ¸‹bìNÎNgsOModder§MLimonen Zitrone§!6RjOúQeg„vÝuN‹YMod§YŒ˜î•‰|‹WÓbUS§!-NÇ–(uNTyrŠk„v›Q‹NŒ˜î•0"
+ ASE_Splendor_Events.7.OPT1: "bSébåeQjO³QšR0"
+ ASE_Splendor_Events.7.OPT2: "©‹bìNÇ–(uNMO£mil£àVžRO4O0"
+ ASE_Splendor_Events.7.OPT3: "©‹bìNÇ–(uNMO£mil£Sú^†˜IN0"
+ ASE_Splendor_Events.7.OPT4: "©‹bìNÇ–(uNMO£mil£‘šëX0"
+ ASE_Splendor_Events.7.OPT5: "©‹bìNÇ–(uNMO£mil£.Oßub=g¶R0"
+ ASE_Splendor_Events.7.OPT6: "©‹bìNÇ–(uNMO£mil£ýVWcOÆN0"
+ ASE_Splendor_Events.7.OPT7: "©‹bìNÇ–(uNMO£mil£cOuQ†˜–ˆ0"
+ ASE_Splendor_Events.7.OPT8: "©‹bìNÇ–(uNMO£mil£ÎW!X†˜IN0"
+ ASE_Splendor_Events.7.OPT9: "©‹bìNÇ–(uNMO£mil£5Ïe0"
+ ASE_Splendor_Events.7.OPT10: "©‹bìNÇ–(uNMO£mil£›Q‹N)YMb0"
+ ASE_Splendor_Events.7.OPT11: "©‹bìNÇ–(uNMO£mil£IeÎWN¶R0"
+ ASE_Splendor_Events.7.OPT12: "©‹bìNÇ–(uNMO£mil£®puQ'Y^0"
+ ASE_Splendor_Events.7.OPT13: "©‹bìNÇ–(uNMO£mil£«R cLˆ¶R0"
+ ASE_Splendor_Events.7.OPT14: "©‹bìNÇ–(uNMO£mil£F–›QCQ^0"
+ ASE_Splendor_Events.7.OPT15: "©‹bìNÇ–(uNMO£mil£'YøSlš0"
+ ASE_Splendor_Events.7.OPT16: "©‹bìNÇ–(uNMO£mil£TäRN¶R0"
+ ASE_Splendor_Events.7.OPT17: "©‹bìNÇ–(uNMO£mil£ëX˜R•0"
+ ASE_Splendor_Events.7.OPT18: "©‹bìNÇ–(uNMO£mil£lšÉbTXbëX0"
+ ASE_Splendor_Events.7.OPT19: "©‹bìNÇ–(uNMO£mil£ÅuëX0"
+ ASE_Splendor_Events.7.OPT20: "©‹bìNÇ–(uNMO£mil£åT(„KQ0"
+ ASE_Splendor_Events.7.OPT21: "©‹bìNÇ–(uNMO£mil£èK„K‘•0"
+ ASE_Splendor_Events.7.OPT22: "©‹bìNÇ–(uNMO£mil£ÉbpgnfyrbëX0"
+ ASE_Splendor_Events.7.OPT23: "©‹bìNÇ–(uNMO£mil£¹e×e‘šëX0"
+ ase_retain_decision_title: "§GÝOYuöeãNýw›R§!"
+ ase_retain_decision_desc: "ýV¶R„vtQpˆ‚YTÎ˜-N„vSÃWÿ¡l	gÀNHNýw<O)YN0W,‚8lR`0NÇbìNÍNïSåN8TÖSÇŽV„vYe­‹0"
+ ase_invest_splendor_decision_title: "§GO(uÇiR‰Lq¹ppe§!"
+ ase_invest_splendor_decision_desc: "	g¡l	gó`Ç‚YUOYt˜Y„v‰Lq¹ppeÿ±‚1SŒR‹N†Nÿ"
+ ase_retain_decision_tooltip: "	g†Nå‹³Q®‹`O¿Oýw	éb§G1§!y˜§YöeãNýw›R§!SvQÝOYuHN8lENîOckôvó8nbÓumg0"
+ ase_centralised_state_tt: "§MNb	gw§!b§MøvT§!‡eS„vNb	gwýN„v§Y,g0W»ltb,g§!§G-25%§!"
+ ase_centralised_state_retained_tt: "SÝOYuöeãNýw›R§YÆ–CgSýV¶R§!ÿÙuˆNåNNHeœgÿ"
+ ase_boost_colony: "ÃOÛ–kl0W"
+ ase_adaptative_combat_terrain: "”^bHW0WbV"
+ ase_exploration_corp_modifier: "¢ci–uQâV"
+ ase_improved_force_march: "9eo‚%`Lˆ›Q"
+ ase_unrestricted_conquest: "àeP–Vg"
+ Ages_Splendor_Expanded_Events.11.OPT8: "NhQ2–kSb¹e–™ýÿ"
+ Ages_Splendor_Expanded_Events.11.OPT9: "HNNb	g¢ci–¶RÐc›OMQ9ß˜irÿ"
+ Ages_Splendor_Expanded_Events.20.OPT11: " RëXuQLˆÛÿ"
+ Ages_Splendor_Expanded_Events.20.OPT12: "VghQNLuÿ"
+ ASE_Splendor_Events.1.OPT11: "§M0Œ˜î•‰|‹WÓbUS0mod-N„v›Q‹NŒ˜î•§!"
+ ASE_Splendor_Events.3.OPT32: "©‹bìNÇ–cONMO£adm£fRw0"
+ ASE_Splendor_Events.3.OPT33: "©‹bìNÇ–cONMO£adm£ÑSf¶R0"
+ ASE_Splendor_Events.5.OPT21: "©‹bìNÇ–cONMO£dip£–kl0W•˜R0"
+ ASE_Splendor_Events.5.OPT22: "©‹bìNÇ–cONMO£dip£ÍsR9‚–0‚•0"
+ tas_discover_america: "ÑS°sŽ2m"
+ tas_discover_america_desc: "O(uN*N–™ý(WšN2m0'k2m0^—2m0‰^ó`aNbgb—„výV¶RÿÑS°sŽÞT„vûNaN*NwýN0"
+ tas_discover_america_tooltip: "ÑS°sŽ2m"
+ tas_kappa_navigator: "³låz†˜*‚XT"
+ tas_tengu_stronghold: ")Y×r‰^X"
+ ASE_Splendor_Events.1.OPT12: "bìN—‰‰^ó`aNŒ˜î•¹Y¹Y„v.^©Rÿ"
+ TAS_Splendor_Events.1.T: "(WN¹eŒ˜î•«ŽNO(u‰Lq¹ppe"
+ TAS_Splendor_Events.1.D: "(W‰^ó`„výV¦^Ì‘ÿY	g›NýwåNêñT„výw›ROS©RbìNßu»l„vúQOÑYZ0êS‰bìNán³ÅV‰„vagöNÿ¿OýwO(u‰Lq¹ppeegXw÷‹yYìN0"
+ TAS_Splendor_Events.1.OPT1: "bN²‹HN°s(W=f‹YöeP0"
+ TAS_Splendor_Events.1.OPT2: "Lˆ?eŒ˜î•¹Y¹Yÿ"
+ TAS_Splendor_Events.1.OPT3: "Y²NŒ˜î•¹Y¹Yÿ"
+ TAS_Splendor_Events.1.OPT4: "›Q‹NŒ˜î•¹Y¹Yÿ"
+ TAS_Splendor_Events.1.OPT5: "bó`æ‹Æu,T,TùRÙ*N0agöN0„vô‹f0"
+ TAS_Splendor_Events.2.T: "Lˆ?eŒ˜î•¹Y¹Yÿ"
+ TAS_Splendor_Events.2.D: "Ù*N	y˜SAQ¸‹bìNÇ–(uNTLˆ?eŒ˜î•¹Y¹Y0 \n\nN¡‹yrŠkÅ`µQÿ÷‹úQ‰^ó`aNŒ˜î•¹Y¹Y—‰600¹p‰Lq¹ppew^—N,‚Œ˜î•„v÷N<h0"
+ TAS_Splendor_Events.2.OPT1: "bSébåeQjO³QšR0"
+ TAS_Splendor_Events.2.OPT2: "©‹bìNÇ–(u£adm£'Y–Y¾|0"
+ TAS_Splendor_Events.2.OPT3: "©‹bìNÇ–(u£adm£N¨R„v'YþVfN†™0"
+ TAS_Splendor_Events.2.OPT4: "©‹bìNÇ–(u£adm£Tß˜†SòS„vJS‹Q0"
+ TAS_Splendor_Events.2.OPT5: "£adm£w^ÿ÷‹.OˆcNb¨`„vzfga0"
+ TAS_Splendor_Events.2.OPT6: "©‹bìNÇ–(u£adm£gKN4Y0"
+ TAS_Splendor_Events.2.OPT7: "©‹bìNÇ–(u£adm£0Wñr„vsY^y0"
+ TAS_Splendor_Events.2.OPT8: "©‹bìNÇ–(u£adm£ÛbegãS‚KNxy„vsY^y0"
+ TAS_Splendor_Events.2.OPT9: "©‹bìNÇ–(u£adm£&ž)Y×r„v–™†˜0"
+ TAS_Splendor_Events.3.T: "Y²NŒ˜î•¹Y¹Yÿ"
+ TAS_Splendor_Events.3.D: "Ù*N	y˜SAQ¸‹bìNÇ–(uNTY²NŒ˜î•¹Y¹Y0 \n\nN¡‹yrŠkÅ`µQÿ÷‹úQ‰^ó`aNŒ˜î•¹Y¹Y—‰600¹p‰Lq¹ppew^—N,‚Œ˜î•„v÷N<h0"
+ TAS_Splendor_Events.3.OPT1: "bSébåeQjO³QšR0"
+ TAS_Splendor_Events.3.OPT2: "©‹bìNÇ–(u£dip£öQFQ„vÑž+s0"
+ TAS_Splendor_Events.3.OPT3: "£dip£YjµUÇeg0"
+ TAS_Splendor_Events.3.OPT4: "©‹bìNÇ–(u£dip£Nr‚„vºNvPO0"
+ TAS_Splendor_Events.3.OPT5: "©‹bìNÇ–(u£dip£8lÜ„vlQIN0"
+ TAS_Splendor_Events.3.OPT6: "©‹bìNÇ–(u£dip£.Oßu„v‰^ó`°‹w0"
+ TAS_Splendor_Events.3.OPT7: "©‹bìNÇ–(u£dip£	N³l„vV*‚ºN0"
+ TAS_Splendor_Events.3.OPT8: "©‹bìNÇ–(u£dip£WW„^y„vv˜¹p0"
+ TAS_Splendor_Events.3.OPT9: "©‹bìNÇ–(u£dip£SVãN„võV™Q°‹w0"
+ TAS_Splendor_Events.3.OPT10: "©‹bìNÇ–(u£dip£¦hKN=eM‘w0"
+ TAS_Splendor_Events.4.T: "›Q‹NŒ˜î•¹Y¹Yÿ"
+ TAS_Splendor_Events.4.D: "Ù*N	y˜SAQ¸‹bìNÇ–(uNT›Q‹NŒ˜î•¹Y¹Y0 \n\nN¡‹yrŠkÅ`µQÿ÷‹úQ‰^ó`aNŒ˜î•¹Y¹Y—‰600¹p‰Lq¹ppew^—N,‚Œ˜î•„v÷N<h0"
+ TAS_Splendor_Events.4.OPT1: "bSébåeQjO³QšR0"
+ TAS_Splendor_Events.4.OPT2: "©‹bìNÇ–(u£mil£v`up0"
+ TAS_Splendor_Events.4.OPT3: "©‹bìNÇ–(u£mil£¢uT›†™„vsYÆN0"
+ TAS_Splendor_Events.4.OPT4: "£mil£²TYÿb„v6ƒogzz†N0"
+ TAS_Splendor_Events.4.OPT5: "©‹bìNÇ–(u£mil£JSºNJSup„v­^^0"
+ TAS_Splendor_Events.4.OPT6: "©‹bìNÇ–(u£mil£Ârl„v–Y*`TQ0"
+ TAS_Splendor_Events.4.OPT7: "£mil£LN¬Qÿ»SÙubŠbö–ß˜ÿbÇeg0"
+ TAS_Splendor_Events.4.OPT8: "©‹bìNÇ–(u£mil£Øy^yAmÏ–0"
+ TAS_Splendor_Events.4.OPT9: "©‹bìNÇ–(u£mil£NïzèTb)Y×r0"
+ TAS_Splendor_Events.4.OPT10: "©‹bìNÇ–(u£mil£qSBWNVn4l„vS«Ž0"
+ TAS_Splendor_Events.5.T: "‰^ó`aNÌ‘„vŒ˜î•¹Y¹Y"
+ TAS_Splendor_Events.5.D: "ã‰Ê‘weg<ONNOˆVÃ¿wÿNbåNb1SHQËNÍuNN0‰=f`OVÇNS‰^ó`aNýV¶R„vchÿ±`ONšRåwS	gÐg›NÑYZ=fïSåN«ˆùR”^„výV¶RÇ–(u„vÿùR'Tÿdk‹NöN¿O=f(uegÇ–(uÙ›NÑYZ„vÿ1SÏP(u‰Lq¹ppeegÇ–(u+R„vûR8^Œ˜î•±7h0\n–™HQwwïS(uŒ˜î•„vTUSÿ`OÅV‰˜(W‰^ó`aN0gtb=f°sãNSgt„vÑyŽbÄu-Nÿbw–™ýMOŽN‰^ó`aN0ÙasTNw‰=fYLuýV¶Rán³agöNTwÿ±HNƒRmNýwÇ–(u0RÙ›NŒ˜î•0\nSV6qÿÙ›NŒ˜î•,geg1S=fÐg›NýV¶R„vN^SÿNbåNøv”^ýV¶RïSåNOHQ÷‹yYìNNûN0àVdk‰Ç,g¹eV÷‹‰^ó`aNŒ˜î•ìNNûNÿRÅVšR—‰ùR”^ýV¶RòTNXR(W0w±›NŸS,g1SïSåNÇ–(uyYìN„výV¶RNïSåN(u,g¹eVÇ–(u0óŽN1u±›NŒ˜î•êñTegÅbûNßu»lwbçubºN„výV¶RmNNïSåN(u,g¹eVÇ–(u0bÇ–bêñTNùR4YÿÙMbùR4YN=fHNÿ\ndkYHN†NÇ–(uÙ›NŒ˜î•¹Y¹Yÿ`OØ—Våb	gv^ßu»lyYìNNb(W„vwýNÿv^N¥c³uyYìN„v‡eS0\nØ	g&&N›N‹OYÅ`µQ0àVÐg›NEeÿ	g›NŒ˜î•8^tN=fÙ‰|ýV¶R-N„vNXTÿFOtSNýwjOHNå‹ýV„vìr	gŒ˜î•«ˆÇ–(u0R0+Rî•bHNUOO	gÙ7h„vîT+RÑSu0I`KNÿÙ‰|ýV¶RïSåNÇdk‹NöNegôf0Žr¿O00W÷‹Œ˜î•ìNúQûN0\n\n\nKS¡rã‰Ê‘—VˆV•ÿFOÏkMO„væ‹ÆuagöNýòTRR(W†NN¹e†NÿNbåN÷‹SÕ‹»S	cþV0t¥šŒb0R`O—‰„vŒ˜î•0\nbVÿz˜¿O›O`OÂSwÿÏkMO`OýwÇ–(u„vŒ˜î•N,‚gP–=f50t^ÿwïSåN0Žr¿O0Ç–(u0R„vŒ˜î•gP–=f30t^0"
+ TAS_Splendor_Events.5.OPT1: "±1Seg†Nã‰NLˆ?eŒ˜î•„vagöN0"
+ TAS_Splendor_Events.5.OPT2: "±1Seg†Nã‰NY²NŒ˜î•„vagöN0"
+ TAS_Splendor_Events.5.OPT3: "±1Seg†Nã‰N›Q‹NŒ˜î•„vagöN0"
+ TAS_Splendor_Events.5.OPT4: "°s(WbnZi†Nÿ©‹bcŒ˜î•Šb0"
+ TAS_Splendor_Events.5.OPT5: "°s(WîTNY1SHQÙ7h'T0"
+ TAS_Splendor_Events.6.T: "‰^ó`aNŒ˜î•¹Y¹Y  Lˆ?eºN	"
+ TAS_Splendor_Events.6.D: "‰^ó`aNÌ‘„vLˆ?eŒ˜î•‚YN0Šb.Ÿhûy0RÏk*N	y˜N¿Oýww0RTê„vagöNÿ	cNûNN	y˜¿OýwÔÞV0RŒ˜î•Tr‘u‹NöN0"
+ TAS_Splendor_Events.6.OPT1: "'Y–Y¾|"
+ TAS_Splendor_Events.6.OPT1.tt: "Ç–(u§G'Y–Y¾|§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y*t2—)RšN§!\nÿåNNýV¶RNXR(Wÿ§Y*t2—)RšN§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y–Y¾|§!‡eS\nÿåb	gåNN8hÃVwýN§Y'Y–Y¾|hKS§!"
+ TAS_Splendor_Events.6.OPT2: "N¨R„v'YþVfN†™"
+ TAS_Splendor_Events.6.OPT2.tt: "Ç–(uN¨R„v'YþVfN†™§G^Ëy‰ƒ·ú‹Œ…ìY§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y¢uT›†™§!\nÿåNNýV¶RNXR(Wÿ§Y¢uT›†™§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y¢uT›†™§!‡eS\nÿåb	gåNN8hÃVwýN§YôTætœþVfN†™§!"
+ TAS_Splendor_Events.6.OPT3: "Tß˜†SòS„vJS‹Q"
+ TAS_Splendor_Events.6.OPT3.tt: "Ç–(uTß˜†SòS„vJS‹Q§GN‹výlgaó—§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§YºNô•KNÌ‘§!\nÿåNNýV¶RNXR(Wÿ§YºNô•KNÌ‘§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y‰^ó`aNºN‰|§!‡eS\nÿåb	gåNN8hÃVwýN§YúRPRKS§!\n\nbw—‰‚YNagöN0\n\nÿnboåNNýV¶Rÿ§YºNô•KNÌ‘§!\nÿN=f^SýV"
+ TAS_Splendor_Events.6.OPT4: "gKN4Y"
+ TAS_Splendor_Events.6.OPT4.tt: "Ç–(ugKN4Y§GkQa8l3t§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y8lÜ­N§!0§YgKNý§!\nÿåNNýV¶RNXR(Wÿ§Y8lÜ­N§!0§YgKNý§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y8lÜ­N§!‡eS\nÿåb	gåNN8hÃVwýN§Y8l3t„voƒ?b§!"
+ TAS_Splendor_Events.6.OPT5: "0Wñr„vsY^y"
+ TAS_Splendor_Events.6.OPT5.tt: "Ç–(u0Wñr„vsY^y§GkaSÐcšN·Ébµx¯eÉbVy)R§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y|V¸S§!0§Y¦hƒX0Wñr§!\nÿåNNýV¶RNXR(Wÿ§Y|V¸S§!0§Y¦hƒX0Wñr§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y|V¸S§!‡eS\nÿåb	gåNN8hÃVwýN§YkaSÐcšN^y¿k§!"
+ TAS_Splendor_Events.6.OPT6: "ÛbegãS‚KNxy„vsY^y"
+ TAS_Splendor_Events.6.OPT6.tt: "Ç–(uÛbegãS‚KNxy„vsY^y§Gz^y¢csY§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§YgKNý§!\nÿåNNýV¶RNXR(Wÿ§YgKNý§!\nÿ§YgKNl§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§YgºN§!‡eS\nÿåb	gåNN8hÃVwýN§YgKNý§!"
+ TAS_Splendor_Events.6.OPT7: "&ž)Y×r„v–™†˜"
+ TAS_Splendor_Events.6.OPT7.tt: "Ç–(u&ž)Y×r„v–™†˜§Gm™²u8N™Ÿ§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y)Y×r§!\nÿåNNýV¶RNXR(Wÿ§Y)Y×r§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y)Y×r§!‡eS\nÿåb	gåNN8hÃVwýN§Y)Y×rZwK„§!"
+ TAS_Splendor_Events.7.T: "‰^ó`aNŒ˜î•¹Y¹Y  Y²NºN	"
+ TAS_Splendor_Events.7.D: "‰^ó`aNÌ‘„vY²NŒ˜î•‚YN0Šb.Ÿhûy0RÏk*N	y˜N¿Oýww0RTê„vagöNÿ	cNûNN	y˜¿OýwÔÞV0RŒ˜î•Tr‘u‹NöN0"
+ TAS_Splendor_Events.7.OPT1: "öQFQ„vÑž+s"
+ TAS_Splendor_Events.7.OPT1.tt: "Ç–(uöQFQ„vÑž+s§GYj§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y÷KN¶R§!\nÿåNNýV¶RNXR(Wÿ§Y÷KN¶R§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y–Y*`§!‡eS\nÿåb	gåNN8hÃVwýN§Y+sªTQgK„§!\n\nbw—‰‚YNagöN0\n\nÿnboåNNýV¶Rÿ§Y÷KN¶R§!"
+ TAS_Splendor_Events.7.OPT2: "Nr‚„vºNvPO"
+ TAS_Splendor_Events.7.OPT2.tt: "Ç–(uNr‚„vºNvPO§G1rKNN·›s<hyrmO·V§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§YT›Lu§!0§YT›Õlîh—g§!\nÿåNNýV¶RNXR(Wÿ§YT›Lu§!0§YT›Õlîh—g§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§YT›ÕlO§!‡eS\nÿåb	gåNN8hÃVwýN§Y›s<hyrWO·V¸§!"
+ TAS_Splendor_Events.7.OPT3: "8lÜ„vlQIN"
+ TAS_Splendor_Events.7.OPT3.tt: "Ç–(u8lÜ„vlQIN§Gì„±ƒqS‰Y§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y8lÜ­N§!0§YgKNý§!\nÿåNNýV¶RNXR(Wÿ§Y8lÜ­N§!0§YgKNý§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y8lÜ­N§!‡eS\nÿåb	gåNN8hÃVwýN§Y8lÜ­N§!"
+ TAS_Splendor_Events.7.OPT4: ".Oßu„v‰^ó`°‹w"
+ TAS_Splendor_Events.7.OPT4.tt: "Ç–(u.Oßu„v‰^ó`°‹w§GS‹T8N‡e§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y)Y×r§!\nÿåNNýV¶RNXR(Wÿ§Y)Y×r§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y)Y×r§!‡eS\nÿåb	gåNN8hÃVwýN§Y‡e‡e0°eû•>y§!"
+ TAS_Splendor_Events.7.OPT5: "	N³l„vV*‚ºN"
+ TAS_Splendor_Events.7.OPT5.tt: "Ç–(u	N³l„vV*‚ºN§GSÎ‘ZXSHu§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y|V¸S§!\nÿåNNýV¶RNXR(Wÿ§Y|V¸S§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y|V¸S§!‡eS\nÿåb	gåNN8hÃVwýN§Y	N³l§!"
+ TAS_Splendor_Events.7.OPT6: "WW„^y„vv˜¹p"
+ TAS_Splendor_Events.7.OPT6.tt: "Ç–(uWW„^y„vv˜¹p§G)mâwù‹¿‹PR§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§YˆRâw¶R§!\nÿåNNýV¶RNXR(Wÿ§YˆRâw¶R§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y–Y*`§!‡eS\nÿåb	gåNN8hÃVwýN§YˆRâw^y>y§!"
+ TAS_Splendor_Events.7.OPT7: "SVãN„võV™Q°‹w"
+ TAS_Splendor_Events.7.OPT7.tt: "Ç–(uSVãN„võV™Q°‹w§GìYwmàhœg§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y)Y×r§!\nÿåNNýV¶RNXR(Wÿ§Y)Y×r§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y)Y×r§!‡eS\nÿåb	gåNN8hÃVwýN§Y±‚œgPRõV¥b>y§!"
+ TAS_Splendor_Events.7.OPT8: "¦hKN=eM‘w"
+ TAS_Splendor_Events.7.OPT8.tt: "Ç–(u¦hKN=eM‘w§GÆTegªT·Ï‚Oyr§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§YgKNý§!\nÿåNNýV¶RNXR(Wÿ§YgKNý§!\nÿ§YgKNl§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§YgºN§!‡eS\nÿåb	gåNN8hÃVwýN§YÆTegªTY—îOY§!"
+ TAS_Splendor_Events.8.T: "‰^ó`aNŒ˜î•¹Y¹Y  ›Q‹NºN	"
+ TAS_Splendor_Events.8.D: "‰^ó`aNÌ‘„v›Q‹NŒ˜î•‚YN0Šb.Ÿhûy0RÏk*N	y˜N¿Oýww0RTê„vagöNÿ	cNûNN	y˜¿OýwÔÞV0RŒ˜î•Tr‘u‹NöN0"
+ TAS_Splendor_Events.8.OPT1: "v`up"
+ TAS_Splendor_Events.8.OPT1.tt: "Ç–(uv`up§GE›T›§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§YE›T›ƒXLu§!\nÿåNNýV¶RNXR(Wÿ§YE›T›ƒXLu§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y|V¸S§!‡eS\nÿåb	gåNN8hÃVwýN§YupT›¿k§!"
+ TAS_Splendor_Events.8.OPT2: "¢uT›†™„vsYÆN"
+ TAS_Splendor_Events.8.OPT2.tt: "Ç–(u¢uT›†™„vsYÆN§GASmQY²TY§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y¢uT›†™§!\nÿåNNýV¶RNXR(Wÿ§Y¢uT›†™§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y¢uT›†™§!‡eS\nÿåb	gåNN8hÃVwýN§Y¢uT›†™Ÿ”|i§!\n\nbw—‰‚YNagöN0\n\nÿnboåNNýV¶Rÿ§Y¢uT›†™§! "
+ TAS_Splendor_Events.8.OPT3: "JSºNJSup„v­^^"
+ TAS_Splendor_Events.8.OPT3.tt: "Ç–(uJSºNJSup„v­^^§GB›D›–Y¦h§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y¥QLu§!0§YB›D›¶R§!\nÿåNNýV¶RNXR(Wÿ§Y¥QLu§!0§YB›D›¶R§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y¥QLu§!‡eS\nÿåb	gåNN8hÃVwýN§YB›D›œ^¸§!"
+ TAS_Splendor_Events.8.OPT4: "Ârl„v–Y*`TQ"
+ TAS_Splendor_Events.8.OPT4.tt: "Ç–(uÂrl„v–Y*`TQ§GÃ”ÙN·OfNSb–·àVa^§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y8lÜ­N§!0§YgKNý§!\nÿåNNýV¶RNXR(Wÿ§Y8lÜ­N§!0§YgKNý§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y8lÜ­N§!‡eS\nÿåb	gåNN8hÃVwýN§YgTQ6e¹RNb§!\n\nbw—‰‚YNagöN0\n\nÿnboåNNýV¶Rÿ§Y8lÜ­N§!"
+ TAS_Splendor_Events.8.OPT5: "Øy^yAmÏ–"
+ TAS_Splendor_Events.8.OPT5.tt: "Ç–(uØy^yAmÏ–§G.•qSÏ–§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y–Y*`KNîh§!\nÿåNNýV¶RNXR(Wÿ§Y–Y*`KNîh§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y–Y*`§!‡eS\nÿåb	gåNN8hÃVwýN§Y–Y*`„vhwm§!"
+ TAS_Splendor_Events.8.OPT6: "NïzèTb)Y×r"
+ TAS_Splendor_Events.8.OPT6.tt: "Ç–(uNïzèTb)Y×r§G¬rpi§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§Y)Y×r§!\nÿåNNýV¶RNXR(Wÿ§Y)Y×r§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y)Y×r§!‡eS\nÿåb	gåNN8hÃVwýN§Y‹vür)Y×r–HS§!"
+ TAS_Splendor_Events.8.OPT7: "qSBWNVn4l„vS«Ž"
+ TAS_Splendor_Events.8.OPT7.tt: "Ç–(uqSBWNVn4l„vS«Ž§GkQBW^yHYPR§!„vagöN‚YN0\n\nÿnbo„vN=fåNNýV¶Rÿ§YˆRâw¶R§!\nÿåNNýV¶RNXR(Wÿ§YˆRâw¶R§!\nÿ§Y‰^ó`aN§!‡eSÄu=fINAm‡eSÄubw¥c³u†N§Y–Y*`§!‡eS\nÿåb	gåNN8hÃVwýN§YÎ˜^yKNVn§!"
+ TAS_Splendor_Events.3.OPT11: ""
+ TAS_Splendor_Events.3.OPT12: ""
+ TAS_Splendor_Events.7.OPT9: ""
+ TAS_Splendor_Events.7.OPT9.tt: ""
+ ASE_Splendor_Events.3.OPT34: "©‹bìNÇ–(uNMO£adm£sëTºN0"
+ tas_heaven_wall: ")YºNÁX’W"
+ tas_purely_bullet_hell: "¯u¹|®p9V0Wñr"
+ ase_classical_terrain: ",gWO¿R"

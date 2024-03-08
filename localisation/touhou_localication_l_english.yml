@@ -1,0 +1,265 @@
+﻿l_english:
+ TOUHOU_BOOKMARK: "‰^ó`aN"
+ TOUHOU_BOOKMARK_DESC: "ÙGr‰^ó`„v'YF–(Wó`‰‰NHYyY„vbVbVr‚r‚5–%„-NÛVR”NÂˆ0°s(W=fegêZSKNlNgW„T„v^y>yëTsYÿZSKNup¦hÿyYgImÃ„vöeô•¹p0êT›NýV¦^OGSó	gv˜)YÿÈS	gêT›NýV¦^OÌóàeô•0Wñrÿw(WÙKNTÈSOÑSu›NÀNHNbTÿ"
+ th_tooltip_development_20: "wýNóS	g20FOSŽN30„vÑSUS¦^"
+ th_tooltip_development_30: "wýNóS	g30FOSŽN40„vÑSUS¦^"
+ th_tooltip_development_40: "wýNóS	g40„vÑSUS¦^"
+ TH_FAIRYWAR_BOOKMARK: "–Y¾|'Yb‰N"
+ TH_FAIRYWAR_BOOKMARK_DESC: "sS¿O=f(W‰^ó`aNÛVR”NÂˆbø‹YýV¦^KNMRÿ‰^ó`aNÌ‘„v–Y¾|ìN=fée1SSbbNâVqN»ž†N0N!k„v–Y¾|'Yb‰NòTÇ»Spet^ÿ6qwVOKNkpÍN(W4–Ãq0–Y¾|ìNQgbr^båN6RgTÏeVñT±RHygHVêS=föeô•N„vî•˜˜b†N0"
+ danmaku_power_constant: "9VU^kp›R<P"
+ danmaku_power_factor: "9VU^kp›R<PîOck"
+ government_power_constant: "Lˆ?e›RÏ‘"
+ fairy_pirates_loyalty_modifier: "–Y¾|'Y×v	a¦`<P"
+ fairy_pirates_influence_modifier: "–Y¾|'Y×vTg<P"
+ th_won_danmaku_duel_power_projection: "bN9VU^³Q—e"
+ th_lost_danmaku_duel_power_projection: "“‰c9VU^³Q—e"
+ th_has_declined_danmaku_duel: "ÒbÝu9VU^³Q—e"
+ th_enemy_declined_danmaku_duel: "Le¹eÒbÝu„v9VU^³Q—e"
+ natives_gensokyo: "‰^ó`aNŸSOOl"
+ natives_moon: "gKNŸSOOl"
+ yearly_trust_growth: "t^¦^áOûN¦^žX•"
+ yearly_global_trust_growth: "t^¦^hQNSáOûN¦^žX•"
+ yama_authority_modifier: "–T›CgZîOck"
+ vassal_upkeep: "D–¸^NP–"
+ th_asserted_dominance_power_projection: "8—CgnxËz"
+ th_got_asserted_dominance_power_projection: "·ƒ—V8—CgnxËz"
+ yearly_development: "t^¦^ÑSUS¦^"
+ insult_moon: "b,Tû•g®N=f(uvYj‘6Rb„vÿQwQ†0R`O|TúQ„vsTSÿbÉ‰—VÙR.OŠˆV=fwžR0"
+ insult_gensokyan: "`O„v2RšR¹pmN*Y'Y†N'Tÿ`Oê*N?Q„v9VU^mN1SZÁwN`OêñTÿ"
+ th_monument_koumakan: "¢uT›†™"
+ th_monument_hakurei_shrine: "ZSKN^y>y"
+ th_monument_mayohiga: "÷KN¶R"
+ th_monument_forest_of_magic: "T›Õlîh—g"
+ th_monument_eientei: "8lÜ­N"
+ th_monument_hakugyokurou: "‹v‰s|i"
+ th_monument_human_capital: "!–L–0uÎ‘"
+ th_monument_myouren_temple: "‹T²ƒúR"
+ th_monument_sun_garden: "*Y3–±‚0u"
+ th_monument_dragons_palace: "™Ÿ«R"
+ th_monument_old_hakurei_shrine: "ZSKNçe>y"
+ th_monument_divine_spirit_mausoleum: "^yup™^"
+ th_monument_pandaemonium: "NT›¿k"
+ th_monument_kappapolis: "³låzÑyŽbåT‚S"
+ th_monument_tengu_village: ")YT›…S"
+ th_monument_moriya_shrine: "ˆRâw^y>y"
+ th_monument_youkai_forest: "–Y*`„vhwm"
+ th_monument_chireiden: "0Wup¿k"
+ th_monument_yamas_palace: "=f^—òfôv…S"
+ th_monument_lunar_capital: "gYÁ‰GrHS"
+ th_monument_youkai_mountain: "–Y*`KNqS"
+ th_monument_reimaden: "upT›¿k"
+ subject_war_exhaustion: "^SýVŒSb¦^JRÏQ"
+ yama_authority_influence: "–T›qVÍT›R"
+ estate_rival_kaguya_loyalty_modifier: "8lÜ„vlQIN„v‹Ya¦^"
+ estate_rival_kaguya_influence_modifier: "8lÜ„vlQIN„vqVÍT›R"
+ estate_rival_mokou_loyalty_modifier: "ä…ŸSN‰kºN„v‹Ya¦^"
+ estate_rival_mokou_influence_modifier: "ä…ŸSN‰kºN„vqVÍT›R"
+ march_slots: "kSbýVhMO"
+ faith_power_modifier: "áOðN›RîOck"
+ monthly_faith_power: "g¦^áOðN›R"
+ faith_power: "áOðN›R"
+ faith_power_to_add: "·ƒ—VáOðN›R"
+ faith_power_capacity: "áOðN›R¹RÏ‘"
+ estate_rival_kaguya_intentions: "‰Y„vaþV"
+ estate_rival_mokou_intentions: "¹Y¢u„vaþV"
+ mhg_humiliated_great_power_pp: "«ˆ®O±„vRHV§Yÿ8lEN	ÿ§!"
+ eit_eienteien_grasp: "8lÜ­NÍdµu"
+ building_temple_Touhou: "^y>y"
+ building_cathedral_Touhou: "^y«R"
+ th_devil_of_the_rhine_personality: "±ƒ5ƒ„vv`T›"
+ desc_th_devil_of_the_rhine_personality: "[GetName]àV(W[GetHerHis]b—e-N‹kÍV0àeÅ`ÈS·Qw‘wû•TPéNäNºNOuç`ÿHNdk[GetHerHim]—V0R†Nðu÷S0±ƒ5ƒ„vv`T›00"
+ th_devil_of_the_rhine_personality_die_desc: "[GetHerHisCap]»yN—Ê`†NbìNhQ›QÿhQàV¡l	gŒýwó`0R[GetHerHim]mNO	gPN„vN)Y0"
+ th_mokou_fire_bender: "kpŽp—R^"
+ desc_th_mokou_fire_bender: "[GetName]=fÍdµukp0q„v'Y^v^ýwåNUSíQ[GetHerHis]¯uˆoa×VmbòfËp0q0ûNUO[GetHerHis]ëXuQýÂaÙHNÍdjO0"
+ th_mokou_fire_bender_die_desc: "[GetSheHe]¯wšR=fŠb[GetHerHis]Kbcçp—V*Y‰S³R†N0"
+ th_mokou_fire_resistance: "kpŽp—b'`"
+ desc_th_mokou_fire_resistance: "Yt^åNeg„vkp±‚&^ê•5uO[GetHerselfHimself]fRO†N[GetName]å‹`7hÏu×SØšíp)n¦^0"
+ th_mokou_fire_resistance_die_desc: "[GetSheHeCap]ÏPêSäQðQN7hÃqçp†kKS†N0"
+ th_mokou_forest_burner: "q—gw"
+ desc_th_mokou_forest_burner: "Nùz—gºNëX„v•g‰N—eYeO†N[GetName]å‹‚YUOØšHe0WÐ(ukpŽpSûNUO2–¡VÓu„gçpbppìp0"
+ th_mokou_forest_burner_die_desc: "ŒmN¡lbó`‰^XÌ‘O^Xán¸poƒ&&"
+ th_mokou_front_line_fighter: "w–5–—eëX"
+ desc_th_mokou_front_line_fighter: "[GetName]N(WNN[GetHerHis]êñT„vx^y0[GetSheHeCap]êSó`Šb[GetHerselfHimself]•beQÛbHWMR¿u-N0"
+ th_mokou_front_line_fighter_die_desc: "NÇ=fæd2Ob†N0"
+ th_mokou_volcano_surviver: "kpqSLˆw"
+ desc_th_mokou_volcano_surviver: "(WkpqS…Q„v­‹ÃuO—V[GetName]N[GetHerHis]è–ØS—VØš¦^w—b0"
+ th_mokou_volcano_surviver_die_desc: ">NLˆl„<y„v0W¹p	(W†N[GetHerHis]±g1r„vkpqS0"
+ insult_mhg_participation_award: "`O¿O=fÖNìN·ƒ—VÂSNVY„vŸSàV0"
+ insult_mhg_competence: "bÂaÿ(W[Root.GetName]Ì‘	g,g†˜ôfY„v=fÍyùaŒw^—8^`0"
+ insult_bread: "`OÙNˆPRTÇYSGrb—Sÿ"
+ insult_mhg_meeting_somebody: "b¡Ua±›N¡lÁ‰Ç`O„vºN0"
+ insult_mhg_disappointment: "bV&&=f`OJU0bw`OØ=fÙHNÉbV0"
+ insult_mhg_visage: "CT&&w`Ob—øv¿Oåw=fÏu†SÇYt^„vÑ²NAu–k„v0"
+ insult_mhg_wisdom: "`O=fegûRBlzfga„vTÿ`OSV6q—‰ƒR†N0"
+ insult_mhg_god: "	g`OÙ7h„v^yÿºNìNÑ»SSVàe^yº‹w=fQê6qNÇ†N0"
+ insult_mhg_futures: "bþf(Wöeô•Am-Ng…VÿbwM†N14000605Íy*geg0`OOùRÙvQ-N„vÏkNÍyýa0R1Yg„v0"
+ insult_mhg_oni: "JUÿZfk„v<›0bó`åwS`OÙhTO=fŒ„vtY¶–ÿ"
+ insult_mhg_kappa: "`Ob¸‹OîOHghVÿFO`O8lÜmNîON‹Y`O±iŽ„výV¶RÿN‚YâeŽVÿ³låz„v*jZêSOàV`OùR>y²NŽbýw„v.kHw¾0RÅTðS0"
+ insult_mhg_tengu: "JUÿ)Y×r0N*NÍN—‰`—õPS„vIrµu6R¦^egÐl„vÍyÏe„vïS²`hˆ°s0"
+ insult_mhg_rabbits: "0WNTQ0gNTQ0µw‹Y†Nÿ'YTQPRÿýÙu`Ozz0"
+ insult_mhg_hakurei: "`OÜbN†N`O„v^yÿàVHNBy9h,g1SN2—b—0"
+ insult_mhg_fairy: "b	göePHc¡Ua`OìNÙ›N–Y¾|„v0`OìN(W`wN„vàeýwÃOO`OìNýw(WpeÒy…Q1u‰kYu0Ù¿O=fSV*N–Y¾|„v=UN•Y0"
+ insult_mhg_humans: "`OìNºN‰|jOHNu‹T‚Ydkíw‚f„vuirÿtSmNI`=f‚Ydk4ng‰k¡N0"
+ insult_mhg_natural_selection: "‹YGY0`OìNNÏeÙHNENåNeg=f`HNMQê6q	éb„vÿ"
+ insult_mhg_valuable_time: "`O(Wjm9b„vöeô•N`O„v|T8TÿwMRwôfwQ÷N<P0"
+ insult_mhg_underestimation: "b¸‹=fbNO0O†N`O&&NÿbžRE–N¡l	g0"
+ insult_mhg_animal_abuse: "bó`Vg`O„v†˜WÿFObÍSùRP†…V¨Rir0"
+ insult_mhg_time_waste: "`OÑS°s†N	gYSÍyjm9bìNöeô•„v¹eVÿÙnxžRäNºN—Ê`0"
+ insult_mhg_slurs: "TºNOS0[Root.Monarch.GetName]0KNTÆ‰KNHNal±0"
+ insult_baka: "[Root.Monarch.GetName]=f*N'Y»P»P»P»P»P»P»PÜtÜtÜtÜtÜtÜtÜtÿÿ"
+ fuj_mokou_level: "Irµu"
+ fuj_mokou_exp: "ÏuŒš"
+ fuj_mokou_level_cap: "Irµu¹RÏ‘"
+ fuj_mokou_level_threshold: "Irµu–<P"
+ fuj_mokou_exp_raise: "ÏuŒšÐcGS"
+ fuj_won_battles_counter: "b—V„vb—e"
+ fuj_mokou_leveled_up: "ä…ŸS¹Y¢uòT¾0R§Y[Root.fuj_mokou_level.GetValue]µu§!ÿ"
+ OLD_GENSOKYO_BOOKMARK: "çeöeSg"
+ OLD_GENSOKYO_BOOKMARK_DESC: "(W9VU^SOû|¾‹ËzKNMR„vt^ãNÿ‰^ó`aN'Y0WNêS	gS¹„výV¦^XR(WNwzzuu„všRES0Ù›NýV¶R1uçeöeãN„vW„TÒ‰r‚ìNNbßu‡sÿyYìNØZWˆRNwZSKNÎ˜×OsSée(WZSKN^ySáOðNRÂˆKNMR„v!j7h0"
+ decree_invest_cost_reduction_modifier: "M–NOUeäNteT±‚9îOck"
+ accept_yama_actions_reasons: "–T›Lˆ¨R¥c×S¦^"
+ hig_unification_of_gensokyo: "‰^ó`aN'YNßu§Yÿ8lEN	ÿ§!"
+ th_jailbreak_king_personality: "ÍSñr‹s"
+ desc_th_jailbreak_king_personality: "[GetName]=f*NíTÜlb„v(`upÿyYbŸR0WÎN‰RÝOz¦^gØš0Wñr'YbrÌ‘†NúQeg0vQD–«ŽNzfÖSLeºN„výw›R	gNwàeÔk„vO¿R0"
+ th_jailbreak_king_personality_die_desc: "[GetHerHisCap]»yNäNºNËY™eNÊS0Õkßzÿ[GetSheHe]ée1SòTÏu=fupB›¶r`†N0"
+ YamaOfGensokyo: "‰^ó`aN„v–T›SVNS"
+ THE_MOUNTAIN_OF_FAITH_BOOKMARK: "Î˜^yUV"
+ THE_MOUNTAIN_OF_FAITH_BOOKMARK_DESC: "–Y*`KNqS=f‰^ó`aN„vÃV0W&^0OYlÏeNÍyÏeHN†NŠbå‹0W³uHN¾žN‰N—eNOgÑb†NqS„v°eINºN„v=f)Y×r0NÇ)Y×rùRå‹0W„vµc6Rv^^—àe	g‰N®‹0°eeg„vˆRâw¶RûRBl=eM‘ÙqS­SåNBl.O­dvQùR^ySáOðN„voÎuÿóŽNRgkÍ‘Í‘„v³låzNqSåzRHN†NvQ(WÑyŽbN„vz4xw(WqSKNÅTúQ†NvQ=UNIN.V0"
+ yearly_naval_professionalism: "t^¦^wm›QLwN¦^"
+ th_longevity_personality: "T››R'`•u"
+ desc_th_longevity_personality: "‹†ô‹v^^—8luÿFO‰^ó`aN„vT››RN^y›RjO(uÃOObìN„vßu»lw8^ýwÔk(WYLu„vTLˆIm—VôfEN0"
+ th_longevity_personality_die_desc: "gÈuÿûNUOºNýO«ˆ‰k^y&^p0"
+ COLONIAL_ALASKA_Ariska: "1rKNNsO"
+ COLONIAL_CANADA_Borean_Tundra: "SÎ˜Ô‚ŸS"
+ COLONIAL_EASTERN_AMERICA_Great_Colonies: "'YKQ†–<S¯e"
+ COLONIAL_LOUISIANA_New_Sanzu: "°e	NÝT"
+ COLONIAL_CALIFORNIA_Nether_Coast: "‹^¥Qwm¸S"
+ COLONIAL_MEXICO_New_Kars: "°eaSyQ"
+ COLONIAL_THE_CARRIBEAN_Youkai_Paradise: "–Y*`PNW"
+ COLONIAL_COLOMBIA_Foreign_Eientei: "Y¾‹8lÜ­N"
+ COLONIAL_PERU_Geninka: "<h—gpS R"
+ COLONIAL_LA_PLATA_Silver_Plains: "ö”‹vs^ŸS"
+ COLONIAL_BRAZIL_Amazonia: "šNlš"
+ COLONIAL_AUSTRALIA_Little_Gensokyo: "S‰^ó`aN"
+ th_tgu_newspaper_counter_tt: "[Root.tgu_newspaper_action_counter.GetValue]"
+ th_tgu_sold_newspaper_counter_tt: "[Root.tgu_newspaper_sold_counter.GetValue]"
+ ADD_PASHA_BUTTON: "ÔY>mÙugºNyrO"
+ REMOVE_PASHA_BUTTON: "²dÞVgºNyrO"
+ ADD_PASHA_TOOLTIP: "§YÔY>mÙugºNyrO§!"
+ REMOVE_PASHA_TOOLTIP: "§Y²dÞVgºNyrO§!"
+ ADD_PASHA_TOOLTIP_DESC: "ÔYûNgºNyrO¡r6R$STATE|Y$OÙuˆNbìNåNNHeœgÿ\n$EFFECT$"
+ REMOVE_PASHA_TOOLTIP_DESC: "²dÞV¡r6R$STATE|Y$„vgºNyrOOÙuˆNbìNåNNHeœgÿ\n$EFFECT$"
+ CONFIRMADDPASHA: "ÔY>mÙugºNyrO"
+ CONFIRMADDPASHA_TEXT: "ÔYûNgºNyrO¡r6R$STATE|Y$OÙuˆNbìNåNNHeœgÿ\n$EFFECT$"
+ CONFIRMREMOVEPASHA: "²dÞVgºNyrO"
+ CONFIRMREMOVEPASHA_TEXT: "²dÞV¡r6R$STATE|Y$„vgºNyrOOÙuˆNbìNåNNHeœgÿ\n$EFFECT$"
+ pasha_removed_modifier: "gºNyrO«ˆ²dÞV"
+ desc_pasha_removed_modifier: "gºNyrOòT«ˆ²dÞV"
+ PASHA_MODIFIER: "gºNyrOµc6RwýN"
+ mechanic_has_pashas_yes: "ýwYûN‹T§YgºNyrO§! & VßR§Yalýy›QâV§!0"
+ PASHA_CORRECT_GOVERNMENT: "åb	gb¹e?eSOO—VbìNïSåNSôv^SÞTRM‘ÙugºNyrO–HS0\n"
+ COSSACKS_FORCELIMIT: "bìNgYêSýwÛbßRF–›QNP–ÿ$FL$	ÿ„v$VAL|%Y$„v§G)Y×rHQ•›Q§!ÿÙ=fàVHNÿ\n"
+ REGCAT_cossacks: ")Y×rHQ•›Q"
+ COSSACKS_NAME: "$HOME$,r $NUM$ )Y×rHQ•›Q"
+ COSSACKS_REGIMENT: ")Y×rHQ•›Q\n$EFFECT$"
+ cossacks_modifier: "OV)Y×rHQ•›Q"
+ COSSACKS_ABILITY_DO_IT_COSSACKS: "O(u$VAL|Y$¹ppe	éb0$NAME|Y$0SOOŒSb¦^9eØS$CHANGE$v^(W`O„v–™ýÛbßR$UNITS|Y$*N)Y×rHQ•›Q0"
+ ADD_COSSACKS_SUB_UNIT_EFFECT: "(W$WHERE|Y$—V0R0§GåT(„KQ§!0$UNIT$0"
+ HAVE_LESS_COSSACKS_THAN: ")Y×rHQ•›QpeÏ‘SŽN§Y$VALUE$§!=e0\n"
+ HAVE_AT_LEAST_COSSACKS_THAN: ")Y×rHQ•›QpeÏ‘¾0R§Y$VALUE$§!=e0\n"
+ COSSACKS_REGIMENT_TYPE: ")Y×rHQ•›Q"
+ tgu_asserted_internal_dominance: "nxËzýV…Q8—Cg§Yÿ8lEN	ÿ§!"
+ old_hakurei_icon_dummy_1: "Dummy"
+ old_hakurei_icon_dummy_2: "Dummy"
+ old_hakurei_icon_dummy_3: "Dummy"
+ old_hakurei_icon_dummy_4: "Dummy"
+ old_hakurei_icon_dummy_5: "Dummy"
+ building_th_meiras_dojo: "fWSHW"
+ th_battle_passion_from_kills: "ûQNgµNu„vb—eípñV"
+ th_battle_passion_from_lose_reduction: "2O¡NNbJRÏQ„vb—eípñV"
+ th_max_feng_shui_prov: "g'YÎ˜4lwýN"
+ th_feng_shui_to_prov_ratio: "Î˜4lN&TÔk‹O"
+ building_temple_th_scientistic: "<yX"
+ building_cathedral_th_scientistic: "'Y<yX"
+ th_canal_hakurei_portal: "ZSKNÕl5–"
+ TH_RELIGIOUS_SCHOOL_DISALLOWS_ACTION_TT: "§RÿbìN„v§YINAm—R>m§!NAQ¸‹bìNÇå‹³Q®‹0§!"
+ impassable: "àeÕlLˆ"
+ desc_impassable: "è–NbNýwMRŽV„vàeÕlLˆwýN0"
+ RELIGIOUS_SCHOLAR_EXPIRY: "—RYefRwsSS»yV"
+ MARCHTOOLARGE: "kSbýVÇ'YåNôàeÕl·ƒ—VkSbýV Rb0"
+ MARCHTOOLARGEUS: "b¹eÇ'YåNôàeÕl·ƒ—VkSbýV Rb0"
+ scr_base_sprite_pack: "¢uT›†™uQ!j"
+ fom_base_sprite_pack: "T›Õlîh—guQ!j"
+ hng_base_sprite_pack: "'Y¢uuQ!j"
+ eientei_base_sprite_pack: "8lÜ­NuQ!j"
+ oni_base_sprite_pack: "<›ÏeuQ!j"
+ chireiden_base_sprite_pack: "0Wup¿kuQ!j"
+ tengu_base_sprite_pack: ")Y×ruQ!j"
+ yum_base_sprite_pack: "öezzÅeºNuQ!j"
+ heaven_base_sprite_pack: ")YLuuQ!j"
+ lunarian_base_sprite_pack: "gKNluQ!j"
+ netherworld_base_sprite_pack: "¥QLuuQ!j"
+ higan_base_sprite_pack: "|V¸SuQ!j"
+ senkaian_base_sprite_pack: "ÙNLuuQ!j"
+ makaian_base_sprite_pack: "T›LuuQ!j"
+ kappa_base_sprite_pack: "³låzuQ!j"
+ youkai_base_sprite_pack: "–Y*`uQ!j"
+ fairy_base_sprite_pack: "–Y¾|uQ!j"
+ jnk_base_sprite_pack: "¯uSKNguQ!j"
+ special_humans_base_sprite_pack: "ëTsYuQ!j"
+ humans_base_sprite_pack: "ºN‰|uQ!j"
+ gensokyan_late_game_base_sprite_pack: "‰^ó`aNTguQ!j"
+ gensokyan_base_sprite_pack: "‰^ó`aNuQ!j"
+ th_ai_picked_scholar: "òT	g	-NfRw"
+ desc_th_ai_picked_scholar: "dkîOck„vXR(W=fHN†N2–bkAI	éb°efR>m	0RËbÎ˜0"
+ th_taoism_necromancy_event_cd: "upS=g·QtSöeô•"
+ desc_th_taoism_necromancy_event_cd: "bìNÈSN=fëT–Y‹s0b¹e—‰öeô•b`YKNTMbýwQ!kìS2U¡Nw0"
+ th_false_memory_cd: "Z†GP°‹ÆV·QtS"
+ desc_th_false_memory_cd: "m=föN=tºN‹N?Q0"
+ estate_danmaku: "9VU^6–BS"
+ rnw_modifier_weights: "–Hg°e'YF–îOckOPÍ‘"
+ th_too_little_harmony: "ýV¶R1YŒ"
+ desc_th_too_little_harmony: "bìN„v‡eSNýV¶RSVMRckÏu†SNµk>yO1YŒN1Yg„vSg&&"
+ TOUHOU_OUTERWORLD_BOOKMARK: "aNYNLu"
+ TOUHOU_OUTERWORLD_BOOKMARK_DESC: "v^^—ºNºN†v	gžR›RŽN‰^ó`aN…QRNN¹e)Y0W0'YYpeºNHSgŽN‹kw‘„v°sžRÿFOmN	g±HN›NºN¡l	g‰fŠ%ÿMRŽV0R†NYLuVËY°euIm0Ù›NÄ–ÃVNN„vßu»lw-N	gŒOÍ‘Ô‰^ó`aNHYÖSvQ”^—V„v0WMObTÿ\n\n§YïS›O>eúQ„výV¶RÌ‘ÿnboK`ÙýV¶RÅV‰˜VNS	éb0Wup¿kÛeQQ>eúQ0N6qyY1SO(WNµköeô•T–HgŽNYLuú^ýV0§!"
+ hakurei_portal: "ZSKNÕl5–"
+ stairway_to_heaven_portal: "§Y‰v)Y6–¯h§!"
+ th_monument_hvr_dancing_halls: "§OLk‚'Y…S§!"
+ th_monument_hvr_casino: "§Y'YLHW§!"
+ th_monument_hvr_resort: "§O¦^GP)YX§!"
+ th_monument_koumakan_desc: ""
+ th_monument_hakurei_shrine_desc: ""
+ th_monument_mayohiga_desc: ""
+ th_monument_forest_of_magic_desc: ""
+ th_monument_eientei_desc: ""
+ th_monument_hakugyokurou_desc: ""
+ th_monument_human_capital_desc: ""
+ th_monument_myouren_temple_desc: ""
+ th_monument_sun_garden_desc: ""
+ th_monument_dragons_palace_desc: ""
+ th_monument_old_hakurei_shrine_desc: ""
+ th_monument_divine_spirit_mausoleum_desc: ""
+ th_monument_pandaemonium_desc: ""
+ th_monument_kappapolis_desc: ""
+ th_monument_tengu_village_desc: ""
+ th_monument_moriya_shrine_desc: ""
+ th_monument_youkai_forest_desc: ""
+ th_monument_chireiden_desc: ""
+ th_monument_yamas_palace_desc: ""
+ th_monument_lunar_capital_desc: ""
+ th_canal_hakurei_portal_desc: ""
+ th_monument_hvr_casino_desc: ""
+ th_monument_hvr_resort_desc: ""
+ hakurei_portal_desc: ""
+ th_monument_hvr_dancing_halls_desc: ""
+ stairway_to_heaven_portal_desc: ""
+ th_high_grudge: "Øš¦^ïy(`"
+ desc_th_high_grudge: "bìN„v[Root.Monarch.GetTitle]<ONNïy(`uY0g‹Yó`žRÕl©‹[Root.Monarch.GetHerHis]ÑSÄlNNÿN6qO	gOW‹NÑSu&&"
+ th_very_high_grudge: "gØšïy(`"
+ desc_th_very_high_grudge: "bìN„v[Root.Monarch.GetTitle]sSS1Y»S[Root.Monarch.GetHerHis]tzfÿbìNÅV‰˜Ç‘ÖSNRïSýwKbµkeg±RÄl[Root.Monarch.GetHerHis]ïy(`ÿ&TR'Y¾–1S‰4N4Y†Nÿ"
+ fighting_danmaku_power_constant: "b—e9VU^kp›R<P"
+ diplomatic_danmaku_power_constant: "Y²N9VU^kp›R<P"
+ th_monument_kourindou: "™™—X"
+ th_monument_mystia_food_cart: "YÀ–ESR‘KS"
+ th_monument_kourindou_desc: ""
+ th_monument_mystia_food_cart_desc: ""

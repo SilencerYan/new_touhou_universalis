@@ -1,0 +1,380 @@
+﻿l_english:
+ th_advisor_eirin: "gKN4Y"
+ th_advisor_eirin_desc: "8l3t=f*N)YMbv^N(WISoƒÊSÑyŽb†˜ßWNgwQ)YK00gKN4Y0„vnx=fbìNÙ*NöeãNgjwga„vŒ˜î•KNN0"
+ th_advisor_keine: "Tß˜†SòS„vJS‹Q"
+ th_advisor_keine_desc: "gaó—ïSåN0TlV0N0R.0†SòS0àVdkyYÏu†SÇçeöe„vÍyÍyNïS`®‹v^ùRbìN„v†SòS”^pTUO¹e	gNwnpf„v²‹Æ‹0"
+ th_advisor_youmu: "JSºNJSup„v­^^"
+ th_advisor_youmu_desc: "–Y¦h=fbýV„víVz‚^ÿyYýwS±‚Iƒh(gÝOc(WgsO¶r`06qwÿyYmNwQY'YÏ‘„vb—eÏuŒšv^NÂa—V‚YUOÐcØš›Q–„vžR›R0"
+ th_advisor_patchouli: "N¨R„v'YþVfN†™"
+ th_advisor_patchouli_desc: "^Ëy‰ƒ=f¢uT›†™Ì‘„vT›sYÿâe=fŒ…s|‰ƒšN„v‹YËSÿ¦N=fT›t™lN1rKNN„vTS-NºN0yY±¾|in„vT›ÕlêS	gyY„våwÆ‹ýwÔk—VÇ0"
+ th_advisor_daiyousei: "'Y–Y¾|"
+ th_advisor_daiyousei_desc: "'Y–Y¾|=f*t2—ú‹g‹Y„vgËS0N+R„v–Y¾|NN7hÿ'Y–Y¾|Ôkƒ`uNNOÏu8^(WlQVHWT2—b—g	gïSýw=fàVHNyYmN=fôfHNjwf„v–Y¾|KNN0"
+ th_advisor_sakuya: "¢uT›†™„vsYÆN"
+ th_advisor_sakuya_desc: "²TY=f¢uT›†™„vsYÆN•v^1NR¶R¡R‹NSbkbnm0ƒW>WVn0ÆQYZf™bÅNÅN=f(Wè–-NÙuŒ…s|‰ƒšNSbO0yYòTàepe!k0WÁ‹f†NyY„vïS`—ÊSàVÚ‹0"
+ net_call_youmu_title: "äN–Y¦húQÕN"
+ net_call_youmu_desc: "B›D›–Y¦h=f¡Nw'Y›Q„vöQ`fkëXÊSc%c˜R0yYRVËYöeïSýwêS=f*NUS¯u„víVNÿNÇ—VÊvŽNyY„v›Q‹NMbNSÿ¡Nw'Y›Q°s(W=fàeïS9SLe†N0FOØNÅNÅN‚Ydkÿ–Y¦hòTÏuÆQY‹YegÅbSVb¹e›Q‹NŒ˜î•†NÿêS‰bìN¹pN4Y1SLˆ0"
+ net_youmu_hired_for_thirty_years: "§Y–Y¦h§!¡l«ˆ×S‹TÅbûNS†˜bŒ˜î•0"
+ eit_call_eirin_title: "äN8l3túQÕN"
+ eit_call_eirin_desc: "kQa8l3t=f‰YgáOV„vŒ˜î•åNÊSÑv²bºN0gKN4Y=fbìN?eœ^„vàe÷NKNRSV6q=f(WbìNô‹gyYÓumgOGPKNT0"
+ eit_eirin_hired_for_thirty_years: "§Y8l3t§!¡l	g×S‹TúQÕN0"
+ fuj_call_keine_title: "äNgaó—úQÕN"
+ fuj_call_keine_desc: "N‹výlgaó—=fºNÌ‘„vw^ÊSˆR²bwÿmN=f¹Y¢u„v‹YgËS0‰=fbìNýwXw÷‹yYÅbSVŒ˜î•„vÝ‹ÿyY„våwÆ‹ŒTzfgaOùRbìN„vîvh'Y	g©RÊv0"
+ fuj_keine_hired_for_thirty_years: "§Ygaó—§!¡l	g×S‹TúQÕN0"
+ mki_call_alice_title: "äN1rKNNúQÕN"
+ mki_call_alice_desc: "Nr‚„vºNvPO1rKNN·›s<hyrmO·VîvMRESOO(WT›Õlîh—gÌ‘ÿNÇyYŸS,g=fT›Lu„vlQl0yYýwùRbìN„výV¶R‹N¡R!.s«ƒ'Y.^©R0"
+ mki_alice_hired_for_thirty_years: "§Y1rKNN§!¡l	g×S‹TúQÕN0"
+ cin_call_general_rumia_title: "äN2—s|ZeQOÿ"
+ cin_call_general_rumia_desc: "<Pdkb—eöeIRbìN–Y¾|	gNwµR—f„v–Y*`2—s|ZÙMOHV'Y„vßvËSÿ©‹bìN2UyYÇegÿ"
+ cin_did_not_hire_rumia_recently: "¡l	gÇ–(uÇ2—s|ZóS§Y30t^§!0"
+ cin_call_daiyousei_title: "äN'Y–Y¾|úQÕN"
+ cin_call_daiyousei_desc: "–Y¾|N`HNjwfv^^—=fÀNHNØyÆRÿFOSVvQ-N	g†N’Q4Y„vÿ±Ù*NOyr+R„vwzfNjwfÿ&&åN–Y¾|„vÒ‰¦^egô‹0wvQ-N„vN*Njwf„v–Y¾|ÿ1Spe*t2—ú‹g‹Y„vgËS'Y–Y¾|†Nÿ"
+ cin_daiyousei_hired_for_thirty_years: "§Y'Y–Y¾|§!¡l	g×S‹TúQÕN0"
+ scr_call_sakuya_title: "äN²TYúQÕN"
+ scr_call_sakuya_desc: "ASmQY²TY=f¢uT›†™„vsYÆN•v^åNvQOÅ–ÊSê‹VwUS°súQánán„vêáO0	gyY(W«R÷^Ì‘ÿ›Q-N¿O¡l	gŒOÆwbeÈa.`0"
+ scr_sakuya_hired_for_thirty_years: "§Y²TY§!¡l	g×S‹TúQÕN0"
+ scr_call_patchouli_title: "äN^Ëy‰ƒúQÕN"
+ scr_call_patchouli_desc: "^Ëy‰ƒ=f¢uT›†™Ì‘„vþVfN†™†™•ÿ=fŒ…s|‰ƒšN„vÆRËSmN=fT›t™lN1rKNN(WT›ÕlKNŽbz‚N„vTS-NºN0‚YœgbìNýwÇ–(uyYÅbSVŒ˜î•ÿ±HNyY±wmÏ‘„våwÆ‹S	g©RŽNžR°sbìN„vîvh0"
+ scr_patchouli_hired_for_thirty_years: "§Y^Ëy‰ƒ§!¡l	g×S‹TúQÕN0"
+ th_advisor_youmu_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y–Y¦h§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_eirin_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y8l3t§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_keine_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Ygaó—§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_alice_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y1rKNN§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_alice_upgraded_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(uôfwQžR›R„v§Y1rKNN§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_daiyousei_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y'Y–Y¾|§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_patchouli_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y^Ëy‰ƒ§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_sakuya_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y²TY§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_chen_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y–Y¦h§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_kanako_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y–Y¦h§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_suwako_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y–Y¦h§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_chen: "öQFQ„vÑž+s"
+ th_advisor_chen_desc: "Yj=fb„vV^yÝ„„vV^y0bòTÙuyYYe†NKSïSýwY„vyr¡RŽb=g†NÿFOb(WsYjyY=fN=fw„vó`‰r^ÙLˆN»SÿNbåN(WyY³QšRÞVKNMR”^EQR)R(u‹YyY„výw›R0"
+ th_advisor_kanako: "qSBWNVn4l„vS«Ž"
+ th_advisor_kanako_desc: "^yHYPR=fMOÎ‘ÃVÃRÃR„v^yfÿyYŠb—RYewjO=fè•uaÿI`=f(WûRBláOðN06eÊv0„vg'YS0wyYmN=ecÑyfRÿv^NjOHNb‰NKN^y	gNw0NÌR„v›Q‹NåwÆ‹0"
+ th_advisor_suwako: "WW„^y„vv˜¹p"
+ th_advisor_suwako_desc: "ù‹¿‹PR=fMO `6qê—V„v^yfÿyY1r‹YÞz‰NNÆRŒ0wyY„vaþV8lNïSýw«ˆsÿFOyYùRŽNg²NÑ„vºNëXP=fOKS0RhQ›R0"
+ th_advisor_alice: "Nr‚„vºNvPO"
+ th_advisor_alice_desc: "1rKNN=fMOúQr‚„vT›ÕlOv^N=fºNvPÆNÎNKNIN0‹†ô‹vQýw›RIN‰Æ–-N(WR.°e„vïS¨RtYÆNÿFOyY„výw›RNÏuŒšOvQ(Wb—ùRûNUO‰|‹W„v¡rtöeGW	gýw›R.^©R0RbýV0"
+ th_advisor_alice_upgraded: "Nr‚„vºNvPO"
+ th_advisor_alice_upgraded_desc: "1rKNN=fMOúQr‚„vT›ÕlOv^N=fOºNvPOÎN„vINºN0‹†ô‹vQýw›RIN‰HNR.°e„vïS¨RÆNÎNÿFOyY„výw›RNÏuŒšOvQ	gýw›ROS©RbýVÛLˆûNUO‰|‹W„v¡r»l0\nàVvQ×SÇ^yîu„v­‹Ãuÿ1rKNN(WYtbýV„vLˆ?e0Y²NÊS›Q‹N¹eb—OôfHN—VÃV”^Kb0"
+ mhg_call_chen_title: "äNYjúQÕN"
+ mhg_call_chen_desc: "Yj=fbV^y„vV^y0`O‰=f©‹yYeg±1S‰Tr”^bgqŒ˜‹YyYÿf‹v†NTÿ"
+ mhg_chen_hired_for_thirty_years: "§YYj§!¡l	g×S‹TúQÕN0"
+ mry_call_kanako_title: "Üb÷‹^yHYPRôc©R"
+ mry_call_kanako_desc: "^yHYPR=fMOÎ‘ÃVÃRÃR„v^yfÿyYŠb—RYewjO=fè•uaÿI`=f(WûRBláOðN06eÊv0„vg'YS0wyYmN=ecÑyfRÿv^NjOHNb‰NKN^y	gNw0NÌR„v›Q‹NåwÆ‹0"
+ mry_kanako_hired_for_thirty_years: "§Y^yHYPR§!¡l	g×S‹TúQÕN0"
+ mry_call_suwako_title: "Üb÷‹ù‹¿‹PRôc©R"
+ mry_call_suwako_desc: "ù‹¿‹PR=fMO `6qê—V„v^yfÿyY1r‹YÞz‰NNÆRŒ0wyY„vaþV8lNïSýw«ˆsÿFOyYùRŽNg²NÑ„vºNëXP=fOKS0RhQ›R0"
+ mry_suwako_hired_for_thirty_years: "§Yù‹¿‹PR§!¡l	g«ˆÜb÷‹0"
+ th_advisor_hecatia_enabled_tt: "bìN°s(WÇ³Q®‹egÇ–(u§YkaSÐcšN§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_komachi_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YSHu§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_hecatia: "0WñrsY^y"
+ th_advisor_hecatia_desc: "kaSÐcšN=f0Wñr„vNµusY^yÿ=f‰^ó`aNgHV„vXR(W0yY±äS*`„v'`<hOvQr^wImegOöeNöe0WžROW‹NÅ`ÿwyY„vzfgaNåwÆ‹ùRbýVegô‹	gNwàeÔk„v÷N<P0"
+ th_advisor_komachi: "	N³l„vV*‚ºN"
+ th_advisor_komachi_desc: "SHu=f1V†˜upB›„v‰k^yNÏeÌ‘gHNúQO„vºN	KNN0KS¡rSHu=f*NÔkƒÒace„vºNÿFOyYØ=fnZi‰`7heSLˆ‹YyY„vLw1v^HN†Nb¹e)RÊvwÐ(uvQýw›R„v0"
+ hig_call_hecatia_title: "Üb÷‹kaSÐcšNôc©R"
+ hig_call_hecatia_desc: "kaSÐcšN=f0Wñr„vNµusY^yÿ=f‰^ó`aNgHV„vXR(W0yY±äS*`„v'`<hOvQr^wImegOöeNöe0WžROW‹NÅ`ÿwyY„vzfgaNåwÆ‹ùRbýVegô‹	gNwàeÔk„v÷N<P0"
+ hig_hecatia_hired_for_thirty_years: "§YkaSÐcšN§!¡l	g«ˆÜb÷‹0"
+ hig_call_komachi_title: "äNSHuúQÕN"
+ hig_call_komachi_desc: "SHu=f1V†˜upB›„v‰k^yNÏeÌ‘gHNúQO„vºN	KNN0KS¡rSHu=f*NÔkƒÒace„vºNÿFOyYØ=fnZi‰eSLˆ‹YyY„vLw1v^HN†Nb¹e)RÊvwÐ(uvQýw›R„v0"
+ hig_komachi_hired_for_thirty_years: "§YSHu§!¡l	g×S‹TúQÕN0"
+ th_advisor_sagume_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y¢csY§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_doremy_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YÆTegªT§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_hina_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YÏ–§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_reisen_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YÃ”ÙN§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_kaguya_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y‰Y§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_aya_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y‡e§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_momiji_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Yi§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_hatate_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Yœg§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_megumu_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y™Ÿ§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_mima_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YE›T›§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_sagume: "ÛbegãS‚KNxy„vsY^y"
+ th_advisor_sagume_desc: "¢csY=f*N(WbìN†˜0WN^×SleIY„v„v^yup0yYwQ	gNÍyïSÇvQÝ‹í‹l‹N`„vyrŠkýw›R0yY„vCg¿RÊSýw›RïSOS©RbìNlSVïzó=UNckáOÿgºN`ó`0"
+ th_advisor_doremy: "¦hKN=eM‘w"
+ th_advisor_doremy_desc: "ÆTegªTwQ	gNÍyR.0ÍdµuNTlV¦hƒX„vGYyrýw›R0yYàVdk—VåNÇ¦hƒXeg	gHe†Nã‰N*NºN0bìNïS(WY²N‹N¡RNÐ(uvQMbýw0"
+ th_advisor_hina: "Øy^yAmÏ–"
+ th_advisor_hina_desc: "„SÐKN^yÏ–ÿýwŠb„SÐóûNa0W¹påN.bÁkmp'`ÓuNS0yY„výw›RùRŽNzúQÍ‘ôV2SHN	gHe0"
+ th_advisor_reisen: "Ârl„v–Y*`TQ"
+ th_advisor_reisen_desc: "Ã”ÙN=fbìNÎNMR„v RirÿyY(Wgb—b‰Ngô•ÎNbìNÙ?Q1†N0Ã”ÙNwQ	gaåwNÍdµuT‰|‹Wâl•„výw›R0yYØýwñ‹ÑS¾|^y1Y8^ÿwyY±¢u<wmN8^jOHN Rø‹ŽNûNaºNIrN„vgbLˆKbµk0NÅN‚YdkÿyYØ	gNw0NÌR„v›QÅeÏu†SÿÙ¿O=fHNUOyYO	g©RŽNbìN„vŸSàV0"
+ th_advisor_kaguya: "8lÜ„vlQIN"
+ th_advisor_kaguya_desc: "‰Y=fÎNMR„vgKNlQINÿyY(WˆVENKNMR1S«ˆbìN>e†N0bìNïSÙuˆNyYôfYHgO©‹yY(W«R÷^-NûNLwŒ˜î•åNUS°svQ)R(u÷N<P0wÙb¸‹OO‹NÅ`žROW&&"
+ th_advisor_aya: ".Oßu„v‰^ó`°‹w"
+ th_advisor_aya_desc: "‡e=f0‡e‡e0°eû•0„vÅbSV°‹wÿmN=f)Y×r>yOÌ‘gwQqVÍT›R„v„v&ž)Y×rKNN0KS¡ryY„v¥bSINèe«ˆbV¹RHN&&öe	gOP‡˜,Œï‹ÿFO‡eÍN6qOKSvQNbýwZWˆRwøv0"
+ th_advisor_momiji: "NïzèTb)Y×r"
+ th_advisor_momiji_desc: "i=f)Y×r>yO-N„vfk›R=eñg‹vür)Y×rìN„v†˜–ˆ0‹†ô‹yY(W.OßuIrµu6R¦^-NYŽNQSMOÿFOiØ=fåNýV2–'YãNLwÖS—V†NY«ŽŽN«R÷^…Q„v0WMO0"
+ th_advisor_hatate: "SVãN„võV™Q°‹w"
+ th_advisor_hatate_desc: "œg=f0±‚œgPRõV¥b0„vÅbSV°‹w0N+R„v&ž)Y×rNTÿœg(W&ž)Y×r„v¾|ñ‚ININIrµu6R¦^-NYŽNSMOÿàVdkyY„vaÁ‰uóýwôv'Y)Y×r0"
+ th_advisor_megumu: "&ž)Y×r„v–™†˜"
+ th_advisor_megumu_desc: "NMOuŽN'Y)Y×r0WMON„v&ž)Y×r0™Ÿ=f&ž)Y×r„vw'YmN=f'Y)Y×rÌ‘„v†˜–ˆ0yYÙìryr0WMOOvQ(W«R÷^…Q>N³‰Í‘0"
+ th_advisor_mima: "v`up"
+ th_advisor_mima_desc: "E›T›=f‰^ó`aN	gòSåNeggO'Y„vT›sYKNN0‹†6qyYjOHNv`up„vÙN°ebV`6R¦u†NyYÿFOyY„výw›RÊSvQjOHN°eKfT›sYìN„vYe^NLwÍNOvQ>N³‰Í‘ŽN«R÷^0"
+ lcu_call_sagume_title: "äN¢csYúQÕN"
+ lcu_call_sagume_desc: "¢csY=f*N(WbìN†˜0WN^×SleIY„v„v^yup0yYwQ	gNÍyïSÇvQÝ‹í‹l‹N`„vyrŠkýw›R0yY„vCg¿RÊSýw›RïSOS©RbìNlSVïzó=UNckáOÿgºN`ó`0"
+ lcu_sagume_hired_for_thirty_years: "§Y¢csY§!¡l	g×S‹TúQÕN0"
+ lcu_hire_sagume.tt: "z^y¢csYeg0R†NbìN«R÷^0"
+ lcu_call_doremy_title: "äNÆTegªTúQÕN"
+ lcu_call_doremy_desc: "ÆTegªTwQ	gNÍyR.0ÍdµuNTlV¦hƒX„vGYyrýw›R0yYàVdk—VåNÇ¦hƒXeg	gHe†Nã‰N*NºN0bìNïS(WY²N‹N¡RNÐ(uvQMbýw0"
+ lcu_doremy_hired_for_thirty_years: "§YÆTegªT§!¡l	g×S‹TúQÕN0"
+ lcu_hire_doremy.tt: "ÆTegªT·Ï‚Oyreg0R†NbìN«R÷^0"
+ lcu_call_hina_title: "äNÏ–úQÕN"
+ lcu_call_hina_desc: "„SÐKN^yÏ–ÿýwŠb„SÐóûNa0W¹påN.bÁkmp'`ÓuNS0yY„výw›RùRŽNzúQÍ‘ôV2SHN	gHe0"
+ lcu_hire_hina.tt: ".•qSÏ–eg0R†NbìN«R÷^0"
+ lcu_hina_hired_for_thirty_years: "§YÏ–§!¡l	g×S‹TúQÕN0"
+ lcu_call_reisen_title: "äNÃ”ÙNúQÕN"
+ lcu_call_reisen_desc: "Ã”ÙN=fbìNÎNMR„v RirÿyY(Wgb—b‰Ngô•ÎNbìNÙ?Q1†N0Ã”ÙNwQ	gaåwNÍdµuT‰|‹Wâl•„výw›R0yYØýwñ‹ÑS¾|^y1Y8^ÿwyY±¢u<wmN8^jOHN Rø‹ŽNûNaºNIrN„vgbLˆKbµk0NÅN‚YdkÿyYØ	gNw0NÌR„v›QÅeÏu†SÿÙ¿O=fHNUOyYO	g©RŽNbìN„vŸSàV0"
+ lcu_hire_reisen.tt: "Ã”ÙNeg0R†NbìN«R÷^0"
+ lcu_reisen_hired_for_thirty_years: "§YÃ”ÙN§!¡l	g×S‹TúQÕN0"
+ lcu_call_kaguya_title: "äN‰YúQÕN"
+ lcu_call_kaguya_desc: "‰Y=fÎNMR„vgKNlQINÿyY(WˆVENKNMR1S«ˆbìN>e†N0bìNïSÙuˆNyYôfYHgO©‹yY(W«R÷^-NûNLwŒ˜î•åNUS°svQ)R(u÷N<P0wÙb¸‹OO‹NÅ`žROW&&"
+ lcu_hire_kaguya.tt: "‰Yeg0R†NbìN«R÷^0"
+ lcu_kaguya_hired_for_thirty_years: "§Y‰Y§!¡l	g×S‹TúQÕN0"
+ lcu_call_eirin_title: "äN8l3túQÕN"
+ lcu_call_eirin_desc: "8l3t=f*N)YMbv^N(WISoƒÊSÑyŽb†˜ßWNgwQ)YK00gKN4Y0„vnx=fbìNÙ*NöeãNgjwga„vŒ˜î•KNN0"
+ lcu_hire_eirin.tt: "8l3teg0R†NbìN«R÷^0"
+ tgu_call_aya_title: "äN‡eúQÕN"
+ tgu_call_aya_desc: "‡e=f0‡e‡e0°eû•0„vÅbSV°‹wÿmN=f)Y×r>yOÌ‘gwQqVÍT›R„v„v&ž)Y×rKNN0KS¡ryY„v¥bSINèe«ˆbV¹RHN&&öe	gOP‡˜,Œï‹ÿFO‡eÍN6qOKSvQNbýwZWˆRwøv0"
+ tgu_aya_hired_for_thirty_years: "§Y‡e§!¡l	g×S‹TúQÕN0"
+ tgu_call_momiji_title: "äNiúQÕN"
+ tgu_call_momiji_desc: "i=f)Y×r>yO-N„vfk›R=eñg‹vür)Y×rìN„v†˜–ˆ0‹†ô‹yY(W.OßuIrµu6R¦^-NYŽNQSMOÿFOiØ=fåNýV2–'YãNLwÖS—V†NY«ŽŽN«R÷^…Q„v0WMO0"
+ tgu_momiji_hired_for_thirty_years: "§Yi§!¡l	g×S‹TúQÕN0"
+ tgu_call_hatate_title: "äNœgúQÕN"
+ tgu_call_hatate_desc: "œg=f0±‚œgPRõV¥b0„vÅbSV°‹w0N+R„v&ž)Y×rNTÿœg(W&ž)Y×r„v¾|ñ‚ININIrµu6R¦^-NYŽNSMOÿàVdkyY„vaÁ‰uóýwôv'Y)Y×r0"
+ tgu_hatate_hired_for_thirty_years: "§Yœg§!¡l	g×S‹TúQÕN0"
+ tgu_call_megumu_title: "äN™ŸúQÕN"
+ tgu_call_megumu_desc: "NMOuŽN'Y)Y×r0WMON„v&ž)Y×r0™Ÿ=f&ž)Y×r„vw'YmN=f'Y)Y×rÌ‘„v†˜–ˆ0yYÙìryr0WMOOvQ(W«R÷^…Q>N³‰Í‘0"
+ tgu_megumu_hired_for_thirty_years: "§Y™Ÿ§!¡l	g×S‹TúQÕN0"
+ fom_call_mima_title: "Üb÷‹E›T›ôc©R"
+ fom_call_mima_desc: "E›T›=f‰^ó`aN	gòSåNeggO'Y„vT›sYKNN0‹†6qyYjOHNv`up„vÙN°ebV`6R¦u†NyYÿFOyY„výw›RÊSvQjOHN°eKfT›sYìN„vYe^NLwÍNOvQ>N³‰Í‘ŽN«R÷^0"
+ fom_mima_hired_for_thirty_years: "§YE›T›§!¡l	g«ˆÜb÷‹0"
+ th_advisor_daiyousei_upgraded_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(uôfwQžR›R„v§Y'Y–Y¾|§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_flandre_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y™‚pQ5g2—§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_yorihime_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YOìY§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_iku_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Ycˆ–s§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_star_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y¯eTX§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_clownpiece_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YKQ³Ri`®vN§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_daiyousei_upgraded: "'Y–Y¾|"
+ th_advisor_daiyousei_upgraded_desc: "'Y–Y¾|=f*t2—ú‹g‹Y„vgËS0N+R„v–Y¾|NN7hÿ'Y–Y¾|Ôkƒ`uNNOÏu8^(WlQVHWT2—b—g	gïSýw=fàVHNyYmN=fôfHNjwf„v–Y¾|KNN0\n(WkNþ‹QÄubTÿ'Y–Y¾|—VåNíQPôf0NÌR„vÏuŒšNípÅ`eg=ec*t2—ú‹0"
+ th_advisor_flandre: "v`T›KN¹Y"
+ th_advisor_flandre_desc: "™‚pQ5g2—=fœœ¢uv`T›,gS„v¹Y¹Y0KS¡ryY„vÐYÐYMb=f¶R-NKN•ÿFOôfHV„v±MO8TNˆ<›R=f™‚pQ0yY8^OŠböeô•(u(W0WN²RÌ‘ê?a0W…VN»S0"
+ th_advisor_star: "fKNIQ–Y¾|"
+ th_advisor_star_desc: "IQKN	N–Y¾|„vvQ-NNXT0¯eTXŒŒ<O=f	NºNSV-Nb—e›Rg1V„v±MOÿFOº‹4YtS=fgjwf„v±MO0yYT7h„UŽN²NËSb=fNÖNºNSb²NS0"
+ th_advisor_clownpiece: "0Wñr„v–Y¾|"
+ th_advisor_clownpiece_desc: "KQ³Ri`®vN=f‰^ó`aNžR(N„vgHV–Y¾|ÿwN«ˆvQINºNkaSÐcšNNb	-N»S(W^yup¯uÐrùR—bgKNl„vb‰N-N²bkS¯uÐr0yY±qšOu‹T›R´fpåNÊSOºNÑSÂr„výw›RùRb›Qegô‹g	g÷N<P0"
+ clp_call_star_title: "äN¯eTXúQÕN"
+ clp_call_star_desc: "IQKN	N–Y¾|„vvQ-NNXT0¯eTXŒŒ<O=f	NºNSV-Nb—e›Rg1V„v±MOÿFOº‹4YtS=fgjwf„v±MO0yYT7h„UŽN²NËSb=fNÖNºNSb²NS0"
+ clp_star_hired_for_thirty_years: "§Y¯eTX§!¡l	g×S‹TúQÕN0"
+ clp_call_general_Sunny_title: "äNQh<SŒc›Qÿ"
+ clp_call_general_Sunny_desc: "åeKNIQ–Y¾|Qh<Ss|SKQTaHNbìN.sNvQ›RÏ‘0yYS&^†˜bìNpTÜw)Rÿ"
+ clp_call_admiral_Luna_title: "äN2—ZŒc0‚"
+ clp_call_admiral_Luna_desc: "gKNIQ–Y¾|2—ZR2—·VTaHNbìN.sNvQ›RÏ‘0yY„výw›RïScVb0‚–Nô÷1Y¹eT0"
+ lrv_call_clownpiece_title: "äNKQ³Ri`®vNúQÕN"
+ lrv_call_clownpiece_desc: "KQ³Ri`®vN=f‰^ó`aNžR(N„vgHV–Y¾|ÿwN«ˆvQINºNkaSÐcšNNb	-N»S(W^yup¯uÐrùR—bgKNl„vb‰N-N²bkS¯uÐr0yY±qšOu‹T›R´fpåNÊSOºNÑSÂr„výw›RùRb›Qegô‹g	g÷N<P0"
+ lrv_clownpiece_hired_for_thirty_years: "§YKQ³Ri`®vN§!¡l	g×S‹TúQÕN0"
+ th_advisor_konngara_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YÜw¯W§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_seiga_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YR—%Z§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_reimu_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Yup¦h§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_marisa_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YT›t™l§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_sariel_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y(„KN1rS§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_rika_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YÌ‘™™§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_meira_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YfW§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_kana_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YaSZ§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_ellen_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y1r²ƒ§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_rikako_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Yt™™PR§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_chiyuri_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YCSŒvT§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_yumemi_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y¦hŽ§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_kurumi_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YáwCh§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_elly_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YŒ‚KN§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_yuuka_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y‹^™™§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_mugetsu_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y¦hg§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_gengetsu_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y‰^g§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_yumeko_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y¦hPR§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_shinki_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y^yîu§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_rumia_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y2—s|Z§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_cirno_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y*t2—ú‹§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_meiling_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YŽÃ”§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_remilia_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YŒ…s|‰ƒšN§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_letty_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YŒ…‚„§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_lily_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y‰ƒ‰ƒ§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_lunasa_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y2—Z(„§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_merlin_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y…h2—pQ§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_lyrica_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y‰ƒ‰ƒaS§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_yuyuko_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y‹^‹^PR§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_ran_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YÝ„§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_yukari_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y+t§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_wriggle_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y‰ƒ<h2—§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_mystia_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Ys|¯e‚„Z§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_tewi_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y^§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_mokou_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y¹Y¢u§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_medicine_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y…h‚„1k§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_eiki_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Y.fìY§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_shizuha_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YY—öS§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_minoriko_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YpzPR§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_nitori_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§YwƒÖS§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_sanae_enabled_tt: "bìN°s(WïSåNÇ³Q®‹egÇ–(u§Yée×‚§!åNÅbSVbìN„vŒ˜î•ÿ"
+ th_advisor_konngara: "f‹^QRëX"
+ th_advisor_konngara_desc: "Üw¯W=fMO|QwQ^yØyN.Oû•„vQRëX0'Y¶RNbnZi„vêS	gyY±Øš…„vQRŽbÿÙO—VyYùRbìN„vekuQegô‹b†NNMOgÌR÷N<P„vF–›QS^0"
+ th_advisor_seiga: "ªÙN"
+ th_advisor_seiga_desc: "R—%Z=fMOôfÏP=fv`upw^—ckÏu–ëX„vÙNºN0ïSyY„výw›RNMbzfùRbìN±ýwNQ«ˆ™XÁXKN‚iõVNbmg„vO‚‚egô‹tS=fN'Yi`P0"
+ th_advisor_reimu: "PNíV„vëTsY"
+ th_advisor_reimu_desc: "‰^ó`aNëTsYKNSÊS‰^ó`aNˆR²bw,gS0v^^—YŽN‰^ó`aNIrµuéy^gØšMO„vup¦hÿtSýwåNvQ…NNºNN–Y„vžR›RegíQNËNIY^yëTsYKN«Žû«ŽHNN'Y.OGYºNir0"
+ th_advisor_marisa: "nf„vT›ÕlO"
+ th_advisor_marisa_desc: "T››R³ïSÔk©wZSKNup¦h„v‰^ó`aNT›sY0SVT›t™lQ¦^NSbÛb|T1SPÖS0iröeÿ¡l	gYSºNýwNvQžR›RÊSá‹¡‹—baˆ0"
+ th_advisor_sariel: "‰kKN)YO"
+ th_advisor_sariel_desc: "wnÊS›RÏ‘†v^SNf„v)YO0àeº‹(„KN1rS1uUO(WÿvQžR›Rê=fNŠêf„v0"
+ th_advisor_rika: "bfåTz^"
+ th_advisor_rika_desc: "eg†SNSpe†vNf„vŽb^ÊSåTz^0Ì‘™™=fN•=fSb.ÁkmpKNVÎd0"
+ th_advisor_meira: "+t¢ufkëX"
+ th_advisor_meira_desc: "+t¢ur‚fkëX„vQRŽbàeºNïSNKN9SLe0"
+ th_advisor_kana: "SsYššup"
+ th_advisor_kana_desc: ""
+ th_advisor_ellen: "GYyrT›sY"
+ th_advisor_ellen_desc: ""
+ th_advisor_rikako: "¦hó`ÑyfR¶R"
+ th_advisor_rikako_desc: ""
+ th_advisor_chiyuri: "¦h‰^ESl"
+ th_advisor_chiyuri_desc: ""
+ th_advisor_yumemi: "¦h‰^.Oô‹"
+ th_advisor_yumemi_desc: ""
+ th_advisor_kurumi: "8TNˆSsY"
+ th_advisor_kurumi_desc: ""
+ th_advisor_elly: "ˆRè•ºN"
+ th_advisor_elly_desc: ""
+ th_advisor_yuuka: "ÛVcR„vœœ±‚KNIN"
+ th_advisor_yuuka_desc: ""
+ th_advisor_mugetsu: "v`T›SsY"
+ th_advisor_mugetsu_desc: ""
+ th_advisor_gengetsu: "0WñrKNIN"
+ th_advisor_gengetsu_desc: ""
+ th_advisor_yumeko: "T›LusYÆN"
+ th_advisor_yumeko_desc: ""
+ th_advisor_shinki: "T›LuKN^y"
+ th_advisor_shinki_desc: ""
+ th_advisor_rumia: "µR—f„v–Y*`"
+ th_advisor_rumia_desc: ""
+ th_advisor_cirno: "°QKN–Y¾|"
+ th_advisor_cirno_desc: ""
+ th_advisor_meiling: "‰egKN™Ÿ"
+ th_advisor_meiling_desc: ""
+ th_advisor_remilia: "œœ¢uv`T›"
+ th_advisor_remilia_desc: ""
+ th_advisor_letty: "¬QåeKNB›"
+ th_advisor_letty_desc: ""
+ th_advisor_lily: "%fKNOw"
+ th_advisor_lily_desc: ""
+ th_advisor_lunasa: "ššupÐc4tKb"
+ th_advisor_lunasa_desc: ""
+ th_advisor_merlin: "ššupS÷SKb"
+ th_advisor_merlin_desc: ""
+ th_advisor_lyrica: "ššup.•ØvKb"
+ th_advisor_lyrica_desc: ""
+ th_advisor_yuyuko: "NSåw„v¡Nup"
+ th_advisor_yuyuko_desc: ""
+ th_advisor_ran: "V^yKN–™"
+ th_advisor_ran_desc: ""
+ th_advisor_yukari: "ƒXLu2w"
+ th_advisor_yukari_desc: ""
+ th_advisor_wriggle: "k†²KNIN"
+ th_advisor_wriggle_desc: ""
+ th_advisor_mystia: "YÀ–‰^qV"
+ th_advisor_mystia_desc: ""
+ th_advisor_tewi: "tzfKNP`ç`"
+ th_advisor_tewi_desc: ""
+ th_advisor_mokou: "’TTè•KNŽp"
+ th_advisor_mokou_desc: ""
+ th_advisor_medicine: "SS„vu‡Òkoƒ"
+ th_advisor_medicine_desc: ""
+ th_advisor_eiki: "PNíV„vgØšÁˆ2R•"
+ th_advisor_eiki_desc: ""
+ th_advisor_shizuha: "ÂRÞRNÈu	q„vaŒV"
+ th_advisor_shizuha_desc: ""
+ th_advisor_minoriko: "0NÕˆN6eb„vaŒV"
+ th_advisor_minoriko_desc: ""
+ th_advisor_nitori: "…–Y*`9V4Y"
+ th_advisor_nitori_desc: ""
+ th_advisor_sanae: "qSN„v°eºN^yf"
+ th_advisor_sanae_desc: ""
+ okr_call_konngara_title: "äNÜw¯WúQÕN"
+ okr_call_konngara_desc: "Üw¯W=fMO|QwQ^yØyN.Oû•„vQRëX0'Y¶RNbnZi„vêS	gyY±Øš…„vQRŽbÿÙO—VyYùRbìN„vekuQegô‹b†NNMOgÌR÷N<P„vF–›QS^0"
+ okr_konngara_hired_for_thirty_years: "§YÜw¯W§!¡l	g×S‹TúQÕN0"
+ jnk_call_hecatia_title: "Üb÷‹kaSÐcšNôc©R"
+ jnk_call_hecatia_desc: "kaSÐcšN=f0Wñr„vNµusY^yÿ=f‰^ó`aNgHV„vXR(W0yY±äS*`„v'`<hOvQr^wImegOöeNöe0WžROW‹NÅ`ÿwyY„vzfgaNåwÆ‹ùRbýVegô‹	gNwàeÔk„v÷N<P0"
+ jnk_call_seiga_title: "äNR—%ZúQÕN"
+ jnk_call_seiga_desc: "—R—%Z=fMOêUWÏuåe,gMReg0R‰^ó`aN„vªÙN0d–†N*N'`VN>bYÿyYàVÚ‹ŽN¯uÐrv^òTÆQY‹YåNvQ›RÏ‘øv©Rb¹e0"
+ jnk_seiga_hired_for_thirty_years: "§YR—%Z§!¡l	g×S‹TúQÕN0"
+ th_call_th_advisor_reimu_title: "äNup¦húQÕN"
+ th_call_th_advisor_reimu_desc: ""
+ th_call_th_advisor_marisa_title: "äNT›t™lúQÕN"
+ th_call_th_advisor_marisa_desc: ""
+ th_call_th_advisor_sariel_title: "äN(„KN1rSúQÕN"
+ th_call_th_advisor_sariel_desc: ""
+ th_call_th_advisor_rika_title: "äNÌ‘™™úQÕN"
+ th_call_th_advisor_rika_desc: ""
+ th_call_th_advisor_meira_title: "äNfWúQÕN"
+ th_call_th_advisor_meira_desc: ""
+ th_call_th_advisor_kana_title: "äNaSZúQÕN"
+ th_call_th_advisor_kana_desc: ""
+ th_call_th_advisor_ellen_title: "äN1r²ƒúQÕN"
+ th_call_th_advisor_ellen_desc: ""
+ th_call_th_advisor_rikako_title: "äNt™™PRúQÕN"
+ th_call_th_advisor_rikako_desc: ""
+ th_call_th_advisor_chiyuri_title: "äNCSŒvTúQÕN"
+ th_call_th_advisor_chiyuri_desc: ""
+ th_call_th_advisor_yumemi_title: "äN¦hŽúQÕN"
+ th_call_th_advisor_yumemi_desc: ""
+ th_call_th_advisor_kurumi_title: "äNáwChúQÕN"
+ th_call_th_advisor_kurumi_desc: ""
+ th_call_th_advisor_elly_title: "äNŒ‚KNúQÕN"
+ th_call_th_advisor_elly_desc: ""
+ th_call_th_advisor_yuuka_title: "äN‹^™™úQÕN"
+ th_call_th_advisor_yuuka_desc: ""
+ th_call_th_advisor_mugetsu_title: "äN¦hgúQÕN"
+ th_call_th_advisor_mugetsu_desc: ""
+ th_call_th_advisor_gengetsu_title: "äN‰^gúQÕN"
+ th_call_th_advisor_gengetsu_desc: ""
+ th_call_th_advisor_yumeko_title: "äN¦hPRúQÕN"
+ th_call_th_advisor_yumeko_desc: ""
+ th_call_th_advisor_shinki_title: "äN^yîuúQÕN"
+ th_call_th_advisor_shinki_desc: ""
+ th_call_th_advisor_rumia_title: "äN2—s|ZúQÕN"
+ th_call_th_advisor_rumia_desc: ""
+ th_call_th_advisor_cirno_title: "äN*t2—ú‹úQÕN"
+ th_call_th_advisor_cirno_desc: ""
+ th_call_th_advisor_meiling_title: "äNŽÃ”úQÕN"
+ th_call_th_advisor_meiling_desc: ""
+ th_call_th_advisor_remilia_title: "äNŒ…s|‰ƒšNúQÕN"
+ th_call_th_advisor_remilia_desc: ""
+ th_call_th_advisor_letty_title: "äNŒ…‚„úQÕN"
+ th_call_th_advisor_letty_desc: ""
+ th_call_th_advisor_lily_title: "äN‰ƒ‰ƒúQÕN"
+ th_call_th_advisor_lily_desc: ""
+ th_call_th_advisor_lunasa_title: "äN2—Z(„úQÕN"
+ th_call_th_advisor_lunasa_desc: ""
+ th_call_th_advisor_merlin_title: "äN…h2—pQúQÕN"
+ th_call_th_advisor_merlin_desc: ""
+ th_call_th_advisor_lyrica_title: "äN‰ƒ‰ƒaSúQÕN"
+ th_call_th_advisor_lyrica_desc: ""
+ th_call_th_advisor_yuyuko_title: "äN‹^‹^PRúQÕN"
+ th_call_th_advisor_yuyuko_desc: ""
+ th_call_th_advisor_ran_title: "äNÝ„úQÕN"
+ th_call_th_advisor_ran_desc: ""
+ th_call_th_advisor_yukari_title: "äN+túQÕN"
+ th_call_th_advisor_yukari_desc: ""
+ th_call_th_advisor_wriggle_title: "äN‰ƒ<h2—úQÕN"
+ th_call_th_advisor_wriggle_desc: ""
+ th_call_th_advisor_mystia_title: "äNs|¯e‚„ZúQÕN"
+ th_call_th_advisor_mystia_desc: ""
+ th_call_th_advisor_tewi_title: "äN^úQÕN"
+ th_call_th_advisor_tewi_desc: ""
+ th_call_th_advisor_mokou_title: "äN¹Y¢uúQÕN"
+ th_call_th_advisor_mokou_desc: ""
+ th_call_th_advisor_medicine_title: "äN…h‚„1kúQÕN"
+ th_call_th_advisor_medicine_desc: ""
+ th_call_th_advisor_eiki_title: "äN.fìYúQÕN"
+ th_call_th_advisor_eiki_desc: ""
+ th_call_th_advisor_shizuha_title: "äNY—öSúQÕN"
+ th_call_th_advisor_shizuha_desc: ""
+ th_call_th_advisor_minoriko_title: "äNpzPRúQÕN"
+ th_call_th_advisor_minoriko_desc: ""
+ th_call_th_advisor_nitori_title: "äNwƒÖSúQÕN"
+ th_call_th_advisor_nitori_desc: ""
+ th_call_th_advisor_sanae_title: "äNée×‚úQÕN"
+ th_call_th_advisor_sanae_desc: ""

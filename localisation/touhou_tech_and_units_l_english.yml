@@ -1,0 +1,171 @@
+﻿l_english:
+ tech_gensokyan: "‰^ó`aN"
+ tech_gensokyan_desc: "‰^ó`aN"
+ tech_lunarian: "gt"
+ tech_lunarian_desc: "gt"
+ tech_gensokyan_lunarian: "°sãNSgt"
+ tech_gensokyan_lunarian_desc: "°sãNSgt"
+ infantry_gen_t1_01: "&ž"
+ infantry_gen_t1_01DESCR: "NêSHgup„vSž	göemNýwnbbºNìNNbŸqåw„vHV'Y–Y*`0"
+ infantry_gen_t1_02: "(`up"
+ infantry_gen_t1_02DESCR: "NÍy(WyrŠkÅ`µQNÞ‹u„v¡Nup0"
+ infantry_gen_t1_03: "–Y¾|"
+ infantry_gen_t1_03DESCR: "sSO=fS–Y¾|mN	gÑSS9VU^„výw›R0"
+ infantry_gen_t1_04: "ŽrfºNvP"
+ infantry_gen_t1_04DESCR: "Žrf„vïS¨RºNvPÿPg(mN=føvSV„vŽrf0"
+ infantry_gen_t5_01: "±‚0u–Y¾|"
+ infantry_gen_t5_01DESCR: "NÍyÿbNwTåeu„„vHV›R–Y¾|0"
+ infantry_gen_t5_02: "‹^up"
+ infantry_gen_t5_02DESCR: "xdN»SÉQÉQ„vTöemN	gæ‰°x0RºN‰|„výw›R0"
+ infantry_gen_t5_03: "õP8S"
+ infantry_gen_t5_03DESCR: "«ˆYImweg„vN‰kàVÆN0"
+ infantry_gen_t5_04: "HQÛºNvP"
+ infantry_gen_t5_04DESCR: "6RjOPg(	gÏuÇ9e„U„vHQÛºNvP0"
+ infantry_gen_t9_01: "ºNvP›QâV"
+ infantry_gen_t9_01DESCR: "N=eïS¨R„vºNvPè–0"
+ infantry_gen_t9_02: "–YT›"
+ infantry_gen_t9_02DESCR: "«ˆkQ‘N+t.OúQeg„v–YT›<›*`0"
+ infantry_gen_t9_03: "jmºNfkëX"
+ infantry_gen_t9_03DESCR: "°xçTúQ°s(W‰^ó`aNÌ‘„vºN‰|fkëX0"
+ infantry_gen_t9_04: "T›Lu–Y¾|"
+ infantry_gen_t9_04DESCR: "egêT›LuÙEQ¥eNwT››RNÒk„v†˜ßW„v–Y¾|0"
+ infantry_gen_t12_01: "³låz¦OßRè–"
+ infantry_gen_t12_01DESCR: "gœU0kÄžÜt†N0"
+ infantry_gen_t12_02: "JSup"
+ infantry_gen_t12_02DESCR: "JSºNJSupN×SÇ–Y¦h„v­‹Ãu0"
+ infantry_gen_t12_03: "HQÛºNvP›QâV"
+ infantry_gen_t12_03DESCR: "N=eïS¨R„vºNvPè–N(W6RjOPg™eÊST››RNý	gNwôfØš„v(Ï‘0"
+ infantry_gen_t12_04: "0*t2—)RšN0–Y¾|"
+ infantry_gen_t12_04DESCR: "*t2—ú‹yYêñT­‹ÃuúQeg„vyrŠk–Y¾|è–0"
+ infantry_gen_t15_01: "³låzekuQ"
+ infantry_gen_t15_01DESCR: "ôfœU0kVªgwN=f.ªg„vUÁ‰³låz0"
+ infantry_gen_t15_02: "ôWn›QëX"
+ infantry_gen_t15_02DESCR: "1u.‹W^yR.„vOÀyëXuQ0"
+ infantry_gen_t15_03: "fkÅˆëTsY"
+ infantry_gen_t15_03DESCR: "(uegÝO²b^y>yåNÊSi±”±r„vfkÅˆëTsY0"
+ infantry_gen_t15_04: "wS–Y¾|"
+ infantry_gen_t15_04DESCR: "yr+Rýw—bÍc„v–Y¾|0"
+ infantry_gen_t19_01: "‹vür)Y×r"
+ infantry_gen_t19_01DESCR: "–Y*`KNqS„v2–¡V›RÏ‘0"
+ infantry_gen_t19_02: "–T›fR’V"
+ infantry_gen_t19_02DESCR: "ckfR`NNw‚YUOO(u”`Ÿ`Òheg­eHhåNÊSSbúQ2O³R„vt^‰–T›0"
+ infantry_gen_t19_03: "t^‰T›ÕlO"
+ infantry_gen_t19_03DESCR: "ó`Nw‰»SÁ‰Á‰Nb—„v'YÆwT›ÕlO0"
+ infantry_gen_t19_04: "×S­‹–Y¾|"
+ infantry_gen_t19_04DESCR: "1uÔk*t2—ú‹ôfÂa›Q‹N„vÐgMO­‹ÃuúQeg„v–Y¾|0"
+ infantry_gen_t26_01: "<›ÏefkëX"
+ infantry_gen_t26_01DESCR: "‰^ó`aNÌ‘gHV'Y„vuirKNN0"
+ infantry_gen_t26_02: "+wz^y>yëTsY"
+ infantry_gen_t26_02DESCR: "ÈSwzÈS=tÈSANGRY„vëTsYÿÆQY‹Y»SÓumgNb	g–Y*`„v'`‹T†N0"
+ infantry_gen_t26_03: "NwmºNvPè–"
+ infantry_gen_t26_03DESCR: "1rKNNg‹Y„vºNvPÿ	gNwg‹Y„vPg(ŒTT››R0"
+ infantry_gen_t26_04: "Ârl–Y¾|"
+ infantry_gen_t26_04DESCR: "1uKQ³Ri`®vN­‹ÃuúQeg„v–Y¾|0"
+ cavalry_gen_t1_01: "ºN‰|‘šuQè–"
+ cavalry_gen_t1_01DESCR: "ºN‰|=f‰^ó`aNÌ‘=UNN*Noš‰Qlš„vÍyÏe0"
+ cavalry_gen_t1_02: "Î¬r"
+ cavalry_gen_t1_02DESCR: "NÍyÝO²bºN‰|ZwK„„v–Y*`ür0"
+ cavalry_gen_t1_03: "Im¨Rkb^"
+ cavalry_gen_t1_03DESCR: "NŠb«ˆT›sYËeÕlÇ„vÅwckb^0"
+ cavalry_gen_t6_01: "‹^up‘šKb"
+ cavalry_gen_t6_01DESCR: "sS5–¡l‘šuQ„v¡Nup0"
+ cavalry_gen_t6_02: "'Ykž"
+ cavalry_gen_t6_02DESCR: "«ˆÙNLu„v–ëXNbošg0"
+ cavalry_gen_t6_03: "t^‰T›ÕlO"
+ cavalry_gen_t6_03DESCR: "NMOàQNN¡l	gûNUOjObÏuŒš„vt^‰T›sY0"
+ cavalry_gen_t10_01: "÷–‹Q"
+ cavalry_gen_t10_01DESCR: "NÍy&^ÒkNOÑS5u„vÎ‘‹Q0"
+ cavalry_gen_t10_02: ")Y×r°euQ"
+ cavalry_gen_t10_02DESCR: "tQôØšf„v)Y×rbëXÆQYÎb0"
+ cavalry_gen_t10_03: "wÃuT›ÕlO"
+ cavalry_gen_t10_03DESCR: "NMOÏuŒš0NÌR„vT›sYM‘NyY„vkb^0"
+ cavalry_gen_t14_01: "neQS"
+ cavalry_gen_t14_01DESCR: "jOHN0WñrÆNºN„vneQSÿvQérsalýy„vupB›0"
+ cavalry_gen_t14_02: "‘šXNM‘nºNvP"
+ cavalry_gen_t14_02DESCR: "Im¨RºNvPM‘NºNvPêñT„vÞ˜Lˆkb^0"
+ cavalry_gen_t17_01: "JS–YµOkS"
+ cavalry_gen_t17_01DESCR: "ŒNR„vÆ–Tÿ=f–Y*`ÈSwQYNwNSNTŽN–Y*`„v›RÏ‘0"
+ cavalry_gen_t17_02: "HQÛ‘šXNM‘nºNvP"
+ cavalry_gen_t17_02DESCR: "	gNwôfØšPg(ŒTT››R„vIm¨RºNvPM‘Nkb^0"
+ cavalry_gen_t23_01: ")YºN‘N‘šKb"
+ cavalry_gen_t23_01DESCR: ")YºN„v›RÏ‘egêŽN)YLuKNIN0"
+ cavalry_gen_t23_02: "Hg2uºNvP"
+ cavalry_gen_t23_02DESCR: "›s<hyrmO·V„vT›ÕlN³låz„vŽb=gÄuTwb„vÓuvf0"
+ cavalry_gen_t28_01: "Þ˜zzT›sYÆ–O"
+ cavalry_gen_t28_01DESCR: "Þ˜Lˆkb^ïS=fT›sYìN„v.OßuåTwQ~daze~"
+ cavalry_gen_t28_02: "&ž)Y×r×rÔN°‹w"
+ cavalry_gen_t28_02DESCR: "ÇIm(uyYìN„v¦^ÊSÍdÎ˜=gO—VÅN=fSè–Ä‰!j„v)Y×rmN=føvSV„vqSi–0"
+ cavalry_lcu_t1_01: "gºN8nsw"
+ cavalry_lcu_t1_01DESCR: "gb—„v2–ˆRÎNegN—‰`—‘šuQÿFO=fÍN	gN›NgºNó`‰(W›Q–-Ng¡R08^Ù›NgºNO=férs„v1r‹YwÿNÇÖNìNÔkw‘šNgt„vlš9S„vgTQØ=f‰ôfÜwNyr„v0"
+ cavalry_lcu_t1_02: "0Wñr–Y¾|‘šKb"
+ cavalry_lcu_t1_02DESC: "US¯u„v0Wñr–Y¾|ÿØ(WÃu`N‘š=g-N0wQ†0RÖNìN„vÏuŒšÿvQSNýwÑS%cúQÖNìN„vhQèjo›RÿNÇÖNìNO6q=f(uŽNb—e„vÄ–šSD,g0"
+ cavalry_lcu_t6_01: "gºNÔkfkw"
+ cavalry_lcu_t6_01DESCR: "ÔkfkwŒTN,‚„v8nswøvÔk(W‘š=g¹eb—	gNwôf0NÌR„vÏuŒš06qwÿÖNìNO6qêS=fÎN•ªgÔkfk-NfR0Rb—eÏuŒš„vgºN‘šKbb†N0"
+ cavalry_lcu_t6_02: "0Wñr–Y¾|²Q•w"
+ cavalry_lcu_t6_02DESCR: "(WÁ‰0RzéZ„v‘šKb	gNwbŸR„vÙfIQTÿkaSÐcšN³QšR(W–Y¾|›Q%„…QÝOYuNNbckÏu„v‘š=gfR!h0Ù!kÕ‹Œš„vÓuœg¿O=f	g†NÜwûN„v0Wñr–Y¾|‘šKbÿvQPWŽNošg„v‰^ó`aNÎ‘‹QN²QeQb—e0"
+ cavalry_lcu_t10_01: "gºN‘šëX"
+ cavalry_lcu_t10_01DESCR: "‘šëX=fckÏu„vbëXåNÊS‘šKb0ÖNìN(WHg¨RNb—e¹eb—„vŽbçTGWÜÜwŽNÔkfkwb8nsw0"
+ cavalry_lcu_t17_01: "gºNÍ‘‘šuQ"
+ cavalry_lcu_t17_01DESCR: "Í‘‘šuQ=f‘šëX„vcƒwGSµuHr0ÖNìN«Ž«bÍ‘2uÿŽNb—e-N%c‚•QR0"
+ cavalry_lcu_t23_01: "gºN™Ÿ‘šuQ"
+ cavalry_lcu_t23_01DESCR: "™Ÿ‘šuQ=fNÍy6RyrŠk„v‘šuQÿèe(WÇlš9SegSekuQµbMR¿u0'YYpeÅ`µQN1uNMOgºNc%c‘šlšD–&^ÐÛVêSgTQëXuQ0™Ÿ‘šuQ„vO¹p(WŽNNQO	ggºN„v'`‹T(WMR¿u×S0RZÁw0"
+ cavalry_lcu_t28_01: "gºNøw2u‘šuQ"
+ cavalry_lcu_t28_01DESCR: "øw2u‘šuQ=fgºN„v‘š=g¾|ñ‚0Zfk„vgºNc%c˜RO&^†˜Ù›N‘šuQTYTÜw)Rÿ"
+ cavalry_lgk_t1_01: "°sãNSgºN8nsw"
+ cavalry_lgk_t1_01DESCR: "gt„v2–ˆRÎNegN—‰`—‘šuQÿFO=fÍN	gN›NgºNó`‰(W›Q–-Ng¡R08^Ù›NgºNO=férs„v1r‹YwÿNÇÖNìNÔkw‘šNgt„vlš9S„vgTQØ=f‰ôfÜwNyr„v0"
+ cavalry_lgk_t6_01: "°sãNSgºNÔkfkw"
+ cavalry_lgk_t6_01DESCR: "ÔkfkwŒTN,‚„v8nswøvÔk(W‘š=g¹eb—	gNwôf0NÌR„vÏuŒš06qwÿÖNìNO6qêS=fÎN•ªgÔkfk-NfR0Rb—eÏuŒš„vgºN‘šKbb†N0"
+ cavalry_lgk_t10_01: "°sãNSgºN‘šëX"
+ cavalry_lgk_t10_01DESCR: "‘šëX=fckÏu„vbëXåNÊS‘šKb0ÖNìN(WHg¨RNb—e¹eb—„vŽbçTGWÜÜwŽNÔkfkwb8nsw0"
+ cavalry_lgk_t14_01: "°sãNSgºN‰‘šuQ"
+ cavalry_lgk_t14_01DESCR: "gºN„v‰‘šuQN¾|ŽNÛLˆÜÝb—e0"
+ cavalry_lgk_t17_01: "°sãNSgºNÍ‘‘šuQ"
+ cavalry_lgk_t17_01DESCR: "Í‘‘šuQ=f‘šëX„vcƒwGSµuHr0ÖNìN«Ž«bÍ‘2uÿŽNb—e-N%c‚•QR0"
+ cavalry_lgk_t23_01: "°sãNSgºN™Ÿ‘šuQ"
+ cavalry_lgk_t23_01DESCR: "™Ÿ‘šuQ=fNÍy6RyrŠk„v‘šuQÿèe(WÇlš9SegSekuQµbMR¿u0'YYpeÅ`µQN1uNMOgºNc%c‘šlšD–&^ÐÛVêSgTQëXuQ0™Ÿ‘šuQ„vO¹p(WŽNNQO	ggºN„v'`‹T(WMR¿u×S0RZÁw0"
+ cavalry_lgk_t28_01: "°sãNSgºNøw2u‘šuQs"
+ cavalry_lgk_t28_01DESCR: "øw2u‘šuQ=fgºN„v‘š=g¾|ñ‚0Zfk„vgºNc%c˜RO&^†˜Ù›N‘šuQTYTÜw)Rÿ"
+ infantry_lcu_t1_01: "gTQÛIeekuQ"
+ infantry_lcu_t1_01DESCR: "IeûQekuQ1uN¾|ŽNÛIe„vöQsÇRëXÄub0ÅˆYNwgt„v¢”PgåNÊS‰‹W„vkp›RÿÙ›NÂrípýNPROŠbê«Ž‰RqSnKN¦^YåN²QeQb—e0"
+ infantry_lcu_t1_02: "gTQ2–¡VekuQ"
+ infantry_lcu_t1_02DESCR: "NÏP(uŽNÛIe„vTLˆÿ2–¡VekuQ=f1u(Wb—e-NÐ(ub=gw^—ÜUNˆ„v„vgTQÄub„v01uŽNgTQ„vê«Ž.t(5–¡N‡sÍNçe=fESØšNN0"
+ infantry_lcu_t5_01: "gTQ«R cw"
+ infantry_lcu_t5_01DESCR: "b‰Nv^NI`=f³QÜwŽN™lHWÿmNOƒÏ‘ŽNTäR0ˆ”ùRÙÍyÅ`µQÿgºNŠbÖNìN„vN›N Rir­‹Ãub†NŒRŽ„v«R cwÿvQïSŽNLe¹e„vW0WNÝOcXR(W0"
+ infantry_lcu_t5_02: "gTQÂrípw"
+ infantry_lcu_t5_02DESCR: "Ârípw=fMR¿u„vbëX0åNzrrrvQ2–²bÅˆYegbcÖS‡šºN„vfkwQ0"
+ infantry_lcu_t9_01: "gTQF–b–"
+ infantry_lcu_t9_01DESCR: "1uŽN‰^ó`aN„v¨RaƒåNÊSºN‰|HNµb¾gtwKY—eÿgºNÍ‘=T†NckV„vF–b–¡‹Rÿå‹¡‹RùRgTQ RåNHVVÊSØšHV¦^­‹Ãu0g=fðXTürÉ…„vF–b–XTHNþfÏu„vÃ”ÙN·OfNSb–·àVa^0"
+ infantry_lcu_t9_02: "gTQÀQSw"
+ infantry_lcu_t9_02DESCR: "gºN>múQè–åNÀQSNb	g„vNmKN0W0ÀQS„vAmz	gˆVYÍy!j7hÿNÇg8^(u„vÀQSØ=f(ukp0‰=f	gºNJTÉ‹†NTQPRìNô‹yYìN„v3w5gˆV¹Rf«ˆ¹pNw&&"
+ infantry_lcu_t13_01: "gTQ¿uRekuQ"
+ infantry_lcu_t13_01DESCR: "ÏuÇ†N%N<h­‹Ãu„vgTQuQåNMQÏPÇ»S±7hVSîT0"
+ infantry_lcu_t13_02: "gTQ·c9VuQ"
+ infantry_lcu_t13_02DESCR: "ÇRbeN¾|•„vCS2•Œv¼pgTQuQ|O|Ow0"
+ infantry_lcu_t19_01: "gb—¾|ñ‚F–b–"
+ infantry_lcu_t19_01DESCR: "êgKNlNkQ‘N+tKNô•USV„v,rN!kb‰N-N„v±öe.1S„vwuQ0vQÏuŒš0²b2u0fkhVÊSb—ea×VÿêS	g‡v¶RkS–ýwY…Š0"
+ infantry_lcu_t26_01: "gTQ‡v¶RkS–"
+ infantry_lcu_t26_01DESCR: "gºN„vuQ¡l	g„˜gÿR‹TïSŠÿàeº‹‚YUOÿyYìN=UN	g÷N<PKNY=fvQfkhV06qwÿ‡v¶RkS–Rv^^—=f‚YdkÅ`µQ0Ù›NTQPRNÅN(WOYb—e-Nx^XR†NNegÿwNùRdkØÖS—V†NÜw)R0íQPvQ•gåNeg„vÏuŒšåNÊSgºN†˜ßW-N„vØš(Ï‘fkhVÿ‡v¶RkS–b†N›Q‹N†˜ßW-NgäNºNÌVî`„vè–0"
+ infantry_lgk_t1_01: "°sãNSgTQÛIeekuQ"
+ infantry_lgk_t1_01DESCR: "IeûQekuQ1uN¾|ŽNÛIe„vöQsÇRëXÄub0ÅˆYNwgt„v¢”PgåNÊS‰‹W„vkp›RÿÙ›NÂrípýNPROŠbê«Ž‰RqSnKN¦^YåN²QeQb—e0"
+ infantry_lgk_t1_02: "°sãNSgTQ2–¡VekuQ"
+ infantry_lgk_t1_02DESCR: "NÏP(uŽNÛIe„vTLˆÿ2–¡VekuQ=f1u(Wb—e-NÐ(ub=gw^—ÜUNˆ„v„vgTQÄub„v01uŽNgTQ„vê«Ž.t(5–¡N‡sÍNçe=fESØšNN0"
+ infantry_lgk_t5_01: "°sãNSgTQ«R cw"
+ infantry_lgk_t5_01DESCR: "b‰Nv^NI`=f³QÜwŽN™lHWÿmNOƒÏ‘ŽNTäR0ˆ”ùRÙÍyÅ`µQÿgºNŠbÖNìN„vN›N Rir­‹Ãub†NŒRŽ„v«R cwÿvQïSŽNLe¹e„vW0WNÝOcXR(W0"
+ infantry_lgk_t5_02: "°sãNSgTQÂrípw"
+ infantry_lgk_t5_02DESCR: "Ârípw=fMR¿u„vbëX0åNzrrrvQ2–²bÅˆYegbcÖS‡šºN„vfkwQ0"
+ infantry_lgk_t9_01: "°sãNSgTQF–b–"
+ infantry_lgk_t9_01DESCR: "1uŽN‰^ó`aN„v¨RaƒåNÊSºN‰|HNµb¾gtwKY—eÿgºNÍ‘=T†NckV„vF–b–¡‹Rÿå‹¡‹RùRgTQ RåNHVVÊSØšHV¦^­‹Ãu0g=fðXTürÉ…„vF–b–XTHNþfÏu„vÃ”ÙN·OfNSb–·àVa^0"
+ infantry_lgk_t9_02: "°sãNSgTQÀQSw"
+ infantry_lgk_t9_02DESCR: "gºN>múQè–åNÀQSNb	g„vNmKN0W0ÀQS„vAmz	gˆVYÍy!j7hÿNÇg8^(u„vÀQSØ=f(ukp0‰=f	gºNJTÉ‹†NTQPRìNô‹yYìN„v3w5gˆV¹Rf«ˆ¹pNw&&"
+ infantry_lgk_t12_01: "°sãNSbTQ"
+ infantry_lgk_t12_01DESCR: "0bTQ0=fgºN„vLeºNìNHNgºN„vuQÖSN„vðu÷SÿvQ(WYŽNNHW„vjOb-Nx^XR†NNegùRgTQegô‹Ùv^NûR8^0vQg'Y„v,g†˜¿O=fSuXR„v,gýwÓuTóNgKb„vôvÉ‰0"
+ infantry_lgk_t12_02: "°sãNSnw"
+ infantry_lgk_t12_02DESCR: "KS¡rÿŒ˜T`INÿnwN¾|ŽN–Øy„vûN¡RÿFOvQkp›RåNÊS›Q‹N­‹ÃuäNvQOçeASRÅd•ŽNEQSVMR¿uuQXTÙÍyyr'`OvQ(WÑSub‰NöeøvSV„v×S0R0kÎ0"
+ infantry_lgk_t15_01: "°sãNSgTQ¿uRekuQ"
+ infantry_lgk_t15_01DESCR: "àeº‹bHWNúQ°sÀNHNÅ`µQýNO‰c–„vñ‚ÇRgTQuQ0"
+ infantry_lgk_t15_02: "°sãNSgTQ·c9VuQ"
+ infantry_lgk_t15_02DESCR: "uóÞgºNS†˜ìNýáOV	g R„v¾|ñ‚gTQuQìNKY—eŽNbHW,rN¿uåNùRØN0WNºN0"
+ infantry_lgk_t19_01: "°sãNSgb—¾|ñ‚F–b–"
+ infantry_lgk_t19_01DESCR: "êgKNlNkQ‘N+tKNô•USV„v,rN!kb‰N-N„v±öe.1S„vwuQ0vQÏuŒš0²b2u0fkhVÊSb—ea×VÿêS	g‡v¶RkS–ýwY…Š0"
+ infantry_lgk_t26_01: "°sãNSgTQ‡v¶RkS–"
+ infantry_lgk_t26_01DESCR: "gºN„vuQ¡l	g„˜gÿR‹TïSŠÿàeº‹‚YUOÿyYìN=UN	g÷N<PKNY=fvQfkhV06qwÿ‡v¶RkS–Rv^^—=f‚YdkÅ`µQ0Ù›NTQPRNÅN(WOYb—e-Nx^XR†NNegÿwNùRdkØÖS—V†NÜw)R0íQPvQ•gåNeg„vÏuŒšåNÊSgºN†˜ßW-N„vØš(Ï‘fkhVÿ‡v¶RkS–b†N›Q‹N†˜ßW-NgäNºNÌVî`„vè–0"

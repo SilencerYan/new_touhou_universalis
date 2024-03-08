@@ -1,0 +1,3248 @@
+Gensokyan_culture = {
+	graphical_culture = asiangfx
+	Netherlandish = {
+	
+		primary = NET
+
+		country = {
+			female_advisor_chance = 0.8
+			diplomatic_upkeep = -1
+		}
+	}
+
+	Eientei = {
+
+		primary = EIT
+
+		country = {
+			female_advisor_chance = 0.6
+			diplomatic_upkeep = -1
+		}
+	}
+
+	Scarlett = {
+
+		primary = SCR
+
+		country = {
+			female_advisor_chance = 0.5
+			diplomatic_upkeep = -1
+		}
+
+		male_names = {
+			"TNªl"  # George 
+			"TN≥uÓh"  # Jonathan
+			"ÍèeY"  # Dio
+			"TNmt+Y"  # Joseph
+			"Ày"  # Aki
+			"ÅúÔçÓO"  # Lelouch
+			"Wm"  # Roy
+			"^XÙTØeÇÑâR"  # Sebastian
+			"?ñÅúaSY"  # Alucard
+			"ÂgSØe"  # Charles
+			"1r∑VNS"  # Edward
+			"åÇS)RKQ"  # Elric
+			"YS"  # Ciel
+			"öNÜSqS'Y"  # Alexander
+			"pg…b∑V"  # Gerard
+			"Ævyr"  # Piter
+			"öNmt"  # Arthur
+			"yä∆YØe"  # James
+			",gpgf"  # Benjamin
+			"löÓO"  # Matthew
+			"pgVÃë"  # Jeffrey
+		}
+		female_names = {
+			"åÇâÉZ"  # Erina
+			"KN(Ñ"  # Lisa
+			"œÇyQ"  # Suzi
+			"óâÉ"  # Holy
+			"-å≈ñ"  # Tanya
+			"s|Z"  # Mina
+			"ÕV"  # Shinobu
+			"^X…b"  # Seras
+			"?ñ¸fæè"  # Amanda
+			"ÙuY)R†R"  # Victorique
+			"ÙuY)RöN"  # Viktoria
+			"^XââÉöN"  # Cecillia
+			"ÔQmt3t"  # Catherine
+			"OKNéÉãv"  # Elisabeth
+			"^XKNZ"  # Serena
+			"É‘k…b"  # Sybilla
+		}
+		dynasty_names = {
+			"TNØeæè"  # Joestar
+			"ÚS‘kyrÊt9h"  # Speedwagon
+			"^pQ¶^"  # Brando 
+			"ÌsÅúY"  # Pendleton 
+			"ØeaSåÖyr"  # Scarlett
+			"pQiOÔç˙W"  # Lamperouge 
+			"Vi NR†ò<SöN"  # vi Britannia 
+			"ASmQY"  # Izayoi 
+			"s|GkS"  # Michaelis 
+			"·QY∆Ywmi`"  # Phantomhive
+			"∑V ^bSÊt"  # de Blois
+			"∑V ÊtbSÊt"  # de Valois
+			"∑V ¸fi`"  # de Maine
+			"∑V âRÇY"  # d'Anjou
+			"∑V ÙTŒû"  # de Paris
+			"É ØeaSåÖ–cZ"  # van Scarlettia
+			"É wmSõè"  # van Hellsing
+			"É eYpQªl"  # van Oranje
+			"ˇböö"  # Nassau
+			"É VpQ∑V&O"  # van Vlaanderen
+			"ØQ Øeyr…bØe!X"  # von Scharlachsburg
+			"ÙuY)RöN"  # Victoria
+			"∑V‰S…b"  # Dracula
+			"∑V…bì^SØeÇÑ"  # Draculesti
+			"˝êŒî"  # Tudor 
+			"pQVØeyr"  # Lancaster
+			"«ëiO¿N"  # Tsepes
+		}	
+	}
+
+	Magician = {
+
+		primary = FOM
+
+		country = {
+			female_advisor_chance = 0.6
+			diplomatic_upkeep = -1
+		}
+	}
+
+	Gensokyo_human = {	#Ingame it's "Gensokyan" - ID remains so save games don't break
+
+		primary = HMC
+
+		country = {
+			female_advisor_chance = 0.3
+		}
+	}
+
+	Tengu = {
+
+		primary = TGU
+
+		country = {
+			female_advisor_chance = 0.4
+		}
+	}
+
+	Kappa = {
+
+		primary = KPP
+
+		country = {
+			female_advisor_chance = 0.6
+		}
+	}
+
+	Chireidean = {
+
+		primary = CRD
+
+		country = {
+			female_advisor_chance = 0.8
+			diplomatic_upkeep = -1
+		}
+	}
+
+	Higanean = {
+
+		primary = HIG
+
+		country = {
+			female_advisor_chance = 0.6
+			diplomatic_upkeep = -1
+		}
+	}
+
+	Makaian = {
+
+		primary = MKI
+
+		country = {
+			female_advisor_chance = 0.8
+			diplomatic_upkeep = -1
+		}
+	}
+
+	Senkaian = {
+		province = { local_has_banners = yes}
+		primary = SNK
+
+		country = {
+			female_advisor_chance = 0.6
+		}
+	}
+
+	Heavenish = {
+
+		primary = HVR
+
+		country = {
+			female_advisor_chance = 0.8
+		}
+	}
+
+	Youkai = {
+
+		primary = YOF
+
+		country = {
+			female_advisor_chance = 0.6
+			diplomatic_upkeep = -1
+		}
+	}
+	
+	Fairy = {
+	
+		primary = CIN
+
+		country = {
+			female_advisor_chance = 0.8
+			diplomatic_upkeep = -1
+		}
+
+		#male_names = {
+		#"'Yzz"  # Cosmo
+		#}
+		#female_names = {
+		#"*t2ó˙ã"  # Cirno 
+		#"âÉâÉóÊtyr"  # "Lily White" 
+		#"2óZR2ó∑V"  # "Luna Child" 
+		#"'YñYæ|"  # Daiyousei 
+		#"Qh<Ss|SKQ"  # "Sunny Milk" 
+		#"ØeTX(ÑÚÉ≈ñ"  # "Star Sapphire" 
+		#"1rTXÆY…bSÊt"  # "Eternity Larva" 
+		#"KQ≥Ri`ÆvN"  # Clownpiece
+		#}
+		#dynasty_names = {
+		#"ñYæ|Ñv"  # "of the Fairys"
+		#}	
+	}
+	
+	Oni_culture = {
+		primary = ONI
+
+		country = {
+			female_advisor_chance = 0.5
+			diplomatic_upkeep = -1
+		}
+	}
+	
+	Tsukumogami_culture = {
+		primary = RAI
+
+		country = {
+			female_advisor_chance = 0.5
+			diplomatic_upkeep = -1
+		}
+	}
+	
+	Inchling_culture = {
+		primary = NCS
+
+		country = {
+			female_advisor_chance = 0.5
+			diplomatic_upkeep = -1
+		}
+	}
+	
+	Poltergeist_culture = {
+		primary = PRI
+
+		country = {
+			female_advisor_chance = 0.5
+			diplomatic_upkeep = -1
+		}
+	}
+	
+	male_names = {
+		"f"  # Akira
+		"fk^"  # Buichi
+		"'YÖè"  # Daisuke
+		"¶`7u"  # Etsuo
+		"Vç¡N"  # Yorihito
+		"ÌeÂe"  # Asahito
+		"öRw"  # Sadami
+		"t∫N"  # Irihiko
+		"fkƒñ"  # Takeo
+		"°V4O"  # Otomo
+		"ên"  # Minamoto
+		"BWN"  # Sakanoue
+		"‰ÖüS"  # Fujiwara
+		"ËTøR"  # Kose
+		"ÿö%f"  # Takaharu
+		"^öR"  # Morosada
+		"Éx^"  # Shigeru
+		"fkèR"  # Takehiro
+		"óKN©R"  # Rinnosuke
+		"^yâs"  # Shingyoku
+		"4lml"  # Mizue
+		"ãT≤É"  # Myouren
+		"€VŒê"  # Shirou
+		"˝T"  # Tatsumi
+		"ñYÃV"  # Youki
+		"’à*Y"  # Yuuta
+		"©S.r"  # Iwakasa
+		"√WÃë^"  # Erich
+		"uï|"  # Amakasu
+		"ã^Ñs"  # Yuugen
+		"ÜñÚS"  # Takashi
+		"-f?b"  # Akifusa
+		"fg"  # Akihaya
+		"fEN"  # Akihisa
+		"fof"  # Akikage
+		"fÓh"  # Akimori
+		"Ày,g"  # Akimoto
+		"fóR"  # Akimune
+		"fQg"  # Akimura
+		"fï"  # Akinaga
+		"-fÙv"  # Akinao
+		"fç"  # Akisada
+		"f©R"  # Akisuke
+		"f‡V"  # Akitada
+		"-f:N"  # Akitame
+		"-f‰w"  # Akitane
+		"fÁu"  # Akitsugu
+		"f≤u"  # Akitsuna
+		"fbó"  # Akitsura
+		"f∑^"  # Akiyasu
+		"-fIN"  # Akiyoshi
+		"fûR"  # Akizane
+		"	gï"  # Arinaga
+		"	g·O"  # Arinobu
+		"—è¨Q"  # Chikafuyu
+		"—è¿y"  # Chikahide
+		"—è∂R"  # Chikaie
+		"—èbV"  # Chikakata
+		"—èf"  # Chikamasa
+		"—èÓh"  # Chikamori
+		"—èàR"  # Chikamori
+		"—èCQ"  # Chikamoto
+		"—èóR"  # Chikamune
+		"—èï"  # Chikanaga
+		"—èÙv"  # Chikanao
+		"—è·O"  # Chikanobu
+		"—èR"  # Chikanori
+		"—èç"  # Chikasada
+		"—èÕë"  # Chikashige
+		"—èvñ"  # Chikasue
+		"—è‡V"  # Chikatada
+		"—èfk"  # Chikatake
+		"—èˆe"  # Chikatoki
+		"—èOe"  # Chikatoshi
+		"—è!k"  # Chikatsugu
+		"—è8^"  # Chikatsune
+		"—è∑^"  # Chikayasu
+		"—èIN"  # Chikayoshi
+		"—èKN"  # Chikayuki
+		"—èûR"  # Chikazane
+		"Âl©R"  # Doronosuke
+		"ÒÇ	NŒê"  # Eisaburo
+		"cÉl"  # Eishi
+		"‡`<t"  # Ekei
+		"‰Öf"  # Fujiaki
+		"‰ÖöS"  # Fujiatsu
+		"‰Ö|Q"  # Fujikane
+		"‰Öï"  # Fujinaga
+		"‰Öç"  # Fujisada
+		"‰ÖÀN"  # Fujisuke
+		"‰ÖÜñ"  # Fujitaka
+		"‰Öl"  # Fujiuji
+		"áe‰w"  # Fumitane
+		"‰S∑^"  # Furuyasu
+		"?bf"  # Fusaaki
+		"?bbV"  # Fusakata
+		"?bï"  # Fusanaga
+		"?bç"  # Fusasada
+		"?b≤u"  # Fusatsuna
+		"?bûR"  # Fusazane
+		"¨QEN"  # Fuyuhisa
+		"¨Q(g"  # Fuyuki
+		"¨Q∑^"  # Fuyuyasu
+		"ên5Ö"  # Genzo
+		"kQŒê"  # Hachiro
+		"CQtf"  # Hajime
+		"tf"  # Haru
+		"tf¿y"  # Haruhide
+		"tfV"  # Haruhiro
+		"tfEN"  # Haruhisa
+		"tfqV"  # Harukage
+		"%fn"  # Harukiyo
+		"tf?e"  # Harumasa
+		"tf·n"  # Harumichi
+		"tfCQ"  # Harumoto
+		"tfóR"  # Harumune
+		"tfï"  # Harunaga
+		"tf·O"  # Harunobu
+		"tfç"  # Harusada
+		"tfÀN"  # Harusuke
+		"tf‰w"  # Harutane
+		"tf∫N"  # Haruto
+		"tfÀS"  # Harutomo
+		"tfÁu"  # Harutsugu
+		"tfl"  # Haruuji
+		"tf∑^"  # Haruyasu
+		"tfx^"  # Haruyuki
+		"tfOO"  # Haruzumi
+		"æuŒò"  # Hayate
+		"¿yÀy"  # Hideaki
+		"¿yªl"  # Hideharu
+		"¿yEN"  # Hidehisa
+		"¿y∂R"  # Hideie
+		"¿y‹w"  # Hidekatsu
+		"¿y?e"  # Hidemasa
+		"¿yIQ"  # Hidemitsu
+		"¿yCQ"  # Hidemoto
+		"¿yï"  # Hidenaga
+		"¿yÙv"  # Hidenao
+		"¿y·O"  # Hidenobu
+		"¿yƒñ"  # Hideo
+		"¿yç"  # Hidesada
+		"¿y‡V"  # Hidetada
+		"¿yÜñ"  # Hidetaka
+		"¿y!k"  # Hidetsugu
+		"¿y≤u"  # Hidetsuna
+		"¿y∑^"  # Hideyasu
+		"¿yVç"  # Hideyori
+		"¿y	T"  # Hideyoshi
+		"¿yLà"  # Hideyuki
+		"fV©R"  # Hikonosuke
+		"^"  # Hiro
+		"^?b"  # Hirofusa
+		"^∂R"  # Hiroie
+		"^Ëï"  # Hirokado
+		"^IQ"  # Hiromitsu
+		"^b"  # Hironari
+		"^·O"  # Hironobu
+		"x^^"  # Hiroshi
+		"^^R"  # Hirotaka
+		"^âè"  # Hiroteru
+		"VOe"  # Hirotoshi
+		"^!k"  # Hirotsugu
+		"^≤u"  # Hirotsuna
+		"^„N"  # Hiroyo
+		"^Vç"  # Hiroyori
+		"VIN"  # Hiroyoshi
+		"^x^"  # Hiroyuki
+		"EN-f"  # Hisaaki
+		"^¿y"  # Hisahide
+		"EN*ñ"  # Hisaka
+		"EN|Q"  # Hisakane
+		"EN?e"  # Hisamasa
+		"EN·n"  # Hisamichi
+		"ENàR"  # Hisamori
+		"ENCQ"  # Hisamoto
+		"ENï"  # Hisanaga
+		"EN-N"  # Hisanaka
+		"EN‡V"  # Hisatada
+		"ENÜñ"  # Hisataka
+		"EN‰w"  # Hisatane
+		"ENCQ"  # Hisatomo
+		"ENNÜ"  # Hisatora
+		"EN0N"  # Hisatoyo
+		"EN≤u"  # Hisatsuna
+		"ENR`"  # Hisatsune
+		"EN∑^"  # Hisayasu
+		"ENx^"  # Hisayuki
+		"(É©R"  # Ibaranosuke
+		"NŒê"  # Ichiro
+		"∂R—è"  # Iechika
+		"∂REN"  # Iehisa
+		"∂R?e"  # Iemasa
+		"ESkSËï"  # Iemon
+		"∂RàR"  # Iemori
+		"∂Rb"  # Ienari
+		"∂Rˆe"  # Ietoki
+		"∂ROe"  # Ietoshi
+		"∂R!k"  # Ietsugu
+		"∂Rl"  # Ieuji
+		"Hy"  # Inori
+		"µ^"  # Iori
+		"«R"  # Isamu
+		"üRŒê"  # Isao
+		"NCS"  # Issen
+		"!kŒê"  # Jiro
+		"N*YŒê"  # Jotaro
+		"ASuQkS"  # Jubei
+		"ÛmN"  # Jun'ichi
+		"ÛmåN"  # Junji
+		"ASŒê"  # Juro
+		"of-f"  # Kageakira
+		"of—è"  # Kagechika
+		"of^"  # Kagehiro
+		"of∂R"  # Kageie
+		"ofÜñ"  # Kagekata
+		"of‹w"  # Kagekatsu
+		"of˝V"  # Kagekuni
+		"of?e"  # Kagemasa
+		"ofc"  # Kagemochi
+		"ofCQ"  # Kagemoto
+		"of·O"  # Kagenobu
+		"ofR"  # Kagenori
+		"ofÜñ"  # Kagetaka
+		"offk"  # Kagetake
+		"ofNÜ"  # Kagetora
+		"ofOe"  # Kagetoshi
+		"of‰Ö"  # Kagetou
+		"of!k"  # Kagetsugu
+		"of≤u"  # Kagetsuna
+		"ofbó"  # Kagetsura
+		"ofVç"  # Kageyori
+		"of	T"  # Kageyoshi
+		"“â%ç"  # Kakuken
+		"|Q?e"  # Kanemasa
+		"|QàR"  # Kanemori
+		"|Q-N"  # Kanenaka
+		"|Qç"  # Kanesada
+		"|Q©R"  # Kanesuke
+		"|Q!k"  # Kanetsugu
+		"Ùï^NŒê"  # Kankuro
+		"Üñ¿y"  # Katahide
+		"Üñ∂R"  # Kataie
+		"Üñ0N"  # Katatoyo
+		"‹w—è"  # Katsuchika
+		"‹wEN"  # Katsuhisa
+		"‹w∂R"  # Katsuie
+		"‹w?e"  # Katsumasa
+		"‹wQ"  # Katsumo
+		"‹wCQ"  # Katsumoto
+		"‹wï"  # Katsunaga
+		"‹w·O"  # Katsunobu
+		"‹wç"  # Katsusada
+		"‹wÕë"  # Katsushige
+		"‹w©R"  # Katsusuke
+		"‹wâè"  # Katsuteru
+		"‹wOe"  # Katsutoshi
+		"‹w0N"  # Katsutoyo
+		"‹w∑^"  # Katsuyasu
+		"‹wVç"  # Katsuyori
+		"‹w	T"  # Katsuyoshi
+		"åTkSËï"  # Kazuemon
+		"åT¿y"  # Kazuhide
+		"åTlö"  # Kazuma
+		"åT?e"  # Kazumasa
+		"åTóX"  # Kazumasu
+		"xQf"  # Noriaki
+		"◊N©R"  # Joesuke
+		"øNl"  # Okuyasu
+		"2ó4O"  # Rohan 
+		"åTàR"  # Kazumori
+		"åT·O"  # Kazunobu
+		"åTR"  # Kazunori
+		"åTŒê"  # Kazuo
+		"åT0N"  # Kazutoyo
+		"åTl"  # Kazuuji
+		"åT%V"  # Kazuya
+		"¨N"  # Kei
+		"Ü^!k"  # Keiji
+		"leN"  # Ken'ichi
+		"eP*Y"  # Kenta
+		"eP!ê"  # Kenzo
+		"—ëCQ"  # Kinmoto
+		"—ë*YŒê"  # Kintaro
+		"n?b"  # Kiyofusa
+		"n¿y"  # Kiyohide
+		"n?e"  # Kiyomasa
+		"nCQ"  # Kiyomoto
+		"nóR"  # Kiyomune
+		"nï"  # Kiyonaga
+		"nb"  # Kiyonari
+		"nR"  # Kiyonori
+		"n'Y"  # Kiyooki
+		"nl"  # Kiyoshi
+		"nÕë"  # Kiyoshige
+		"nvñ"  # Kiyosue
+		"n≤u"  # Kiyotsuna
+		"n	T"  # Kiyoyoshi
+		"∑^CQ"  # Kogen
+		"S^"  # Koichi
+		"x^!kŒê"  # Kojiro
+		"ﬂ`…^"  # Korekado
+		"ﬂ`?e"  # Koremasa
+		"ﬂ`Ùv"  # Korenao
+		"ﬂ`R"  # Korenori
+		"ﬂ`‰w"  # Koretane
+		"ﬂ`0N"  # Koretoyo
+		"ﬂ`≤u"  # Koretsuna
+		"ﬂ`	T"  # Koreyoshi
+		"È`Õë"  # Korishige
+		"˝V—è"  # Kunichika
+		"˝VEN"  # Kunihisa
+		"˝Vn"  # Kunikiyo
+		"˝VR"  # Kuninori
+		"˝V‰w"  # Kunitane
+		"˝VNÜ"  # Kunitora
+		"˝V≤u"  # Kunitsuna
+		"˝Vl"  # Kuniuji
+		"fR"  # Manabu
+		"?ef"  # Masaaki
+		"?e—è"  # Masachika
+		"?e?b"  # Masafusa
+		"?e¿y"  # Masahide
+		"?e^"  # Masahiro
+		"?eEN"  # Masahisa
+		"?e∂R"  # Masaie
+		"?eof"  # Masakage
+		"?e‹w"  # Masakatsu
+		"?eh"  # Masaki
+		"?e˝V"  # Masakuni
+		"?eIQ"  # Masamitsu
+		"?eàR"  # Masamori
+		"?eCQ"  # Masamoto
+		"?eóR"  # Masamune
+		"?eQg"  # Masamura
+		"?eï"  # Masanaga
+		"?eÙv"  # Masanao
+		"?eb"  # Masanari
+		"?e·O"  # Masanobu
+		"?eR"  # Masanori
+		"‹w"  # Masaru
+		"?eç"  # Masasada
+		"f"  # Masashi
+		"?eÕë"  # Masashige
+		"?e‡V"  # Masatada
+		"?e∫N"  # Masato
+		"?eÀS"  # Masatomo
+		"?eOe"  # Masatoshi
+		"?e0N"  # Masatoyo
+		"?e!k"  # Masatsugu
+		"?e≤u"  # Masatsuna
+		"?eR`"  # Masatsune
+		"?e∑^"  # Masayasu
+		"?eVç"  # Masayori
+		"?e	T"  # Masayoshi
+		"?ex^"  # Masayuki
+		"?eûR"  # Masazane
+		"?eOO"  # Masazumi
+		" vÕë"  # Masushige
+		" v‰w"  # Masutane
+		"·nàR"  # Michimori
+		"·nÙv"  # Michinao
+		"·n·O"  # Michinobu
+		"·nvñ"  # Michisue
+		"·n‰w"  # Michitane
+		"·nOe"  # Michitoshi
+		"·n∑^"  # Michiyasu
+		"·n„N"  # Michiyo
+		"·n	T"  # Michiyoshi
+		"IQ—è"  # Mitsuchika
+		"IQ?b"  # Mitsufusa
+		"IQtf"  # Mitsuharu
+		"IQ¿y"  # Mitsuhide
+		"IQ˝V"  # Mitsukuni
+		"IQóR"  # Mitsumune
+		"IQb"  # Mitsunari
+		"IQ·O"  # Mitsunobu
+		"IQÕë"  # Mitsushige
+		"IQ©R"  # Mitsusuke
+		"IQ‡V"  # Mitsutada
+		"IQ!k"  # Mitsutsugu
+		"IQ≤u"  # Mitsutsuna
+		"IQl"  # Mitsuuji
+		"IQ∑^"  # Mitsuyasu
+		"IQVç"  # Mitsuyori
+		"IQ	T"  # Mitsuyoshi
+		"cEN"  # Mochihisa
+		"cï"  # Mochinaga
+		"cÜñ"  # Mochitaka
+		"áeÊTkSËï"  # Monzaemon
+		"àRf"  # Moriaki
+		"àR—è"  # Morichika
+		"àRtf"  # Moriharu
+		"àR^"  # Morihiro
+		"àRn"  # Morikiyo
+		"àR˝V"  # Morikuni
+		"àR?e"  # Morimasa
+		"àR‚w"  # Morimi
+		"àRIQ"  # Morimitsu
+		"àRóR"  # Morimune
+		"àRï"  # Morinaga
+		"àRb"  # Morinari
+		"àR·O"  # Morinobu
+		"àR'Y"  # Morioki
+		"àRÕë"  # Morishige
+		"àRÜñ"  # Moritaka
+		"àR‰w"  # Moritane
+		"àR≤u"  # Moritsuna
+		"àRl"  # Moriuji
+		"àR∑^"  # Moriyasu
+		"àRûR"  # Morizane
+		"¯ã‰w"  # Morotane
+		"CQ—è"  # Motochika
+		"CQtf"  # Motoharu
+		"CQ¿y"  # Motohide
+		"CQ∂R"  # Motoie
+		"CQof"  # Motokage
+		"CQn"  # Motokiyo
+		"CQ˝V"  # Motokuni
+		"CQóR"  # Motomune
+		"CQï"  # Motonaga
+		"CQÙv"  # Motonao
+		"CQb"  # Motonari
+		"CQ·O"  # Motonobu
+		"CQR"  # Motonori
+		"CQç"  # Motosada
+		"CQÕë"  # Motoshige
+		"CQ©R"  # Motosuke
+		"CQ‡V"  # Mototada
+		"CQÜñ"  # Mototaka
+		"CQfk"  # Mototake
+		"CQ‰w"  # Mototane
+		"CQÀS"  # Mototomo
+		"CQ!k"  # Mototsugu
+		"CQ≤u"  # Mototsuna
+		"CQl"  # Motouji
+		"CQ∑^"  # Motoyasu
+		"CQ	T"  # Motoyoshi
+		"CQûR"  # Motozane
+		"CQOO"  # Motozumi
+		"óR?b"  # Munefusa
+		"óRtf"  # Muneharu
+		"óR¿y"  # Munehide
+		"óREN"  # Munehisa
+		"óR∂R"  # Muneie
+		"óRof"  # Munekage
+		"óR‹w"  # Munekatsu
+		"óR?e"  # Munemasa
+		"óRQg"  # Munemura
+		"óR·O"  # Munenobu
+		"óRR"  # Munenori
+		"óRÜñ"  # Munetaka
+		"óRˆe"  # Munetoki
+		"óRÀS"  # Munetomo
+		"óRNÜ"  # Munetora
+		"óR≤u"  # Munetsuna
+		"óRl"  # Muneuji
+		"óR	T"  # Muneyoshi
+		"óRx^"  # Muneyuki
+		"óRûR"  # Munezane
+		"QgÕë"  # Murashige
+		"Qg‰w"  # Muratane
+		"ï-f"  # Nagaakira
+		"8löS"  # Nagaatsu
+		"ï—è"  # Nagachika
+		"ï?b"  # Nagafusa
+		"ïtf"  # Nagaharu
+		"ï¿y"  # Nagahide
+		"ï?e"  # Nagamasa
+		"ï v"  # Nagamasu
+		"ïc"  # Nagamochi
+		"ïàR"  # Nagamori
+		"ïCQ"  # Nagamoto
+		"ïQg"  # Nagamura
+		"ïb"  # Naganari
+		"ï·O"  # Naganobu
+		"ïR"  # Naganori
+		"ïÕë"  # Nagashige
+		"ïÜñ"  # Nagataka
+		"ïâè"  # Nagateru
+		"ï∫N"  # Nagato
+		"ïÀS"  # Nagatomo
+		"ïR`"  # Nagatsune
+		"ï∑^"  # Nagayasu
+		"ïVç"  # Nagayori
+		"ï	T"  # Nagayoshi
+		"ïx^"  # Nagayuki
+		"ïûR"  # Nagazane
+		"-Nf"  # Nakaaki
+		"Ùv?b"  # Naofusa
+		"Ùv∂R"  # Naoie
+		"Ùv?e"  # Naomasa
+		"ÙvCQ"  # Naomoto
+		"ÙvÕë"  # Naoshige
+		"ÙvÜñ"  # Naotaka
+		"Ùv∫N"  # Naoto
+		"ÙvR`"  # Naotsune
+		"Ùv∑^"  # Naoyasu
+		"ÙvVç"  # Naoyori
+		"Ùvx^"  # Naoyuki
+		"btf"  # Nariharu
+		"bÜñ"  # Narikata
+		"b˝V"  # Narikuni
+		"b?e"  # Narimasa
+		"bàR"  # Narimori
+		"bQg"  # Narimura
+		"b·O"  # Narinobu
+		"b'Y"  # Narioki
+		"bÕë"  # Narishige
+		"b©R"  # Narisuke
+		"b‡V"  # Naritada
+		"b	T"  # Nariyoshi
+		"YÓv"  # Natsume
+		"0N"  # Noboru
+		"·O	g"  # Nobuari
+		"·O—è"  # Nobuchika
+		"·O?b"  # Nobufusa
+		"·Os^"  # Nobuhira
+		"·O…^"  # Nobukado
+		"·O|Q"  # Nobukane
+		"·O‹w"  # Nobukatsu
+		"·OT"  # Nobukimi
+		"·On"  # Nobukiyo
+		"·O?e"  # Nobumasa
+		"·OIQ"  # Nobumitsu
+		"·OàR"  # Nobumori
+		"·OCQ"  # Nobumoto
+		"·Oï"  # Nobunaga
+		"·O-N"  # Nobunaka
+		"·OÙv"  # Nobunao
+		"·Ob"  # Nobunari
+		"·OR"  # Nobunori
+		"·Oƒñ"  # Nobuo
+		"·O'Y"  # Nobuoki
+		"·Oç"  # Nobusada
+		"·OÕë"  # Nobushige
+		"·O‡V"  # Nobutada
+		"·OÜñ"  # Nobutaka
+		"·O‰w"  # Nobutane
+		"·OÀS"  # Nobutomo
+		"·ONÜ"  # Nobutora
+		"·O0N"  # Nobutoyo
+		"·O≤u"  # Nobutsuna
+		"·OR`"  # Nobutsune
+		"·O∑^"  # Nobuyasu
+		"·O	T"  # Nobuyoshi
+		"·Ox^"  # Nobuyuki
+		"·OOO"  # Nobuzumi
+		"Rf"  # Noriaki
+		"Rl"  # Norifuji
+		"R?b"  # Norifusa
+		"Rtf"  # Noriharu
+		"R¿y"  # Norihide
+		"RfV"  # Norihiko
+		"R∫N"  # Norihito
+		"Rof"  # Norikage
+		"RÜñ"  # Norikata
+		"R˝V"  # Norikuni
+		"R?e"  # Norimasa
+		"Rc"  # Norimochi
+		"RCQ"  # Norimoto
+		"RÙv"  # Norinao
+		"Rb"  # Norinari
+		"R·O"  # Norinobu
+		"R<N"  # Norinushi
+		"Rç"  # Norisada
+		"RÕë"  # Norishige
+		"R©R"  # Norisuke
+		"R‡V"  # Noritada
+		"RÜñ"  # Noritaka
+		"R‰w"  # Noritane
+		"Rˆe"  # Noritoki
+		"Rl"  # Noriuji
+		"R∑^"  # Noriyasu
+		"RVç"  # Noriyori
+		"R	T"  # Noriyoshi
+		"RûR"  # Norizane
+		"tQ¿y"  # Okihide
+		"tQEN"  # Okihisa
+		"tQåT"  # Okikazu
+		"tQàR"  # Okimori
+		"ÓO"  # Osamu
+		"ï‡V"  # Osatada
+		"ïl"  # Osauji
+		"˜ñœÖ"  # Raizo
+		"`åN"  # Reiji
+		"ÜñåN"  # Ryuji
+		"ç—è"  # Sadachika
+		"ç¿y"  # Sadahide
+		"çEN"  # Sadahisa
+		"çof"  # Sadakage
+		"ç‹w"  # Sadakatsu
+		"ç˝V"  # Sadakuni
+		"ç·n"  # Sadamichi
+		"çIQ"  # Sadamitsu
+		"çóR"  # Sadamune
+		"çï"  # Sadanaga
+		"çÙv"  # Sadanao
+		"ç·O"  # Sadanobu
+		"çR"  # Sadanori
+		"çY"  # Sadaoki
+		"ç„Å"  # Sadaomi
+		"çÕë"  # Sadashige
+		"ç©R"  # Sadasuke
+		"çÜñ"  # Sadataka
+		"ç∫N"  # Sadato
+		"çOe"  # Sadatoshi
+		"ç!k"  # Sadatsugu
+		"ç≤u"  # Sadatsuna
+		"ç„N"  # Sadayo
+		"çVç"  # Sadayori
+		"ç	T"  # Sadayoshi
+		"çx^"  # Sadayuki
+		"∂ã©R"  # Saenosuke
+		"T·O"  # Sakinobu
+		"ûR—è"  # Sanechika
+		"ûR‹w"  # Sanekatsu
+		"ûRIQ"  # Sanemitsu
+		"ûRCQ"  # Sanemoto
+		"ûRvñ"  # Sanesue
+		"ûRÀS"  # Sanetomo
+		"ûRVç"  # Saneyori
+		"ga"  # Satoru
+		"zf"  # Satoshi
+		"Oe"  # Satotoki
+		"ü`"  # Satori
+		"NŒêkSËï"  # Shichiroemon
+		"Õë?b"  # Shigefusa
+		"Õëtf"  # Shigeharu
+		"Õë¿y"  # Shigehide
+		"Õës^"  # Shigehira
+		"ÕëEN"  # Shigehisa
+		"Õë∂R"  # Shigeie
+		"Õë…^"  # Shigekado
+		"Õë|Q"  # Shigekane
+		"Õën"  # Shigekiyo
+		"Õë?e"  # Shigemasa
+		"Õëc"  # Shigemochi
+		"ÕëCQ"  # Shigemoto
+		"ÕëóR"  # Shigemune
+		"ÕëQg"  # Shigemura
+		"Õëï"  # Shigenaga
+		"Õëv^"  # Shigenami
+		"Õëb"  # Shigenari
+		"Õë·O"  # Shigenobu
+		"ÕëR"  # Shigenori
+		"Õë'Y"  # Shigeoki
+		"É"  # Shigeru
+		"Õëç"  # Shigesada
+		"Õëzf"  # Shigesato
+		"Õëvñ"  # Shigesue
+		"Õë‡V"  # Shigetada
+		"ÕëÜñ"  # Shigetaka
+		"Õëfk"  # Shigetake
+		"Õë‰w"  # Shigetane
+		"Õëæè"  # Shigetatsu
+		"ÕëÀS"  # Shigetomo
+		"ÕëOe"  # Shigetoshi
+		"Õë!k"  # Shigetsugu
+		"Õë≤u"  # Shigetsuna
+		"ÕëR`"  # Shigetsune
+		"Õë∑^"  # Shigeyasu
+		"Õë	T"  # Shigeyoshi
+		"ÕëûR"  # Shigezane
+		"·OÑs"  # Shingen
+		"·OåN"  # Shinji
+		"·O*YŒê"  # Shintaro
+		"·O!kŒê"  # Shojiro
+		"ãR±î"  # Sosen
+		"ÈeëN"  # Soun
+		"vñ^"  # Suehiro
+		"©Rtf"  # Sukeharu
+		"©R¿y"  # Sukehide
+		"©R^"  # Sukehiro
+		"©Rof"  # Sukekage
+		"©Rn"  # Sukekiyo
+		"©R?e"  # Sukemasa
+		"©RIQ"  # Sukemitsu
+		"©RàR"  # Sukemori
+		"©Rï"  # Sukenaga
+		"©RÙv"  # Sukenao
+		"©RR"  # Sukenori
+		"©R‡V"  # Suketada
+		"©RÜñ"  # Suketaka
+		"©R‰w"  # Suketane
+		"©ROe"  # Suketoshi
+		"©R0N"  # Suketoyo
+		"©R∑^"  # Sukeyasu
+		"OOtf"  # Sumiharu
+		"OO‡V"  # Sumitada
+		"OO∑^"  # Sumiyasu
+		"‡Vf"  # Tadaaki
+		"‡V-f"  # Tadaakira
+		"‡VöS"  # Tadaatsu
+		"‡V—è"  # Tadachika
+		"‡V¨Q"  # Tadafuyu
+		"‡Vtf"  # Tadaharu
+		"‡V^"  # Tadahiro
+		"‡VEN"  # Tadahisa
+		"‡V∂R"  # Tadaie
+		"‡V…^"  # Tadakado
+		"‡V‹w"  # Tadakatsu
+		"‡V˝V"  # Tadakuni
+		"‡V?e"  # Tadamasa
+		"‡V·n"  # Tadamichi
+		"‡Vc"  # Tadamochi
+		"‡VCQ"  # Tadamoto
+		"‡VóR"  # Tadamune
+		"‡VÙv"  # Tadanao
+		"‡Vb"  # Tadanari
+		"‡Vƒñ"  # Tadao
+		"‡V'Y"  # Tadaoki
+		"‡V©R"  # Tadasuke
+		"‡VÜñ"  # Tadataka
+		"‡Vâè"  # Tadateru
+		"‡Vˆe"  # Tadatoki
+		"‡VÀS"  # Tadatomo
+		"‡VOe"  # Tadatoshi
+		"‡V!k"  # Tadatsugu
+		"‡VR`"  # Tadatsune
+		"‡Vƒñ"  # Tadayo
+		"‡V	T"  # Tadayoshi
+		"‡Vx^"  # Tadayuki
+		"‡VOO"  # Tadazumi
+		"Üñf"  # Takaaki
+		"Üñâè"  # Takaakira
+		"Üñ—è"  # Takachika
+		"Üñ?b"  # Takafusa
+		"Üñtf"  # Takaharu
+		"Üñ¿y"  # Takahide
+		"Üñ^"  # Takahiro
+		"ÜñEN"  # Takahisa
+		"Üñ∂R"  # Takaie
+		"Üñof"  # Takakage
+		"Üñ|Q"  # Takakane
+		"ÜñåT"  # Takakazu
+		"Üñ v"  # Takamasu
+		"Üñ·n"  # Takamichi
+		"ÜñIQ"  # Takamitsu
+		"Üñc"  # Takamochi
+		"ÜñàR"  # Takamori
+		"ÜñCQ"  # Takamoto
+		"Üñ-N"  # Takanaka
+		"ÜñÙv"  # Takanao
+		"Üñ·O"  # Takanobu
+		"Üñ'Y"  # Takaoki
+		"Üñç"  # Takasada
+		"ÜñÕë"  # Takashige
+		"Üñvñ"  # Takasue
+		"Üñ©R"  # Takasuke
+		"Üñ‰w"  # Takatake
+		"Üñfk"  # Takatane
+		"ÜñÀS"  # Takatomo
+		"ÜñNÜ"  # Takatora
+		"Üñ0N"  # Takatoyo
+		"Üñ!k"  # Takatsugu
+		"Üñl"  # Takauji
+		"Üñ∑^"  # Takayasu
+		"ÜñVç"  # Takayori
+		"Üñ	T"  # Takayoshi
+		"Üñx^"  # Takayuki
+		"ÜñûR"  # Takazane
+		"fkf"  # Takeaki
+		"fkEN"  # Takehisa
+		"fk‰w"  # Taketane
+		"fk	T"  # Takeyoshi
+		":Ntf"  # Tameharu
+		":N^"  # Tamehiro
+		":Nof"  # Tamekage
+		":Nn"  # Tamekiyo
+		":N·O"  # Tamenobu
+		":NVç"  # Tameyori
+		"‰wf"  # Taneakira
+		"‰w—è"  # Tanechika
+		"‰w‰Ö"  # Tanefuji
+		"‰wtf"  # Taneharu
+		"‰w¿y"  # Tanehide
+		"‰w|Q"  # Tanekane
+		"‰wn"  # Tanekiyo
+		"‰wóR"  # Tanemune
+		"‰wï"  # Tanenaga
+		"‰wÙv"  # Tanenao
+		"‰wR"  # Tanenori
+		"‰wç"  # Tanesada
+		"‰wÕë"  # Taneshige
+		"‰wˆe"  # Tanetoki
+		"‰wÃR"  # Tanetomi
+		"‰w!k"  # Tanetsugu
+		"‰wR`"  # Tanetsune
+		"‰w	T"  # Taneyoshi
+		"‰wx^"  # Taneyuki
+		"‰wûR"  # Tanezane
+		"æè'Y"  # Tatsuoki
+		"âè^"  # Teruhiro
+		"âèEN"  # Teruhisa
+		"âèof"  # Terukage
+		"âè?e"  # Terumasa
+		"âè·n"  # Terumichi
+		"âèàR"  # Terumori
+		"âèCQ"  # Terumoto
+		"âèóR"  # Terumune
+		"âèNÜ"  # Terutora
+		"âèOO"  # Teruzumi
+		"ˆef"  # Tokiaki
+		"ˆeEN"  # Tokihisa
+		"ˆeàR"  # Tokimori
+		"ˆeÕë"  # Tokishige
+		"ˆeÜñ"  # Tokitaka
+		"ˆel"  # Tokiuji
+		"ÀSl"  # Tomofuji
+		"ÀS?b"  # Tomofusa
+		"ÀStf"  # Tomoharu
+		"ÀS¿y"  # Tomohide
+		"ÀSEN"  # Tomohisa
+		"ÀS|Q"  # Tomokane
+		"ÀSÜñ"  # Tomokata
+		"ÀS‹w"  # Tomokatsu
+		"ÀS?e"  # Tomomasa
+		"ÀS·n"  # Tomomichi
+		"ÀSàR"  # Tomomori
+		"ÀSóR"  # Tomomune
+		"ÀSÙv"  # Tomonao
+		"ÀSb"  # Tomonari
+		"ÀS·O"  # Tomonobu
+		"ÀSR"  # Tomonori
+		"ÀSç"  # Tomosada
+		"ÀS‰w"  # Tomotane
+		"ÀSâè"  # Tomoteru
+		"ÀS≤u"  # Tomotsune
+		"ÀS	T"  # Tomoyoshi
+		"NÜ?e"  # Toramasa
+		"NÜàR"  # Toramori
+		"NÜ‰w"  # Toratane
+		"NÜ∑^"  # Torayasu
+		"Oe?b"  # Toshifusa
+		"OeEN"  # Toshihisa
+		"Oe∂R"  # Toshiie
+		"Oeof"  # Toshikage
+		"Oe‹w"  # Toshikatsu
+		"Oe v"  # Toshimasu
+		"OeIQ"  # Toshimitsu
+		"OeóR"  # Toshimune
+		"Oeï"  # Toshinaga
+		"OeÙv"  # Toshinao
+		"Oe·O"  # Toshinobu
+		"Oevñ"  # Toshisue
+		"OeÀS"  # Toshitomo
+		"0Ntf"  # Toyoharu
+		"0NEN"  # Toyohisa
+		"0N˝V"  # Toyokuni
+		"0Nç"  # Toyosada
+		"0Nl"  # Toyouji
+		"!k·n"  # Tsugumichi
+		"!kIQ"  # Tsugumitsu
+		"!kb"  # Tsugunari
+		"!kOe"  # Tsugutoshi
+		"!k0N"  # Tsugutoyo
+		"!kbó"  # Tsugutsura
+		"!kVç"  # Tsuguyori
+		"≤u—è"  # Tsunachika
+		"≤u?b"  # Tsunafusa
+		"≤uEN"  # Tsunahisa
+		"≤uof"  # Tsunakage
+		"≤u‹w"  # Tsunakatsu
+		"≤un"  # Tsunakiyo
+		"≤uCQ"  # Tsunamoto
+		"≤uÙv"  # Tsunanao
+		"≤uR"  # Tsunanori
+		"≤uç"  # Tsunasada
+		"≤uÕë"  # Tsunashige
+		"≤u‡V"  # Tsunatada
+		"≤ufk"  # Tsunatake
+		"≤uæè"  # Tsunatatsu
+		"≤uf"  # Tsuneaki
+		"≤u¿y"  # Tsunehide
+		"≤uEN"  # Tsunehisa
+		"≤u∂R"  # Tsuneie
+		"≤uIQ"  # Tsunemitsu
+		"≤uï"  # Tsunenaga
+		"≤u'Y"  # Tsuneoki
+		"≤u‡V"  # Tsunetada
+		"≤u∑^"  # Tsuneyasu
+		"≤u	T"  # Tsuneyoshi
+		"bóæè"  # Tsuratatsu
+		"l?b"  # Ujifusa
+		"ltf"  # Ujiharu
+		"l¿y"  # Ujihide
+		"ls^"  # Ujihira
+		"l^"  # Ujihiro
+		"lof"  # Ujikage
+		"l|Q"  # Ujikane
+		"l‹w"  # Ujikatsu
+		"l˝V"  # Ujikuni
+		"l?e"  # Ujimasa
+		"l·n"  # Ujimichi
+		"lCQ"  # Ujimoto
+		"lï"  # Ujinaga
+		"lÙv"  # Ujinao
+		"lb"  # Ujinari
+		"lR"  # Ujinori
+		"l'Y"  # Ujioki
+		"lç"  # Ujisada
+		"lÃë"  # Ujisato
+		"lÕë"  # Ujishige
+		"l©R"  # Ujisuke
+		"lâè"  # Ujiteru
+		"l0N"  # Ujitoyo
+		"lR`"  # Ujitsuna
+		"l∑^"  # Ujiyasu
+		"lûR"  # Ujizane
+		"l≤u"  # Ujtsuna
+		"∑^tf"  # Yasuharu
+		"∑^¿y"  # Yasuhide
+		"∑^of"  # Yasukage
+		"∑^?e"  # Yasumasa
+		"∑^àR"  # Yasumori
+		"∑^ï"  # Yasunaga
+		"∑^b"  # Yasunari
+		"∑^·O"  # Yasunobu
+		"∑^R"  # Yasunori
+		"∑^vñ"  # Yasusue
+		"∑^©R"  # Yasusuke
+		"∑^‡V"  # Yasutada
+		"∑^ÀS"  # Yasutomo
+		"∑^Oe"  # Yasutoshi
+		"∑^	T"  # Yasuyoshi
+		"∑^ûR"  # Yasuzane
+		"Vçf"  # Yoriaki
+		"Vç—è"  # Yorichika
+		"Vç?b"  # Yorifusa
+		"Vçtf"  # Yoriharu
+		"Vçs^"  # Yorihira
+		"VçEN"  # Yorihisa
+		"Vç‹w"  # Yorikatsu
+		"VçàR"  # Yorimori
+		"Vç'Y"  # Yorioki
+		"VçÕë"  # Yorishige
+		"Vç‡V"  # Yoritada
+		"VçÜñ"  # Yoritaka
+		"Vçfk"  # Yoritake
+		"Vçˆe"  # Yoritoki
+		"Vç!k"  # Yoritsugu
+		"Vç≤u"  # Yoritsuna
+		"Vçl"  # Yoriuji
+		"Vç∑^"  # Yoriyasu
+		"	Tf"  # Yoshiaki
+		"	Tf"  # Yoshiakira
+		"	T	g"  # Yoshiari
+		"	TöS"  # Yoshiatsu
+		"	T—è"  # Yoshichika
+		"IN¨Q"  # Yoshifuyu
+		"	Ttf"  # Yoshiharu
+		"	Top"  # Yoshihi
+		"	T¿y"  # Yoshihide
+		"	Ts^"  # Yoshihira
+		"	T^"  # Yoshihiro
+		"	TEN"  # Yoshihisa
+		"	T∫N"  # Yoshihito
+		"	T…^"  # Yoshikado
+		"INof"  # Yoshikage
+		"	T|Q"  # Yoshikane
+		"	TÜñ"  # Yoshikata
+		"	T‹w"  # Yoshikatsu
+		"	Tn"  # Yoshikiyo
+		"	T˝V"  # Yoshikuni
+		"	T?e"  # Yoshimasa
+		"	T v"  # Yoshimasu
+		"	T·n"  # Yoshimichi
+		"	TIQ"  # Yoshimitsu
+		"	Tc"  # Yoshimochi
+		"	TàR"  # Yoshimori
+		"	TCQ"  # Yoshimoto
+		"	TóR"  # Yoshimune
+		"	TQg"  # Yoshimura
+		"	Tï"  # Yoshinaga
+		"	TÙv"  # Yoshinao
+		"	Tb"  # Yoshinari
+		"	T·O"  # Yoshinobu
+		"	TR"  # Yoshinori
+		"	T'Y"  # Yoshioki
+		"INç"  # Yoshisada
+		"INT"  # Yoshisaki
+		"INÃë"  # Yoshisato
+		"	TÕë"  # Yoshishige
+		"	T©R"  # Yoshisuke
+		"	T‡V"  # Yoshitada
+		"	TÜñ"  # Yoshitaka
+		"	Tfk"  # Yoshitake
+		"	T‰w"  # Yoshitane
+		"	Tæè"  # Yoshitatsu
+		"	Tâè"  # Yoshiteru
+		"	Tˆe"  # Yoshitoki
+		"	TÀS"  # Yoshitomo
+		"	TNÜ"  # Yoshitora
+		"	TOe"  # Yoshitoshi
+		"	T‰Ö"  # Yoshitou
+		"IN!k"  # Yoshitsugu
+		"	T≤u"  # Yoshitsuna
+		"	Tl"  # Yoshiuji
+		"	T∑^"  # Yoshiyasu
+		"	TVç"  # Yoshiyori
+		"	Tx^"  # Yoshiyuki
+		"	TûR"  # Yoshizane
+		"	TOO"  # Yoshizumi
+		"x^^"  # Yukihiro
+		"x^?e"  # Yukimasa
+		"x^àR"  # Yukimori
+		"x^Qg"  # Yukimura
+		"x^ï"  # Yukinaga
+		"x^Õë"  # Yukishige
+		"åTw"  # Kazuma
+		"‹Ég"  # Natuski
+		"åT∫N"  # Kazuto
+		"kQa^"  # Hachiman
+		",ü"  # Itachi
+		"BW0u"  # Sakata
+		"&O*YŒê"  # Rintarou
+	}	
+	female_names = {
+		"?ñ6É"  # Acha 
+		"?ñ6É6É"  # Achacha 
+		"?ñPR"  # Ago 
+		"?ñTPR"  # Agogo 
+		"1r"  # Ai 
+		"1r6w±u"  # Aiyasha 
+		"dçsO"  # Akaka 
+		"dçùg"  # Akashi 
+		"Ày"  # Aki 
+		"öNPR"  # Ako 
+		"dçBzPR"  # Akoko 
+		"Ëñ"  # Ame 
+		"öN¶h"  # Amu 
+		"öN±u"  # Asa 
+		"öNgh"  # Asahi 
+		"õR"  # Ate 
+		"Îu"  # Aya 
+		"Îuªûz"  # Ayamachi
+		"Îu6w"  # Ayaya 
+		"fuz"  # Azechi 
+		"6É6É"  # Chacha 
+		"6ÉPR"  # Chago 
+		"6ÉáR"  # Chau 
+		"CS≤Ñ"  # Chibo 
+		"CSO"  # Chii 
+		"äç"  # Etsu 
+		"CSªû"  # Chima 
+		"CS—o"  # Chise 
+		"CS„N"  # Chiyo 
+		"Íu"  # Cho 
+		"Íuar"  # Chobo 
+		"»v"  # Ei 
+		"g"  # Fuku 
+		"ÃRªl"  # Fuji 
+		"ÃRé"  # Fumi 
+		"ÃRÉt"  # Furi 
+		"ÃR±u"  # Fusa 
+		"ÃR„N"  # Fuyo 
+		"¨Q"  # Fuyu 
+		"ˆî"  # Gin 
+		"ü`"  # Go 
+		"°Vgªl"  # Gomoji 
+		"jå"  # Gou 
+		")ÑüS"  # Hagi 
+		"ãv"  # Haku 
+		"±Ç"  # Hana 
+		"%f"  # Haru 
+		"%f%m"  # Hatsu 
+		"RÛó"  # Hatsune 
+		"¿y"  # Hide 
+		"êe"  # Hiko 
+		"œñ"  # Hina 
+		"V"  # Hiro 
+		"%V"  # Hisa
+		"Bzz"  # Hochi 
+		"Bz‡s"  # Hoju 
+		"≥Ç"  # Hou 
+		"O≈ñ"  # Ia 
+		"O6É"  # Icha 
+		"O6ÉPR"  # Ichako 
+		"Oz"  # Ichi 
+		"OzÀ"  # Ichiba 
+		" N"  # Ima 
+		" NÀy"  # Imaaki 
+		"OHY"  # Ina 
+		"OHY	V"  # Inaka 
+		"Iz"  # Ine 
+		"OŒë"  # Ino 
+		"¨r"  # Inu 
+		"OÛSkSËï"  # Iemon 
+		"Oˆe"  # Ietoki 
+		"O«u"  # Iori
+		"OáÖ"  # Ira 
+		"OT"  # Iro 
+		"OT‚l"  # Iroha 
+		"O◊ã"  # Ishi 
+		"O◊ã	V"  # Ishika 
+		"N"  # Ito 
+		"NN"  # Itoito 
+		"NPR"  # Itoko 
+		"©S"  # Iwa 
+		"O6w"  # Iya 
+		"OàN"  # Iyo 
+		"†R:ç"  # Kaga 
+		"ﬁV"  # Kai 
+		"sOªl"  # Kaji 
+		"sOsO"  # Kaka 
+		"sOªû"  # Kama 
+		"sOÀÇ"  # Kame 
+		"sOÛó"  # Kane 
+		"%fÂe"  # Kasuga 
+		"sO%m"  # Katsu
+		"Œò"  # Kaze 
+		"NI`"  # Kazusa 
+		"€k±u"  # Kesa 
+		"™uz"  # Kichi 
+		"™ug"  # Kichou 
+		"™uùO"  # Kii 
+		" É"  # Kiku 
+		"™ué"  # Kimi 
+		" N"  # Kin 
+		"‚u"  # Kinu 
+		"™u±u"  # Kisa 
+		"™u0u"  # Kita 
+		"™u%mŒë"  # Kitsuno 
+		"™u„N"  # Kiyo 
+		"S6É"  # Kocha 
+		"Sz„N"  # Kochiyo 
+		"Sg"  # Kochou 
+		"SÿNEN"  # Kofuku
+		"ST"  # Kogou 
+		"S`l"  # Koi 
+		"SÛw"  # Koishi 
+		"SN"  # Koito 
+		"ÔSÔS"  # Koko 
+		"Sªû"  # Koma 
+		"Såg"  # Komatsu 
+		"u"  # Kon 
+		"S7b"  # Koto 
+		"SáR"  # Kou 
+		"SÀ"  # Kowa 
+		"SŒë"  # Koya 
+		"S6wŒë"  # Koyaya 
+		"<m"  # Kubo 
+		"äq"  # Kuma 
+		"˝V"  # Kuni 
+		"hôôsO"  # Kurikaka
+		"¢R"  # Kyaku 
+		"ªûöN"  # Maa 
+		"ªûz"  # Machi 
+		"wÏY"  # Maki 
+		"N"  # Man 
+		"ªût"  # Mari 
+		"ªû±u"  # Masa 
+		"≈ñPR"  # Masako 
+		"ªû„N"  # Mayo 
+		"ªûl"  # Mate 
+		"ªû%m"  # Matsu 
+		"ªû%mŒë"  # Matsuno 
+		"ÀÇT"  # Mego 
+		"ÀÇ◊ã"  # Meshi 
+		"*gCN	t"  # Minoru 
+		"=n"  # Minato
+		"é%m"  # Mitsu 
+		"´R"  # Miya 
+		"ÉŒë"  # Mono 
+		"éÀ"  # Miwa 
+		"É7b"  # Moto 
+		"‡e¢W"  # Muku 
+		"˛ñÀÇ"  # Mume 
+		"˛ñÀÇ%m"  # Mumetsu 
+		"HYöN"  # Naa 
+		"ï"  # Nabe 
+		"-N"  # Naka 
+		"‚l"  # Nami 
+		"Y"  # Natsu 
+		"Yé"  # Natsumi 
+		"Y6w"  # Naya 
+		"ÅRÅR"  # Nene 
+		"åNùO"  # Nii 
+		"â"  # Nishi 
+		"Y"  # Nue 
+		"eY"  # Oku 
+		"PN"  # Raku 
+		"≤É"  # Ren 
+		"ÉtÉt"  # Riri 
+		"	tÉt"  # Ruri 
+		"ás"  # Ritsu 
+		"Ñy"  # Roku 
+		"±uCS"  # Sachi 
+		"±uÿu"  # Sae 
+		"±uPR"  # Sako 
+		"±uHY"  # Sana 
+		"POHYu`"  # Sanae 
+		"Èe◊ã"  # Sashi 
+		"Èe„N"  # Sayo 
+		"Yó"  # Sei 
+		"-^"  # Seki 
+		"CS"  # Sen 
+		"—oHY"  # Sena
+		"(ç"  # Shichi 
+		"É"  # Shige 
+		"õS"  # Shima 
+		"N"  # Shimo 
+		"¡T"  # Shina 
+		"Yóôô"  # Shizuka 
+		"ntnt"  # Shosho 
+		"S"  # Shou 
+		"‡sñs"  # Shuku 
+		".tÀÇ"  # Some 
+		".t„N"  # Soyo 
+		"+g"  # Sue 
+		".tÍN"  # Sugi 
+		"©R"  # Suke 
+		".tÏY"  # Suki 
+		"åQ"  # Satsu
+		"˘ãøã"  # Suwa 
+		"l"  # Tai 
+		"˘z"  # Take  
+		"˘zCS„N"  # Takechiyo 
+		"˘zåg"  # Takematsu 
+		"ÖR"  # Taku 
+		"Yªû"  # Tama 
+		"Õy"  # Tane 
+		"YáÖ"  # Tara 
+		"YËñ"  # Tau 
+		"Y%m"  # Tatsu 
+		"0uPR"  # Tatsuko 
+		"Y„N"  # Tayo 
+		"Y	t"  # Teru 
+		"óV"  # Toku 
+		"7bÀÇ"  # Tome
+		"ÀS"  # Tomo 
+		"ÙT"  # Tomoe 
+		"NÜ"  # Tora 
+		"7b„N"  # Toyo 
+		"ªY"  # Tsuma 
+		"8^"  # Tsune 
+		"%m	t"  # Tsuru 
+		"É"  # Tsuta 
+		"%mùO"  # Tsui 
+		"%mŒë"  # Tsuya 
+		"%m„N"  # Tsuyo 
+		"áRÀ"  # Uba 
+		"Öh"  # Ume 
+		"Lk"  # Uta 
+		"ÂÇ‹É"  # Wakana 
+		"¡w"  # Waki
+		"≈ñ≈ñ"  # Yaya 
+		"ŒëŒë6É"  # Yayacha 
+		"¡Z"  # Yome 
+		"„NÛó"  # Yone 
+		"Œëz"  # Yachi 
+		"Œë±u"  # Yasha 
+		"Œë±u„N"  # Yashayo 
+		"Œë.t"  # Yasu 
+		"„N◊ã"  # Yoshi 
+		"1uùO"  # Yui 
+		"1u™u"  # Yuki 
+		"1uñs"  # Yuku 
+		"¶h"  # Yume 
+		"V"  # Yumi 
+		"hQ"  # Zen
+		"√îé"  # Reimi
+		"Yh"  # Natsuki
+		"zfPR"  # Tomoko
+		"ÀSsOPR"  # Yukako
+		"¢uâÉh"  # Kurisu
+		"OÃë"  # Yuri
+		"±uNÃë"  # Sayori
+	}
+	dynasty_names = {
+		"õs<hyrmùO∑V"  # Margatroid
+		"ÿöKNŒë"  # Komano
+		"SãT8N"  # Shameimaru
+		"kNASkN"  # Tsukumo
+		"1W"  # Hijiri
+		"Sãv≥l"  # Kitashirakawa
+		"œÇOyr"  # Sweet
+		"kQa"  # Yagokoro
+		"ØeaSåÖyr"  # Scarlet
+		"‰ÖüS"  # Fujiwara
+		"Êy"  # Hata
+		"ÏYwm‡h"  # Himekaidou
+		"…bµxØe…bVy)R"  # Lapislazuli
+		"z0u"  # Hieda
+		".ïqS"  # Kagiyama 
+		"¢u"  # Hong
+		"ëNES"  # Kumoi
+		"8lml"  # Nagae
+		"ùO^y"  # Yorigami
+		" N…l"  # Imaizumi
+		"ÏÑ±ÉqS"  # Houraisan
+		"âRZç…bS"  # Anaberal
+		"kQBW"  # Yasaka
+		"(É(g"  # Ibaraki
+		"Nãv˝l"  # Kamishirasawa
+		"YYoÇ"  # Tatara
+		"‰Sf0W"  # Komeiji
+		"SŒëZX"  # Onozuka
+		"≤T6wÎY"  # Sakuyahime
+		",gES"  # Motoori
+		"ã^7å"  # Kasodani
+		"nfâÉyQ∆Y)RÙT"  # Prismriver
+		"óÊtyrmKQ"  # Whiterock
+		"ãv"  # White
+		"N<y0u"  # Teireida
+		"åN©S"  # Futatsuiwa
+		"kçi`"  # Hearn
+		"˛ñËñ"  # Kirisame
+		"ÖhpQÔSâÉ"  # Melancholy
+		"4lá"  #
+		"Qg±u"  # Minamitsu
+		"Ày"  # Aki
+		"4lml"  # Mizue
+		"¨rpç"  # Inubashiri
+		"irËê"  # Mononobe
+		"ãT≤É"  # Myouren
+		"ÑåÖ…b"  # Lorelei
+		"‚w0u˙R"  # Yatadera
+		"BW0u"  # Sakata
+		"≥lŒW"  # Kawashiro
+		"SãQ"  # Houjuu
+		"idYW"  # Matara
+		"4leh"  # Mizuhashi
+		"˙ãåÖÏY"  # Knowledge
+		"X›T"  # Horikawa
+		"kQëN"  # Yakumo
+		"ZSKN"  # Hakurei
+		"‡Va^"  # Inaba
+		"áRPO¡â"  # Usami
+		"g”N"  # Asakura
+		"kp0q+s"  # Kaenbyou
+		"¥Qg"  # Satsuki
+		"Óh—è"  # Morichika
+		"z^y"  # Kishin
+		"ñY"  # Ayakashi
+		"ASmQY"  # Izayoi
+		"NŒò7å"  # Kochiya
+		"SPR0u"  # Nishida
+		"ó"  # Kaku
+		"<õ∫N"  # Kijin
+		"ST"  # Sukuna
+		"ŸNS"  # Sendai
+		"≈R8N"  # Toramaru
+		"œÇb"  # Soga
+		"O9T"  # Ibuki
+		")m‚w"  # Moriya
+		"fT"  # Xingjun
+		"‘k±êTES"  # Hinanawi
+		"0Njw3w"  # Toyosatomimi
+		"upLNÔç"  # Reiuji
+		"ıug"  # Watatsuki
+		"HYyrÙT<h"  # Nightbug
+		"—û7å"  # Kurodani
+		"´R‰S"  # Miyako
+		"BõDõ"  # Konpaku
+		"àQT"  # Okazaki
+		"fäq"  # Hoshiguma
+		"Œò¡â"  # Kazami
+		"âLà˙R"  # Saigyouji
+		"±Ç¨Nbñ"  # Kakyoin
+		"zzag"  # Kujo
+		"Nπe"  # Higashikata
+		"^—o"  # Hirose
+		"∏Sπè"  # Kishibe
+		"yÜQg"  # Nijimura
+		"	ToÇ"  # Kira
+		"Ig,g"  # Sugimoto
+		"môBW"  # Yamagishi
+		"PO‰Ö"  # Sato
+		"‹Ég"  # Natsuki
+		"Ph∫N"  # Kirigaya
+		"gr—o"  # Makise
+		"‘kO7å"  # Hikigaya
+		"áRzf‚l"  # Uchiha
+		"BW0u"  # Gintoki
+		"àQËê"  # Okabe
+		"Y^y"  # Yagami
+	}
+}
+
+moon_culture = {
+	graphical_culture = asiangfx
+	
+	Lunarian_culture = {
+		province = { local_has_banners = yes} #for Lunarian JNK	
+		primary = LCU
+
+		country = {
+			female_advisor_chance = 0.5
+			diplomatic_upkeep = -1
+		}
+	}
+
+	Gyokuto = {
+		primary = MRU
+
+		country = {
+			female_advisor_chance = 0.5
+			diplomatic_upkeep = -1
+		}
+	}
+	
+	male_names = {
+		"f"  # Akira
+		"fk^"  # Buichi
+		"'YÖè"  # Daisuke
+		"¶`7u"  # Etsuo
+		"Vç¡N"  # Yorihito
+		"ÌeÂe"  # Asahito
+		"öRw"  # Sadami
+		"t∫N"  # Irihiko
+		"fkƒñ"  # Takeo
+		"°V4O"  # Otomo
+		"ên"  # Minamoto
+		"BWN"  # Sakanoue
+		"‰ÖüS"  # Fujiwara
+		"ËTøR"  # Kose
+		"ÿö%f"  # Takaharu
+		"^öR"  # Morosada
+		"Éx^"  # Shigeru
+		"fkèR"  # Takehiro
+		"óKN©R"  # Rinnosuke
+		"^yâs"  # Shingyoku
+		"4lml"  # Mizue
+		"ãT≤É"  # Myouren
+		"€VŒê"  # Shirou
+		"˝T"  # Tatsumi
+		"ñYÃV"  # Youki
+		"’à*Y"  # Yuuta
+		"©S.r"  # Iwakasa
+		"√WÃë^"  # Erich
+		"uï|"  # Amakasu
+		"ã^Ñs"  # Yuugen
+		"ÜñÚS"  # Takashi
+		"-f?b"  # Akifusa
+		"fg"  # Akihaya
+		"fEN"  # Akihisa
+		"fof"  # Akikage
+		"fÓh"  # Akimori
+		"Ày,g"  # Akimoto
+		"fóR"  # Akimune
+		"fQg"  # Akimura
+		"fï"  # Akinaga
+		"-fÙv"  # Akinao
+		"fç"  # Akisada
+		"f©R"  # Akisuke
+		"f‡V"  # Akitada
+		"-f:N"  # Akitame
+		"-f‰w"  # Akitane
+		"fÁu"  # Akitsugu
+		"f≤u"  # Akitsuna
+		"fbó"  # Akitsura
+		"f∑^"  # Akiyasu
+		"-fIN"  # Akiyoshi
+		"fûR"  # Akizane
+		"	gï"  # Arinaga
+		"	g·O"  # Arinobu
+		"—è¨Q"  # Chikafuyu
+		"—è¿y"  # Chikahide
+		"—è∂R"  # Chikaie
+		"—èbV"  # Chikakata
+		"—èf"  # Chikamasa
+		"—èÓh"  # Chikamori
+		"—èàR"  # Chikamori
+		"—èCQ"  # Chikamoto
+		"—èóR"  # Chikamune
+		"—èï"  # Chikanaga
+		"—èÙv"  # Chikanao
+		"—è·O"  # Chikanobu
+		"—èR"  # Chikanori
+		"—èç"  # Chikasada
+		"—èÕë"  # Chikashige
+		"—èvñ"  # Chikasue
+		"—è‡V"  # Chikatada
+		"—èfk"  # Chikatake
+		"—èˆe"  # Chikatoki
+		"—èOe"  # Chikatoshi
+		"—è!k"  # Chikatsugu
+		"—è8^"  # Chikatsune
+		"—è∑^"  # Chikayasu
+		"—èIN"  # Chikayoshi
+		"—èKN"  # Chikayuki
+		"—èûR"  # Chikazane
+		"Âl©R"  # Doronosuke
+		"ÒÇ	NŒê"  # Eisaburo
+		"cÉl"  # Eishi
+		"‡`<t"  # Ekei
+		"‰Öf"  # Fujiaki
+		"‰ÖöS"  # Fujiatsu
+		"‰Ö|Q"  # Fujikane
+		"‰Öï"  # Fujinaga
+		"‰Öç"  # Fujisada
+		"‰ÖÀN"  # Fujisuke
+		"‰ÖÜñ"  # Fujitaka
+		"‰Öl"  # Fujiuji
+		"áe‰w"  # Fumitane
+		"‰S∑^"  # Furuyasu
+		"?bf"  # Fusaaki
+		"?bbV"  # Fusakata
+		"?bï"  # Fusanaga
+		"?bç"  # Fusasada
+		"?b≤u"  # Fusatsuna
+		"?bûR"  # Fusazane
+		"¨QEN"  # Fuyuhisa
+		"¨Q(g"  # Fuyuki
+		"¨Q∑^"  # Fuyuyasu
+		"ên5Ö"  # Genzo
+		"kQŒê"  # Hachiro
+		"CQtf"  # Hajime
+		"tf"  # Haru
+		"tf¿y"  # Haruhide
+		"tfV"  # Haruhiro
+		"tfEN"  # Haruhisa
+		"tfqV"  # Harukage
+		"%fn"  # Harukiyo
+		"tf?e"  # Harumasa
+		"tf·n"  # Harumichi
+		"tfCQ"  # Harumoto
+		"tfóR"  # Harumune
+		"tfï"  # Harunaga
+		"tf·O"  # Harunobu
+		"tfç"  # Harusada
+		"tfÀN"  # Harusuke
+		"tf‰w"  # Harutane
+		"tf∫N"  # Haruto
+		"tfÀS"  # Harutomo
+		"tfÁu"  # Harutsugu
+		"tfl"  # Haruuji
+		"tf∑^"  # Haruyasu
+		"tfx^"  # Haruyuki
+		"tfOO"  # Haruzumi
+		"æuŒò"  # Hayate
+		"¿yÀy"  # Hideaki
+		"¿yªl"  # Hideharu
+		"¿yEN"  # Hidehisa
+		"¿y∂R"  # Hideie
+		"¿y‹w"  # Hidekatsu
+		"¿y?e"  # Hidemasa
+		"¿yIQ"  # Hidemitsu
+		"¿yCQ"  # Hidemoto
+		"¿yï"  # Hidenaga
+		"¿yÙv"  # Hidenao
+		"¿y·O"  # Hidenobu
+		"¿yƒñ"  # Hideo
+		"¿yç"  # Hidesada
+		"¿y‡V"  # Hidetada
+		"¿yÜñ"  # Hidetaka
+		"¿y!k"  # Hidetsugu
+		"¿y≤u"  # Hidetsuna
+		"¿y∑^"  # Hideyasu
+		"¿yVç"  # Hideyori
+		"¿y	T"  # Hideyoshi
+		"¿yLà"  # Hideyuki
+		"fV©R"  # Hikonosuke
+		"^"  # Hiro
+		"^?b"  # Hirofusa
+		"^∂R"  # Hiroie
+		"^Ëï"  # Hirokado
+		"^IQ"  # Hiromitsu
+		"^b"  # Hironari
+		"^·O"  # Hironobu
+		"x^^"  # Hiroshi
+		"^^R"  # Hirotaka
+		"^âè"  # Hiroteru
+		"VOe"  # Hirotoshi
+		"^!k"  # Hirotsugu
+		"^≤u"  # Hirotsuna
+		"^„N"  # Hiroyo
+		"^Vç"  # Hiroyori
+		"VIN"  # Hiroyoshi
+		"^x^"  # Hiroyuki
+		"EN-f"  # Hisaaki
+		"^¿y"  # Hisahide
+		"EN*ñ"  # Hisaka
+		"EN|Q"  # Hisakane
+		"EN?e"  # Hisamasa
+		"EN·n"  # Hisamichi
+		"ENàR"  # Hisamori
+		"ENCQ"  # Hisamoto
+		"ENï"  # Hisanaga
+		"EN-N"  # Hisanaka
+		"EN‡V"  # Hisatada
+		"ENÜñ"  # Hisataka
+		"EN‰w"  # Hisatane
+		"ENCQ"  # Hisatomo
+		"ENNÜ"  # Hisatora
+		"EN0N"  # Hisatoyo
+		"EN≤u"  # Hisatsuna
+		"ENR`"  # Hisatsune
+		"EN∑^"  # Hisayasu
+		"ENx^"  # Hisayuki
+		"(É©R"  # Ibaranosuke
+		"NŒê"  # Ichiro
+		"∂R—è"  # Iechika
+		"∂REN"  # Iehisa
+		"∂R?e"  # Iemasa
+		"ESkSËï"  # Iemon
+		"∂RàR"  # Iemori
+		"∂Rb"  # Ienari
+		"∂Rˆe"  # Ietoki
+		"∂ROe"  # Ietoshi
+		"∂R!k"  # Ietsugu
+		"∂Rl"  # Ieuji
+		"Hy"  # Inori
+		"µ^"  # Iori
+		"«R"  # Isamu
+		"üRŒê"  # Isao
+		"NCS"  # Issen
+		"!kŒê"  # Jiro
+		"N*YŒê"  # Jotaro
+		"ASuQkS"  # Jubei
+		"ÛmN"  # Jun'ichi
+		"ÛmåN"  # Junji
+		"ASŒê"  # Juro
+		"of-f"  # Kageakira
+		"of—è"  # Kagechika
+		"of^"  # Kagehiro
+		"of∂R"  # Kageie
+		"ofÜñ"  # Kagekata
+		"of‹w"  # Kagekatsu
+		"of˝V"  # Kagekuni
+		"of?e"  # Kagemasa
+		"ofc"  # Kagemochi
+		"ofCQ"  # Kagemoto
+		"of·O"  # Kagenobu
+		"ofR"  # Kagenori
+		"ofÜñ"  # Kagetaka
+		"offk"  # Kagetake
+		"ofNÜ"  # Kagetora
+		"ofOe"  # Kagetoshi
+		"of‰Ö"  # Kagetou
+		"of!k"  # Kagetsugu
+		"of≤u"  # Kagetsuna
+		"ofbó"  # Kagetsura
+		"ofVç"  # Kageyori
+		"of	T"  # Kageyoshi
+		"“â%ç"  # Kakuken
+		"|Q?e"  # Kanemasa
+		"|QàR"  # Kanemori
+		"|Q-N"  # Kanenaka
+		"|Qç"  # Kanesada
+		"|Q©R"  # Kanesuke
+		"|Q!k"  # Kanetsugu
+		"Ùï^NŒê"  # Kankuro
+		"Üñ¿y"  # Katahide
+		"Üñ∂R"  # Kataie
+		"Üñ0N"  # Katatoyo
+		"‹w—è"  # Katsuchika
+		"‹wEN"  # Katsuhisa
+		"‹w∂R"  # Katsuie
+		"‹w?e"  # Katsumasa
+		"‹wQ"  # Katsumo
+		"‹wCQ"  # Katsumoto
+		"‹wï"  # Katsunaga
+		"‹w·O"  # Katsunobu
+		"‹wç"  # Katsusada
+		"‹wÕë"  # Katsushige
+		"‹w©R"  # Katsusuke
+		"‹wâè"  # Katsuteru
+		"‹wOe"  # Katsutoshi
+		"‹w0N"  # Katsutoyo
+		"‹w∑^"  # Katsuyasu
+		"‹wVç"  # Katsuyori
+		"‹w	T"  # Katsuyoshi
+		"åTkSËï"  # Kazuemon
+		"åT¿y"  # Kazuhide
+		"åTlö"  # Kazuma
+		"åT?e"  # Kazumasa
+		"åTóX"  # Kazumasu
+		"xQf"  # Noriaki
+		"◊N©R"  # Joesuke
+		"øNl"  # Okuyasu
+		"2ó4O"  # Rohan 
+		"åTàR"  # Kazumori
+		"åT·O"  # Kazunobu
+		"åTR"  # Kazunori
+		"åTŒê"  # Kazuo
+		"åT0N"  # Kazutoyo
+		"åTl"  # Kazuuji
+		"åT%V"  # Kazuya
+		"¨N"  # Kei
+		"Ü^!k"  # Keiji
+		"leN"  # Ken'ichi
+		"eP*Y"  # Kenta
+		"eP!ê"  # Kenzo
+		"—ëCQ"  # Kinmoto
+		"—ë*YŒê"  # Kintaro
+		"n?b"  # Kiyofusa
+		"n¿y"  # Kiyohide
+		"n?e"  # Kiyomasa
+		"nCQ"  # Kiyomoto
+		"nóR"  # Kiyomune
+		"nï"  # Kiyonaga
+		"nb"  # Kiyonari
+		"nR"  # Kiyonori
+		"n'Y"  # Kiyooki
+		"nl"  # Kiyoshi
+		"nÕë"  # Kiyoshige
+		"nvñ"  # Kiyosue
+		"n≤u"  # Kiyotsuna
+		"n	T"  # Kiyoyoshi
+		"∑^CQ"  # Kogen
+		"S^"  # Koichi
+		"x^!kŒê"  # Kojiro
+		"ﬂ`…^"  # Korekado
+		"ﬂ`?e"  # Koremasa
+		"ﬂ`Ùv"  # Korenao
+		"ﬂ`R"  # Korenori
+		"ﬂ`‰w"  # Koretane
+		"ﬂ`0N"  # Koretoyo
+		"ﬂ`≤u"  # Koretsuna
+		"ﬂ`	T"  # Koreyoshi
+		"È`Õë"  # Korishige
+		"˝V—è"  # Kunichika
+		"˝VEN"  # Kunihisa
+		"˝Vn"  # Kunikiyo
+		"˝VR"  # Kuninori
+		"˝V‰w"  # Kunitane
+		"˝VNÜ"  # Kunitora
+		"˝V≤u"  # Kunitsuna
+		"˝Vl"  # Kuniuji
+		"fR"  # Manabu
+		"?ef"  # Masaaki
+		"?e—è"  # Masachika
+		"?e?b"  # Masafusa
+		"?e¿y"  # Masahide
+		"?e^"  # Masahiro
+		"?eEN"  # Masahisa
+		"?e∂R"  # Masaie
+		"?eof"  # Masakage
+		"?e‹w"  # Masakatsu
+		"?eh"  # Masaki
+		"?e˝V"  # Masakuni
+		"?eIQ"  # Masamitsu
+		"?eàR"  # Masamori
+		"?eCQ"  # Masamoto
+		"?eóR"  # Masamune
+		"?eQg"  # Masamura
+		"?eï"  # Masanaga
+		"?eÙv"  # Masanao
+		"?eb"  # Masanari
+		"?e·O"  # Masanobu
+		"?eR"  # Masanori
+		"‹w"  # Masaru
+		"?eç"  # Masasada
+		"f"  # Masashi
+		"?eÕë"  # Masashige
+		"?e‡V"  # Masatada
+		"?e∫N"  # Masato
+		"?eÀS"  # Masatomo
+		"?eOe"  # Masatoshi
+		"?e0N"  # Masatoyo
+		"?e!k"  # Masatsugu
+		"?e≤u"  # Masatsuna
+		"?eR`"  # Masatsune
+		"?e∑^"  # Masayasu
+		"?eVç"  # Masayori
+		"?e	T"  # Masayoshi
+		"?ex^"  # Masayuki
+		"?eûR"  # Masazane
+		"?eOO"  # Masazumi
+		" vÕë"  # Masushige
+		" v‰w"  # Masutane
+		"·nàR"  # Michimori
+		"·nÙv"  # Michinao
+		"·n·O"  # Michinobu
+		"·nvñ"  # Michisue
+		"·n‰w"  # Michitane
+		"·nOe"  # Michitoshi
+		"·n∑^"  # Michiyasu
+		"·n„N"  # Michiyo
+		"·n	T"  # Michiyoshi
+		"IQ—è"  # Mitsuchika
+		"IQ?b"  # Mitsufusa
+		"IQtf"  # Mitsuharu
+		"IQ¿y"  # Mitsuhide
+		"IQ˝V"  # Mitsukuni
+		"IQóR"  # Mitsumune
+		"IQb"  # Mitsunari
+		"IQ·O"  # Mitsunobu
+		"IQÕë"  # Mitsushige
+		"IQ©R"  # Mitsusuke
+		"IQ‡V"  # Mitsutada
+		"IQ!k"  # Mitsutsugu
+		"IQ≤u"  # Mitsutsuna
+		"IQl"  # Mitsuuji
+		"IQ∑^"  # Mitsuyasu
+		"IQVç"  # Mitsuyori
+		"IQ	T"  # Mitsuyoshi
+		"cEN"  # Mochihisa
+		"cï"  # Mochinaga
+		"cÜñ"  # Mochitaka
+		"áeÊTkSËï"  # Monzaemon
+		"àRf"  # Moriaki
+		"àR—è"  # Morichika
+		"àRtf"  # Moriharu
+		"àR^"  # Morihiro
+		"àRn"  # Morikiyo
+		"àR˝V"  # Morikuni
+		"àR?e"  # Morimasa
+		"àR‚w"  # Morimi
+		"àRIQ"  # Morimitsu
+		"àRóR"  # Morimune
+		"àRï"  # Morinaga
+		"àRb"  # Morinari
+		"àR·O"  # Morinobu
+		"àR'Y"  # Morioki
+		"àRÕë"  # Morishige
+		"àRÜñ"  # Moritaka
+		"àR‰w"  # Moritane
+		"àR≤u"  # Moritsuna
+		"àRl"  # Moriuji
+		"àR∑^"  # Moriyasu
+		"àRûR"  # Morizane
+		"¯ã‰w"  # Morotane
+		"CQ—è"  # Motochika
+		"CQtf"  # Motoharu
+		"CQ¿y"  # Motohide
+		"CQ∂R"  # Motoie
+		"CQof"  # Motokage
+		"CQn"  # Motokiyo
+		"CQ˝V"  # Motokuni
+		"CQóR"  # Motomune
+		"CQï"  # Motonaga
+		"CQÙv"  # Motonao
+		"CQb"  # Motonari
+		"CQ·O"  # Motonobu
+		"CQR"  # Motonori
+		"CQç"  # Motosada
+		"CQÕë"  # Motoshige
+		"CQ©R"  # Motosuke
+		"CQ‡V"  # Mototada
+		"CQÜñ"  # Mototaka
+		"CQfk"  # Mototake
+		"CQ‰w"  # Mototane
+		"CQÀS"  # Mototomo
+		"CQ!k"  # Mototsugu
+		"CQ≤u"  # Mototsuna
+		"CQl"  # Motouji
+		"CQ∑^"  # Motoyasu
+		"CQ	T"  # Motoyoshi
+		"CQûR"  # Motozane
+		"CQOO"  # Motozumi
+		"óR?b"  # Munefusa
+		"óRtf"  # Muneharu
+		"óR¿y"  # Munehide
+		"óREN"  # Munehisa
+		"óR∂R"  # Muneie
+		"óRof"  # Munekage
+		"óR‹w"  # Munekatsu
+		"óR?e"  # Munemasa
+		"óRQg"  # Munemura
+		"óR·O"  # Munenobu
+		"óRR"  # Munenori
+		"óRÜñ"  # Munetaka
+		"óRˆe"  # Munetoki
+		"óRÀS"  # Munetomo
+		"óRNÜ"  # Munetora
+		"óR≤u"  # Munetsuna
+		"óRl"  # Muneuji
+		"óR	T"  # Muneyoshi
+		"óRx^"  # Muneyuki
+		"óRûR"  # Munezane
+		"QgÕë"  # Murashige
+		"Qg‰w"  # Muratane
+		"ï-f"  # Nagaakira
+		"8löS"  # Nagaatsu
+		"ï—è"  # Nagachika
+		"ï?b"  # Nagafusa
+		"ïtf"  # Nagaharu
+		"ï¿y"  # Nagahide
+		"ï?e"  # Nagamasa
+		"ï v"  # Nagamasu
+		"ïc"  # Nagamochi
+		"ïàR"  # Nagamori
+		"ïCQ"  # Nagamoto
+		"ïQg"  # Nagamura
+		"ïb"  # Naganari
+		"ï·O"  # Naganobu
+		"ïR"  # Naganori
+		"ïÕë"  # Nagashige
+		"ïÜñ"  # Nagataka
+		"ïâè"  # Nagateru
+		"ï∫N"  # Nagato
+		"ïÀS"  # Nagatomo
+		"ïR`"  # Nagatsune
+		"ï∑^"  # Nagayasu
+		"ïVç"  # Nagayori
+		"ï	T"  # Nagayoshi
+		"ïx^"  # Nagayuki
+		"ïûR"  # Nagazane
+		"-Nf"  # Nakaaki
+		"Ùv?b"  # Naofusa
+		"Ùv∂R"  # Naoie
+		"Ùv?e"  # Naomasa
+		"ÙvCQ"  # Naomoto
+		"ÙvÕë"  # Naoshige
+		"ÙvÜñ"  # Naotaka
+		"Ùv∫N"  # Naoto
+		"ÙvR`"  # Naotsune
+		"Ùv∑^"  # Naoyasu
+		"ÙvVç"  # Naoyori
+		"Ùvx^"  # Naoyuki
+		"btf"  # Nariharu
+		"bÜñ"  # Narikata
+		"b˝V"  # Narikuni
+		"b?e"  # Narimasa
+		"bàR"  # Narimori
+		"bQg"  # Narimura
+		"b·O"  # Narinobu
+		"b'Y"  # Narioki
+		"bÕë"  # Narishige
+		"b©R"  # Narisuke
+		"b‡V"  # Naritada
+		"b	T"  # Nariyoshi
+		"YÓv"  # Natsume
+		"0N"  # Noboru
+		"·O	g"  # Nobuari
+		"·O—è"  # Nobuchika
+		"·O?b"  # Nobufusa
+		"·Os^"  # Nobuhira
+		"·O…^"  # Nobukado
+		"·O|Q"  # Nobukane
+		"·O‹w"  # Nobukatsu
+		"·OT"  # Nobukimi
+		"·On"  # Nobukiyo
+		"·O?e"  # Nobumasa
+		"·OIQ"  # Nobumitsu
+		"·OàR"  # Nobumori
+		"·OCQ"  # Nobumoto
+		"·Oï"  # Nobunaga
+		"·O-N"  # Nobunaka
+		"·OÙv"  # Nobunao
+		"·Ob"  # Nobunari
+		"·OR"  # Nobunori
+		"·Oƒñ"  # Nobuo
+		"·O'Y"  # Nobuoki
+		"·Oç"  # Nobusada
+		"·OÕë"  # Nobushige
+		"·O‡V"  # Nobutada
+		"·OÜñ"  # Nobutaka
+		"·O‰w"  # Nobutane
+		"·OÀS"  # Nobutomo
+		"·ONÜ"  # Nobutora
+		"·O0N"  # Nobutoyo
+		"·O≤u"  # Nobutsuna
+		"·OR`"  # Nobutsune
+		"·O∑^"  # Nobuyasu
+		"·O	T"  # Nobuyoshi
+		"·Ox^"  # Nobuyuki
+		"·OOO"  # Nobuzumi
+		"Rf"  # Noriaki
+		"Rl"  # Norifuji
+		"R?b"  # Norifusa
+		"Rtf"  # Noriharu
+		"R¿y"  # Norihide
+		"RfV"  # Norihiko
+		"R∫N"  # Norihito
+		"Rof"  # Norikage
+		"RÜñ"  # Norikata
+		"R˝V"  # Norikuni
+		"R?e"  # Norimasa
+		"Rc"  # Norimochi
+		"RCQ"  # Norimoto
+		"RÙv"  # Norinao
+		"Rb"  # Norinari
+		"R·O"  # Norinobu
+		"R<N"  # Norinushi
+		"Rç"  # Norisada
+		"RÕë"  # Norishige
+		"R©R"  # Norisuke
+		"R‡V"  # Noritada
+		"RÜñ"  # Noritaka
+		"R‰w"  # Noritane
+		"Rˆe"  # Noritoki
+		"Rl"  # Noriuji
+		"R∑^"  # Noriyasu
+		"RVç"  # Noriyori
+		"R	T"  # Noriyoshi
+		"RûR"  # Norizane
+		"tQ¿y"  # Okihide
+		"tQEN"  # Okihisa
+		"tQåT"  # Okikazu
+		"tQàR"  # Okimori
+		"ÓO"  # Osamu
+		"ï‡V"  # Osatada
+		"ïl"  # Osauji
+		"˜ñœÖ"  # Raizo
+		"`åN"  # Reiji
+		"ÜñåN"  # Ryuji
+		"ç—è"  # Sadachika
+		"ç¿y"  # Sadahide
+		"çEN"  # Sadahisa
+		"çof"  # Sadakage
+		"ç‹w"  # Sadakatsu
+		"ç˝V"  # Sadakuni
+		"ç·n"  # Sadamichi
+		"çIQ"  # Sadamitsu
+		"çóR"  # Sadamune
+		"çï"  # Sadanaga
+		"çÙv"  # Sadanao
+		"ç·O"  # Sadanobu
+		"çR"  # Sadanori
+		"çY"  # Sadaoki
+		"ç„Å"  # Sadaomi
+		"çÕë"  # Sadashige
+		"ç©R"  # Sadasuke
+		"çÜñ"  # Sadataka
+		"ç∫N"  # Sadato
+		"çOe"  # Sadatoshi
+		"ç!k"  # Sadatsugu
+		"ç≤u"  # Sadatsuna
+		"ç„N"  # Sadayo
+		"çVç"  # Sadayori
+		"ç	T"  # Sadayoshi
+		"çx^"  # Sadayuki
+		"∂ã©R"  # Saenosuke
+		"T·O"  # Sakinobu
+		"ûR—è"  # Sanechika
+		"ûR‹w"  # Sanekatsu
+		"ûRIQ"  # Sanemitsu
+		"ûRCQ"  # Sanemoto
+		"ûRvñ"  # Sanesue
+		"ûRÀS"  # Sanetomo
+		"ûRVç"  # Saneyori
+		"ga"  # Satoru
+		"zf"  # Satoshi
+		"Oe"  # Satotoki
+		"ü`"  # Satori
+		"NŒêkSËï"  # Shichiroemon
+		"Õë?b"  # Shigefusa
+		"Õëtf"  # Shigeharu
+		"Õë¿y"  # Shigehide
+		"Õës^"  # Shigehira
+		"ÕëEN"  # Shigehisa
+		"Õë∂R"  # Shigeie
+		"Õë…^"  # Shigekado
+		"Õë|Q"  # Shigekane
+		"Õën"  # Shigekiyo
+		"Õë?e"  # Shigemasa
+		"Õëc"  # Shigemochi
+		"ÕëCQ"  # Shigemoto
+		"ÕëóR"  # Shigemune
+		"ÕëQg"  # Shigemura
+		"Õëï"  # Shigenaga
+		"Õëv^"  # Shigenami
+		"Õëb"  # Shigenari
+		"Õë·O"  # Shigenobu
+		"ÕëR"  # Shigenori
+		"Õë'Y"  # Shigeoki
+		"É"  # Shigeru
+		"Õëç"  # Shigesada
+		"Õëzf"  # Shigesato
+		"Õëvñ"  # Shigesue
+		"Õë‡V"  # Shigetada
+		"ÕëÜñ"  # Shigetaka
+		"Õëfk"  # Shigetake
+		"Õë‰w"  # Shigetane
+		"Õëæè"  # Shigetatsu
+		"ÕëÀS"  # Shigetomo
+		"ÕëOe"  # Shigetoshi
+		"Õë!k"  # Shigetsugu
+		"Õë≤u"  # Shigetsuna
+		"ÕëR`"  # Shigetsune
+		"Õë∑^"  # Shigeyasu
+		"Õë	T"  # Shigeyoshi
+		"ÕëûR"  # Shigezane
+		"·OÑs"  # Shingen
+		"·OåN"  # Shinji
+		"·O*YŒê"  # Shintaro
+		"·O!kŒê"  # Shojiro
+		"ãR±î"  # Sosen
+		"ÈeëN"  # Soun
+		"vñ^"  # Suehiro
+		"©Rtf"  # Sukeharu
+		"©R¿y"  # Sukehide
+		"©R^"  # Sukehiro
+		"©Rof"  # Sukekage
+		"©Rn"  # Sukekiyo
+		"©R?e"  # Sukemasa
+		"©RIQ"  # Sukemitsu
+		"©RàR"  # Sukemori
+		"©Rï"  # Sukenaga
+		"©RÙv"  # Sukenao
+		"©RR"  # Sukenori
+		"©R‡V"  # Suketada
+		"©RÜñ"  # Suketaka
+		"©R‰w"  # Suketane
+		"©ROe"  # Suketoshi
+		"©R0N"  # Suketoyo
+		"©R∑^"  # Sukeyasu
+		"OOtf"  # Sumiharu
+		"OO‡V"  # Sumitada
+		"OO∑^"  # Sumiyasu
+		"‡Vf"  # Tadaaki
+		"‡V-f"  # Tadaakira
+		"‡VöS"  # Tadaatsu
+		"‡V—è"  # Tadachika
+		"‡V¨Q"  # Tadafuyu
+		"‡Vtf"  # Tadaharu
+		"‡V^"  # Tadahiro
+		"‡VEN"  # Tadahisa
+		"‡V∂R"  # Tadaie
+		"‡V…^"  # Tadakado
+		"‡V‹w"  # Tadakatsu
+		"‡V˝V"  # Tadakuni
+		"‡V?e"  # Tadamasa
+		"‡V·n"  # Tadamichi
+		"‡Vc"  # Tadamochi
+		"‡VCQ"  # Tadamoto
+		"‡VóR"  # Tadamune
+		"‡VÙv"  # Tadanao
+		"‡Vb"  # Tadanari
+		"‡Vƒñ"  # Tadao
+		"‡V'Y"  # Tadaoki
+		"‡V©R"  # Tadasuke
+		"‡VÜñ"  # Tadataka
+		"‡Vâè"  # Tadateru
+		"‡Vˆe"  # Tadatoki
+		"‡VÀS"  # Tadatomo
+		"‡VOe"  # Tadatoshi
+		"‡V!k"  # Tadatsugu
+		"‡VR`"  # Tadatsune
+		"‡Vƒñ"  # Tadayo
+		"‡V	T"  # Tadayoshi
+		"‡Vx^"  # Tadayuki
+		"‡VOO"  # Tadazumi
+		"Üñf"  # Takaaki
+		"Üñâè"  # Takaakira
+		"Üñ—è"  # Takachika
+		"Üñ?b"  # Takafusa
+		"Üñtf"  # Takaharu
+		"Üñ¿y"  # Takahide
+		"Üñ^"  # Takahiro
+		"ÜñEN"  # Takahisa
+		"Üñ∂R"  # Takaie
+		"Üñof"  # Takakage
+		"Üñ|Q"  # Takakane
+		"ÜñåT"  # Takakazu
+		"Üñ v"  # Takamasu
+		"Üñ·n"  # Takamichi
+		"ÜñIQ"  # Takamitsu
+		"Üñc"  # Takamochi
+		"ÜñàR"  # Takamori
+		"ÜñCQ"  # Takamoto
+		"Üñ-N"  # Takanaka
+		"ÜñÙv"  # Takanao
+		"Üñ·O"  # Takanobu
+		"Üñ'Y"  # Takaoki
+		"Üñç"  # Takasada
+		"ÜñÕë"  # Takashige
+		"Üñvñ"  # Takasue
+		"Üñ©R"  # Takasuke
+		"Üñ‰w"  # Takatake
+		"Üñfk"  # Takatane
+		"ÜñÀS"  # Takatomo
+		"ÜñNÜ"  # Takatora
+		"Üñ0N"  # Takatoyo
+		"Üñ!k"  # Takatsugu
+		"Üñl"  # Takauji
+		"Üñ∑^"  # Takayasu
+		"ÜñVç"  # Takayori
+		"Üñ	T"  # Takayoshi
+		"Üñx^"  # Takayuki
+		"ÜñûR"  # Takazane
+		"fkf"  # Takeaki
+		"fkEN"  # Takehisa
+		"fk‰w"  # Taketane
+		"fk	T"  # Takeyoshi
+		":Ntf"  # Tameharu
+		":N^"  # Tamehiro
+		":Nof"  # Tamekage
+		":Nn"  # Tamekiyo
+		":N·O"  # Tamenobu
+		":NVç"  # Tameyori
+		"‰wf"  # Taneakira
+		"‰w—è"  # Tanechika
+		"‰w‰Ö"  # Tanefuji
+		"‰wtf"  # Taneharu
+		"‰w¿y"  # Tanehide
+		"‰w|Q"  # Tanekane
+		"‰wn"  # Tanekiyo
+		"‰wóR"  # Tanemune
+		"‰wï"  # Tanenaga
+		"‰wÙv"  # Tanenao
+		"‰wR"  # Tanenori
+		"‰wç"  # Tanesada
+		"‰wÕë"  # Taneshige
+		"‰wˆe"  # Tanetoki
+		"‰wÃR"  # Tanetomi
+		"‰w!k"  # Tanetsugu
+		"‰wR`"  # Tanetsune
+		"‰w	T"  # Taneyoshi
+		"‰wx^"  # Taneyuki
+		"‰wûR"  # Tanezane
+		"æè'Y"  # Tatsuoki
+		"âè^"  # Teruhiro
+		"âèEN"  # Teruhisa
+		"âèof"  # Terukage
+		"âè?e"  # Terumasa
+		"âè·n"  # Terumichi
+		"âèàR"  # Terumori
+		"âèCQ"  # Terumoto
+		"âèóR"  # Terumune
+		"âèNÜ"  # Terutora
+		"âèOO"  # Teruzumi
+		"ˆef"  # Tokiaki
+		"ˆeEN"  # Tokihisa
+		"ˆeàR"  # Tokimori
+		"ˆeÕë"  # Tokishige
+		"ˆeÜñ"  # Tokitaka
+		"ˆel"  # Tokiuji
+		"ÀSl"  # Tomofuji
+		"ÀS?b"  # Tomofusa
+		"ÀStf"  # Tomoharu
+		"ÀS¿y"  # Tomohide
+		"ÀSEN"  # Tomohisa
+		"ÀS|Q"  # Tomokane
+		"ÀSÜñ"  # Tomokata
+		"ÀS‹w"  # Tomokatsu
+		"ÀS?e"  # Tomomasa
+		"ÀS·n"  # Tomomichi
+		"ÀSàR"  # Tomomori
+		"ÀSóR"  # Tomomune
+		"ÀSÙv"  # Tomonao
+		"ÀSb"  # Tomonari
+		"ÀS·O"  # Tomonobu
+		"ÀSR"  # Tomonori
+		"ÀSç"  # Tomosada
+		"ÀS‰w"  # Tomotane
+		"ÀSâè"  # Tomoteru
+		"ÀS≤u"  # Tomotsune
+		"ÀS	T"  # Tomoyoshi
+		"NÜ?e"  # Toramasa
+		"NÜàR"  # Toramori
+		"NÜ‰w"  # Toratane
+		"NÜ∑^"  # Torayasu
+		"Oe?b"  # Toshifusa
+		"OeEN"  # Toshihisa
+		"Oe∂R"  # Toshiie
+		"Oeof"  # Toshikage
+		"Oe‹w"  # Toshikatsu
+		"Oe v"  # Toshimasu
+		"OeIQ"  # Toshimitsu
+		"OeóR"  # Toshimune
+		"Oeï"  # Toshinaga
+		"OeÙv"  # Toshinao
+		"Oe·O"  # Toshinobu
+		"Oevñ"  # Toshisue
+		"OeÀS"  # Toshitomo
+		"0Ntf"  # Toyoharu
+		"0NEN"  # Toyohisa
+		"0N˝V"  # Toyokuni
+		"0Nç"  # Toyosada
+		"0Nl"  # Toyouji
+		"!k·n"  # Tsugumichi
+		"!kIQ"  # Tsugumitsu
+		"!kb"  # Tsugunari
+		"!kOe"  # Tsugutoshi
+		"!k0N"  # Tsugutoyo
+		"!kbó"  # Tsugutsura
+		"!kVç"  # Tsuguyori
+		"≤u—è"  # Tsunachika
+		"≤u?b"  # Tsunafusa
+		"≤uEN"  # Tsunahisa
+		"≤uof"  # Tsunakage
+		"≤u‹w"  # Tsunakatsu
+		"≤un"  # Tsunakiyo
+		"≤uCQ"  # Tsunamoto
+		"≤uÙv"  # Tsunanao
+		"≤uR"  # Tsunanori
+		"≤uç"  # Tsunasada
+		"≤uÕë"  # Tsunashige
+		"≤u‡V"  # Tsunatada
+		"≤ufk"  # Tsunatake
+		"≤uæè"  # Tsunatatsu
+		"≤uf"  # Tsuneaki
+		"≤u¿y"  # Tsunehide
+		"≤uEN"  # Tsunehisa
+		"≤u∂R"  # Tsuneie
+		"≤uIQ"  # Tsunemitsu
+		"≤uï"  # Tsunenaga
+		"≤u'Y"  # Tsuneoki
+		"≤u‡V"  # Tsunetada
+		"≤u∑^"  # Tsuneyasu
+		"≤u	T"  # Tsuneyoshi
+		"bóæè"  # Tsuratatsu
+		"l?b"  # Ujifusa
+		"ltf"  # Ujiharu
+		"l¿y"  # Ujihide
+		"ls^"  # Ujihira
+		"l^"  # Ujihiro
+		"lof"  # Ujikage
+		"l|Q"  # Ujikane
+		"l‹w"  # Ujikatsu
+		"l˝V"  # Ujikuni
+		"l?e"  # Ujimasa
+		"l·n"  # Ujimichi
+		"lCQ"  # Ujimoto
+		"lï"  # Ujinaga
+		"lÙv"  # Ujinao
+		"lb"  # Ujinari
+		"lR"  # Ujinori
+		"l'Y"  # Ujioki
+		"lç"  # Ujisada
+		"lÃë"  # Ujisato
+		"lÕë"  # Ujishige
+		"l©R"  # Ujisuke
+		"lâè"  # Ujiteru
+		"l0N"  # Ujitoyo
+		"lR`"  # Ujitsuna
+		"l∑^"  # Ujiyasu
+		"lûR"  # Ujizane
+		"l≤u"  # Ujtsuna
+		"∑^tf"  # Yasuharu
+		"∑^¿y"  # Yasuhide
+		"∑^of"  # Yasukage
+		"∑^?e"  # Yasumasa
+		"∑^àR"  # Yasumori
+		"∑^ï"  # Yasunaga
+		"∑^b"  # Yasunari
+		"∑^·O"  # Yasunobu
+		"∑^R"  # Yasunori
+		"∑^vñ"  # Yasusue
+		"∑^©R"  # Yasusuke
+		"∑^‡V"  # Yasutada
+		"∑^ÀS"  # Yasutomo
+		"∑^Oe"  # Yasutoshi
+		"∑^	T"  # Yasuyoshi
+		"∑^ûR"  # Yasuzane
+		"Vçf"  # Yoriaki
+		"Vç—è"  # Yorichika
+		"Vç?b"  # Yorifusa
+		"Vçtf"  # Yoriharu
+		"Vçs^"  # Yorihira
+		"VçEN"  # Yorihisa
+		"Vç‹w"  # Yorikatsu
+		"VçàR"  # Yorimori
+		"Vç'Y"  # Yorioki
+		"VçÕë"  # Yorishige
+		"Vç‡V"  # Yoritada
+		"VçÜñ"  # Yoritaka
+		"Vçfk"  # Yoritake
+		"Vçˆe"  # Yoritoki
+		"Vç!k"  # Yoritsugu
+		"Vç≤u"  # Yoritsuna
+		"Vçl"  # Yoriuji
+		"Vç∑^"  # Yoriyasu
+		"	Tf"  # Yoshiaki
+		"	Tf"  # Yoshiakira
+		"	T	g"  # Yoshiari
+		"	TöS"  # Yoshiatsu
+		"	T—è"  # Yoshichika
+		"IN¨Q"  # Yoshifuyu
+		"	Ttf"  # Yoshiharu
+		"	Top"  # Yoshihi
+		"	T¿y"  # Yoshihide
+		"	Ts^"  # Yoshihira
+		"	T^"  # Yoshihiro
+		"	TEN"  # Yoshihisa
+		"	T∫N"  # Yoshihito
+		"	T…^"  # Yoshikado
+		"INof"  # Yoshikage
+		"	T|Q"  # Yoshikane
+		"	TÜñ"  # Yoshikata
+		"	T‹w"  # Yoshikatsu
+		"	Tn"  # Yoshikiyo
+		"	T˝V"  # Yoshikuni
+		"	T?e"  # Yoshimasa
+		"	T v"  # Yoshimasu
+		"	T·n"  # Yoshimichi
+		"	TIQ"  # Yoshimitsu
+		"	Tc"  # Yoshimochi
+		"	TàR"  # Yoshimori
+		"	TCQ"  # Yoshimoto
+		"	TóR"  # Yoshimune
+		"	TQg"  # Yoshimura
+		"	Tï"  # Yoshinaga
+		"	TÙv"  # Yoshinao
+		"	Tb"  # Yoshinari
+		"	T·O"  # Yoshinobu
+		"	TR"  # Yoshinori
+		"	T'Y"  # Yoshioki
+		"INç"  # Yoshisada
+		"INT"  # Yoshisaki
+		"INÃë"  # Yoshisato
+		"	TÕë"  # Yoshishige
+		"	T©R"  # Yoshisuke
+		"	T‡V"  # Yoshitada
+		"	TÜñ"  # Yoshitaka
+		"	Tfk"  # Yoshitake
+		"	T‰w"  # Yoshitane
+		"	Tæè"  # Yoshitatsu
+		"	Tâè"  # Yoshiteru
+		"	Tˆe"  # Yoshitoki
+		"	TÀS"  # Yoshitomo
+		"	TNÜ"  # Yoshitora
+		"	TOe"  # Yoshitoshi
+		"	T‰Ö"  # Yoshitou
+		"IN!k"  # Yoshitsugu
+		"	T≤u"  # Yoshitsuna
+		"	Tl"  # Yoshiuji
+		"	T∑^"  # Yoshiyasu
+		"	TVç"  # Yoshiyori
+		"	Tx^"  # Yoshiyuki
+		"	TûR"  # Yoshizane
+		"	TOO"  # Yoshizumi
+		"x^^"  # Yukihiro
+		"x^?e"  # Yukimasa
+		"x^àR"  # Yukimori
+		"x^Qg"  # Yukimura
+		"x^ï"  # Yukinaga
+		"x^Õë"  # Yukishige
+		"åTw"  # Kazuma
+		"‹Ég"  # Natuski
+		"åT∫N"  # Kazuto
+		"kQa^"  # Hachiman
+		",ü"  # Itachi
+		"BW0u"  # Sakata
+		"&O*YŒê"  # Rintarou
+	}	
+	female_names = {
+		"?ñ6É"  # Acha 
+		"?ñ6É6É"  # Achacha 
+		"?ñPR"  # Ago 
+		"?ñTPR"  # Agogo 
+		"1r"  # Ai 
+		"1r6w±u"  # Aiyasha 
+		"dçsO"  # Akaka 
+		"dçùg"  # Akashi 
+		"Ày"  # Aki 
+		"öNPR"  # Ako 
+		"dçBzPR"  # Akoko 
+		"Ëñ"  # Ame 
+		"öN¶h"  # Amu 
+		"öN±u"  # Asa 
+		"öNgh"  # Asahi 
+		"õR"  # Ate 
+		"Îu"  # Aya 
+		"Îuªûz"  # Ayamachi
+		"Îu6w"  # Ayaya 
+		"fuz"  # Azechi 
+		"6É6É"  # Chacha 
+		"6ÉPR"  # Chago 
+		"6ÉáR"  # Chau 
+		"CS≤Ñ"  # Chibo 
+		"CSO"  # Chii 
+		"äç"  # Etsu 
+		"CSªû"  # Chima 
+		"CS—o"  # Chise 
+		"CS„N"  # Chiyo 
+		"Íu"  # Cho 
+		"Íuar"  # Chobo 
+		"»v"  # Ei 
+		"g"  # Fuku 
+		"ÃRªl"  # Fuji 
+		"ÃRé"  # Fumi 
+		"ÃRÉt"  # Furi 
+		"ÃR±u"  # Fusa 
+		"ÃR„N"  # Fuyo 
+		"¨Q"  # Fuyu 
+		"ˆî"  # Gin 
+		"ü`"  # Go 
+		"°Vgªl"  # Gomoji 
+		"jå"  # Gou 
+		")ÑüS"  # Hagi 
+		"ãv"  # Haku 
+		"±Ç"  # Hana 
+		"%f"  # Haru 
+		"%f%m"  # Hatsu 
+		"RÛó"  # Hatsune 
+		"¿y"  # Hide 
+		"êe"  # Hiko 
+		"œñ"  # Hina 
+		"V"  # Hiro 
+		"%V"  # Hisa
+		"Bzz"  # Hochi 
+		"Bz‡s"  # Hoju 
+		"≥Ç"  # Hou 
+		"O≈ñ"  # Ia 
+		"O6É"  # Icha 
+		"O6ÉPR"  # Ichako 
+		"Oz"  # Ichi 
+		"OzÀ"  # Ichiba 
+		" N"  # Ima 
+		" NÀy"  # Imaaki 
+		"OHY"  # Ina 
+		"OHY	V"  # Inaka 
+		"Iz"  # Ine 
+		"OŒë"  # Ino 
+		"¨r"  # Inu 
+		"OÛSkSËï"  # Iemon 
+		"Oˆe"  # Ietoki 
+		"O«u"  # Iori
+		"OáÖ"  # Ira 
+		"OT"  # Iro 
+		"OT‚l"  # Iroha 
+		"O◊ã"  # Ishi 
+		"O◊ã	V"  # Ishika 
+		"N"  # Ito 
+		"NN"  # Itoito 
+		"NPR"  # Itoko 
+		"©S"  # Iwa 
+		"O6w"  # Iya 
+		"OàN"  # Iyo 
+		"†R:ç"  # Kaga 
+		"ﬁV"  # Kai 
+		"sOªl"  # Kaji 
+		"sOsO"  # Kaka 
+		"sOªû"  # Kama 
+		"sOÀÇ"  # Kame 
+		"sOÛó"  # Kane 
+		"%fÂe"  # Kasuga 
+		"sO%m"  # Katsu
+		"Œò"  # Kaze 
+		"NI`"  # Kazusa 
+		"€k±u"  # Kesa 
+		"™uz"  # Kichi 
+		"™ug"  # Kichou 
+		"™uùO"  # Kii 
+		" É"  # Kiku 
+		"™ué"  # Kimi 
+		" N"  # Kin 
+		"‚u"  # Kinu 
+		"™u±u"  # Kisa 
+		"™u0u"  # Kita 
+		"™u%mŒë"  # Kitsuno 
+		"™u„N"  # Kiyo 
+		"S6É"  # Kocha 
+		"Sz„N"  # Kochiyo 
+		"Sg"  # Kochou 
+		"SÿNEN"  # Kofuku
+		"ST"  # Kogou 
+		"S`l"  # Koi 
+		"SÛw"  # Koishi 
+		"SN"  # Koito 
+		"ÔSÔS"  # Koko 
+		"Sªû"  # Koma 
+		"Såg"  # Komatsu 
+		"u"  # Kon 
+		"S7b"  # Koto 
+		"SáR"  # Kou 
+		"SÀ"  # Kowa 
+		"SŒë"  # Koya 
+		"S6wŒë"  # Koyaya 
+		"<m"  # Kubo 
+		"äq"  # Kuma 
+		"˝V"  # Kuni 
+		"hôôsO"  # Kurikaka
+		"¢R"  # Kyaku 
+		"ªûöN"  # Maa 
+		"ªûz"  # Machi 
+		"wÏY"  # Maki 
+		"N"  # Man 
+		"ªût"  # Mari 
+		"ªû±u"  # Masa 
+		"≈ñPR"  # Masako 
+		"ªû„N"  # Mayo 
+		"ªûl"  # Mate 
+		"ªû%m"  # Matsu 
+		"ªû%mŒë"  # Matsuno 
+		"ÀÇT"  # Mego 
+		"ÀÇ◊ã"  # Meshi 
+		"*gCN	t"  # Minoru 
+		"=n"  # Minato
+		"é%m"  # Mitsu 
+		"´R"  # Miya 
+		"ÉŒë"  # Mono 
+		"éÀ"  # Miwa 
+		"É7b"  # Moto 
+		"‡e¢W"  # Muku 
+		"˛ñÀÇ"  # Mume 
+		"˛ñÀÇ%m"  # Mumetsu 
+		"HYöN"  # Naa 
+		"ï"  # Nabe 
+		"-N"  # Naka 
+		"‚l"  # Nami 
+		"Y"  # Natsu 
+		"Yé"  # Natsumi 
+		"Y6w"  # Naya 
+		"ÅRÅR"  # Nene 
+		"åNùO"  # Nii 
+		"â"  # Nishi 
+		"Y"  # Nue 
+		"eY"  # Oku 
+		"PN"  # Raku 
+		"≤É"  # Ren 
+		"ÉtÉt"  # Riri 
+		"	tÉt"  # Ruri 
+		"ás"  # Ritsu 
+		"Ñy"  # Roku 
+		"±uCS"  # Sachi 
+		"±uÿu"  # Sae 
+		"±uPR"  # Sako 
+		"±uHY"  # Sana 
+		"POHYu`"  # Sanae 
+		"Èe◊ã"  # Sashi 
+		"Èe„N"  # Sayo 
+		"Yó"  # Sei 
+		"-^"  # Seki 
+		"CS"  # Sen 
+		"—oHY"  # Sena
+		"(ç"  # Shichi 
+		"É"  # Shige 
+		"õS"  # Shima 
+		"N"  # Shimo 
+		"¡T"  # Shina 
+		"Yóôô"  # Shizuka 
+		"ntnt"  # Shosho 
+		"S"  # Shou 
+		"‡sñs"  # Shuku 
+		".tÀÇ"  # Some 
+		".t„N"  # Soyo 
+		"+g"  # Sue 
+		".tÍN"  # Sugi 
+		"©R"  # Suke 
+		".tÏY"  # Suki 
+		"åQ"  # Satsu
+		"˘ãøã"  # Suwa 
+		"l"  # Tai 
+		"˘z"  # Take  
+		"˘zCS„N"  # Takechiyo 
+		"˘zåg"  # Takematsu 
+		"ÖR"  # Taku 
+		"Yªû"  # Tama 
+		"Õy"  # Tane 
+		"YáÖ"  # Tara 
+		"YËñ"  # Tau 
+		"Y%m"  # Tatsu 
+		"0uPR"  # Tatsuko 
+		"Y„N"  # Tayo 
+		"Y	t"  # Teru 
+		"óV"  # Toku 
+		"7bÀÇ"  # Tome
+		"ÀS"  # Tomo 
+		"ÙT"  # Tomoe 
+		"NÜ"  # Tora 
+		"7b„N"  # Toyo 
+		"ªY"  # Tsuma 
+		"8^"  # Tsune 
+		"%m	t"  # Tsuru 
+		"É"  # Tsuta 
+		"%mùO"  # Tsui 
+		"%mŒë"  # Tsuya 
+		"%m„N"  # Tsuyo 
+		"áRÀ"  # Uba 
+		"Öh"  # Ume 
+		"Lk"  # Uta 
+		"ÂÇ‹É"  # Wakana 
+		"¡w"  # Waki
+		"≈ñ≈ñ"  # Yaya 
+		"ŒëŒë6É"  # Yayacha 
+		"¡Z"  # Yome 
+		"„NÛó"  # Yone 
+		"Œëz"  # Yachi 
+		"Œë±u"  # Yasha 
+		"Œë±u„N"  # Yashayo 
+		"Œë.t"  # Yasu 
+		"„N◊ã"  # Yoshi 
+		"1uùO"  # Yui 
+		"1u™u"  # Yuki 
+		"1uñs"  # Yuku 
+		"¶h"  # Yume 
+		"V"  # Yumi 
+		"hQ"  # Zen
+		"√îé"  # Reimi
+		"Yh"  # Natsuki
+		"zfPR"  # Tomoko
+		"ÀSsOPR"  # Yukako
+		"¢uâÉh"  # Kurisu
+		"OÃë"  # Yuri
+		"±uNÃë"  # Sayori
+	}
+	dynasty_names = {
+		"õs<hyrmùO∑V"  # Margatroid
+		"ÿöKNŒë"  # Komano
+		"SãT8N"  # Shameimaru
+		"kNASkN"  # Tsukumo
+		"1W"  # Hijiri
+		"Sãv≥l"  # Kitashirakawa
+		"œÇOyr"  # Sweet
+		"kQa"  # Yagokoro
+		"ØeaSåÖyr"  # Scarlet
+		"‰ÖüS"  # Fujiwara
+		"Êy"  # Hata
+		"ÏYwm‡h"  # Himekaidou
+		"…bµxØe…bVy)R"  # Lapislazuli
+		"z0u"  # Hieda
+		".ïqS"  # Kagiyama 
+		"¢u"  # Hong
+		"ëNES"  # Kumoi
+		"8lml"  # Nagae
+		"ùO^y"  # Yorigami
+		" N…l"  # Imaizumi
+		"ÏÑ±ÉqS"  # Houraisan
+		"âRZç…bS"  # Anaberal
+		"kQBW"  # Yasaka
+		"(É(g"  # Ibaraki
+		"Nãv˝l"  # Kamishirasawa
+		"YYoÇ"  # Tatara
+		"‰Sf0W"  # Komeiji
+		"SŒëZX"  # Onozuka
+		"≤T6wÎY"  # Sakuyahime
+		",gES"  # Motoori
+		"ã^7å"  # Kasodani
+		"nfâÉyQ∆Y)RÙT"  # Prismriver
+		"óÊtyrmKQ"  # Whiterock
+		"ãv"  # White
+		"N<y0u"  # Teireida
+		"åN©S"  # Futatsuiwa
+		"kçi`"  # Hearn
+		"˛ñËñ"  # Kirisame
+		"ÖhpQÔSâÉ"  # Melancholy
+		"4lá"  #
+		"Qg±u"  # Minamitsu
+		"Ày"  # Aki
+		"4lml"  # Mizue
+		"¨rpç"  # Inubashiri
+		"irËê"  # Mononobe
+		"ãT≤É"  # Myouren
+		"ÑåÖ…b"  # Lorelei
+		"‚w0u˙R"  # Yatadera
+		"BW0u"  # Sakata
+		"≥lŒW"  # Kawashiro
+		"SãQ"  # Houjuu
+		"idYW"  # Matara
+		"4leh"  # Mizuhashi
+		"˙ãåÖÏY"  # Knowledge
+		"X›T"  # Horikawa
+		"kQëN"  # Yakumo
+		"ZSKN"  # Hakurei
+		"‡Va^"  # Inaba
+		"áRPO¡â"  # Usami
+		"g”N"  # Asakura
+		"kp0q+s"  # Kaenbyou
+		"¥Qg"  # Satsuki
+		"Óh—è"  # Morichika
+		"z^y"  # Kishin
+		"ñY"  # Ayakashi
+		"ASmQY"  # Izayoi
+		"NŒò7å"  # Kochiya
+		"SPR0u"  # Nishida
+		"ó"  # Kaku
+		"<õ∫N"  # Kijin
+		"ST"  # Sukuna
+		"ŸNS"  # Sendai
+		"≈R8N"  # Toramaru
+		"œÇb"  # Soga
+		"O9T"  # Ibuki
+		")m‚w"  # Moriya
+		"fT"  # Xingjun
+		"‘k±êTES"  # Hinanawi
+		"0Njw3w"  # Toyosatomimi
+		"upLNÔç"  # Reiuji
+		"ıug"  # Watatsuki
+		"HYyrÙT<h"  # Nightbug
+		"—û7å"  # Kurodani
+		"´R‰S"  # Miyako
+		"BõDõ"  # Konpaku
+		"àQT"  # Okazaki
+		"fäq"  # Hoshiguma
+		"Œò¡â"  # Kazami
+		"âLà˙R"  # Saigyouji
+		"±Ç¨Nbñ"  # Kakyoin
+		"zzag"  # Kujo
+		"Nπe"  # Higashikata
+		"^—o"  # Hirose
+		"∏Sπè"  # Kishibe
+		"yÜQg"  # Nijimura
+		"	ToÇ"  # Kira
+		"Ig,g"  # Sugimoto
+		"môBW"  # Yamagishi
+		"PO‰Ö"  # Sato
+		"‹Ég"  # Natsuki
+		"Ph∫N"  # Kirigaya
+		"gr—o"  # Makise
+		"‘kO7å"  # Hikigaya
+		"áRzf‚l"  # Uchiha
+		"BW0u"  # Gintoki
+		"àQËê"  # Okabe
+		"Y^y"  # Yagami
+	}
+}
+
+#th_undead_culture_g = {
+#	graphical_culture = asiangfx
+#	country = {}
+#	province = {}
+#	th_ghost_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_poltergeist_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_phantom_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_onryou_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_jiang_shi_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	male_names = {
+#		Undead
+#	}
+#	female_names = {
+#		Undeadina
+#	}
+#	dynasty_names = {
+#		"of the Scourge"
+#	}
+#}
+#
+#th_youkai_culture_g = {
+#	graphical_culture = asiangfx
+#	country = {}
+#	province = {}
+#	th_youkai_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_beast_youkai_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_vampire_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_tengu_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_kappa_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_hashihime_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_tsukumogami_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_nue_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_oni_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_yamanba_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_baku_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	male_names = {
+#		Undead
+#	}
+#	female_names = {
+#		Undeadina
+#	}
+#	dynasty_names = {
+#		"of the Scourge"
+#	}
+#}
+#
+#th_divine_culture_g = {
+#	graphical_culture = asiangfx
+#	country = {}
+#	province = {}
+#	th_arahitogami_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_kami_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_angel_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_demon_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_yama_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_divine_spirit_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_celestial_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	male_names = {
+#		Undead
+#	}
+#	female_names = {
+#		Undeadina
+#	}
+#	dynasty_names = {
+#		"of the Scourge"
+#	}
+#}
+#
+#th_fairy_culture_g = {
+#	graphical_culture = asiangfx
+#	country = {}
+#	province = {}
+#	th_fairy_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	male_names = {
+#		Undead
+#	}
+#	female_names = {
+#		Undeadina
+#	}
+#	dynasty_names = {
+#		"of the Scourge"
+#	}
+#}
+#
+#th_inchling_culture_g = {
+#	graphical_culture = asiangfx
+#	country = {}
+#	province = {}
+#	th_inchling_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	male_names = {
+#		Undead
+#	}
+#	female_names = {
+#		Undeadina
+#	}
+#	dynasty_names = {
+#		"of the Scourge"
+#	}
+#}
+#
+#th_gensokyan_culture_g = {
+#	graphical_culture = asiangfx
+#	country = {}
+#	province = {}
+#	th_gensokyan_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_hermit_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	th_half_youkai_culture = {
+#		country = {}
+#		province = {}
+#	}
+#	male_names = {
+#		Undead
+#	}
+#	female_names = {
+#		Undeadina
+#	}
+#	dynasty_names = {
+#		"of the Scourge"
+#	}
+#}

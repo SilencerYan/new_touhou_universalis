@@ -1,0 +1,333 @@
+﻿l_english:
+ th_yuyus_food_buff_has_at_least_x_cultures_tt: "óSåb	gXYeg‡eS0"
+ th_able_to_attack_lunarian_tt: "gKNl„vfkYSØS—V§YK„O§!Ngb—eQµOwegOôf§Y¹Rf§!0"
+ th_states_struggle_is_balanced_tt: "ƒÏ‘YŽNs^aˆ„v¶r`0"
+ th_states_struggle_eit_kaguya_favor_tt: "ì„±ƒqSŒc5‚0"
+ th_states_struggle_fuj_kaguya_favor_tt: "ì„±ƒqSŒc5‚0"
+ th_states_struggle_eit_mokous_favor_tt: "ä…ŸSŒc5‚0"
+ th_states_struggle_fuj_mokous_favor_tt: "ä…ŸSŒc5‚0"
+ th_deity_remove_all_modifiers.tt: "ûyd–Nb	gVÑSê^yGy„vîOck0"
+ th_deity_war_penalty_tt: "bìN†˜ßWS·ƒ—VîOckåN§RÖSˆm§!SVMR§Y^yGy§!„vVY±R0"
+ th_lottery_candidate_bonus_one: "§YËbŒr	>NP	ºNVY±R§!ÿÙMOP	ºN„v–HgNy˜ŽbýwÐcØš§G[Root.th_random_candidate_bonus_tooltip_variable.GetValue]§!0"
+ th_lottery_candidate_bonus_plural: "§YËbŒr	>NP	ºNVY±R§!ÿÏkMOP	ºN„v–HgNy˜ŽbýwÐcØš§G[Root.th_random_candidate_bonus_tooltip_variable.GetValue]§!0"
+ th_enable_burgling_action_tt: "=T(uô•ŒLˆ¨R0§Y«R cYýV0µN§!00"
+ th_enable_youkai_hunt_tt: "=T(uY²NLˆ¨R0§Y»lÎ‘î†–Y*`§!00"
+ th_enable_university_education_tt: "=T(u0§YYe²w‹NöN§!00"
+ th_increase_education_frequency_tt: "žX R0§YYe²w‹NöN§!0*geg„væ‰ÑS‘˜‡s0"
+ th_enable_spring_power_effect_tt: "=T(u«ˆ¨Rýw›R0§Y%fKN›R§!00"
+ th_increase_berserk_spreading_tt: "ÐcGSwýN´fpîOck„v§Y.O‡s§!ÎNÏk5t^.ONÞVØSHNÏk§G3t^§!.ONÞV0"
+ th_increase_spring_power_effect_boundless: "ÐcGS%fKN›R„vcíuöeô•˜YžX R§Y3*Ng§!v^ã‰•îOck„vNNµu+Rÿ&^egåNNHeœgÿ"
+ th_increase_spring_power_effect_end: "O%fKN›RbHN8lEN'`Heœgv^ã‰•gÈuµu+Rÿ&^egåNNHeœgÿ"
+ th_pirate_increase_fame_by_10_tt: "ÐcGS§Y–Y¾|'Y×v§!„vTg§G+10§!."
+ th_sff_increment_sun_garden_counter_tt: "[Root.GetSFFCurrentPower]"
+ th_enable_colonial_maintenance_reduction_tt: "[Root.GetLILReducedColonialMaintenanceLevel]"
+ th_remove_autonomy_from_all_provinces: "§GM–NO§!Nbåb	g„vhQèwýN„vê»l¦^ógNO<P0"
+ th_has_not_original_heir_tt: "¡l	g§YŸS¾‹çubºN§!(WMO0"
+ th_has_not_original_ruler_tt: "¡l	g§YŸS¾‹ßu»lw§!(WMO0"
+ th_has_not_original_heir_as_ruler_tt: "¡l	g§YŸS¾‹çubºN§!ŒcCg0"
+ th_has_religious_ideas_tt: "òT=T(u§Y—RYetõV§!bûNUO§Y	gsQ[Root.Religion.GetName]„vtõVÄu§!0"
+ th_has_full_religious_ideas_tt: "òTŒRhQã‰•§Y—RYetõV§!bûNUO§Y	gsQ[Root.Religion.GetName]„vtõVÄu§!0"
+ th_rfc_own_score_tt: "bìNSVMR„v—VRHN§Y[Root.th_rfc_own_high_score.GetValue]§!0"
+ th_rfc_gets_scores_from_other_participants_tt: "¹pûQdk	y˜åN·ƒÖSi‹N„v—VR0\nf‹JTÿOgqÞz‰NùRKb„vpeÏ‘ÿ`OïSýwO—V0R‹Y›NBgqN„v‹NöNÿ"
+ th_rfc_initiate_challenge_tt: "§Y‹sS–Y¾|V§!VU^ÿ"
+ th_rfc_is_baka_for_diplomacy_challenge: "=f§YY²Ncb§!-N„vîvhlšž0"
+ th_rfc_is_baka_for_warfare_challenge: "=f§YSb×Ncb§!-N„vîvhlšž0"
+ th_rfc_is_baka_for_royalty_challenge: "=f§Y‹slcb§!-N„vîvhlšž0"
+ th_rfc_is_baka_for_duel_challenge: "=f§Y³Q—ecb§!-N„vîvhlšž0"
+ th_rfc_is_baka_for_pranks_challenge: "=f§YteÊ†cb§!-N„vîvhlšž0"
+ th_fairy_respawn_has_adm_power_for_ruler_tt: "åb	g§Y[Root.th_ruler_adm_stat.GetValue]*24§!„vLˆ?e¹ppe0"
+ th_fairy_respawn_has_dip_power_for_ruler_tt: "åb	g§Y[Root.th_ruler_dip_stat.GetValue]*24§!„vY²N¹ppe0"
+ th_fairy_respawn_has_mil_power_for_ruler_tt: "åb	g§Y[Root.th_ruler_mil_stat.GetValue]*24§!„v›Q‹N¹ppe0"
+ th_fairy_respawn_has_adm_power_for_heir_tt: "åb	g§Y[Root.th_heir_adm_stat.GetValue]*24§!„vLˆ?e¹ppe0"
+ th_fairy_respawn_has_dip_power_for_heir_tt: "åb	g§Y[Root.th_heir_dip_stat.GetValue]*24§!„vY²N¹ppe0"
+ th_fairy_respawn_has_mil_power_for_heir_tt: "åb	g§Y[Root.th_heir_mil_stat.GetValue]*24§!„v›Q‹N¹ppe0"
+ CIN_tolerant_effect_tt: "Ïk*N1ub¹eb^SýVåb	gN=føv¹R‡eS„vwýNS&^egåNNHeœgÿ"
+ CIN_vengeance_effect_tt: "Ïk*N1ub¹eb^SýVåb	gN(WåTwQÐcHy-N>fHyå‹wHNb¹e‡eS„vwýNS&^egåNNHeœgÿ"
+ CIN_path_depended_reward: "VY±RÖS³QŽN[Root.GetName]òT	ébKN§YS§!ÿ"
+ th_ds_excuse_religion_swapping_tt: "lbcHNNT„v—RYeNOmc³R0R[Root.Monarch.GetName]„vckßu'`0"
+ th_reveal_all_terra_incognito_tt: "ÑS°ste*NNLuÿ"
+ th_coastal_slave_raid_immunity_tt: "ØS—V§YMQ×S§!ùRwm¸S„v«R c0"
+ th_enable_book_theft_action_effect_tt: "=T(uô•ŒLˆ¨R0§YƒzfN§!00"
+ th_enable_cleptomania_cb_effect_tt: "=T(u±Rbt1u0§YT›ÕlOV†u§!00"
+ th_has_lost_danmaku_duel_against_root_tt: "òT(W§Y9VU^³Q—e§!-N«ˆ[Root.Monarch.GetName]§YûQ%§!0"
+ th_has_been_asserted_in_dominance: "§Y[Root.GetName]§!òT§YnxËz8—Cg§!0"
+ scr_make_meiling_company_free_tt: "§YŽÃ”kS–§!S=f§Y[This.GetName]§!=UNïSÛbßR„vcOuQâV0"
+ th_disable_all_mercs_tt: "§Rybk§!§Y[This.GetName]§!ÛbßRcOuQâV0"
+ th_enable_all_mercs_tt: "§G=T(u§!§Y[This.GetName]§!„vcOuQâVÛbßR0"
+ th_remove_merc_penalty_tt: "Ç–cOcOuQâVSNQ±‚9§YF–›QLwN¦^§!0"
+ th_enable_scarlet_bloodlust_effect_tt: "=T(u§Y)s¢uÜUNˆ§!0"
+ th_upgrade_scarlet_bloodlust_effect_tt: "ÐcGS§Y)s¢uÜUNˆ§!„vëXlb`Y¦^ckHe‡s§G100%§!0"
+ th_enable_scarlet_charisma_effect_tt: "=T(uY²NLˆ¨R§YNˆr‚E››R§!0"
+ th_enable_assert_dominance_cb_effect_tt: "=T(uY²NLˆ¨R§Y±RHy8—CgPãS§!0"
+ th_upgrade_scarlet_charimsa_effect_tt: "M–NOY²NLˆ¨R§YNˆr‚E››R§!„v±‚90"
+ scr_enable_koakuma_explorer_tt: "Sv`T›ïSÇ³Q®‹«ˆÇ–(uHN§Y¢ci–¶R§!0\nNÇyY„v0ïSãSïST›0¨PYêSYU§Y3§!!k0(WdkKNTSv`T›OÞV0RþVfN†™v^b`YŸSLwÅbûN^Ëy‰ƒ„v©RKb0"
+ th_add_global_prosperity_tt: "»lNNb	gwýN·ƒ—VN`O„v–™ýNô„v§YAucƒ¦^§!0"
+ th_add_global_devastation_tt: "»lNNb	gwýN·ƒ—VN`O„v–™ýNô„v§YRƒŸ^¦^§!0"
+ th_stat_remains_after_respawn_ruler_tt: "sSO(W[Root.Monarch.GetHerHis]ÞVRV0R†N«R÷^KNTÿå‹y˜^S'`ØSôfmNSOuHeŽN[Root.Monarch.GetName]0"
+ th_stat_remains_after_respawn_heir_tt: "sSO(W[Root.Heir.GetHerHis]ÞVRV0R†N«R÷^KNTÿå‹y˜^S'`ØSôfmNSOuHeŽN[Root.Heir.GetName]0"
+ th_enable_free_respawn_tt: "§Y|T2Ußu»lwRVeg°s(W=fMQ9„vÿ§!"
+ th_halve_respawn_cooldown_tt: "|T2Ußu»lwRVeg„v·QtSöeô•M–NOó§G50%§!0"
+ th_enable_exploration_without_explo_ideas_tt: "=T(u³Q®‹egÛbßR§Y¢ci–¶R§!ÊS§YVgw§!wN—‰¢c0ttõV0\n6qwÇÙÍy¹eVÇ–(u„v¢ci–¶RÊSVgwÏkN*N—±‚910¹p.Oßuv^	g§Y1t^§!„v·QtSöeô•0"
+ th_disable_exploration_without_explo_ideas_tt: "ybkÇ³Q®‹ÛbßR§Y¢ci–¶R§!ÊS§YVgw§!0"
+ th_remove_annexation_penalty_tt: "ûyd–0§YteTD–¸^§!0„vY²NTv^é`Z0"
+ th_upgrade_satori_abilities_effect_tt: "GSµu§YÉ‰^SD–¸^’N¨R§!ÊS§Yû‹ÃV§!0"
+ th_debug_effect_should_not_occur: "§R•ï‹ÿHeœgN”^ÑSu§!"
+ th_has_goods_expanded_active_tt: "D–^S!jÄu§YN¹e8fÁTÎ˜‘N§!òTÀoIm0"
+ th_has_ideas_expanded_active_tt: "D–^S!jÄu§YN¹etõVÄuÎ˜‘N§!òTÀoIm0"
+ th_satori_vassal_add_liberty_desire_independence_tt: "Œte[This.GetName]„vìrËz>PT"
+ th_rfc_sp_own_score_tt: "bìNSVMR„v—VRHN§Y[Root.th_rfc_own_high_score.GetValue]§!0\nbìN—‰§Y[Root.th_rfc_goal_points.GetValue]§!RåN·ƒÜw)R0"
+ th_has_ages_and_splendor_expanded_active_tt: "D–^S!jÄu§YN¹eöeãNN‰LqÎ˜‘N§!òTÀoIm0"
+ th_has_small_states_active_tt: "D–^S!jÄu§YN¹eSýV§!òTÀoIm0"
+ th_has_reached_level_2: "?eœ^9ei—òTÏu0R¾,r§Y2§!BS0"
+ th_has_reached_level_3: "?eœ^9ei—òTÏu0R¾,r§Y3§!BS0"
+ th_has_reached_level_4: "?eœ^9ei—òTÏu0R¾,r§Y4§!BS0"
+ th_has_reached_level_5: "?eœ^9ei—òTÏu0R¾,r§Y5§!BS0"
+ th_has_reached_level_6: "?eœ^9ei—òTÏu0R¾,r§Y6§!BS0"
+ th_has_reached_level_7: "?eœ^9ei—òTÏu0R¾,r§Y7§!BS0"
+ th_has_reached_level_8: "?eœ^9ei—òTÏu0R¾,r§Y8§!BS0"
+ th_has_reached_level_9: "?eœ^9ei—òTÏu0R¾,r§Y9§!BS0"
+ th_has_reached_level_10: "?eœ^9ei—òTÏu0R¾,r§Y10§!BS0"
+ mki_tolerate_culture_Kappa_tt: "§Y³låz§!‡eSbHN§Y[Root.GetName]§!„vïS¹RÍV‡eS0"
+ mki_tolerate_culture_Gensokyo_human_tt: "§Y‰^ó`aNºN‰|§!‡eSbHN§Y[Root.GetName]§!„vïS¹RÍV‡eS0"
+ mki_tolerate_culture_Senkaian_tt: "§YÙNLu§!‡eSbHN§Y[Root.GetName]§!„vïS¹RÍV‡eS0"
+ mki_tolerate_culture_ct: "§YïS¹RÍV‡eS§!wýN·ƒ—VîOck0§YºN²tQúe§!0cíu§Y25t^§!ÿµNuåNNqVÍTÿ\n,g0WuµNîOckÿ§G+15.0%§!\nÏkgRƒŸ^¦^ÿ§G-0.20§!\n\n§YdkîOck(WÏk*NwýNêSOúQ°sN*N0§!"
+ mki_focus_convert_religion_th_moriyashinto_tt: "—RYe§YˆRâw^yS§!bHN§Y[Root.GetAdjective]§!ˆvOIm¨R„vNN*Nîvh0"
+ mki_focus_convert_religion_th_taoist_tt: "—RYe§YN>mSYe§!bHN§Y[Root.GetAdjective]§!ˆvOIm¨R„vNN*Nîvh0"
+ mki_focus_convert_religion_th_buddhist_tt: "—RYe§YNXNiOYe§!bHN§Y[Root.GetAdjective]§!ˆvOIm¨R„vNN*Nîvh0"
+ mki_focus_convert_religion_th_oldhakurei_tt: "—RYe§YZSKNÎ˜×O§!bHN§Y[Root.GetAdjective]§!ˆvOIm¨R„vNN*Nîvh0"
+ mki_focus_convert_religion_th_hakureishinto_tt: "—RYe§YZSKN^yS§!bHN§Y[Root.GetAdjective]§!ˆvOIm¨R„vNN*Nîvh0"
+ mki_focus_convert_religion_ct: "§Yîvh—RYe§!wýN·ƒ—VîOck0§YRñ‹ˆvO§!0cíu§Y25t^§!ÿµNuåNNqVÍTÿ\n,g0WÛSqN¦^ÿ§G-2.00§!\n,g0W.OYeHV¦^ÿ§G+2.0%§!\n\n§YdkîOck(WÏk*NwýNêSOúQ°sN*N0§!"
+ th_unlock_all_touhou_advisors_tt: "HN[Root.GetName]ã‰•hQSO§YN¹eŒ˜î•§!0"
+ th_lock_all_touhou_advisors_tt: "HN[Root.GetName]•šRhQSO§YN¹eŒ˜î•§!0ÎNûN¡Rb‹NöN-Nã‰•„vŒ˜î•NO×S0RqVÍT0"
+ th_grant_propogate_religion_immunity_tt: "ˆcˆNùR8f?eVr§Y.O­d—RYe§!„vMQd–0"
+ mhg_enable_yukari_insults_tt: "ã‰•§Y+t„v‰…®O±§!0"
+ th_mhg_mark_march_as_special_case_tt: "§Y[This.GetName]§!SNQ`S(u§Y[Root.GetName]§!„vkSbýVhMO0"
+ mhg_increase_subjects_opinion_tt: "Ïk*NSVMRÊS*geg„v^SýV·ƒ—V§G+50§!ùR§Y[Root.GetName]§!„v‹Ya¦^0êS‰ƒRìN=f[Root.GetName]„v^SýVÿå‹‹Ya¦^¿OO=f§Y8lEN§!„v0"
+ mhg_remove_stab_hit_from_yukari_sleep_tt: "+tÎNRµ^NMOSNQVw§Y[Root.GetName]§!„v3zšR¦^NM–0"
+ mry_allow_religious_tributaries_tt: "êS‰[Root.GetName]=f§YˆRâw^yS§!v^òT¨cLˆ9ei—^y>yÆ–Cg6RÿR=T(uY²NLˆ¨R0§Y¾‹Ëz—RYeg!ýV§!00"
+ mry_activate_moriya_curia_tt: "HN[Root.GetName]ÀoIm§YáOðN›R§!Hg6R0"
+ mry_uses_faith_power_tt: "=fïSO(u§YáOðN›R§!Hg6R„v§YˆRâw^yS^y>yÆ–Cg6R§!0"
+ th_allow_th_hakureishinto_converting_on_claim_tt: "«ˆ§Y[Root.GetName]§!±Rðy„vwýNOÇô•ŒLˆ¨R0§Y*O.±Rðy§!09e—RHN§YZSKN^yS§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YZSKN^yS§!öeuHe0"
+ th_allow_th_taoist_converting_on_claim_tt: "«ˆ§Y[Root.GetName]§!±Rðy„vwýNOÇô•ŒLˆ¨R0§Y*O.±Rðy§!09e—RHN§YN>mSYe§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YN>mSYe§!öeuHe0"
+ th_allow_th_buddhist_converting_on_claim_tt: "«ˆ§Y[Root.GetName]§!±Rðy„vwýNOÇô•ŒLˆ¨R0§Y*O.±Rðy§!09e—RHN§YNXNiOYe§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YNXNiOYe§!öeuHe0"
+ th_allow_th_moriyashinto_converting_on_claim_tt: "«ˆ§Y[Root.GetName]§!±Rðy„vwýNOÇô•ŒLˆ¨R0§Y*O.±Rðy§!09e—RHN§YˆRâw^yS§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YˆRâw^yS§!öeuHe0"
+ th_allow_th_oldhakurei_converting_on_claim_tt: "«ˆ§Y[Root.GetName]§!±Rðy„vwýNOÇô•ŒLˆ¨R0§Y*O.±Rðy§!09e—RHN§YZSKNÎ˜×O§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YZSKNÎ˜×O§!öeuHe0"
+ th_allow_th_shinkism_converting_on_claim_tt: "«ˆ§Y[Root.GetName]§!±Rðy„vwýNOÇô•ŒLˆ¨R0§Y*O.±Rðy§!09e—RHN§Y^yîuTÜb§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§Y^yîuTÜb§!öeuHe0"
+ th_allow_th_lunarian_religion_converting_on_claim_tt: "«ˆ§Y[Root.GetName]§!±Rðy„vwýNOÇô•ŒLˆ¨R0§Y*O.±Rðy§!09e—RHN§YgºN`ó`§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YgºN`ó`§!öeuHe0"
+ th_allow_converting_on_claim_tt: "«ˆ§Y[Root.GetName]§!±Rðy„vwýNOÇô•ŒLˆ¨R0§Y*O.±Rðy§!09e—RHN§Y[Root.Religion.GetName]§!0"
+ th_allow_converting_for_shrines_only_tt: "ÅN(W[Root.GetName]òT¨cLˆ§Y^y>yÆ–Cg6R§!9ei—öeïS(u0"
+ th_allow_th_hakureishinto_converting_on_colonization_tt: "«ˆ§Y[Root.GetName]§!–kl„vwýN9e—RHN§YZSKN^yS§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YZSKN^yS§!öeuHe0"
+ th_allow_th_taoist_converting_on_colonization_tt: "«ˆ§Y[Root.GetName]§!–kl„vwýN9e—RHN§YN>mSYe§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YN>mSYe§!öeuHe0"
+ th_allow_th_buddhist_converting_on_colonization_tt: "«ˆ§Y[Root.GetName]§!–kl„vwýN9e—RHN§YNXNiOYe§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YNXNiOYe§!öeuHe0"
+ th_allow_th_moriyashinto_converting_on_colonization_tt: "«ˆ§Y[Root.GetName]§!–kl„vwýN9e—RHN§YˆRâw^yS§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YˆRâw^yS§!öeuHe0"
+ th_allow_th_oldhakurei_converting_on_colonization_tt: "«ˆ§Y[Root.GetName]§!–kl„vwýN9e—RHN§YZSKNÎ˜×O§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YZSKNÎ˜×O§!öeuHe0"
+ th_allow_th_shinkism_converting_on_colonization_tt: "«ˆ§Y[Root.GetName]§!–kl„vwýN9e—RHN§Y^yîuTÜb§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§Y^yîuTÜb§!öeuHe0"
+ th_allow_th_lunarian_religion_converting_on_colonization_tt: "«ˆ§Y[Root.GetName]§!–kl„vwýN9e—RHN§YgºN`ó`§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YgºN`ó`§!öeuHe0"
+ th_allow_converting_on_colonization_tt: "«ˆ§Y[Root.GetName]§!–kl„vwýN9e—RHN§Y[Root.Religion.GetName]§!0"
+ th_allow_colony_converting_for_shrines_only_tt: "ÅN(W[Root.GetName]òT¨cLˆ§Y^y>yÆ–Cg6R§!9ei—öeïS(u0"
+ th_allow_incite_religious_rebels_tt: "AQ¸‹ØyÆRLˆ¨R0§Y‹q¨RÂráO’V§!00"
+ th_allow_th_hakureishinto_ask_conversion_tt: "AQ¸‹Y²NLˆ¨R0§Y‰Bl9eáO§!09eHN§YZSKN^yS§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YZSKN^yS§!öeuHe0"
+ th_allow_th_taoist_ask_conversion_tt: "AQ¸‹Y²NLˆ¨R0§Y‰Bl9eáO§!09eHN§YN>mSYe§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YN>mSYe§!öeuHe0"
+ th_allow_th_buddhist_ask_conversion_tt: "AQ¸‹Y²NLˆ¨R0§Y‰Bl9eáO§!09eHN§YNXNiOYe§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YNXNiOYe§!öeuHe0"
+ th_allow_th_moriyashinto_ask_conversion_tt: "AQ¸‹Y²NLˆ¨R0§Y‰Bl9eáO§!09eHN§YˆRâw^yS§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YˆRâw^yS§!öeuHe0"
+ th_allow_th_oldhakurei_ask_conversion_tt: "AQ¸‹Y²NLˆ¨R0§Y‰Bl9eáO§!09eHN§YZSKNÎ˜×O§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YZSKNÎ˜×O§!öeuHe0"
+ th_allow_th_shinkism_ask_conversion_tt: "AQ¸‹Y²NLˆ¨R0§Y‰Bl9eáO§!09eHN§Y^yîuTÜb§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§Y^yîuTÜb§!öeuHe0"
+ th_allow_th_lunarian_religion_ask_conversion_tt: "AQ¸‹Y²NLˆ¨R0§Y‰Bl9eáO§!09eHN§YgºN`ó`§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YgºN`ó`§!öeuHe0"
+ th_allow_ask_for_conversion_tt: "AQ¸‹Y²NLˆ¨R0§Y‰Bl9eáO§!09eHN§Y[Root.Religion.GetName]§!0"
+ net_enable_general_advisor_youmu_tt: "AQ¸‹Ç³Q®‹VìS§Y–Y¦h§!egÅbSVŒ˜î•b=fS†˜0"
+ th_danmaku_won_danmaku_fights: "b—V9VU^³Q—e"
+ th_num_of_won_danmaku_duels_tt: "HQóSb—VÇ§Y1§!HW9VU^³Q—eeg>fHyagöN0"
+ mry_double_tributary_faith_power_tt: "ÐcGS§G+100.0%§!Ç§Y—RYeg!ýV§!·ƒ—V„váOðN›R0"
+ mry_miracle_counter: "VÑSGYùÿÇÐ(uáOðN›R	ÿ"
+ mry_num_of_miracles_caused_tt: "bHNïSO(u§YáOðN›R§!Hg6R„v§YˆRâw^yS^y>yÆ–Cg6R§!åN>fHyNb—agöN0"
+ th_balkanize_country_tt: "SNb	gåb	gvQÖNýV¶R8hÃV„vwýNRVØóvQŸSHQ„vNb	gw0"
+ th_is_trading_in_food_tt: "=fïS8f„vûNa‰|‹W§Yß˜ir§!0"
+ th_is_production_leader_of_food_tt: "=fûNa‰|‹W§Yß˜ir§!„vIN‰uµNw0"
+ th_produces_any_type_of_food_tt: "uµNûNa‰|‹W§Yß˜ir§!0"
+ th_produces_any_type_of_metal_tt: "uµNûNa‰|‹W§YÑ‘^S§!0"
+ th_produces_any_type_of_spice_tt: "uµNûNa‰|‹W§Y™™™e§!0"
+ th_produces_any_type_of_clothes_tt: "uµNûNa‰|‹W§Y^9S§!0"
+ net_allows_recruiting_general_youmu: "bìNSïSVìS§Y–Y¦h§!egÅbûNS†˜0"
+ th_enable_population_suppression_on_merc_recruitment_tt: "VßRcOuQâV°s(WOÙuˆNwýNåNîOck0§Y‹S6RÛSqN§!0cíu§Y5t^§!ÿµNuåNNqVÍTÿ\n,g0WÛSqN¦^ÿ§G-5.0§!"
+ th_eighty_percent_merc_army_professionalism_cost_tt: "ÏQS§G20.0%§!VßRcOuQâVNb.b„v§YF–›QLwN¦^§!'N1Y0"
+ th_enable_merc_mil_decision_tt: "=T(u³Q®‹åN(WVßRcOuQâVöe±‚9§Y›Q‹N¹p§!egãNÿf±‚9§YF–›QLwN¦^§!0"
+ th_allow_insta_loot_on_merc_recruitment_tt: "[Root.GetName](W«ˆ`S†˜„vLeùRwýNVßRcOuQâVöe°s(WO§Y«R c§!å‹wýN0"
+ th_allow_convert_heathens_peace_treaty_tt: "AQ¸‹Çb‰NegO§YVYe§!ýV¶RˆvO0"
+ th_allow_convert_heathens_peace_treaty_for_th_hakureishinto_tt: "êS‰[Root.GetName]„výVYe=f§YZSKN^yS§!RAQ¸‹Çb‰NegO§YVYe§!ýV¶RˆvO0"
+ th_allow_convert_heathens_peace_treaty_for_th_taoist_tt: "êS‰[Root.GetName]„výVYe=f§YN>mSYe§!RAQ¸‹Çb‰NegO§YVYe§!ýV¶RˆvO0"
+ th_allow_convert_heathens_peace_treaty_for_th_buddhist_tt: "êS‰[Root.GetName]„výVYe=f§YNXNiOYe§!RAQ¸‹Çb‰NegO§YVYe§!ýV¶RˆvO0"
+ th_allow_convert_heathens_peace_treaty_for_th_moriyashinto_tt: "êS‰[Root.GetName]„výVYe=f§YˆRâw^yS§!RAQ¸‹Çb‰NegO§YVYe§!ýV¶RˆvO0"
+ th_allow_convert_heathens_peace_treaty_for_th_oldhakurei_tt: "êS‰[Root.GetName]„výVYe=f§YZSKNÎ˜×O§!RAQ¸‹Çb‰NegO§YVYe§!ýV¶RˆvO0"
+ th_allow_convert_heathens_peace_treaty_for_th_shinkism_tt: "êS‰[Root.GetName]„výVYe=f§Y^yîuTÜb§!RAQ¸‹Çb‰NegO§YVYe§!ýV¶RˆvO0"
+ th_allow_convert_heathens_peace_treaty_for_th_lunarian_religion_tt: "êS‰[Root.GetName]„výVYe=f§YgºN`ó`§!RAQ¸‹Çb‰NegO§YVYe§!ýV¶RˆvO0"
+ mhg_daimyos_can_not_automatically_free_tt: "§Y+t^S'YTSNQŽNvQÑSUS¦^…Ç[Root.GetName]„v'YT¹RÏ‘öeê¨RìrËz0§!"
+ th_has_been_influenced_by_root_tt: "×S0R§Y[Root.GetName]§!„vqVÍT0"
+ th_has_received_gift_from_root_tt: "6e0R†N§Y[Root.GetName]§!NbÙuúQ„vDÑ‘<yir0"
+ eit_enable_influencing_outworld_tt: "=T(uY²NLˆ¨R0§YqVÍTYLuýV¶R§!00"
+ eit_enable_outworld_tributary_tt: "=T(uY²NLˆ¨R0§Y¾‹ËzYLug!ýV§!00"
+ eit_enable_provoke_war_tt: "=T(uô•ŒLˆ¨R0§Ycwb‰N§!00"
+ mhg_enable_provoke_war_action_tt: "=T(uY²NLˆ¨R0§Ycwb‰N§!00"
+ th_has_full_professional_land_army_ideas_tt: "òTŒRbóSN*NïSÐcGS§Y›Q–(Ï‘§!„v§Y›Q‹NtõVÄu§!ÿÐcGS§Y­‹Ãu¦^§!b=f§YF–›QëXl§!	ÿ0"
+ mry_enable_purchase_deity_advisor_tt: "AQ¸‹Ç±‚9§Y100§!áOðN›RegäN§Y^yHYPR§!b§Yù‹¿‹PR§!ÅbSV[Root.GetName]„vŒ˜î•0"
+ net_enable_cuisine_mechanic_tt: "=T(u§YŽß˜Hg6R§!ÿå‹³Q®‹AQ¸‹`OHN[Root.Monarch.GetName]N¨Sùpj™òTã‰•„vÜƒV0"
+ net_uses_cuisine_mechanic_tt: "ïSO(u§YŽß˜Hg6R§!0"
+ net_unlock_mediterranean_cuisine_tt: "HN[Root.GetName]ã‰•§Y0W-NwmŽß˜§!ÿ=T(uùR§Y0W-NwmÎ˜™n™§!„vùpj™0"
+ net_unlock_west_european_cuisine_tt: "HN[Root.GetName]ã‰•§Y‰'kŽß˜§!ÿ=T(uùR§Y‰'kÎ˜™n™§!„vùpj™0"
+ net_unlock_middle_european_cuisine_tt: "HN[Root.GetName]ã‰•§Y-N'kŽß˜§!ÿ=T(uùR§Y-N'kÎ˜™n™§!„vùpj™0"
+ net_unlock_muslim_cuisine_tt: "HN[Root.GetName]ã‰•§YFz¯e—gŽß˜§!ÿ=T(uùR§YFz¯e—gÎ˜™n™§!„vùpj™0"
+ net_unlock_east_african_cuisine_tt: "HN[Root.GetName]ã‰•§YN^—Žß˜§!ÿ=T(uùR§YN^—Î˜™n™§!„vùpj™0"
+ net_unlock_west_african_cuisine_tt: "HN[Root.GetName]ã‰•§Y‰^—Žß˜§!ÿ=T(uùR§Y‰^—Î˜™n™§!„vùpj™0"
+ net_unlock_southeast_asian_cuisine_tt: "HN[Root.GetName]ã‰•§YNWSšNŽß˜§!ÿ=T(uùR§YNWSšNÎ˜™n™§!„vùpj™0"
+ net_unlock_far_east_cuisine_tt: "HN[Root.GetName]ã‰•§YÜNŽß˜§!ÿ=T(uùR§YÜNÎ˜™n™§!„vùpj™0"
+ net_unlock_indian_cuisine_tt: "HN[Root.GetName]ã‰•§YpS¦^Žß˜§!ÿ=T(uùR§YpS¦^Î˜™n™§!„vùpj™0"
+ mkn_enable_winter_adaptability_tt: "ûyd–ùR»lN„v§Y°QÝT§!N§Yg0W§!wýN„vé`Z0"
+ mkn_disable_winter_adaptability_tt: "§Y°QÝT§!N§Yg0W§!wýN„vé`ZOQ!kuHe0"
+ mkn_enable_winter_afinity_tt: "åb	g§Y%N¬Q§!lP„vwýN°s(WO·ƒ—V˜Y„v§G+5.0%§!,g0WuµNHe‡sÊS§G-20.0%§!,g0WÑSUSb,g0"
+ mkn_disable_winter_afinity_tt: "ûyd–åb	g§Y%N¬Q§!lP„vwýN„v Rb0"
+ th_define_ruler_to_leveling_general_th_mokou_fire_bender_tt: "[Root.Monarch.GetName]Såb	gyr(0§YkpŽp—R^§!0ÿSVvQ‡s†˜›Q–öeµNuåNNHeœgÿ\nF–›Qkp›R2O³Rÿ§G+15.0%§!"
+ th_define_ruler_to_leveling_general_th_mokou_fire_resistance_tt: "[Root.Monarch.GetName]Såb	gyr(0§YkpŽp—b'`§!0ÿSVvQ‡s†˜›Q–öeµNuåNNHeœgÿ\nNb×Skp›R2O³Rÿ§G-15.0%§!"
+ th_define_ruler_to_leveling_general_th_mokou_forest_burner_tt: "[Root.Monarch.GetName]Såb	gyr(0§Yq—gw§!0ÿSVvQ‡s†˜›Q–öeµNuåNNHeœgÿ\nôVÎWýw›Rÿ§G+15.0%§!"
+ th_define_ruler_to_leveling_general_th_mokou_front_line_fighter_tt: "[Root.Monarch.GetName]Såb	gyr(0§Yw–5–—eëX§!0ÿSVvQ‡s†˜›Q–öeµNuåNNHeœgÿ\nF–›QëXlÿ§G+10.0%§!"
+ th_define_ruler_to_leveling_general_th_mokou_volcano_surviver_tt: "[Root.Monarch.GetName]Såb	gyr(0§YkpqSLˆw§!0ÿSVvQ‡s†˜›Q–öeµNuåNNHeœgÿ\nF–›Qmcwÿ§G-20.0%§!"
+ th_add_merc_penalty_tt: "ùRNb	gcOuQâV„vÇ–cOSQ!k±‚9§YF–›QLwN¦^§!0"
+ mim_gain_new_skill_reward_tt: "ÎN§YT›ÕlfR>m§!-NfR`N°e„v§YŽbýw§!0"
+ th_disable_incidents_tt: "§Yy(uNb	g‰^ó`aNVØS0§!"
+ hig_enable_improved_lectures_tt: "(WÎN§Y­‹ë‹ßu»lw§!-N·ƒ—V„vîOck0–T›„v­‹ë‹0uHeöeÿ°s(WSOM–NO§Y1§!¹pÏkg›Q‹N¹ppe0"
+ hig_disable_improved_lectures_tt: "(WÎN§Y­‹ë‹ßu»lw§!-N·ƒ—V„vîOck0–T›„v­‹ë‹0uHeöeÿ°s(WSNQOM–NO§Y1§!¹pÏkg›Q‹N¹ppe0"
+ hig_enable_improved_grace_of_yama_tt: "§YPˆN–T›i`à`§!°s(WSOÐcGS§G100§!ùRîvh„v‹Ya¦^wN=f500"
+ hig_disable_improved_grace_of_yama_tt: "§YPˆN–T›i`à`§!ÅNOÐcGS§Y50§!ùRîvh„v‹Ya¦^0"
+ hig_enable_improved_enforce_gensokyan_peace_tt: "Y²NLˆ¨R§YÒRäN‰^ó`aNjPb§!°s(WïSåN(WbìNYŽNb‰NöegbLˆ0\ndkYÿYŽN2–¡Vb‰N-N°s(WOÙuˆN§G-0.05§!ÏkgŒSb¦^0"
+ hig_disable_improved_enforce_gensokyan_peace_tt: "§YÒRäN‰^ó`aNjPb§!NQïSåN(WbìNYŽNb‰NöegbLˆ0\nYŽN2–¡Vb‰N-N°s(WNQOÙuˆNÏkgŒSb¦^M–NO0"
+ hig_enable_improved_demand_unlawful_territory_tt: "Y²NLˆ¨R§Y0t‰^—Õl†˜W§!°s(WOÙuˆNNbðX0twýNÑSUS¦^„v§G50%§!jOHN–T›CgZ0\ndkYÿÙuˆN§G+10§!wÕlåNOîvh¥c×S‰Bl0"
+ hig_disable_improved_demand_unlawful_territory_tt: "Y²NLˆ¨R§Y0t‰^—Õl†˜W§!(Wîvh¥c×SöeSNQÙuˆN–T›CgZ0"
+ hig_enable_appoint_executor_tt: "=T(uY²NLˆ¨R§YûN‹T²bÕl§!0"
+ hig_disable_appoint_executor_tt: "y(uY²NLˆ¨R§YûN‹T²bÕl§!0"
+ hig_add_authority_improvement_tt: "êbŸR0t‰^—Õl†˜W-N·ƒ—V„v§Y–T›CgZ§!ÐcGS§G25.0%§!ÿwêbŸRÒRäN‰^ó`aNjPkp-N·ƒ—V„v§Y–T›CgZ§!ÐcGS§G+5.0%§!0"
+ hig_remove_authority_improvement_tt: "êbŸR0t‰^—Õl†˜W-N·ƒ—V„v§Y–T›CgZ§!ÏQS§R25.0%§!ÿwêbŸRÒRäN‰^ó`aNjPkp-N·ƒ—V„v§Y–T›CgZ§!ÏQS§R10.0%§!0"
+ hig_add_influence_improvement_tt: "°sXR„v‰^ó`aNýV¶RÏk	g§Y5§!*N¿OOÐcGS§Y–T›qVÍT›R§!0å‚XR(W…Ç15*N‰^ó`aNýV¶Rÿ±HNå‹žXÊvSOuHe0"
+ hig_remove_influence_improvement_tt: "[YamaOfGensokyo.GetName]SNQÎN˜YXR(W„v‰^ó`aNýV¶R-N·ƒ—V§Y–T›qVÍT›R§!0"
+ hig_remove_penalty_from_owning_gensokyan_land_tt: "ˆmd–(Wc	g§Y0Wñr§!0WHSÊS§Y‰kÂRKN0W§!HSßWKNY„vwýNöeùR–T›CgZN–T›qVÍT›R„vé`Z0"
+ hig_add_penalty_from_owning_gensokyan_land_tt: "c	g§Y0Wñr§!0WHSÊS§Y‰kÂRKN0W§!HSßWKNY„vwýNSOüRôùR–T›CgZN–T›qVÍT›R„vé`Z0"
+ hig_remove_latest_yama_reform_tt: "ûyd–gTNy˜Ç„v–T›9ei—0"
+ th_change_national_focus_ADM: "S§Y[Root.GetName]§!„výV¶R&q¹pôf9eHN£adm£0"
+ th_change_national_focus_DIP: "S§Y[Root.GetName]§!„výV¶R&q¹pôf9eHN£dip£0"
+ th_change_national_focus_MIL: "S§Y[Root.GetName]§!„výV¶R&q¹pôf9eHN£mil£0"
+ th_change_national_focus_none: "ûyd–§Y[Root.GetName]§!„výV¶R&q¹p0"
+ th_disable_subject_annexations_tt: "y(uTv^§Y^SýV§!0"
+ th_enable_subject_annexations_tt: "=T(uTv^§Y^SýV§!0"
+ th_monthly_income_negative_tt: "ûyd–§R[Root.th_monthly_income.GetValue]§!Ñ‘^0"
+ th_enable_legal_code_for_gensokyo_tt: "=T(ujO(uŽNhQ‰^ó`aN„výw›R0˜^§Y‰^ó`aNlUeäN§!00"
+ th_disable_legal_code_for_gensokyo_tt: "y(u§Y‰^ó`aNÕlxQ§!0"
+ th_return_gensokyan_provinces_tt: "§Y[Root.GetName]§!RVØ»lNNb	gMOŽN0WñrHSßWKNY„v‰^ó`aNwýNóvQKNMR„vNb	gw0"
+ hig_allows_usage_of_dharmic_monuments_tt: "ïSåN·ƒ—VP–šR§Y¾id—RYe§!NuHe„vGYÂ‰žXÊv0"
+ th_yama_lecture_effect_tt: "[This.GetName]„v[This.Monarch.GetName]×S0Regê[Root.Monarch.GetName]„v§R­‹ë‹§!0"
+ mim_enable_mima_cb_tt: "=T(u±Rbt1u§YE›T›2ab§!åNThQNLu±Rb0"
+ th_has_not_disabled_gensokyan_institution_tt: "0W¹e'``noAQ¸‹(W‰^ó`aN…QúQ°s0"
+ has_1_of_advisors_of_1_tt: "óSÇ–(u	g§Y1§!MO§Y1§!µuŒ˜î•"
+ has_2_of_advisors_of_1_tt: "óSÇ–(u	g§Y2§!MO§Y2§!µuŒ˜î•"
+ has_3_of_advisors_of_1_tt: "óSÇ–(u	g§Y3§!MO§Y3§!µuŒ˜î•"
+ has_1_of_advisors_of_2_tt: "óSÇ–(u	g§Y1§!MO§Y2§!µuŒ˜î•"
+ has_2_of_advisors_of_2_tt: "óSÇ–(u	g§Y2§!MO§Y2§!µuŒ˜î•"
+ has_3_of_advisors_of_2_tt: "óSÇ–(u	g§Y3§!MO§Y2§!µuŒ˜î•"
+ has_1_of_advisors_of_3_tt: "óSÇ–(u	g§Y1§!MO§Y3§!µuŒ˜î•"
+ has_2_of_advisors_of_3_tt: "óSÇ–(u	g§Y2§!MO§Y3§!µuŒ˜î•"
+ has_3_of_advisors_of_3_tt: "óSÇ–(u	g§Y3§!MO§Y3§!µuŒ˜î•"
+ province_is_or_accepts_or_harmonized_Touhou_tt: "§Y[Root.GetName]§!„v—RYe^SŽN§Y‰^ó`aNáOðN§!—RYeÄuÿNHNåb	gw„vòT‡T—RYe0ýVYebøv‡áOðN0"
+ province_is_or_accepts_th_hakureishinto_tt: "§Y[Root.GetName]§!„v—RYeHN§YZSKN^yS§!ÿNHNåb	gw„výVYebøv‡áOðN0"
+ province_is_or_accepts_th_moriyashinto_tt: "§Y[Root.GetName]§!„v—RYeHN§YˆRâw^yS§!ÿNHNåb	gw„výVYebøv‡áOðN0"
+ province_is_or_accepts_th_taoist_tt: "§Y[Root.GetName]§!„v—RYeHN§YN>mSYe§!ÿNHNåb	gw„výVYebøv‡áOðN0"
+ province_is_or_accepts_th_buddhist_tt: "§Y[Root.GetName]§!„v—RYeHN§YNXNiOYe§!ÿNHNåb	gw„výVYebøv‡áOðN0"
+ province_is_or_accepts_th_oldhakurei_tt: "§Y[Root.GetName]§!„v—RYeHN§YZSKNÎ˜×O§!ÿNHNåb	gw„výVYebøv‡áOðN0"
+ province_is_or_accepts_th_shinkism_tt: "§Y[Root.GetName]§!„v—RYeHN§Y^yîuTÜb§!ÿNHNåb	gw„výVYebøv‡áOðN0"
+ province_is_or_accepts_th_lunarian_religion_tt: "§Y[Root.GetName]§!„v—RYeHN§YgºN`ó`§!ÿNHNåb	gw„výVYebøv‡áOðN0"
+ province_is_or_accepts_Touhou_tt: "§Y[Root.GetName]§!„v—RYe^SŽN§Y‰^ó`aNáOðN§!—RYeÄuÿNHNåb	gw„výVYebøv‡áOðN0"
+ th_can_use_dharmic_monuments_tt: "AQ¸‹ÇvQÖN¹eV=T(u§Y¾id—RYe§!GYÂ‰0"
+ th_is_not_claim_immune_tt: "àeÕlùR[From.GetName]*O.±Rðy0"
+ th_has_been_lectured_tt: "òT«ˆ§Y­‹ë‹§!0"
+ th_has_not_been_lectured_tt: "v^*g«ˆ§Y­‹ë‹§!0"
+ unlock_privilege_th_estate_nobles_third_eye_tt: "ã‰•[Root.Get5ÏeName]yrCg§Y,r	NêS<w§!0"
+ unlock_privilege_th_estate_burghers_arctic_development_tt: "ã‰•[Root.Get^lName]yrCg§Yg0WVÑS§!0"
+ unlock_privilege_th_estate_burghers_naval_reinforcement_tt: "ã‰•[Root.Get^lName]yrCg§YwmNžXôc§!0"
+ th_has_unlocked_th_estate_nobles_third_eye_tt: "òTã‰•6–BSyrCg§Y,r	NêS<w§!0"
+ th_has_unlocked_th_estate_burghers_arctic_development_tt: "òTã‰•6–BSyrCg§Yg0WVÑS§!0"
+ th_has_unlocked_th_estate_burghers_mass_marine_conscription_tt: "òTã‰•6–BSyrCg§Y4luQ'YÄ‰!jVìS6R§!0"
+ th_has_unlocked_th_estate_burghers_elite_marines_tt: "òTã‰•6–BSyrCg§Y¾|ñ‚F–b–§!0"
+ th_has_unlocked_th_estate_burghers_naval_reinforcement_tt: "òTã‰•6–BSyrCg§YwmNžXôc§!0"
+ th_has_unlocked_th_estate_burghers_swamp_developers_tt: "òTã‰•6–BSyrCg§Y¼lýlVÑS§!0"
+ province_is_or_accepts_lunarian_religion_g_tt: "§Y[Root.GetName]§!„v—RYe^SŽN§YgºN`ó`§!—RYeÄuÿNHNåb	gw„výVYebøv‡áOðN0"
+ th_increase_ruler_adm_stat_tt: "§Y[Root.Monarch.GetName]§!„v£adm£ýw›RòT¾0RvQNbýw¾0R„vg'Yµu+R0ÿg'Y£adm£ýw›Rÿ§Y[Root.GetMaxAdmValue]§!	ÿ"
+ th_ruler_max_adm_stat_value_tt: "[Root.th_ruler_max_adm_stat.GetValue]"
+ th_increase_ruler_dip_stat_tt: "§Y[Root.Monarch.GetName]§!„v£dip£ýw›RòT¾0RvQNbýw¾0R„vg'Yµu+R0ÿg'Y£dip£ýw›Rÿ§Y[Root.GetMaxDipValue]§!	ÿ"
+ th_ruler_max_dip_stat_value_tt: "[Root.th_ruler_max_dip_stat.GetValue]"
+ th_increase_ruler_mil_stat_tt: "§Y[Root.Monarch.GetName]§!„v£mil£ýw›RòT¾0RvQNbýw¾0R„vg'Yµu+R0ÿg'Y£mil£ýw›Rÿ§Y[Root.GetMaxMilValue]§!	ÿ"
+ th_ruler_max_mil_stat_value_tt: "[Root.th_ruler_max_mil_stat.GetValue]"
+ th_default_max_skills_tt: "6"
+ kpp_unlock_optical_camouflage_tt: "ã‰•§YIQfR÷iV§!SwQhV°h0"
+ kpp_unlock_perfect_cucumber_fertilizer_tt: "ã‰•§YAShQASŽÄžÜt¥w™e§!SwQhV°h0"
+ kpp_unlock_machine_extending_arm_tt: "ã‰•§YHg°hö^USKbÂ§!SwQhV°h0"
+ kpp_unlock_sanpei_battleship_tt: "ã‰•§Y–Y*`b0‚0	Ns^0§!SwQhV°h0"
+ kpp_unlock_super_scope_3D_tt: "ã‰•§Y3D…µuIQ¿uªg§!SwQhV°h0"
+ kpp_unlock_kappa_tanks_tt: "ã‰•§Y³låz4lÜgf§!SwQhV°h0"
+ kpp_unlock_aerial_torpedo_tt: "ã‰•§Yzz-N|œ÷–§!SwQhV°h0"
+ kpp_unlock_australian_wildlife_tt: "ã‰•§Y³o2mÎ‘u¨Rir§!SwQhV°h0"
+ kpp_unlock_hisoutensoku_tt: "ã‰•§Y^—ó`)YR§!SwQhV°h0"
+ kpp_unlock_kappa_shredder_tt: "ã‰•§Y³låz‰|ŽxhV§!SwQhV°h0"
+ kpp_unlock_spice_fuel_engine_tt: "ã‰•§Y™™™eÃqípVÎd§!SwQhV°h0"
+ kpp_unlock_bookkeep_inator_tt: "ã‰•§Y?|°‹S.^Kb§!SwQhV°h0"
+ kpp_unlock_kiku_ichimonji_compressor_tt: "ã‰•§YÊƒN‡eWR‹S)Hg§!SwQhV°h0"
+ kpp_unlock_ooze_flooding_tt: "ã‰•§YålFmÛlån§!SwQhV°h0"
+ unlock_privilege_th_estate_burghers_swamp_developers_tt: "ã‰•[Root.Get^lName]yrCg§Y¼lýlVÑS§!0"
+ unlock_privilege_th_estate_burghers_mass_marine_conscription_tt: "ã‰•[Root.Get^lName]yrCg§Y4luQ'YÄ‰!jVìS6R§!0"
+ unlock_privilege_th_estate_burghers_elite_marines_tt: "ã‰•[Root.Get^lName]yrCg§Y¾|ñ‚F–b–§!0"
+ th_is_allowed_to_recruit_mercenaries_tt: "ïSåNÛbßR§YÇ–cOuQ§!0"
+ th_enable_charter_trade_post_diplo_action_tt: "=T(uY²NLˆ¨R0§Yyr¸‹8fÙz§!00"
+ th_disable_charter_trade_post_diplo_action_tt: "y(uY²NLˆ¨R0§Yyr¸‹8fÙz§!00"
+ th_enable_purchase_war_support_diplo_action_tt: "=T(uY²NLˆ¨R0§Y-pNb‰Nôc©R§!00"
+ th_disable_purchase_war_support_diplo_action_tt: "y(uY²NLˆ¨R0§Y-pNb‰Nôc©R§!00"
+ th_enable_purchase_truce_diplo_action_tt: "=T(uY²NLˆ¨R0§Y-pN-NËz§!00"
+ th_disable_purchase_truce_diplo_action_tt: "y(uY²NLˆ¨R0§Y-pN-NËz§!00"
+ tgu_enable_spreading_gossip_tt: "=T(uô•ŒLˆ¨R0§Yce­dAmŠ‡í‹§!00"
+ tgu_enable_write_white_washing_news_tt: "=T(uô•ŒLˆ¨R0§YRÑSîOp™¥bS§!00"
+ tgu_enable_negotiate_truce_tt: "=T(uô•ŒLˆ¨R0§YOSFUOb§!00"
+ tgu_enable_puppet_states_tt: "=T(u^SýV‰|‹W§YŽP!QýV§!0"
+ tgu_enable_extended_puppet_state_actions_tt: "=T(u	gsQ§YŽP!QýV§!„v°eY²NLˆ¨R0"
+ tgu_enable_fabricate_spread_republican_ideas_cb_tt: "=T(uô•ŒLˆ¨R0§Y.qQŒT>mibce±Rbt1u§!00"
+ tgu_enable_militaristic_newspaper_actions_tt: "=T(uô•ŒLˆ¨R0§Y6R¦u¨Rfk§!0N0§Y4Œ1ßvËS§!00"
+ tgu_disable_tengu_disasters_tt: "y(u§Y)Y×r6–BS§!Œp¾–0"
+ tgu_enable_new_tengu_laws_tt: "=T(u§Y)Y×r‹VÕl§!0\n)Y×r‹VÕl=f§Y&ž)Y×r§!0§Y‹vür)Y×r§!N§Y'Y)Y×r§!6–BS„vyrŠkyrCgÿùRýV¶R	g³RÿFO=fýw'Y'YM–NOT6–BS„vqVÍT›R0"
+ tgu_buff_selling_and_seizing_crownland_tt: "egê§Y¡l6e†˜W§!„v6–BSàVÚ‹é`ZSOM–NO§G5%§!0"
+ unlock_privilege_estate_crow_tengu_mountain_expansion_tt: "ã‰•&ž)Y×r6–BSyrCg0§YTqS	ib.V§!00"
+ unlock_privilege_estate_crow_tengu_foreign_ministery_tt: "ã‰•&ž)Y×r6–BSyrCg0§YˆcˆN&ž)Y×rY²N6RšRCg§!00"
+ unlock_privilege_estate_crow_tengu_salesmen_haven_tt: "ã‰•&ž)Y×r6–BSyrCg0§YŸ±R°‹w|QûN•.UXT§!00"
+ unlock_privilege_estate_wolf_tengu_enlist_wolf_general_tt: "ã‰•‹vür)Y×r6–BSyrCg0§YVìS‹vür)Y×rS†˜§!00"
+ unlock_privilege_estate_wolf_tengu_right_for_side_jobs_tt: "ã‰•‹vür)Y×r6–BSyrCg0§YˆcˆNÏu%„oRNCg§!00"
+ unlock_privilege_estate_great_tengu_court_business_tt: "ã‰•'Y)Y×r6–BSyrCg0§Y'Y)Y×r«R…QHgsQ§!00"
+ unlock_privilege_estate_great_tengu_expanded_government_tt: "ã‰•'Y)Y×r6–BSyrCg0§YÓbUS?eœ^HgsQ§!00"
+ unlock_privilege_estate_crow_tengu_vanguard_ambushers_tt: "ã‰•&ž)Y×r6–BSyrCg0§Y)Y×rHQ•GYuQ–§!00"
+ unlock_privilege_estate_wolf_tengu_vanguard_defenders_tt: "ã‰•&ž)Y×r6–BSyrCg0§Y)Y×rHQ•ˆRY–§!00"
+ unlock_privilege_estate_great_tengu_vanguard_front_breaker_tt: "ã‰•&ž)Y×r6–BSyrCg0§Y)Y×rHQ•w–5–%„§!00"
+ lcu_accepts_Heavenish_culture_tt: "§Y)YLu§!‡eS°s(WòT«ˆ¥c³uHN§Yøv¹R‡eS§!v^NNQµNu§YýyW§!é`Z0"
+ lcu_accepts_Netherlandish_culture_tt: "§Y¥QLu§!‡eS°s(WòT«ˆ¥c³uHN§Yøv¹R‡eS§!v^NNQµNu§YýyW§!é`Z0"
+ lcu_accepts_Eientei_culture_tt: "§Y8lÜ­N§!‡eS°s(WòT«ˆ¥c³uHN§Yøv¹R‡eS§!v^NNQµNu§YýyW§!é`Z0"
+ lcu_accepts_Higanean_culture_tt: "§Y|V¸S§!‡eS°s(WòT«ˆ¥c³uHN§Yøv¹R‡eS§!v^NNQµNu§YýyW§!é`Z0"
+ lcu_unlock_lend_weapons_tt: "ã‰•Y²NLˆ¨R0§YúQPgNfkhV§!00"
+ th_add_stability_or_adm_power_tt: "…úQ„v3zšR¦^SO«ˆlSHN§G50§!Lˆ?e¹ppe0"
+ th_has_not_two_lunarian_advisors_active_tt: "§YgKNlŒ˜î•§!(WÇ»S„v§Y30t^§!ô•«ˆÇ–(uN…ÇNºN0"
+ th_permanent_power_projection_tooltip: "ÙN›RÏ‘•bS=f§Y8lEN§!„v0"
+ enable_transfer_manpower_sailor_decision_tt: "=T(u2Ny˜³Q®‹åNAQ¸‹b¹e²Nbc§YºN›R§!b§Y4lKb§!bwÍSÇeg0"
+ th_enable_diplomatic_immunity_effect_tt: "=T(u§YY²NÞV§!v^O[This.GetName]MQm'YYpe‰^ó`aNY²NLˆ¨R„vb—qVÍT0"
+ unlock_privilege_th_estate_church_force_conversion_tt: "ã‰•[Root.GetëTsYName]yrCg§Y,r	NêS<w§!0"
+ th_has_unlocked_th_estate_church_force_conversion_tt: "òTã‰•6–BSyrCg§Yfk›R±RYe§!0"
+ mki_focus_convert_religion_th_scientistic_tt: "—RYe§YÑyfRº‹§!bHN§Y[Root.GetAdjective]§!ˆvOIm¨R„vNN*Nîvh0"
+ th_allow_th_scientistic_converting_on_claim_tt: "«ˆ§Y[Root.GetName]§!±Rðy„vwýNOÇô•ŒLˆ¨R0§Y*O.±Rðy§!09e—RHN§YÑyfRº‹§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YÑyfRº‹§!öeuHe0"
+ th_allow_th_scientistic_converting_on_colonization_tt: "«ˆ§Y[Root.GetName]§!–kl„vwýN9e—RHN§YÑyfRº‹§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YÑyfRº‹§!öeuHe0"
+ th_allow_th_scientistic_ask_conversion_tt: "AQ¸‹Y²NLˆ¨R0§Y‰Bl9eáO§!09eHN§YÑyfRº‹§!0dkHeœgêSO(W[Root.GetName]„výVYeÝOcHN§YÑyfRº‹§!öeuHe0"
+ th_allow_convert_heathens_peace_treaty_for_th_scientistic_tt: "êS‰[Root.GetName]„výVYe=f§YÑyfRº‹§!RAQ¸‹Çb‰NegO§YVYe§!ýV¶RˆvO0"
+ province_is_or_accepts_th_scientistic_tt: "§Y[Root.GetName]§!„v—RYeHN§YÑyfRº‹§!ÿNHNåb	gw„výVYebøv‡áOðN0"
+ th_follows_any_buddhist_teaching_tt: "åb	gûNa§YiOÕl.Oˆc§!jOHNINAm—R>m0"
+ th_does_not_follow_any_buddhist_teaching_tt: "*gåb	gûNa§YiOÕl.Oˆc§!jOHNINAm—R>m0"
+ th_province_is_or_accepts_touhou_religion_tt: "§Y[Root.GetName]§!„v—RYe^SŽN§YN¹eáOðN§!—RYeÄuÿNHNåb	gw„výVYebøv‡áOðN0"
+ th_is_shinto_tt: "wýNÊSvQåb	gwáOðN§Y^ySYe§!0§YZSKN^yS§!b=f§YˆRâw^yS§!0"
+ th_is_shinto_secondary_tt: "—RYeHN§Y^ySYe§!N=fåb	gw„v|Q¹RáOðN0"
+ th_harmonized_shinto_tt: "—RYeHN§Y^ySYe§!N=fåb	gw„v‡TáOðN0"
+ th_increase_development_in_random_province_tt: "ÐcGS–HgVNSwýNTÍy‰|ÑSUS¦^§Y1§!¹p0"

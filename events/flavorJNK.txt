@@ -1,0 +1,1437 @@
+namespace = flavor_jnk
+country_event = {
+  id = flavor_jnk.0
+  title = flavor_jnk.0.t
+  desc = flavor_jnk.0.desc
+  picture = JUNKO_CHINA_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.0.a
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.1
+  title = flavor_jnk.1.t
+  desc = flavor_jnk.1.desc
+  picture = JUNKO_CHOICE_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.1.a
+    5330 = {
+      change_religion = ROOT
+    }
+    5329 = {
+      change_religion = ROOT
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+  option = {
+    name = flavor_jnk.1.b
+    add_stability = -1
+    th_ds_excuse_religion_swapping = yes
+    change_religion = th_hakureishinto
+    add_country_modifier = {
+      name = th_back_to_hakurei
+      duration = 5475
+    }
+    ai_chance = {
+      factor = 0
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.2
+  title = flavor_jnk.2.t
+  desc = flavor_jnk.2.desc
+  picture = JUNKO_ANGER_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.2.a
+    Eientei_state = {
+      limit = {
+        NOT = {
+          is_core = ROOT
+        }
+        NOT = {
+          is_permanent_claim = ROOT
+        }
+      }
+      add_permanent_claim = ROOT
+    }
+    Bamboo_forest_of_the_lost = {
+      limit = {
+        NOT = {
+          is_core = ROOT
+        }
+        NOT = {
+          is_permanent_claim = ROOT
+        }
+      }
+      add_permanent_claim = ROOT
+    }
+    Dragon_islands = {
+      limit = {
+        NOT = {
+          is_core = ROOT
+        }
+        NOT = {
+          is_permanent_claim = ROOT
+        }
+      }
+      add_permanent_claim = ROOT
+    }
+    Western_dragon_islands = {
+      limit = {
+        NOT = {
+          is_core = ROOT
+        }
+        NOT = {
+          is_permanent_claim = ROOT
+        }
+      }
+      add_permanent_claim = ROOT
+    }
+    Eastern_dragon_islands = {
+      limit = {
+        NOT = {
+          is_core = ROOT
+        }
+        NOT = {
+          is_permanent_claim = ROOT
+        }
+      }
+      add_permanent_claim = ROOT
+    }
+    manchuria_region = {
+      limit = {
+        NOT = {
+          is_core = ROOT
+        }
+        NOT = {
+          is_permanent_claim = ROOT
+        }
+      }
+      add_permanent_claim = ROOT
+    }
+    add_country_modifier = {
+      name = jnk_though_unable_to_dwell_together_under_heaven
+      duration = 27375
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.3
+  title = flavor_jnk.3.t
+  desc = flavor_jnk.3.desc
+  picture = JUNKO_REISEN_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.3.a
+    custom_tooltip = flavor_jnk.3.a.tt
+    hidden_effect = {
+      set_country_flag = jnk_can_use_reisen
+      add_accepted_culture = "Eientei"
+      add_country_modifier = {
+        name = jnk_eientei_culture_slot
+        duration = -1
+      }
+    }
+    ai_chance = {
+      factor = 0
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.4
+  title = flavor_jnk.4.t
+  desc = flavor_jnk.4.desc
+  picture = HECATIA2_eventPicture
+  is_triggered_only = yes
+  immediate = {
+    hidden_effect = {
+      if = {
+        limit = {
+          has_ruler_flag = th_original_junko
+        }
+        th_getruler_diplomatic_skill = {
+          skill_boni = 600
+        }
+      }
+      else = {
+        th_getruler_diplomatic_skill = {
+          skill_boni = 0
+        }
+      }
+      set_variable = {
+        which = th_Hecatia_diplo_skills
+        value = 1400
+      }
+      th_defineopponent_fighting_skill = {
+        variable = th_Hecatia_diplo_skills
+        type = diplomatic
+      }
+      if = {
+        limit = {
+          th_has_incidents_enabled = yes
+        }
+        country_event = {
+          id = th_danmaku_event.20
+        }
+      }
+    }
+  }
+  option = {
+    name = flavor_jnk.4.a
+    trigger = {
+      HEC = {
+        was_player = no
+        ai = yes
+        is_free_or_tributary_trigger = yes
+        has_ruler = "kçaS–cöN"  # Hecatia
+        dynasty = "…bµxØe…bVy)R"  # Lapislazuli
+      }
+    }
+    highlight = yes
+    custom_tooltip = flavor_jnk.4.a.tt
+    th_danmaku_diplo_fight_ruler_and_opponent = {
+      win_event = flavor_jnk.41
+      draw_event = flavor_jnk.41
+      defeat_event = flavor_jnk.42
+      days = 20
+    }
+    ai_chance = {
+      factor = 0
+    }
+  }
+  option = {
+    name = flavor_jnk.4.b
+    trigger = {
+      HEC = {
+        was_player = no
+        ai = yes
+        is_free_or_tributary_trigger = yes
+      }
+    }
+    custom_tooltip = flavor_jnk.4.b.tt
+    declare_war_with_cb = {
+      who = HEC
+      casus_belli = cb_touhou_mission_personal_union_war
+    }
+    ai_chance = {
+      factor = 0
+    }
+  }
+  option = {
+    name = flavor_jnk.4.c
+    custom_tooltip = flavor_jnk.4.c.tt
+    add_casus_belli = {
+      target = HEC
+      type = cb_touhou_mission_personal_union_war
+      months = 900
+    }
+    ai_chance = {
+      factor = 0
+    }
+  }
+  option = {
+    name = flavor_jnk.4.d
+    add_opinion = {
+      who = HEC
+      modifier = mhg_high_trust
+    }
+    reverse_add_opinion = {
+      who = HEC
+      modifier = mhg_high_trust
+    }
+    add_trust = {
+      who = HEC
+      value = 25
+      mutual = yes
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.41
+  title = flavor_jnk.41.t
+  desc = flavor_jnk.41.desc
+  picture = HECATIA_ACCEPT_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.41.a
+    create_subject = {
+      subject_type = personal_union
+      subject = HEC
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.42
+  title = flavor_jnk.42.t
+  desc = flavor_jnk.42.desc
+  picture = JUNKO_SERIOUS_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.42.a
+    add_casus_belli = {
+      target = HEC
+      type = cb_touhou_mission_personal_union_war
+      months = 600
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.5
+  title = flavor_jnk.5.t
+  desc = flavor_jnk.5.desc
+  picture = HECATIA_ADVISOR_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.5.a
+    th_enable_touhou_advisor = {
+      advisor = th_advisor_hecatia
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.6
+  title = flavor_jnk.6.t
+  desc = flavor_jnk.6.desc
+  picture = SEIGA_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.6.a
+    th_enable_touhou_advisor = {
+      advisor = th_advisor_seiga
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.7
+  title = flavor_jnk.7.t
+  desc = flavor_jnk.7.desc
+  picture = JUNKO_CHINA_eventPicture
+  major = yes
+  is_triggered_only = yes
+  immediate = {
+    hidden_effect = {
+      every_known_country = {
+        limit = {
+          th_is_emperor_of_china = yes
+          is_in_war = {
+            attacker_leader = ROOT
+          }
+        }
+        save_event_target_as = defeated_emperor
+      }
+    }
+  }
+  option = {
+    name = flavor_jnk.7.a
+    add_prestige = 50
+    set_emperor_of_china = ROOT
+    white_peace = event_target:defeated_emperor
+    liaoning_area = {
+      limit = {
+        owned_by = event_target:defeated_emperor
+      }
+      add_core = ROOT
+      cede_province = ROOT
+    }
+    if = {
+      limit = {
+        event_target:defeated_emperor = {
+          owns = 4194
+        }
+      }
+      4194 = {
+        add_core = ROOT
+        cede_province = ROOT
+      }
+    }
+    if = {
+      limit = {
+        event_target:defeated_emperor = {
+          owns = 1816
+        }
+      }
+      1816 = {
+        add_core = ROOT
+        cede_province = ROOT
+      }
+    }
+    country_event = {
+      id = th_china_events.4
+    }
+    if = {
+      limit = {
+        has_saved_event_target = defeated_emperor
+      }
+      event_target:defeated_emperor = {
+        country_event = {
+          id = TH_mission_events.2
+        }
+      }
+    }
+    ai_chance = {
+      factor = 25
+    }
+  }
+  option = {
+    name = flavor_jnk.7.b
+    add_prestige = 50
+    dismantle_empire_of_china = yes
+    set_global_flag = empire_of_china_dismantled
+    add_government_reform = Gensokyan_jnk_chinese_divine_state
+    white_peace = event_target:defeated_emperor
+    liaoning_area = {
+      limit = {
+        owned_by = event_target:defeated_emperor
+      }
+      add_core = ROOT
+      cede_province = ROOT
+    }
+    if = {
+      limit = {
+        event_target:defeated_emperor = {
+          owns = 4194
+        }
+      }
+      4194 = {
+        add_core = ROOT
+        cede_province = ROOT
+      }
+    }
+    if = {
+      limit = {
+        event_target:defeated_emperor = {
+          owns = 1816
+        }
+      }
+      1816 = {
+        add_core = ROOT
+        cede_province = ROOT
+      }
+    }
+    if = {
+      limit = {
+        has_saved_event_target = defeated_emperor
+      }
+      event_target:defeated_emperor = {
+        country_event = {
+          id = TH_mission_events.2
+        }
+      }
+    }
+    ai_chance = {
+      factor = 75
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.71
+  title = flavor_jnk.71.t
+  desc = flavor_jnk.71.desc
+  picture = JUNKO_CHINA_eventPicture
+  major = yes
+  is_triggered_only = yes
+  immediate = {
+    hidden_effect = {
+      every_known_country = {
+        limit = {
+          OR = {
+            th_is_emperor_of_china = yes
+            has_country_modifier = lost_mandate_of_heaven
+          }
+          is_in_war = {
+            attacker_leader = ROOT
+          }
+        }
+        country_event = {
+          id = TH_mission_events.2
+        }
+      }
+    }
+  }
+  option = {
+    name = flavor_jnk.71.a
+    add_prestige = 50
+    dismantle_empire_of_china = yes
+    set_global_flag = empire_of_china_dismantled
+    add_government_reform = Gensokyan_jnk_chinese_divine_state
+    ai_chance = {
+      factor = 75
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.8
+  title = flavor_jnk.8.t
+  desc = flavor_jnk.8.desc
+  picture = THGREEK_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.8.a
+    custom_tooltip = flavor_jnk.8.a.tt
+    hidden_effect = {
+      random_list = {
+        33 = {
+          country_event = {
+            id = flavor_jnk.81
+            days = 10
+          }
+        }
+        33 = {
+          country_event = {
+            id = flavor_jnk.82
+            days = 10
+          }
+        }
+        33 = {
+          country_event = {
+            id = flavor_jnk.83
+            days = 10
+          }
+        }
+      }
+    }
+    ai_chance = {
+      factor = 33
+    }
+  }
+  option = {
+    name = flavor_jnk.8.b
+    custom_tooltip = flavor_jnk.8.b.tt
+    hidden_effect = {
+      random_list = {
+        33 = {
+          country_event = {
+            id = flavor_jnk.81
+            days = 10
+          }
+        }
+        33 = {
+          country_event = {
+            id = flavor_jnk.82
+            days = 10
+          }
+        }
+        33 = {
+          country_event = {
+            id = flavor_jnk.83
+            days = 10
+          }
+        }
+      }
+    }
+    ai_chance = {
+      factor = 33
+    }
+  }
+  option = {
+    name = flavor_jnk.8.c
+    custom_tooltip = flavor_jnk.8.c.tt
+    hidden_effect = {
+      random_list = {
+        33 = {
+          country_event = {
+            id = flavor_jnk.81
+            days = 10
+          }
+        }
+        33 = {
+          country_event = {
+            id = flavor_jnk.82
+            days = 10
+          }
+        }
+        33 = {
+          country_event = {
+            id = flavor_jnk.83
+            days = 10
+          }
+        }
+      }
+    }
+    ai_chance = {
+      factor = 33
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.81
+  title = flavor_jnk.81.t
+  desc = flavor_jnk.81.desc
+  picture = JUNKO_SERIOUS2_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.81.a
+    add_permanent_claim_province = {
+      province = 118
+    }
+    hidden_effect = {
+      set_country_flag = jnk_jyouga_in_roma
+      clr_country_flag = jnk_jyouga_in_beja
+      clr_country_flag = jnk_jyouga_in_gwynedd
+      swap_non_generic_missions = yes
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.82
+  title = flavor_jnk.82.t
+  desc = flavor_jnk.82.desc
+  picture = JUNKO_SERIOUS2_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.82.a
+    add_permanent_claim_province = {
+      province = 229
+    }
+    hidden_effect = {
+      set_country_flag = jnk_jyouga_in_beja
+      clr_country_flag = jnk_jyouga_in_roma
+      clr_country_flag = jnk_jyouga_in_gwynedd
+      swap_non_generic_missions = yes
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.83
+  title = flavor_jnk.83.t
+  desc = flavor_jnk.83.desc
+  picture = JUNKO_SERIOUS2_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.83.a
+    add_permanent_claim_province = {
+      province = 242
+    }
+    hidden_effect = {
+      set_country_flag = jnk_jyouga_in_gwynedd
+      clr_country_flag = jnk_jyouga_in_roma
+      clr_country_flag = jnk_jyouga_in_beja
+      swap_non_generic_missions = yes
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.9
+  title = flavor_jnk.9.t
+  desc = flavor_jnk.9.desc
+  picture = JUNKO_VICTORY_eventPicture
+  is_triggered_only = yes
+  immediate = {
+    hidden_effect = {
+      set_country_flag = jnk_jyouga_captured
+    }
+  }
+  option = {
+    name = flavor_jnk.9.a
+    add_country_modifier = {
+      name = jnk_end_of_vengeance
+      duration = -1
+    }
+    custom_tooltip = flavor_jnk.9.a.tt
+    add_power_projection = {
+      type = jnk_end_of_vengeance_pp
+      amount = 100
+    }
+    custom_tooltip = th_permanent_power_projection_tooltip
+  }
+}
+country_event = {
+  id = flavor_jnk.10
+  title = flavor_jnk.10.t
+  desc = flavor_jnk.10.desc
+  picture = JUNKO_THINKING2_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.10.a
+    override_country_name = XIA_name
+    ai_chance = {
+      factor = 100
+    }
+  }
+  option = {
+    name = flavor_jnk.10.b
+    override_country_name = DIVINESPIRITWORLD
+    ai_chance = {
+      factor = 0
+    }
+  }
+  option = {
+    name = flavor_jnk.10.c
+    override_country_name = NAMELESSEMPIRE
+    ai_chance = {
+      factor = 0
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.11
+  title = flavor_jnk.11.t
+  desc = flavor_jnk.11.desc
+  picture = JUNKO_THINKING_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.11.a
+    trigger = {
+      NOT = {
+        exists = MCH
+      }
+    }
+    manchuria_region = {
+      limit = {
+        owned_by = ROOT
+      }
+      add_core = MCH
+      remove_core = ROOT
+    }
+    release = MCH
+    create_subject = {
+      subject_type = march
+      subject = MCH
+    }
+    MCH = {
+      change_government = tribal
+      add_government_reform = steppe_horde
+      adopt_reform_progress = ROOT
+      change_primary_culture = manchu_new
+      change_religion = ROOT
+      add_historical_friend = ROOT
+      add_adm_power = 200
+      add_dip_power = 200
+      add_mil_power = 200
+      add_manpower = 10
+      change_estate_land_share = {
+        estate = estate_nomadic_tribes
+        share = 50
+      }
+      define_ruler = {
+        name = "™RS»Tdç"  # Nurhachi
+        dynasty = "1r∞e…âW"  # Aisin Gioro
+        age = "20"
+        adm = 5
+        dip = 4
+        mil = 6
+        culture = manchu_new
+        religion = ROOT
+      }
+      add_country_modifier = {
+        name = jnk_authority_of_goddess_of_vengeance
+        duration = -1
+      }
+      hidden_effect = {
+        set_capital = 730
+        set_government_rank = 2
+        add_horde_unity = 75
+        capital_scope = {
+          build_to_forcelimit = {
+            infantry = 0.6
+            cavalry = 0.3
+            light_ship = 0.4
+            transport = 0.5
+          }
+        }
+        manchuria_region = {
+          limit = {
+            culture = manchu
+          }
+          change_culture = manchu_new
+        }
+      }
+    }
+    ai_chance = {
+      factor = 0
+    }
+  }
+  option = {
+    name = flavor_jnk.11.b
+    define_general = {
+      name = "™RS»Tdç"  # Nurhachi
+      shock = 6
+      fire = 3
+      manuever = 5
+      siege = 2
+      female = no
+      trait = born_to_the_saddle_personality
+    }
+    add_country_modifier = {
+      name = jnk_cavalry_of_manchu
+      duration = 9125
+    }
+    manchuria_region = {
+      limit = {
+        owned_by = ROOT
+      }
+      add_province_modifier = {
+        name = jnk_grace_of_goddess_of_vengeance
+        duration = 5475
+      }
+    }
+    custom_tooltip = flavor_jnk.11.b.tt
+    add_accepted_culture = manchu_new
+    hidden_effect = {
+      manchuria_region = {
+        limit = {
+          owned_by = ROOT
+        }
+        change_culture = manchu_new
+      }
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.12
+  title = flavor_jnk.12.t
+  desc = flavor_jnk.12.desc
+  picture = JUNKO_ADMINISTRATIVE_DECREE_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.12.a
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_administrative_inspection
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_administrative_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.12.b
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_encourage_domestic_industry
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_administrative_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.12.c
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_propagate_reign_of_god
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_administrative_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.12.d
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_expand_bureaucratic_organization
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_administrative_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.12.e
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_promote_external_conquest
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_administrative_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.12.f
+    ai_chance = {
+      factor = 0
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.13
+  title = flavor_jnk.13.t
+  desc = flavor_jnk.13.desc
+  picture = JUNKO_DIPLOMATIC_DECREE_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.13.a
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = overlord_th_envoy_reception
+      duration = 3650
+    }
+    custom_tooltip = th_envoy_reception_tt
+    hidden_effect = {
+      every_subject_country = {
+        limit = {
+          OR = {
+            is_subject_of_type = tributary_state
+            is_subject_of_type = vassal
+          }
+        }
+        add_country_modifier = {
+          name = subject_th_envoy_reception
+          duration = 3650
+          message = MULTISUBJECTINTERACT
+          message_data = th_envoy_reception
+        }
+        add_opinion = {
+          who = ROOT
+          modifier = th_envoy_reception_opinion
+        }
+      }
+      add_country_modifier = {
+        name = th_promulgated_diplomatic_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.13.b
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_expand_foreign_emissaries
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_diplomatic_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.13.c
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_crackdown_maritime_trade
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_diplomatic_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.13.d
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_encourage_overseas_expansion
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_diplomatic_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.13.e
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_improve_conversion_outworld
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_diplomatic_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.13.f
+    ai_chance = {
+      factor = 0
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.14
+  title = flavor_jnk.14.t
+  desc = flavor_jnk.14.desc
+  picture = JUNKO_MILITARY_DECREE_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.14.a
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_purifying_combat_power
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_military_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+  }
+  option = {
+    name = flavor_jnk.14.b
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_strengthens_empire_cavalry
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_military_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.14.c
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_adopt_danmaku_tactics
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_military_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.14.d
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_promulgate_holy_rescript
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_military_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.14.e
+    add_legitimacy = -10
+    add_country_modifier = {
+      name = th_introduct_meritocracy_officer
+      duration = 3650
+    }
+    hidden_effect = {
+      add_country_modifier = {
+        name = th_promulgated_military_decree
+        duration = 3650
+        hidden = yes
+      }
+    }
+    ai_chance = {
+      factor = 20
+    }
+  }
+  option = {
+    name = flavor_jnk.14.f
+    ai_chance = {
+      factor = 0
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.15
+  title = flavor_jnk.15.t
+  desc = flavor_jnk.15.desc
+  picture = JUNKO_DRAGON_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.15.a
+    custom_tooltip = flavor_jnk.15.a.tt
+    hidden_effect = {
+      set_country_flag = jnk_no_more_flood
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.99
+  title = flavor_jnk.99.t
+  desc = flavor_jnk.99.desc
+  picture = JUNKO_CHINA_eventPicture
+  fire_only_once = yes
+  trigger = {
+    th_is_or_was_tag = {
+      tag = JNK
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = flavor_jnk.99.a
+    if = {
+      limit = {
+        NOT = {
+          government = monarchy
+        }
+      }
+      change_government = monarchy
+    }
+    add_government_reform = TH_junko_persuer_of_grudge_reform
+    hidden_effect = {
+      if = {
+        limit = {
+          OR = {
+            alliance_with = HEC
+            employed_advisor = {
+              type = th_advisor_hecatia
+            }
+          }
+        }
+        add_country_modifier = {
+          name = jnk_hecatia_relax_junko
+          duration = -1
+        }
+        set_country_flag = th_hecatia_calmed_junko
+      }
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.1001
+  title = flavor_jnk.1001.t
+  desc = flavor_jnk.1001.desc
+  picture = JUNKO_ANGER_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_jnk.1001.a
+    add_stability = -4
+    kill_ruler = yes
+    capital_scope = {
+      add_base_tax = -5
+      add_base_production = -5
+      add_base_manpower = -5
+      add_devastation = 100
+      if = {
+        limit = {
+          has_building = temple
+        }
+        remove_building = temple
+      }
+      if = {
+        limit = {
+          has_building = cathedral
+        }
+        remove_building = cathedral
+      }
+      if = {
+        limit = {
+          has_building = workshop
+        }
+        remove_building = workshop
+      }
+      if = {
+        limit = {
+          has_building = counting_house
+        }
+        remove_building = counting_house
+      }
+      if = {
+        limit = {
+          has_building = marketplace
+        }
+        remove_building = marketplace
+      }
+      if = {
+        limit = {
+          has_building = trade_depot
+        }
+        remove_building = trade_depot
+      }
+      if = {
+        limit = {
+          has_building = stock_exchange
+        }
+        remove_building = stock_exchange
+      }
+      if = {
+        limit = {
+          has_building = barracks
+        }
+        remove_building = barracks
+      }
+      if = {
+        limit = {
+          has_building = training_fields
+        }
+        remove_building = training_fields
+      }
+      if = {
+        limit = {
+          has_building = regimental_camp
+        }
+        remove_building = regimental_camp
+      }
+      if = {
+        limit = {
+          has_building = conscription_center
+        }
+        remove_building = conscription_center
+      }
+      if = {
+        limit = {
+          has_building = shipyard
+        }
+        remove_building = shipyard
+      }
+      if = {
+        limit = {
+          has_building = grand_shipyard
+        }
+        remove_building = grand_shipyard
+      }
+      if = {
+        limit = {
+          has_building = dock
+        }
+        remove_building = dock
+      }
+      if = {
+        limit = {
+          has_building = drydock
+        }
+        remove_building = drydock
+      }
+    }
+    if = {
+      limit = {
+        NOT = {
+          employed_advisor = {
+            type = th_advisor_hecatia
+          }
+        }
+      }
+      remove_advisor_by_category = ADM
+    }
+    remove_advisor_by_category = DIP
+    remove_advisor_by_category = MIL
+    custom_tooltip = flavor_jnk.1001.a.tt
+    add_country_modifier = {
+      name = jnk_junko_retired
+      duration = 1825
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.1004
+  title = flavor_jnk.1004.t
+  desc = flavor_jnk.1004.desc
+  picture = HECATIA_ADVISOR_eventPicture
+  trigger = {
+    has_government_mechanic = th_junko_grudge_mechanic
+    NOT = {
+      has_country_flag = th_hecatia_calmed_junko
+    }
+    OR = {
+      alliance_with = HEC
+      employed_advisor = {
+        type = th_advisor_hecatia
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  hidden = yes
+  option = {
+    name = flavor_jnk.1004.a
+    add_country_modifier = {
+      name = jnk_hecatia_relax_junko
+      duration = -1
+    }
+    set_country_flag = th_hecatia_calmed_junko
+    clr_country_flag = th_hecatia_not_calmed_junko
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.1005
+  title = flavor_jnk.1005.t
+  desc = flavor_jnk.1005.desc
+  picture = HECATIA_ACCEPT_eventPicture
+  trigger = {
+    has_government_mechanic = th_junko_grudge_mechanic
+    NOT = {
+      has_country_flag = th_hecatia_not_calmed_junko
+    }
+    NOT = {
+      alliance_with = HEC
+      employed_advisor = {
+        type = th_advisor_hecatia
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  hidden = yes
+  option = {
+    name = flavor_jnk.1005.a
+    remove_country_modifier = jnk_hecatia_relax_junko
+    set_country_flag = th_hecatia_not_calmed_junko
+    clr_country_flag = th_hecatia_calmed_junko
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.1007
+  title = flavor_jnk.1007.t
+  desc = flavor_jnk.1007.desc
+  picture = HECATIA_ADVISOR_eventPicture
+  trigger = {
+    has_government_mechanic = th_junko_grudge_mechanic
+    ai = yes
+    NOT = {
+      has_country_flag = th_junko_ai
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  hidden = yes
+  option = {
+    name = flavor_jnk.1007.a
+    add_country_modifier = {
+      name = jnk_junko_ai
+      duration = -1
+    }
+    set_country_flag = th_junko_ai
+    clr_country_flag = th_junko_not_ai
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_jnk.1008
+  title = flavor_jnk.1008.t
+  desc = flavor_jnk.1008.desc
+  picture = HECATIA_ADVISOR_eventPicture
+  trigger = {
+    has_government_mechanic = th_junko_grudge_mechanic
+    ai = no
+    NOT = {
+      has_country_flag = th_junko_not_ai
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  hidden = yes
+  option = {
+    name = flavor_jnk.1008.a
+    remove_country_modifier = jnk_junko_ai
+    clr_country_flag = th_junko_ai
+    set_country_flag = th_junko_not_ai
+    ai_chance = {
+      factor = 100
+    }
+  }
+}

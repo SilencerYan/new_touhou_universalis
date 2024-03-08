@@ -1,0 +1,139 @@
+﻿l_english:
+ th_yukari_daimyo_title: "+t^S'YT"
+ th_yukari_daimyo_title_plural: "+t^S'YT"
+ th_yukari_daimyo_long_desc: "Ù*NýV¦^=f+t„v'YTKNN0N8^„vD–¸^ŒT'YTøvÍSÿ+t^S'YTùRÖNìN„vW0WŒTY²Nåb	gôfYê»lCg06qwÿÖNìNÍN—bÅbý–—RINÛeQb‰N„vIN¡R0\n‚Yœg	gºNT+t^S'YT±Rbÿ'YTÍNSO=fb‰N„v†˜–ˆ0\n‚Yœg+t^S'YTåb	g300b=fôfY„vÑSUS¦^ÿÖNìN1SŽVŽVOFd1ÖNìN„v—RIN0"
+ th_yukari_daimyo_is_our: "$NAME|Y$=fb„v'YT0"
+ th_yukari_daimyo_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_yukari_daimyo_overlord_title: "™–ô•—RIN"
+ th_yukari_march_title: "+t^SkSbýV"
+ th_yukari_march_title_plural: "+t^SkSbýV"
+ th_yukari_march_long_desc: "Ù*NýV¦^=f+t^SkSbýVKNN0ÖNìNÏP8^„vkSbýV±7hÐjOÿFOÖNìNïSåN«ˆY²NTv^wNïSåN	ébvQÖNýV¶RHN¿RLe0"
+ th_yukari_march_is_our: "$NAME|Y$=fb„vkSbýV0"
+ th_yukari_march_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_yukari_march_overlord_title: "™–ô•—RIN"
+ th_yukari_puppet_state_title: "+t^SŽP!QýV"
+ th_yukari_puppet_state_title_plural: "+t^SŽP!QýV"
+ th_yukari_puppet_state_long_desc: "Ù*NýV¦^=f+t^SŽP!QýVKNN0‚YT+t^S'YTÿŽP!QýVùRÖNìN„vW0WŒTY²Nåb	gôfYê»lCgÿKS¡rÙôfÖS³QŽN+t„vÃVÅ`0?eœ^9ei—0bêñT„v‰^ó`aNU^œ^0v^N—‰ÝO	gÙ‰|^SýV0\n‚Yœg	gºNT+t^SŽP!QýV±RbÿŽP!QýVÍNSO=fb‰N„v†˜–ˆ0"
+ th_yukari_puppet_state_is_our: "$NAME|Y$=fb„vŽP!QýV0"
+ th_yukari_puppet_state_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_yukari_puppet_state_overlord_title: "™–ô•—RIN"
+ th_special_march_title: "‰^ó`aNkSbýV"
+ th_special_march_title_plural: "‰^ó`aNkSbýV"
+ th_special_march_long_desc: "‰^ó`aNkSbýV=fÍyyrŠk„vkSbýVÿïSåN¡rtôf^–„vW0W0ÖNìNmNýwêLˆ±Rb0"
+ th_special_march_is_our: "$NAME|Y$=fbìN„v‰^ó`aNkSbýV0"
+ th_special_march_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_special_march_overlord_title: "—RIN"
+ th_satori_vassal_title: "É‰^SD–¸^ýV"
+ th_satori_vassal_title_plural: "É‰^SD–¸^ýV"
+ th_satori_vassal_long_desc: "É‰^SD–¸^ýVhˆ°s—VÏP=f8^„vD–¸^ÿFOÖNìN	gNwT7h„vO¹pÿÔk‚Yô‹kSbýVN—RINýVKNô•	gNwôf0NÌR„v’N¨R0"
+ th_satori_vassal_is_our: "$NAME|Y$=fbìNÉ‰'YºN„vD–¸^0"
+ th_satori_vassal_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_satori_vassal_overlord_title: "É‰"
+ th_mokou_daimyo_title: "¹Y¢u^S'YT"
+ th_mokou_daimyo_title_plural: "¹Y¢u^S'YT"
+ th_mokou_daimyo_long_desc: "úQŽN¹Y¢u„vßu»lÎ˜<hKNEeÿyY„v'YTìNNýwT|Vdk±Rb0d–dkKNY¹Y¢u^S'YT1SÏP=f8^„v'YT0"
+ th_mokou_daimyo_is_our: "$NAME|Y$=f¹Y¢u„v'YT0"
+ th_mokou_daimyo_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_mokou_daimyo_overlord_title: "U^œ^S›Q"
+ th_religious_tributary_title: "—RYeg!ýV"
+ th_religious_tributary_title_plural: "—RYeg!ýV"
+ th_religious_tributary_is_our: "$NAME|Y$=fbìN„v—RYeg!ýV0"
+ th_religious_tributary_long_desc: "—RYeg!ýVÅV‰˜Ïkt^ÙuÖNìN„v—RINýVÛ!ÿåNbcÖS(Wå‹ýVê›RÂS R„vb‰N-N„vÝO²b0—RYeg!ýVNß–vQ—RINýV ReQb‰Nÿv^NýwYê1u0WÇ‘ÖSƒRìNêñT„vY²NLˆ¨R0\nNTŽNN,‚„vg!ýVÿ—RYeg!ýVHNvQ—RINÐc›OáOðN›Rv^NïS«ˆlbcHNnf„vD–¸^ýV0"
+ th_religious_tributary_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_religious_tributary_overlord_title: "—RYe†˜–ˆ"
+ th_trade_union_title: "8fTwT"
+ th_trade_union_title_plural: "8fTwT"
+ th_trade_union_long_desc: "8fTwT=fc2NýVKNô•	g×VŽN(WÏuNmƒôV…QUSV	g)RïSþV„vTjO0HN†NžR°sÙN¹pÿ«ˆTwßuýVSOgqvQ—RINwØS—V›QýVSÿwNNO ReQûNUOb‰N0"
+ th_trade_union_is_our: "$NAME|Y$=fbìN8fTwTÌ‘„v«ˆTwßuýV0"
+ th_trade_union_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_trade_union_overlord_title: "ÏuNm—RIN"
+ th_yuuka_gatekeeper_title: "‹^™™^Sf‹Y"
+ th_yuuka_gatekeeper_title_plural: "‹^™™^Sf‹Y"
+ th_yuuka_gatekeeper_is_our: "$NAME|Y$=fbìN‹^™™„vf‹Y0"
+ th_yuuka_gatekeeper_long_desc: "‹^™™^Sf‹Y=fNÍy1uÎ˜Á‰‹^™™¾‹¡‹åNÝOkSvQ­^b–ÊS±‚wm„vyrŠkD–¸^0vQwQ	g‰|<OŽNkSbýV„v›Q‹N’N¨Rv^NïSåNìrËzN°eNLuÌ‘„vvQÖNýV¶Rÿ‹O‚Y–kl0WýV¶R	ÿVb0"
+ th_yuuka_gatekeeper_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_yuuka_gatekeeper_overlord_title: "m†™KNIN"
+ th_rebellious_subject: "ÛS^SýV"
+ th_rebellious_subject_title: "ÛS^SýV"
+ th_rebellious_subject_title_plural: "ÛS^SýV"
+ th_rebellious_subject_long_desc: "ÙÍyýV¶RêS=fTINN„v^SýV0vQSKSïSýw0WNàVv^OÒbÝugÎNvQ—RIN„v‹TäN0"
+ th_rebellious_subject_is_our: "$NAME|Y$=fbìN„vî•˜˜?Qåz0"
+ th_rebellious_subject_no_overlord_dow: "`ONýwùRêñT„v^SýV±RbsS¿OvQ.b„v»žæpYŽNÊvY0"
+ th_rebellious_subject_overlord_title: "—RIN"
+ th_pet_state: " RirýV"
+ th_pet_state_title: " RirýV"
+ th_pet_state_title_plural: " RirýV"
+ th_pet_state_long_desc: "ÙÍyýV¶R1u‹Q‰|–Y*`Nbßu»lÿžR(N=fjOHNôfØšIrXR(W„v Rir8^O=fÉ‰„v Rir0"
+ th_pet_state_is_our: "$NAME|Y$=fbìN„v RirýV0"
+ th_pet_state_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_pet_state_overlord_title: "—RIN"
+ th_sister_state: "ÐY¹YýV"
+ th_sister_state_title: "ÐY¹YýV"
+ th_sister_state_title_plural: "ÐY¹YýV"
+ th_sister_state_long_desc: "ÙÍyýV¶R=f*NÐY¹YýVv^YŽNôfHNHV'Y„výV¶R„vÝO²bKNN0"
+ th_sister_state_is_our: "$NAME|Y$=fbìN„vÐY¹YýV0"
+ th_sister_state_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_sister_state_overlord_title: "—RIN"
+ th_yukari_daimyo: "+t^S'YT"
+ th_yukari_march: "+t^SkSbýV"
+ th_yukari_puppet_state: "+t^SŽP!QýV"
+ th_special_march: "‰^ó`aNkSbýV"
+ th_satori_vassal: "É‰^SD–¸^ýV"
+ th_mokou_daimyo: "¹Y¢u^S'YT"
+ th_religious_tributary: "—RYeg!ýV"
+ th_tributary_state: "‰Y^Sg!ýV"
+ th_tributary_state_title: "‰Y^Sg!ýV"
+ th_tributary_state_title_plural: "‰Y^Sg!ýV"
+ th_tributary_state_is_our: "§Y$NAME$§!=f‰Y^Sg!ýV"
+ th_tributary_state_long_desc: "—RYeg!ýVÅV‰˜Ïkt^ÙuÖNìN„v—RINýVÛ!ÿåNbcÖS(Wå‹ýVê›RÂS R„vb‰N-N„vÝO²b0g!ýVNß–vQ—RINýV ReQb‰Nÿv^NýwYê1u0WÇ‘ÖSƒRìNêñT„vY²NLˆ¨R0\nNTŽNN,‚„vg!ýVÿå‹ýV=fN‰kºN‰Y„v^SýV0"
+ th_tributary_state_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_tributary_state_overlord_title: "—RIN"
+ th_trade_union: "8fTwT"
+ th_yuuka_gatekeeper: "‹^™™^Sf‹Y"
+ th_yama_sphere_of_influence: "–T›¿R›RƒôV"
+ th_yama_sphere_of_influence_title: "–T›¿R›RƒôV"
+ th_yama_sphere_of_influence_title_plural: "–T›¿R›RƒôV"
+ th_yama_sphere_of_influence_long_desc: "ÙÍyýV¶RYŽN–T›„v¿R›RƒôVKNNv^NHNšN›s(„±¦^Ðc›O›Q‹NLˆCgN›Q‹NÅ`¥b0"
+ th_yama_sphere_of_influence_is_our: "$NAME|Y$MOŽNbìN–T›„v¿R›RƒôV…Q0‹†6qå‹ýVïSåNêLˆÇ‘ÖSLˆ¨RÿFOÍN=fPNíV–T›„v^SýVÿÍN—HN‰^ó`aN„v–T›SVNSÐc›OÅ`¥bN›Q‹NLˆCg0"
+ th_yama_sphere_of_influence_no_overlord_dow: "`ONýwùRêñT¿R›RƒôV…Q„výV¶R±Rb0 "
+ th_yama_sphere_of_influence_overlord_title: "‰^ó`aN„v–T›SVNS"
+ th_yama_subject_to_law: "×Sb^SýV"
+ th_yama_subject_to_law_title: "×Sb^SýV"
+ th_yama_subject_to_law_title_plural: "×Sb^SýV"
+ th_yama_subject_to_law_long_desc: "ÙÍyýV¶RYŽN8lENŒTs^„vÕl‹VKNN0àVvQ×S0R–T›9ei—„v¦umgÿEeàeÕlTvQÖN‰^ó`aNýV¶R±RbwN—VHNPNíV–T›Ðc›O›Q‹NLˆCg0"
+ th_yama_subject_to_law_is_our: "$NAME|Y$×S¦umgŽNbìN6RšR„v8lENŒTs^Õl‹V0"
+ th_yama_subject_to_law_no_overlord_dow: "`ONýwSb4x8lENŒTs^0 "
+ th_yama_subject_to_law_overlord_title: "‰^ó`aN„v–T›SVNS"
+ th_yama_executor: "–T›^S²bÕl"
+ th_yama_executor_title: "–T›^S²bÕl"
+ th_yama_executor_title_plural: "–T›^S²bÕl"
+ th_yama_executor_long_desc: "–T›^S²bÕl=fb`b`ÕlQKNö^8O0²bÕlýV‰|<OŽNkSbýVÿFO	gNwôfHV„vžXÊvÿsS¿O^SýVÑSUS¦^ØšŽN—RINýV25%mNNO1Y»S^SýV‰|‹WžXÊv0dkYÿ²bÕlýVïSåNåb	g6*NMOŽN0Wñrb¥QLuHSßWKNY„vwýNwNOüRôvQ—RIN'N1Y–T›CgZ0"
+ th_yama_executor_is_our: "$NAME|Y$=fbìN„v²bÕlýV0"
+ th_yama_executor_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_yama_executor_overlord_title: "‰^ó`aN„v–T›SVNS"
+ th_shinigami_subject: "‰k^y^SýV"
+ th_shinigami_subject_title: "‰k^y^SýV"
+ th_shinigami_subject_title_plural: "‰k^y^SýV"
+ th_shinigami_subject_long_desc: "‰k^y^SýV=fNÍy—V0R–T›SVNSÝOÁ‹å‹ýVEQRê1u„vD–¸^ýV0‹†6q(WŽb=gBSb—NÙ=fÍy^SýVÿFO‰k^yKbácNw„vø‹YyrCgOvQê»l×S0RÝOœ–0"
+ th_shinigami_subject_is_our: "$NAME|Y$=fbìN„v‰k^y^SýV0"
+ th_shinigami_subject_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_shinigami_subject_overlord_title: "‰^ó`aN„v–T›SVNS"
+ th_exarch_subject: "–T›^SI`cw"
+ th_exarch_subject_title: "–T›^SI`cw"
+ th_exarch_subject_title_plural: "–T›^SI`cw"
+ th_exarch_subject_long_desc: "–T›^SI`cw=f0Wñr„vLˆ?e›RÏ‘0Ù=f1uäSf0WÉ‰„gó`úQeg„vINaÿI`cwNLw‰|<OŽNYLuäSWlš„v^?e˜RÿNÇI`cwNêS¡rtNµ^ÎW^ÿw=f‰ÝOœ–çe0Wñr„v‰RhQN3zšR‹Y(W–T›nx²‹NOÒcKbå‹0W‹N¡Rÿ‚YdkÖNìN¿OO†Nã‰0RÙÌ‘N^Î˜z˜àe	gî•˜˜0\n–T›^SI`cwNýw«ˆvQ—RINåN8^žRÕlžRLˆY²NTv^0"
+ th_exarch_subject_is_our: "$NAME|Y$=fbìN„vI`cwýV"
+ th_exarch_subject_no_overlord_dow: "`ONýwùRêñT„v^SýV±Rb0"
+ th_exarch_subject_overlord_title: "‰^ó`aN„v–T›SVNS"
+ th_lunar_guards_march: "gºNñbkSýV"
+ th_lunar_guards_march_title: "gºNñbkSýV"
+ th_lunar_guards_march_title_plural: "gºNñbkSýV"
+ th_lunar_guards_march_long_desc: "gºNñbkSýV=fbìN„vD–^SýV¶RÿIN‰1ugTQ„gb0(WvQýVWNˆcˆNgTQåNôf'Y„vê»lCgNºN«ŽCg„vTöeÿbìN‰BlÖNìNjOHNb¹eùRLe„vQRNþvHeàV0"
+ th_lunar_guards_march_is_our: "$NAME|Y$=fbìN„v^SýV"
+ th_lunar_guards_march_overlord_title: "—RIN"
+ th_tengu_puppet_state: ")Y×rŽP!QýV"
+ th_tengu_puppet_state_title: ")Y×rŽP!QýV"
+ th_tengu_puppet_state_title_plural: ")Y×rŽP!QýV"
+ th_tengu_puppet_state_long_desc: ")Y×rŽP!QýV=fNÍyyrŠk„vg!ýVÿvQÇ)Y×rY²NLˆ¨R¾‹Ëzv^NïS«ˆìS2U ReQb‰N0"
+ th_tengu_puppet_state_is_our: "$NAME|Y$=fbìN„v^SýV"
+ th_tengu_puppet_state_overlord_title: "—RIN"

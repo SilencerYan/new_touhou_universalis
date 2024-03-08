@@ -1,0 +1,602 @@
+namespace = th_oni_succession
+country_event = {
+  id = th_oni_succession.1
+  title = "th_oni_succession.1.t"
+  desc = "th_oni_succession.1.desc"
+  picture = THREEONIS_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_government_attribute = th_has_oni_succession
+    is_lesser_in_union = no
+  }
+  immediate = {
+    hidden_effect = {
+      random_list = {
+        1 = {
+          set_country_flag = oni_yuugi_modifier_1_flag
+        }
+        1 = {
+          set_country_flag = oni_yuugi_modifier_2_flag
+        }
+        1 = {
+          set_country_flag = oni_yuugi_modifier_3_flag
+        }
+        1 = {
+          set_country_flag = oni_yuugi_modifier_4_flag
+        }
+        1 = {
+          set_country_flag = oni_yuugi_modifier_5_flag
+        }
+        1 = {
+          set_country_flag = oni_yuugi_modifier_6_flag
+        }
+        1 = {
+          set_country_flag = oni_yuugi_modifier_7_flag
+        }
+        1 = {
+          set_country_flag = oni_yuugi_modifier_8_flag
+        }
+      }
+      random_list = {
+        1 = {
+          set_country_flag = oni_suika_modifier_1_flag
+        }
+        1 = {
+          set_country_flag = oni_suika_modifier_2_flag
+        }
+        1 = {
+          set_country_flag = oni_suika_modifier_3_flag
+        }
+        1 = {
+          set_country_flag = oni_suika_modifier_4_flag
+        }
+        1 = {
+          set_country_flag = oni_suika_modifier_5_flag
+        }
+        1 = {
+          set_country_flag = oni_suika_modifier_6_flag
+        }
+        1 = {
+          set_country_flag = oni_suika_modifier_7_flag
+        }
+        1 = {
+          set_country_flag = oni_suika_modifier_8_flag
+        }
+      }
+      random_list = {
+        1 = {
+          set_country_flag = oni_kasen_modifier_1_flag
+        }
+        1 = {
+          set_country_flag = oni_kasen_modifier_2_flag
+        }
+        1 = {
+          set_country_flag = oni_kasen_modifier_3_flag
+        }
+        1 = {
+          set_country_flag = oni_kasen_modifier_4_flag
+        }
+        1 = {
+          set_country_flag = oni_kasen_modifier_5_flag
+        }
+        1 = {
+          set_country_flag = oni_kasen_modifier_6_flag
+        }
+        1 = {
+          set_country_flag = oni_kasen_modifier_7_flag
+        }
+        1 = {
+          set_country_flag = oni_kasen_modifier_8_flag
+        }
+      }
+      random_list = {
+        1 = {
+          set_country_flag = oni_other_oni_modifier_1_flag
+        }
+        1 = {
+          set_country_flag = oni_other_oni_modifier_2_flag
+        }
+        1 = {
+          set_country_flag = oni_other_oni_modifier_3_flag
+        }
+        1 = {
+          set_country_flag = oni_other_oni_modifier_4_flag
+        }
+        1 = {
+          set_country_flag = oni_other_oni_modifier_5_flag
+        }
+        1 = {
+          set_country_flag = oni_other_oni_modifier_6_flag
+        }
+        1 = {
+          set_country_flag = oni_other_oni_modifier_7_flag
+        }
+        1 = {
+          set_country_flag = oni_other_oni_modifier_8_flag
+        }
+      }
+    }
+  }
+  after = {
+    clr_country_flag = oni_yuugi_modifier_1_flag
+    clr_country_flag = oni_yuugi_modifier_2_flag
+    clr_country_flag = oni_yuugi_modifier_3_flag
+    clr_country_flag = oni_yuugi_modifier_4_flag
+    clr_country_flag = oni_yuugi_modifier_5_flag
+    clr_country_flag = oni_yuugi_modifier_6_flag
+    clr_country_flag = oni_yuugi_modifier_7_flag
+    clr_country_flag = oni_yuugi_modifier_8_flag
+    clr_country_flag = oni_suika_modifier_1_flag
+    clr_country_flag = oni_suika_modifier_2_flag
+    clr_country_flag = oni_suika_modifier_3_flag
+    clr_country_flag = oni_suika_modifier_4_flag
+    clr_country_flag = oni_suika_modifier_5_flag
+    clr_country_flag = oni_suika_modifier_6_flag
+    clr_country_flag = oni_suika_modifier_7_flag
+    clr_country_flag = oni_suika_modifier_8_flag
+    clr_country_flag = oni_kasen_modifier_1_flag
+    clr_country_flag = oni_kasen_modifier_2_flag
+    clr_country_flag = oni_kasen_modifier_3_flag
+    clr_country_flag = oni_kasen_modifier_4_flag
+    clr_country_flag = oni_kasen_modifier_5_flag
+    clr_country_flag = oni_kasen_modifier_6_flag
+    clr_country_flag = oni_kasen_modifier_7_flag
+    clr_country_flag = oni_kasen_modifier_8_flag
+    clr_country_flag = oni_other_oni_modifier_1_flag
+    clr_country_flag = oni_other_oni_modifier_2_flag
+    clr_country_flag = oni_other_oni_modifier_3_flag
+    clr_country_flag = oni_other_oni_modifier_4_flag
+    clr_country_flag = oni_other_oni_modifier_5_flag
+    clr_country_flag = oni_other_oni_modifier_6_flag
+    clr_country_flag = oni_other_oni_modifier_7_flag
+    clr_country_flag = oni_other_oni_modifier_8_flag
+  }
+  option = {
+    name = "th_oni_succession.1.a"
+    trigger = {
+      NOT = {
+        has_country_flag = th_oni_had_yuugi
+      }
+    }
+    define_ruler = {
+      name = "ÇRêN"  # Yuugi
+      dynasty = "fŠq"  # Hoshiguma
+      culture = ROOT
+      adm = 5
+      dip = 4
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    trigger_switch = {
+      on_trigger = has_country_flag
+      oni_yuugi_modifier_1_flag = {
+        add_ruler_modifier = {
+          name = oni_yuugi_modifier_1
+          duration = 5475
+        }
+      }
+      oni_yuugi_modifier_2_flag = {
+        add_ruler_modifier = {
+          name = oni_yuugi_modifier_2
+          duration = 5475
+        }
+      }
+      oni_yuugi_modifier_3_flag = {
+        add_ruler_modifier = {
+          name = oni_yuugi_modifier_3
+          duration = 5475
+        }
+      }
+      oni_yuugi_modifier_4_flag = {
+        add_ruler_modifier = {
+          name = oni_yuugi_modifier_4
+          duration = 5475
+        }
+      }
+      oni_yuugi_modifier_5_flag = {
+        add_ruler_modifier = {
+          name = oni_yuugi_modifier_5
+          duration = 5475
+        }
+      }
+      oni_yuugi_modifier_6_flag = {
+        add_ruler_modifier = {
+          name = oni_yuugi_modifier_6
+          duration = 5475
+        }
+      }
+      oni_yuugi_modifier_7_flag = {
+        add_ruler_modifier = {
+          name = oni_yuugi_modifier_7
+          duration = 5475
+        }
+      }
+      oni_yuugi_modifier_8_flag = {
+        add_ruler_modifier = {
+          name = oni_yuugi_modifier_8
+          duration = 5475
+        }
+      }
+    }
+    convert_female_ruler_to_general = 65
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+      clr_country_flag = th_oni_had_suika
+      clr_country_flag = th_oni_had_kasen
+      set_country_flag = th_oni_had_yuugi
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+  option = {
+    name = "th_oni_succession.1.b"
+    trigger = {
+      NOT = {
+        has_country_flag = th_oni_had_suika
+      }
+      OR = {
+        NOT = {
+          HKR = {
+            has_ruler_modifier = HKR_suikas_power
+          }
+        }
+        NOT = {
+          HKR = {
+            has_ruler = "„™™"  # Suika
+          }
+        }
+      }
+    }
+    define_ruler = {
+      name = "„™™"  # Suika
+      dynasty = "O9T"  # Ibuki
+      culture = ROOT
+      adm = 4
+      dip = 5
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    trigger_switch = {
+      on_trigger = has_country_flag
+      oni_suika_modifier_1_flag = {
+        add_ruler_modifier = {
+          name = oni_suika_modifier_1
+          duration = 5475
+        }
+      }
+      oni_suika_modifier_2_flag = {
+        add_ruler_modifier = {
+          name = oni_suika_modifier_2
+          duration = 5475
+        }
+      }
+      oni_suika_modifier_3_flag = {
+        add_ruler_modifier = {
+          name = oni_suika_modifier_3
+          duration = 5475
+        }
+      }
+      oni_suika_modifier_4_flag = {
+        add_ruler_modifier = {
+          name = oni_suika_modifier_4
+          duration = 5475
+        }
+      }
+      oni_suika_modifier_5_flag = {
+        add_ruler_modifier = {
+          name = oni_suika_modifier_5
+          duration = 5475
+        }
+      }
+      oni_suika_modifier_6_flag = {
+        add_ruler_modifier = {
+          name = oni_suika_modifier_6
+          duration = 5475
+        }
+      }
+      oni_suika_modifier_7_flag = {
+        add_ruler_modifier = {
+          name = oni_suika_modifier_7
+          duration = 5475
+        }
+      }
+      oni_suika_modifier_8_flag = {
+        add_ruler_modifier = {
+          name = oni_suika_modifier_8
+          duration = 5475
+        }
+      }
+    }
+    convert_female_ruler_to_general = 65
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+      set_country_flag = th_oni_had_suika
+      clr_country_flag = th_oni_had_kasen
+      clr_country_flag = th_oni_had_yuugi
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+  option = {
+    name = "th_oni_succession.1.c"
+    trigger = {
+      NOT = {
+        has_country_flag = th_oni_had_kasen
+      }
+      OR = {
+        NOT = {
+          exists = KSE
+        }
+        NOT = {
+          KSE = {
+            has_ruler = "NSGb"  # Kasen
+          }
+        }
+      }
+    }
+    define_ruler = {
+      name = "NSGb"  # Kasen
+      dynasty = "(ƒ(g"  # Ibaraki
+      culture = ROOT
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    trigger_switch = {
+      on_trigger = has_country_flag
+      oni_kasen_modifier_1_flag = {
+        add_ruler_modifier = {
+          name = oni_kasen_modifier_1
+          duration = 5475
+        }
+      }
+      oni_kasen_modifier_2_flag = {
+        add_ruler_modifier = {
+          name = oni_kasen_modifier_2
+          duration = 5475
+        }
+      }
+      oni_kasen_modifier_3_flag = {
+        add_ruler_modifier = {
+          name = oni_kasen_modifier_3
+          duration = 5475
+        }
+      }
+      oni_kasen_modifier_4_flag = {
+        add_ruler_modifier = {
+          name = oni_kasen_modifier_4
+          duration = 5475
+        }
+      }
+      oni_kasen_modifier_5_flag = {
+        add_ruler_modifier = {
+          name = oni_kasen_modifier_5
+          duration = 5475
+        }
+      }
+      oni_kasen_modifier_6_flag = {
+        add_ruler_modifier = {
+          name = oni_kasen_modifier_6
+          duration = 5475
+        }
+      }
+      oni_kasen_modifier_7_flag = {
+        add_ruler_modifier = {
+          name = oni_kasen_modifier_7
+          duration = 5475
+        }
+      }
+      oni_kasen_modifier_8_flag = {
+        add_ruler_modifier = {
+          name = oni_kasen_modifier_8
+          duration = 5475
+        }
+      }
+    }
+    convert_female_ruler_to_general = 65
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+      clr_country_flag = th_oni_had_suika
+      set_country_flag = th_oni_had_kasen
+      clr_country_flag = th_oni_had_yuugi
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+  option = {
+    name = "th_oni_succession.1.d"
+    define_ruler = {
+      culture = ROOT
+      age = 20
+      claim = 50
+    }
+    if = {
+      limit = {
+        is_female = yes
+      }
+      convert_female_ruler_to_general = 70
+    }
+    else = {
+      convert_ruler_to_general = 70
+    }
+    hidden_effect = {
+      clr_country_flag = th_oni_had_suika
+      clr_country_flag = th_oni_had_kasen
+      clr_country_flag = th_oni_had_yuugi
+    }
+    add_ruler_modifier = {
+      name = oni_new_fighting_innovativeness
+      duration = 7300
+    }
+    trigger_switch = {
+      on_trigger = has_country_flag
+      oni_other_oni_modifier_1_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_1
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_2_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_2
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_3_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_3
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_4_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_4
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_5_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_5
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_6_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_6
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_7_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_7
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_8_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_8
+          duration = 5475
+        }
+      }
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+  option = {
+    name = "th_oni_succession.1.e"
+    custom_tooltip = "th_oni_succession.1.e.tt"
+    add_legitimacy = 20
+    if = {
+      limit = {
+        is_female = yes
+      }
+      convert_female_ruler_to_general = 75
+    }
+    else = {
+      convert_ruler_to_general = 75
+    }
+    trigger_switch = {
+      on_trigger = has_country_flag
+      oni_other_oni_modifier_1_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_1
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_2_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_2
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_3_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_3
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_4_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_4
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_5_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_5
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_6_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_6
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_7_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_7
+          duration = 5475
+        }
+      }
+      oni_other_oni_modifier_8_flag = {
+        add_ruler_modifier = {
+          name = oni_other_oni_modifier_8
+          duration = 5475
+        }
+      }
+    }
+    hidden_effect = {
+      clr_country_flag = th_oni_had_suika
+      clr_country_flag = th_oni_had_kasen
+      clr_country_flag = th_oni_had_yuugi
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+namespace = th_oni_battle_passion
+country_event = {
+  id = th_oni_battle_passion.100
+  title = th_oni_battle_passion.100.t
+  desc = th_oni_battle_passion.100.desc
+  picture = YUUGI_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = th_oni_battle_passion.100.zzz
+    ai_chance = {
+      factor = 0
+    }
+  }
+}
+country_event = {
+  id = th_oni_battle_passion.101
+  title = th_oni_battle_passion.101.t
+  desc = th_oni_battle_passion.101.desc
+  picture = YUUGI_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = th_oni_battle_passion.101.a
+    ai_chance = {
+      factor = 1
+    }
+  }
+}

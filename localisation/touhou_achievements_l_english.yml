@@ -1,0 +1,84 @@
+﻿l_english:
+ th_achievement_colden_wind: "°QvfKNÎ˜"
+ desc_th_achievement_colden_wind: "*t2—ú‹žR°s†NvQbHNa'Y)RÑžKbZQ„v¦hó`v^SvQýw›RÍ‘°eôfTHN0°QvfSOŒš00"
+ th_achievements.1.t: "b1Sã‰•ÿ °QvfKNÎ˜"
+ th_achievements.1.desc: "åN[CIN.GetName]VNSÿåb	g±NÒR¯e0Z<S¯eåNÊSWlš„vTöeP%HN§Y0§!0"
+ th_achievements.1.a: "bÿ*t2—ú‹·*tôTÿbÿ	gN*N¦hó`0"
+ th_achievements.1.a.tt: "Ïk*Nåb	g„vÉbN‡eSÄuwýNýOSvQ‡eS9eØSHN[Root.Culture.GetName]0"
+ th_achievements.3.t: "b1Sã‰•ÿ ‚¨RfkëX"
+ th_achievements.3.desc: "åN[OKR.GetName]VNSÿåb	g’cÃuHW0W0oOYHW0WåNÊSŸ^Vm†™„vTöeåb	g80¹pF–›Q.OßuÿwN`O„v–™ýMOŽN­dèx0"
+ th_achievements.3.a: "Dancing all nightÿ(WÙ4xK„„vöeãNÿŽcw´fÎ˜²š6q-^wSÿDancing Samuraiÿ"
+ th_achievements.4.t: "b1Sã‰•ÿ N¹eN"
+ th_achievements.4.desc: "åN[CLP.GetName]VNS05*NbôfY„výV¶RùR`O„v‹Ya¦^NOŽN100ÿ	gD<h ReQSôVQNùR`O„vb‰NRpeSŽN-300"
+ th_achievements.4.a: "ÈTÈTÈTÇ¦^ib.VáUáUÍTÿ"
+ th_achievements.5.t: "b1Sã‰•ÿ ‹vÑ‘KN&&¯eTXÿ"
+ th_achievements.5.desc: "åN[TFR.GetName]VNSÿåN¯eTX(„òƒÅ–jOHN`O„vßu»lwTöe(W9VU^³Q—e-NûQ%ÇÐgÐgv^åb	g150¹p9VU^kp›R<P0"
+ th_achievements.5.a: "w0R†NTÿÿbŠbÙºN„v)YupÖvÙuSb‰|ŽxfUÿ"
+ th_achievements.6.t: "b1Sã‰•ÿ –.Oè•`w"
+ th_achievements.6.desc: "åN[MHG.GetName]VNSÿåb	gb^SýVåb	góS5*NwýN(WÏkWW'YF–Nÿ‰^ó`aNNgb—d–Y	ÿv^N(WvQ-NN*NwýNNåb	gUSMO0"
+ th_achievements.6.a: "Ù*Nb1SžR(W=f>UKbïS—VÿjOw&&"
+ th_achievement_colden_wind_title: "§Tb1S  °QvfKNÎ˜§!"
+ th_achievement_colden_wind_desc: "åN[CIN.GetName]VNSÿåb	g±NÒR¯e0Z<S¯eåNÊSWlš„vTöeP%HN§Y0§!0"
+ th_achievement_dancing_samurai_title: "§Tb1S  ‚¨RfkëX§!"
+ th_achievement_dancing_samurai_desc: "åN[OKR.GetName]VNSÿåb	g’cÃuHW0W0oOYHW0WåNÊSŸ^Vm†™„vTöeåb	g80¹pF–›Q.OßuÿwN`O„v–™ýMOŽN­dèx0"
+ th_achievement_touhous_mad_title: "§Tb1S  N¹eN§!"
+ th_achievement_touhous_mad_desc: "åN[CLP.GetName]VNS05*NbôfY„výV¶RùR`O„v‹Ya¦^NOŽN100ÿ	gD<h ReQSôVQNùR`O„vb‰NRpeSŽN-300"
+ th_achievement_touhous_mad_tt: "ùRb¹e„v‹Ya¦^NOŽN§Y-100§!ÿïSÄuú^ùRb¹e„v§YSôVQ§!v^N(WNb¹e§Y²Nb§!öeb‰NRpeSŽN§Y-30§!0"
+ th_achievement_star_platina_title: "§Tb1S  ‹vÑ‘KN&&¯eTXÿ §!"
+ th_achievement_star_platina_desc: "åN[TFR.GetName]VNSÿåN¯eTX(„òƒÅ–jOHN`O„vßu»lwTöe(W9VU^³Q—e-NûQ%ÇÐgÐgv^åb	g150¹p9VU^kp›R<P0"
+ th_achievement_star_platina_at: "åb	góS§Y150§!¹p9VU^kp›R<P0"
+ th_achievement_star_platina_tt: "¯eTX(„òƒÅ–=fbìN„vßu»lw0"
+ th_achievement_thinking_with_portals_title: "§Tb1S  ßNw.Oè•»S`w§!"
+ th_achievement_thinking_with_portals_desc: "åN[MHG.GetName]VNSÿåb	gb^SýVåb	góS5*NwýN(WÏkWW'YF–Nÿ‰^ó`aNNgb—d–Y	ÿv^N(WvQ-NN*NwýNNåb	gUSMO0"
+ th_achievement_thinking_with_portals_at: "åb	gb^SýVåb	góS§Y5§!*NwýN(WÏkWW'YF–Nÿ‰^ó`aNNgb—d–Y	ÿ0"
+ th_achievement_thinking_with_portals_bt: "(W`Ob`O^SýVMOŽNûNa'YF–„vwýNNåb	gûNUONÍy‰|‹W„vUSMOÿ‰^ó`aNNgb—d–Y	ÿ0"
+ th_achievement_dancing_samurai: "‚¨RfkëX"
+ desc_th_achievement_dancing_samurai: "fW(Wåe,gÁ‰0R†N*NwN»SNvQgHNøv<O„v	g±7uPR0yYÎNÖN±Ì‘`N—V†N‚›Rv^Šb„UaYuXRŽNêñT„vÃV-N0"
+ th_achievement_insanity: "Ârl"
+ desc_th_achievement_insanity: "KQ³Ri`®vNòTb†N‰^ó`aNÌ‘„vÏk*NºN„vN'YðVpb0‹Y(WyY„vÂrl	gÙ*N¦h‰^,‚„vîOckegQQ°sÿ"
+ th_achievement_the_master: "=U N IN"
+ desc_th_achievement_the_master: "JThQNLuÿdkHN>TKN±RŠÿbCN0Wup¿k^ýVKNsY‡väSf0WÉ‰ÿklIr=UN„vINÿup¦hòTM–gŽNb0‚Ydk‰^ó`aNN¡V^¿O†vòTeQ>TNV-NÿsS¿O=f^yf¦Nàe›RNbjOùR0ÆwbeÍS—b>TKNàeNCgZwÿÅVS†˜eubÎNwvQgd¯gÉbKgKN›Rÿ6qcb>TKNfk›R8—CgwGWòTNYXR(W0„UÉTÿêÊN)YwÿêdkIRwÿNLu†v^SŽNbÿäSf0WÉ‰(WdkNäNÿNLuÿãgŽNbÿ"
+ th_achievements.2.t: "b1Sã‰•ÿ ™‚pQ·V¯eWlšKNWlš^ýV"
+ th_achievements.2.desc: "åN[FLR.GetName]VNSÿÇbHN^y1WWlš^ýV‡v^egbËzWlš^ýV0"
+ th_achievements.2.a: "ØXR(Wbå‹åwS„vvQÖNWlš^ýVHNÿ"
+ th_achievements.7.t: "b1Sã‰•ÿ sY‡v-N‡v"
+ th_achievements.7.desc: "åN[SCR.GetName]VNSÿbHN^ýVv^åb	g[FLR.GetName]ÊS[HNG.GetName]jOHN`O„v^SýVNvQåb	g1000bôfY„vÑSUS¦^0"
+ th_achievements.7.a: "™YÉTÿ"
+ th_achievements.7.a.tt: "ûyd–egêNb	gòTåwýV¶R„v§YµOeuib.V§!qVÍT0"
+ th_achievements.8.t: "b1Sã‰•ÿ É‰‹TäN`Oÿ"
+ th_achievements.8.desc: "åN[CRD.GetName]VNSÿbHN^ýVv^åb	g8*NwQY300bôfYÑSUS¦^„vÉ‰^SD–¸^N`O^SýV„vìrËz>PTàeN…Ç5.0%0"
+ th_achievements.8.a: "NLuÿãgŽNbÿ"
+ th_achievement_flandrish_roman_roman_empire_title: "§Tb1Sã‰•ÿ ™‚pQ·V¯eWlšKNWlš^ýV§!"
+ th_achievement_flandrish_roman_roman_empire_desc: "åN[FLR.GetName]VNSÿåN^y1WWlš^ýV‡v^„v«ŽýNbËzWlš^ýV0"
+ th_achievement_empress_of_empresses_title: "§Tb1Sã‰•ÿ sY‡v-N‡v§!"
+ th_achievement_empress_of_empresses_desc: "åN[SCR.GetName]VNSÿbHN^ýVv^åb	g[FLR.GetName]ÊS[HNG.GetName]jOHN`O„v^SýVNvQåb	g1000bôfY„vÑSUS¦^0"
+ th_achievement_obey_me_subjects_obey_me_world_title: "§Tb1Sã‰•ÿ É‰‹TäN`Oÿ§!"
+ th_achievement_obey_me_subjects_obey_me_world_desc: "åN[CRD.GetName]VNSÿbHN^ýVv^åb	g8*NwQY300bôfYÑSUS¦^„vÉ‰^SD–¸^N`O^SýV„vìrËz>PTàeN…Ç5.0%0"
+ th_achievement_obey_me_subjects_obey_me_world_tt: "=fåb	g§Y300§!bôfYÑSUS¦^„v§YÉ‰^SD–¸^§!0"
+ th_double_the_roman: "ÌSPWlš&&"
+ desc_th_double_the_roman: "&&ÌSP„vLˆ?eHe‡s0"
+ th_achievements.9.t: "b1Sã‰•ÿ ¡Nm'Ywm"
+ th_achievements.9.desc: "åN[MIM.GetName]VNSÿ(WN6RININöeãN0RegMRåb	gNb	g‰^ó`aN¿lwmwýN0"
+ th_achievements.9.a: "‹Y¶RO&&"
+ th_achievements.9.a.tt: "ûyd–`OùRNb	gòTåwýV¶R„v§YµOeuib.V§!qVÍT0"
+ th_achievements.10.t: "b1Sã‰•ÿ ¡R2Råe"
+ th_achievements.10.desc: "åN[HIG.GetName]VNSÿ(WNNS8nb-NHVë[SCR.GetName]0[HKR.GetName]0[MYO.GetName]N[SNK.GetName]bHN`O„v²bÕlýV0"
+ th_achievements.10.a: "¡R2RKNöeòT0Rÿ"
+ th_achievements.11.t: "b1Sã‰•ÿ <›Ïe–™‰Ä‰éw"
+ th_achievements.11.desc: "åN[ONI.GetName]VNSÿˆmmpUSNLeýVóS100kè–0"
+ th_achievements.11.a: "`OnZiÄ‰éwÿwbmNSf—V0"
+ th_achievement_ghost_ocean_title: "§Tb1S  ¡Nm'Ywm§!"
+ th_achievement_ghost_ocean_desc: "åN[MIM.GetName]VNSÿ(W§YN6RININöeãN§!0RegMRåb	gNb	g§Y‰^ó`aN§!¿lwmwýN0"
+ th_achievement_ghost_ocean_tt: "=f§Y[Root.GetName]§!„v¿lwm8hÃVwýN0"
+ hig_hkr_executor_state_tt: "(WNNS8nb-NO§Y[HKR.GetName]§!bHN§Y[Root.GetName]§!„v§Y²bÕlýV§!0"
+ hig_scr_executor_state_tt: "(WNNS8nb-NO§Y[SCR.GetName]§!bHN§Y[Root.GetName]§!„v§Y²bÕlýV§!0"
+ hig_myo_executor_state_tt: "(WNNS8nb-NO§Y[MYO.GetName]§!bHN§Y[Root.GetName]§!„v§Y²bÕlýV§!0"
+ hig_snk_executor_state_tt: "(WNNS8nb-NO§Y[SNK.GetName]§!bHN§Y[Root.GetName]§!„v§Y²bÕlýV§!0"
+ th_achievement_first_rule_of_the_oni_title: "§Tb1S  <›Ïe–™‰Ä‰éw§!"
+ th_achievement_first_rule_of_the_oni_desc: "åN[ONI.GetName]VNSÿˆmmpUSNLeýVóS§Y100k§!è–0"
+ th_achievement_the_first_rule_of_the_oni: "<›Ïe–™‰Ä‰éw"
+ desc_th_achievement_the_first_rule_of_the_oni: "0kÎeg0R<›KNNÏe0<›Ïe„v,rNagÄ‰éw=fÿN‰Œº‹<›Ïe0,rŒNagÄ‰éwÿØ=fN‰Œº‹<›Ïeÿ,r	NagÄ‰éwÿ‰=f	gºNŠU0jPÿ00ÛV¢w×S2O0=tP(W0WÿSb—e1S‰jPNeg0,rÛVagÄ‰éwÿN!kêSŒTN*NåNN„vùRKbSb—e0USc=fæa+YLˆ„V0,r”NagÄ‰éwÿÏk!kwxSbY	NHW0,rmQagÄ‰éwÿdKbzzóbN5–0êS	gùRØNÔk`OôfHV„vùRKböeMbýw(uR0,rNagÄ‰éwÿSb—e¡l	göeP–0åNÊS,rkQagmN=fgTNagÄ‰éwÿ‰=f`O=f,rN!keg<›Ïeÿ±1SNšR‰SbNN!k0"
+ th_achievement_judgment_day_title: "§Tb1S  ¡R2Råe§!"
+ th_achievement_judgment_day_desc: "åN[HIG.GetName]VNSÿ(WNNS8nb-NHVë[SCR.GetName]0[HKR.GetName]0[MYO.GetName]N[SNK.GetName]bHN`O„v²bÕlýV0"
+ th_achievement_judgment_day: "¡R2Råe"
+ desc_th_achievement_judgment_day: "MRûN²bÕlœ†NbìN„vgg0`OïS+RÍ‘HŽ†‰™0"

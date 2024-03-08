@@ -1,0 +1,403 @@
+﻿l_english:
+ TH_enforce_shrine_authority_reform: "=‰V^y>yZ%N"
+ TH_enforce_shrine_authority_reform_desc: "íQPNwbìNNbŒcác„vùRŽN^y>y‹N¡R„vØšCgZÝ‹í‹CgÿbìN—VåNôf	gHe„vVüRVYe’VìNˆvO0"
+ TH_strengthen_diplomatic_focus_reform: "TY²N†˜ßW>Pœe"
+ TH_strengthen_diplomatic_focus_reform_desc: "(WÙ7h„vN*NqSi–NLuÌ‘ÿbìN—‰ßvËS„v.^©RegùRØNbìN„vLeºN0‚YœgbìNýwôfY0W»SsQèlY²Nÿ±HNbìN1SïSåN¡rt‹YôfY„vßvËSsQû|0"
+ TH_fairy_bureaucracy_reform: "–Y¾|˜RÚP"
+ TH_fairy_bureaucracy_reform_desc: "˜RÚPìNNb‰ÎN‹N„våTjOý=føvSV„vàeJwÿv^N—‰w9YS›R0‚YœgbìNýwô‹g(rË†–Y¾|ìNegYtÙÍy!ž‹wî•˜˜±HNbìN1SïSåN©‹bìN„vºN»SÎN‹NôfYôfÍ‘‰Nôf	gaIN„våTjO†N0"
+ TH_oni_bureaucracy_reform: "<›Ïe˜RÚP"
+ TH_oni_bureaucracy_reform_desc: "NÍyyrŠk„v¡rt!jVÿ1u”N'Y	N—|„v<›egÅbûN˜RÚPÿÝu'YYpe„vLˆ?e¡rtSO«ˆôv¥cN¾0RT0WHSlšNgbLˆÿ©‹bìN„vlOýwôfY„va×SbìNßu»l„vr^)R0t0"
+ TH_do_it_yourself_bureaucracy_reform: "1W·V*YPR‹W˜RÚP"
+ TH_do_it_yourself_bureaucracy_reform_desc: "‰=f<›Ïe0ºN‰|b=f–Y¾|hQý¾–*X˜RÚPÍ‘ûNÿ±HNóSbìN„vO'Y†˜–ˆØ=fïSåNeg|QûNNN„v"
+ TH_generals_in_administration_reform: "›Q‹N¡rt"
+ TH_generals_in_administration_reform_desc: "›Q‹N„v†˜–ˆÅV‰˜ÄuÇu‹YbìNO'Y„v›Q–ÿåNO›Q–	gýw›RÂSN0RbìNùRbýV„v¡rtSV-Neg0"
+ TH_self_administration_focus_reform: "²Nê¡rt"
+ TH_self_administration_focus_reform_desc: "HN†NMQßu»lw0«ˆßu»lwÊSOS©Rßu»lwKNô•„v’NNáOûNÿbìN„vßu»lw”^å‹²NêNèlŽN¡rtLw¡R0"
+ TH_mikos_in_administration_reform: "ëTsY¡rt"
+ TH_mikos_in_administration_reform_desc: "1SÏP8^Á‰„v^yLwºNXTN7hÿbìN†˜ßW…Q„vëTsYmNwQ	gNwÛLˆOÀy¡rt„vŽb=g0"
+ TH_youkai_decree_reform: "–Y*`UeäN"
+ TH_youkai_decree_reform_desc: "–Nw–Y*`UeäN„v˜^ÿ–Y*`ìNSO—V0R^SŽNÖNìN„v±ýNyrŠkCg)RÿÙSOÖNìNôf RŒTs^0WSÍ‘bìN„vßu»l0"
+ TH_human_decree_reform: "ºN‰|UeäN"
+ TH_human_decree_reform_desc: "–NwºN‰|UeäN„v˜^ÿbìNýV…Q„vºN‰|ìNSO—V0R^SŽNÖNìN„v±ýNyrŠkCg)RÿÙSOÖNìNôf RŒTs^0WSÍ‘bìN„vßu»l0"
+ TH_autarchy_reform: "êÙuê³"
+ TH_autarchy_reform_desc: "êÙuê³(WbýVasTNwÏk*NºN„v‹TÐ†v1uêñTŒcácNàeºNNêËz0‹†6qÙHNZPO'Y'YM–NObìNTIN„vCgZÿFOƒRóSýw RHVbìNlO„v„vê1u¦^NHe‡s0"
+ TH_feudal_shrine_reform: "^y>yÆ–CgN„vSú^"
+ TH_feudal_shrine_reform_desc: "ÇåNbìN^y>y„vINºNNbINüR„vSú^éy^ÿbìN¿OïSåNS—RYeÐ(u0Rôucéy^NŒTs^„v†˜ßWN0¡l	gŒýw(‘ubìN„v^y>yKNINNb.Oˆc„vegê^y„vYeò‹0"
+ TH_the_razing_and_looting_witch_reform: "HV¢bjŒHYT›ÕlO"
+ TH_the_razing_and_looting_witch_reform_desc: "SVN*NSýV„vTINúV6qˆV	g±ÿFO=fßu»lbìN„vT›ÕlO^gÇNÍyôf‰Œgê(W„vuIm»SK„IƒHN<’V0‹†6qbìN„vlOSVNùRÙÍy?eSO„vlbcˆV=f|`kpÿFOÖNìNÈuO«N×S0RlØS&^eg„vPN±ÿsSO=f—‰HQÙuÖNìNegNàQÑSgP–kp±‚0"
+ TH_scarlett_army_reform: "¯eaSŒ…yr„v›Q–9ei—"
+ TH_scarlett_army_reform_desc: "bìNÎNeÜ„v‰¹eŒb0R†N›N	g±„v°etõVÿùR›Q–ÛLˆhQb—„vLwNS9ei—0‹†6qÙÍyó`Õl=fHc‹YÿFO=fžRE–gbLˆwegtSN*Y¹RfžR0R0NÇÿùRŽNÏPbìNÙ7h	gT„vTAm>f5egô‹ÿÙ›NúQ«ŽNO1„v0nfœëXºN0Äub„vTNÁ‰Ïu.O‹s²Rÿßz6q	gNwÔkbìNØ‰‹Y„v›Q–=fbìNNbÝuNýw¥c×S„v0°s(W=föeP9ei—bìN„v›Q–†Nÿ"
+ TH_komeiji_diplomacy_reform: "û‹ÃVY²N"
+ TH_komeiji_diplomacy_reform_desc: "bìN†˜ßW	gNw¸‹Y)Yu„vû‹ÃVw0ÇYeˆcvQúW,g„vY²NKbµkåNÊSÀNHNå‹ô‹ÀNHNNå‹ô‹ÿbìN¿OýwnxÝOb¹eY²NSËYÈuz˜)R0"
+ TH_heavens_claims_reform: ")YLuAmHg°hM–8h"
+ TH_heavens_claims_reform_desc: "Ù=f*N‹kw‘„v‹NžRÿsQŽNbìNàeàeEe±R^b‰N„vÝ‹ºNìN1SOa0RNØštQ„vÙ*N‹NžR0NÇbìNïSåNÀo±RbìN„vô•Œ'Y^»SccŸúQN*NŒRY„vðX0tû|ßu0Õkßzte*N0WtýNÇ=f)YLuNb—„vNèRwòT0"
+ TH_might_of_the_undead: "¡Nw¡rt"
+ TH_might_of_the_undead_desc: "¡Nup0‹^upåNÊSvQÖNTÍybVV„v¡NwNOmNN.w0ƒRìNNž^'Y†˜ßW„v%N‰S?eœ^ASRøvðy0dkYÿ¡NwìNòTÏu‰kÇ†NÿàVdkŒSb„vÅ`µQˆVSOÑSu0"
+ TH_become_a_touhou_republic_reform: "ú^ËzN¹eqQŒTýV"
+ TH_become_a_touhou_republic_reform_desc: "TIN6R¦^(WbìN„v†˜ßWòTÏu0R¾†NÈu¹p0°s(WbìN=föePegNwKb9ei—bìN?eœ^„vgØšBS†NÿHN†Nú^ËzN*NOßu»lw1u	>NµNu„vqQŒTýV¦^0"
+ TH_expansion_into_the_outworld_reform: "TYLuib.V"
+ TH_expansion_into_the_outworld_reform_desc: "‰^ó`aN=fNµ^ŽKN„vLNXb¦ÿFO=fNLuNNKNøv‰|<O„v0W¹eØO	gôfY0NšR=fÙ7h„vÿv^N‰^ó`aNmN—rNNˆV'Y0‚YUObìN»S(WYLu–kl„vÝ‹ÿbìNïSåNSbýVibUSó	g³YqVÍT›R„vÄ‰!j0"
+ TH_imperial_gensokyo_reform: "ðy^‰^ó`aN"
+ TH_imperial_gensokyo_reform_desc: "bìN¾‹ÕlVg†Nte*N‰^ó`aNv^ú^Ëzw†NN*Nž^'Y„výV¦^ÿíQP‰^ó`aN„vDnåNÊSeYØyÿ¡l	gŒïSåN©cÖvOObìN„vIQ‰^ýVNbceÑSúQeg„vîXKNIQ’‚ÿ‰^ó`aNw„v=f«ˆO^yNb7wõVNw„vLNXb¦ÿ"
+ TH_republic_youkai_decree_reform: "–Y*`UeäN"
+ TH_republic_youkai_decree_reform_desc: "–Nw–Y*`UeäN„v˜^ÿ–Y*`ìNSO—V0R^SŽNÖNìN„v±ýNyrŠkCg)RÿÙSOÖNìNôf RŒTs^0WSÍ‘bìN„vßu»l0"
+ TH_republic_human_decree_reform: "ºN‰|UeäN"
+ TH_republic_human_decree_reform_desc: "–NwºN‰|UeäN„v˜^ÿbìNýV…Q„vºN‰|ìNSO—V0R^SŽNÖNìN„v±ýNyrŠkCg)RÿÙSOÖNìNôf RŒTs^0WSÍ‘bìN„vßu»l0"
+ TH_republic_soldier_office_service: "›Q‹N¡rt"
+ TH_republic_soldier_office_service_desc: "›Q‹N†˜üRºNÅV‰˜ÄuÇu‹YbìN„v'Y›QÿåNO›Q–	gýw›RÂSN0R»ltýV¶RSV-Neg0"
+ TH_republic_fairy_office_service: "–Y¾|˜RÚP"
+ TH_republic_fairy_office_service_desc: "˜RÚPìNNb‰ÎN‹N„våTjOý=føvSV„vàeJwÿv^N—‰w9YS›R0‚YœgbìNýwô‹g(rË†–Y¾|ìNegYtÙÍy!ž‹wî•˜˜±HNbìN1SïSåN©‹bìN„vºN»SÎN‹NôfYôfÍ‘‰Nôf	gaIN„våTjO†N0"
+ TH_republic_royal_democracy: "N¹e	>NTIN6R"
+ TH_republic_royal_democracy_desc: "(WlINŽNbýVo‚‹YÐlöeÿžR›RôfHV„vvQÖNýV¶RtSàVbìNN=f0>fk0„vTINN¶RwHNbìNùSo`0bìN>f6qNýwÌwÛSbìN„vlINŸSRÿFObìNØ=fïSåN±R^bìNSV	„vßu»lw1S=fbìN„v‹s0Ù*N0‹s0SO	gNwÈu«Ž„vûNgåNÊSàeN„vCg›RÿêS=fÖN„vçubºNÍN6q‰Ç	>NµNuwòT0"
+ TH_republic_embrace_human_dictatorship: "åb±bìrÁˆ"
+ TH_republic_embrace_human_dictatorship_desc: "qQŒT6R¦^ÐLˆ—VN•ÿFO(WÙ*NïS`„vöeIRbìN—‰„v=fwckýw†˜üRÙ*NýV¦^„v†˜–ˆ0"
+ TH_republic_spread_democracy: ".O­dlIN"
+ TH_republic_spread_democracy_desc: "ÝOkSqQŒT6R¦^„v÷N<PÂ‰°s(WSO=fbìN„v–™‰ûN¡R0te*NNLuýÅV‰˜«ˆßu†˜(WlIN„v×e^N0"
+ TH_republic_gensokyo_reform: "‰^ó`aN„v'YqQŒTýV"
+ TH_republic_gensokyo_reform_desc: "‰^ó`aNþfÏu1ua0ˆ„vN6RwìNßu»lÿFO°s(WbìNåNÊSbìN„vgØš?eCgÖS—V†NgT„vÜw)R0(WVg†N‰^ó`aNKNT„vSVNÿbìN±R^‰^ó`aN„v'YqQŒTýVckVbËz†NÿqQŒTýVNSÿ"
+ TH_fairies_become_absolute_monarchy_reform: "9ei—HN–Y¾|TIN6R"
+ TH_fairies_become_absolute_monarchy_reform_desc: "=föeP>eN–Y¾|>yO-N„vàeObk‰N—e†N0(W–Y¾|«ˆyY„vNb	g»ESýtYyVNw„vöePÿbìN—‰„v=fNMOýw†˜üRNÝO²bbìN–Y¾|„v–Y¾|bìN—V	gNMOòT«ˆÁ‹f=fgHV–Y¾|„vwck‹sw0"
+ TH_fairies_become_fairy_republic_reform: "9ei—HN–Y¾|qQŒT6R"
+ TH_fairies_become_fairy_republic_reform_desc: "bìN„vlO	gNwTVT7h„vÌwofŒTEe‹NÿFOg8^Á‰„vEe‹N=f¬Ž«ŽHNtY0(WbýVÿÝO²blOMQ×S‹Së=fbìN„vÅV‰˜0bìNSj`ˆRqQŒTýV„v÷N<PÂ‰0"
+ Gensokyan_republic_desc: "‰^ó`aN„vºN‰|²SOôfåb²bqQŒT6R¦^„v?eœ^0"
+ Gensokyan_republic: "N¹eqQŒT6R"
+ Gensokyan_republic_legacy: "N¹eqQŒT6R"
+ Gensokyan_monarchy: "N¹eTIN6R"
+ Gensokyan_monarchy_legacy: "N¹eTIN6R"
+ Gensokyan_monarchy_desc: "‰^ó`aNÌ‘g8^Á‰„v?eœ^‰|‹WÿƒR„vO¿R(WŽNùR‰^ó`aNÊSYLu2NÍy‡eS„vT7hËR¹R`¦^0"
+ Gensokyan_shrine_theocracy: "^y>yÆ–Cg6R"
+ Gensokyan_shrine_theocracy_legacy: "^y>yÆ–Cg6R"
+ Gensokyan_shrine_theocracy_desc: "^yCgóN„v?eœ^ÿ1u^y>y„vëTsYb=f^yINNbßu»lÿvQçubºN‰HN=fINcÙ^y>y„v¶R•„vTÔˆÿ‰HN=fegê†˜ßW…Q„vNMOê?aNÄ–ÃVÃRÃR„viRPR0"
+ Gensokyan_fairy_government: "–Y¾|?eCg"
+ Gensokyan_fairy_government_legacy: "–Y¾|?eCg"
+ Gensokyan_fairy_government_desc: "âe^—wck„vTIN6RÿmN^—wck„vqQŒT6R0Ù=fNÍy1u–Y¾|ìNêÑSÄuÇuweg„vNXR(WYS¶g„g„v?eCgÿFO(WÙ*N?eCgNyYìNmN¾‹Õl„g.úQ†NNÍyßu»lwŒTçubºNýÅV‰˜Á‹fêñT=f0gHV0„v>yO¶g„g0"
+ Gensokyan_feudal_shrine_theocracy: "Sú^^y>yÆ–Cg6R"
+ Gensokyan_feudal_shrine_theocracy_legacy: "Sú^^y>yÆ–Cg6R"
+ Gensokyan_feudal_shrine_theocracy_desc: "ÇåNbìN^y>y„vINºNNbINüR„vSú^éy^ÿbìN¿OïSåNS—RYeÐ(u0Rôucéy^NŒTs^„v†˜ßWN0¡l	gŒýw(‘ubìN„v^yINNb.Oˆc„vegê^y„vYeò‹0"
+ Gensokyan_witch_horde: "T›sYTIN6R"
+ Gensokyan_witch_horde_legacy: "T›sYTIN6R"
+ Gensokyan_witch_horde_desc: "1uT›ÕlOÊST›sYNbßu»l„vTIN6R0SVT›ÕlOìNÄuÇuwýV¶RöeÿT›sYìN(WhT8n†SÈ‰0wP¢bv^KSïSýw„vqÁk«R c0"
+ Gensokyan_scarlett_army: "¯eaSŒ…yrTIN6R"
+ Gensokyan_scarlett_army_legacy: "¯eaSŒ…yrTIN6R"
+ Gensokyan_scarlett_army_desc: "ÿNHeê'k2m„vnfœëXTIN6R„v?eœ^ÄuÇu0"
+ Gensokyan_komeiji_monarchy: "äSf0WTIN6R"
+ Gensokyan_komeiji_monarchy_legacy: "äSf0WTIN6R"
+ Gensokyan_komeiji_monarchy_desc: "ÇY²NÊSùRaÆ‹ÍdµuÛLˆßu»l„vupçT‹WTIN?eSO0"
+ Gensokyan_heaven_monarchy: ")YLuTIN6R"
+ Gensokyan_heaven_monarchy_legacy: ")YLuTIN6R"
+ Gensokyan_heaven_monarchy_desc: ")YLu„vTIN6Rÿ1uNMON>eµuNœU‹Yd'Y°eû•„vßu»lwNbßu»l0"
+ Gensokyan_puppet_master_monarchy: "‰^ó`aNU^œ^"
+ Gensokyan_puppet_master_monarchy_legacy: "‰^ó`aNU^œ^"
+ Gensokyan_puppet_master_monarchy_desc: "ÿNHeêåe,g„vU^œ^bVVNHN+t„v—BlNbÍ‘ú^„v?eSO0"
+ Gensokyan_flower_monarchy: "ê6qTIN6R"
+ Gensokyan_flower_monarchy_legacy: "ê6qTIN6R"
+ Gensokyan_flower_monarchy_desc: "ßu»lwýwS‰^ó`aN„vAu±‚oØSHNb‰NKbµk„vNÍy?eSO0"
+ Gensokyan_ghost_realm: "¡Nw†˜ßW"
+ Gensokyan_ghost_realm_legacy: "¡Nw†˜ßW"
+ Gensokyan_ghost_realm_desc: "1u¡Nwßu»l„v†˜ßW01uŽN¡NwºNãS„vXR(WÿO—VuwôfN?a«ˆ¡Nw„výV¦^Vg0"
+ Gensokyan_ghost_monarchy: "¡NupTIN6R"
+ Gensokyan_ghost_monarchy_legacy: "¡NupTIN6R"
+ Gensokyan_ghost_monarchy_desc: "1SÏP¡Nw†˜ßW±7hÿ¡NupTIN6R1u¡Nwßu»lw(WÙÍy?eSOÌ‘¡NwNc‰^ó`aNÌ‘„v¡NupŒT‹^up0dkYÿ¡NupTIN6R„vlO8^ý=fVßWsO´w„vàVžR‰|NÿùRYeg„v‡eS	gNwˆVØš„v¹RÍV¦^0"
+ Gensokyan_celestial_empire: "‰^ó`aN)Yg"
+ Gensokyan_celestial_empire_legacy: "‰^ó`aN)Yg"
+ Gensokyan_celestial_empire_desc: "1u‰^ó`aNOOlŒcác)Y‹T„vyrŠk?eœ^9ei—0‹†6q?eCgÝOYu†N‰^ó`aN„v9hÿFO°s(W¦Nåb	g)Yg„v0WMO0"
+ Gensokyan_MoH_scarlett_army: "¯eaSŒ…yr)Yg"
+ Gensokyan_MoH_scarlett_army_legacy: "¯eaSŒ…yr)Yg"
+ Gensokyan_MoH_scarlett_army_desc: "ÿNHeê'k2m„vnfœëXTIN6R„v?eœ^ÄuÇuÿ6qwyYÍN6qÝOcNw)Yg„v0WMO0"
+ Gensokyan_MoH_komeiji_monarchy: "äSf0W)Yg"
+ Gensokyan_MoH_komeiji_monarchy_legacy: "äSf0W)Yg"
+ Gensokyan_MoH_komeiji_monarchy_desc: "ÇY²NÊSùRaÆ‹ÍdµuÛLˆßu»l„vupçT‹WTIN?eSOÿ6qwyYÍN6qÝOcNw)Yg„v0WMO0"
+ Gensokyan_monarchy_fairy_government: "–Y¾|TIN6R"
+ Gensokyan_monarchy_fairy_government_legacy: "–Y¾|TIN6R"
+ Gensokyan_monarchy_fairy_government_desc: "–Y¾|‹swùRýV¶Råb	gÝuùRCg›R„vNÍy?eSO08^egô‹‹sw1S=fÙ*N†˜ßW-NgHV„v–Y¾|0"
+ Gensokyan_republic_fairy_government: "–Y¾|qQŒT6R"
+ Gensokyan_republic_fairy_government_legacy: "–Y¾|qQŒT6R"
+ Gensokyan_republic_fairy_government_desc: "NÍy1u–Y¾|ìN•bhy	úQyYìN„vßu»lw„vìryrqQŒT6R¦^0¾–åNnáO„v=f–Y¾|ìNßz6qåwS•bhy=fÀNHNwNØ†Nã‰ƒR=f‚YUOÐjO„v&&"
+ Gensokyan_kaguya_states_reform: "–™X„vTIN6R"
+ Gensokyan_kaguya_states_reform_legacy: "–™X„vTIN6R"
+ Gensokyan_kaguya_states_reform_desc: "–™X„vTIN6R=fNÍy«ˆ…Qè‰N—eNbQX.úQeg„vyrŠk?eSO0KS¡r‰YŒTyY„v¶RÏeOçe=f=UNTÕl„vßu»lwÿFOyYKNŽNýV¶R„vCg›RRÖS³QŽNŒT¹Y¢uKNô•„vCg›R—e‰N0\n\nÌS¹eKNô•„v—e‰N«ˆðyjO=f0–™X00±=fàVHNÌS¹eKNô•„v‰N5TêS‰ÍNYŽNs^aˆ„v¶r`RÌS¹eýOegKS›Rôu²býV¶R)RÊv„vg'YS0"
+ Gensokyan_mokou_states_reform: "–™X„vTIN6R"
+ Gensokyan_mokou_states_reform_legacy: "–™X„vTIN6R"
+ Gensokyan_mokou_states_reform_desc: "–™X„vTIN6R=fNÍy«ˆ…Qè‰N—eNbQX.úQeg„vyrŠk?eSO0KS¡r¹Y¢uŒTyY„v¶RÏeOçe=f=UNTÕl„vßu»lwÿFOyYKNŽNýV¶R„vCg›RRÖS³QŽNŒT‰YKNô•„vCg›R—e‰N0\n\nÌS¹eKNô•„v—e‰N«ˆðyjO=f0–™X00±=fàVHNÌS¹eKNô•„v‰N5TêS‰ÍNYŽNs^aˆ„v¶r`RÌS¹eýOegKS›Rôu²býV¶R)RÊv„vg'YS0"
+ Lunarian_monarchy: "gºNTIN6R"
+ Lunarian_monarchy_legacy: "gºNTIN6R"
+ Lunarian_monarchy_desc: "gºNTIN6RÔkvQÖN„vN6R?eSOôfwQ	g¦umg›R0gCgININ„vßu»lÎ˜<hOgºN—VåNŒRhQ0W=eM‘gTQè–0"
+ Gensokyan_divine_state: "^yf†˜ýV"
+ Gensokyan_divine_state_legacy: "^yf†˜ýV"
+ Gensokyan_divine_state_desc: "^yf†˜ýV=fNÍy1u°sNŽN‰^ó`aNÌ‘„v^yfNbßu»l„v?eœ^0N^yCg6RNTÿ^yfìNN—Ç<yÜbegÁ‹fIY.s¦^0NÇÿ=f&TN^yf0WMOøvlˆR=fyYìNNb—åeåeŒšÁ‹KN‹N0"
+ SHRINE_WARDEN: "^y>yINmy"
+ KANNUSHI: "^yIN"
+ GRAND_KANNUSHI: "'Y^yIN"
+ SHRINE_MAIDEN: "^y>ysYmy"
+ MIKO: "ëTsY"
+ GRAND_MIKO: "'YëTsY"
+ TOUHOU_MISTER: "INºN"
+ TOUHOU_MISTRESS: "INºN"
+ TOUHOU_LORD: "'YºN"
+ TOUHOU_LADY: "'YSÐY"
+ TOUHOU_DOMAIN: "†˜ßW"
+ TOUHOU_REALM: "ýV¦^"
+ TOUHOU_EMPIRE: "^ýV"
+ IDIOT: "lšž"
+ BIG_IDIOT: "–Y¾|"
+ GREAT_IDIOT: "gHV–Y¾|"
+ TH_PRINCE: "²N‹s"
+ TH_GRAND_PRINCE: "'Y²N‹s"
+ TH_PRINCESS: "lQIN"
+ TH_GRAND_PRINCESS: "'YlQIN"
+ TOUHOU_GOD: "^yf"
+ TOUHOU_GODDESS: "^yf"
+ TOUHOU_CHOSENONE: ")Y	w"
+ TOUHOU_YAMA: "šN›s(„±¦^"
+ TOUHOU_PROF: "Yeˆc"
+ TOUHOU_ASSISTANT: "©Rt"
+ TH_enable_danmaku_fighting_style_reform: "=T(u9VU^b!jV"
+ TH_enable_danmaku_fighting_style_reform_desc: "9VU^b!jVžRE–N=fNÍyÐ(u&raSŒTT›ÕlPR9V„v‰^ó`aN.Oßu08nb0ÿFO‚YœgO(u—VSVN(uùR0W¹e„vÝ‹ÿÙùRbìN„v›Q–egô‹O=fÍ‘'Y„v9eo‚0"
+ TH_fairy_code: "–Y¾|ÆQR"
+ TH_fairy_code_desc: "bìNÅV‰˜©‹–Y¾|ìNSNQN+R„v–Y¾|êøv‹kNg0HNdkbìNS6RšR0–Y¾|ÆQR0åNjgÝuùR–Y¾|NÏe„vteÊ†Lˆ„V0"
+ TH_i_am_the_shrine: "bsS^y>y"
+ TH_i_am_the_shrine_desc: "^y>yÆ–Cg6RasTNwbìN„vhQSOlOIYvQNu•beQ0Rle.s^yfN»l–Y*`N‹NN0NÇbìNN”^ØV°‹ÿ¡l	gINc^y>y„vëTsYÿ^y>y¿O=fzzmàeir„v0"
+ TH_fairy_adapt_to_the_enemy: "TLeºNfR`N"
+ TH_fairy_adapt_to_the_enemy_desc: "býV‚YgHV„vbëXN,‚HV'Y0NÇÙ	göePØNYÿ‚YœgbìNó`‰uXRN»SÿbìN1S—VùRLeºNìN„vb=gNfkhV RåNfR`N0"
+ Gensokyan_cirno_kingdom_government: "¬QKNTIN6R"
+ Gensokyan_cirno_kingdom_government_legacy: "¬QKNTIN6R"
+ Gensokyan_cirno_kingdom_government_desc: "1u×S0R=TÑS„v*t2—ú‹Äuú^wb„v–Y¾|?eCgÿgHVwHN–Y¾|ìN„vÝuùRßu»lw0NÏP+R„v–Y¾|?eCgÿ¬QKNTIN6RNèlŽN(Wôu²b–Y¾|âVÓu„vTöeÝOc‹YvQ.Oßu„vŒRte0"
+ Gensokyan_clownpiece_tribal_government: "0Wñr–Y¾|KNýV"
+ Gensokyan_clownpiece_tribal_government_legacy: "0Wñr–Y¾|KNýV"
+ Gensokyan_clownpiece_tribal_government_desc: "ôVÕu0Wñr–Y¾|„vÂrlegUSV¾‹¡‹„v–Y¾|?eCg0sS¿OvQßu»lw=f*NTINÿFO?eSOtSôfÏP=fßèK„blÏe0Ù*N?eCg„vëXuQ1u‡O=†N0Wñr„vt'`«R cN·uAu÷mqNKN›R„v–Y¾|ÅbSV0"
+ Gensokyan_lily_colonial_empire: "%fKNTIN6R"
+ Gensokyan_lily_colonial_empire_legacy: "%fKNTIN6R"
+ Gensokyan_lily_colonial_empire_desc: "NèlŽN¢c0tNNGYÂ‰Vofw^—VgNSb–Y¾|'Yb„v–Y¾|?eœ^9ei—0vQßu»lwØ|QûNNw%fKNOw„vLw¡R0"
+ Gensokyan_tfr_pirate_government: "–Y¾|'Y×vqQŒT6R"
+ Gensokyan_tfr_pirate_government_legacy: "–Y¾|'Y×vqQŒT6R"
+ Gensokyan_tfr_pirate_government_desc: "åN–Y¾|NbwQ	g„vteÊ†)Y'`HN8hÃV„v?eœ^9ei—0êS	ggHNHgupNçT™Y„v–Y¾|MbýwKS›RÝOOOvQjOHNÙ²ÂrÎ‘„vteÊ†¶R–Y¾|ßu»lw„v0WMO0"
+ TOUHOU_WITCH: "T›sY"
+ TOUHOU_GRANDWITCH: "'YT›sY"
+ TOUHOU_ARCHWITCH: "–™-^T›sY"
+ TOUHOU_WARLOCK: "ëT^"
+ TOUHOU_GRANDWARLOCK: "'YëT^"
+ TOUHOU_ARCHWARLOCK: "–™-^ëT^"
+ TOUHOU_STRONGEST: "gHV"
+ TOUHOU_ICEDUKE: "°QlQ5r"
+ TOUHOU_ICEDUCHESS: "°QlQ5r"
+ TOUHOU_WINTERKING: "ÛQ¬QKN‹s"
+ TOUHOU_WINTERQUEEN: "ÛQ¬QsY‹s"
+ TOUHOU_FROSTEMPEROR: "—ÒR^‡v"
+ TOUHOU_FROSTEMPRESS: "—ÒRsY‡v"
+ TOUHOU_PATRIARCH: "Äu•"
+ TOUHOU_MATRIARCH: "Äu•"
+ TOUHOU_HIGHPATRIARCH: "'YÄu•"
+ TOUHOU_HIGHMATRIARCH: "'YÄu•"
+ TOUHOU_MADLAD: "¯uSO"
+ TOUHOU_MADLASS: "¯uÑYZ"
+ TOUHOU_INSANE: "kvÂr„v"
+ TOUHOU_LUNATIC: "Ârl„v"
+ TOUHOU_SPRINGHERALD: "%fKNOw"
+ TOUHOU_TRICKSTER: "HkÈ‹w"
+ TOUHOU_PRANKSTER: "teÊ†¶R"
+ TOUHOU_GRANDPRANKSTER: "'YteÊ†¶R"
+ TOUHOU_TOKOYO: "8^N^y"
+ Gensokyan_lrv_divine_government: "–Y¾|^yf†˜ýV"
+ Gensokyan_lrv_divine_government_legacy: "–Y¾|^yf†˜ýV"
+ Gensokyan_lrv_divine_government_desc: "þf=f–Y¾|„vt^|^^yfKN†˜ýV0å‹?eœ^9ei—=f(W1rTX®YÉbSætÊ‘>eúQvQjoýwv^Í‘ÞVvQ^yfbV`öeú^Ëz„v0"
+ TH_magician_coven_reform: "T›ÕlOÆ–O"
+ TH_magician_coven_reform_desc: "bìNòT±RJTbHNhQSOT›ÕlO„výV¶RÿbýVgØšµu+R„v?eœ^˜RXTêT›ÕlOP	ºN-N	úQ0"
+ TH_devil_realm_reform: "v`T›†˜ßW"
+ TH_devil_realm_reform_desc: "býV1uv`T›Nbßu»l0Ù›Nßu»lwìNIN‰NèlŽNkp›RÊSnxÝOùRýV¶R„vÝuùRµc6R0"
+ TOUHOU_HERMIT: "ÙNºN"
+ TOUHOU_BRAWLER: "´f’V"
+ TOUHOU_GLADIATOR: "—eëX"
+ TOUHOU_ONIKING: "<›‹s"
+ TOUHOU_ONIQUEEN: "<›‹s"
+ TOUHOU_SAGE: "2w"
+ TOUHOU_ARCHSAGE: "'Y2w"
+ TOUHOU_GRANDSAGE: "O'Y2w"
+ TOUHOU_SAMURAI: "fkëX"
+ TOUHOU_ASTRALKNIGHT: "f‹^QRëX"
+ Gensokyan_scr_scarlet_monarchy: "¯eaSŒ…yrTIN6R"
+ Gensokyan_scr_scarlet_monarchy_legacy: "¯eaSŒ…yrTIN6R"
+ Gensokyan_scr_scarlet_monarchy_desc: "¯eaSŒ…yrTIN6R=fNy˜ôVÕuvQINºNŒ…s|‰ƒšN·¯eaSŒ…yr„vE››RNÜUNˆÏ‘«ŽšR6R„vyrŠk9ei—0Zg(WôucëXlNå‹‹sgXRíu„v?e»l¹eb—w0R†N>N³‰Í‘„vjO(u0"
+ Gensokyan_hig_yama_government: "–T›^6R"
+ Gensokyan_hig_yama_government_legacy: "–T›^6R"
+ Gensokyan_hig_yama_government_desc: "–T›^6RãNhˆ†N‰^ó`aN„v¡R2R6R¦^0MOŽN6R¦^v˜ïz„v–T›1ôuû|ÙGr¦h‰^KN0W„v‰RRNs^aˆÿwN«N	gNwvQÖNýV¶RNbNwQ	g„vY²NAŒMQCg0"
+ Gensokyan_myo_monastery: "‹T²ƒçPKO"
+ Gensokyan_myo_monastery_legacy: "‹T²ƒçPKO"
+ Gensokyan_myo_monastery_desc: "‹T²ƒçPKO=f1u1W‹v²ƒINc„v^yCg6R¦^0NÏP±›NNglŒŒ„v»ESÿçPKOÇS¹RåNBlÖS—V—RYeN‡eS„vßuN0"
+ Gensokyan_fom_witch_government: "T›ÕlOTIN6R"
+ Gensokyan_fom_witch_government_legacy: "T›ÕlOTIN6R"
+ Gensokyan_fom_witch_government_desc: "1ugHNupImØSNgwQ”^'`„vT›ÕlO0T›sYÊS/bw=gëXNbßu»l„vTIN6R0‹†ô‹vQ«ˆÏcðHNTIN6RÿFO?eCgôf‰|<OŽN.^>mw^—wck„vTIN6R0"
+ Gensokyan_crd_satori_monarchy: "É‰–Y*`?eCg"
+ Gensokyan_crd_satori_monarchy_legacy: "É‰–Y*`?eCg"
+ Gensokyan_crd_satori_monarchy_desc: "1uû‹ÃV–Y*`É‰ÊSvQKbNNbßu»l„vTIN6R0NÏP‰^ó`aNÌ‘„vvQÖNTV?eœ^ÿŒcCg„vßu»lwôf?aa©‹^SN»Sr^Im?Q=tIm?QÿwyYìNRN1ÍdµuvQhT¹„vY²N0"
+ Gensokyan_kmj_travelling_kingdom: "‘N8n†˜ßW"
+ Gensokyan_kmj_travelling_kingdom_legacy: "‘N8n†˜ßW"
+ Gensokyan_kmj_travelling_kingdom_desc: "NÍyTINN„vTIN6Rÿ‘N8n†˜ßW=f1uNMOÉ‰–Y*`ÊSvQý–wNbìr›Rßu»l„vÎW¦0"
+ Gensokyan_vir_library_reform: "'YþVfN†™†˜ßW"
+ Gensokyan_vir_library_reform_legacy: "'YþVfN†™†˜ßW"
+ Gensokyan_vir_library_reform_desc: "‹†6qvQ«ˆhÆ‹HNTIN6RÿFOþVfN†™†˜ßW=fô›RŽN6eÆ–NÝOXRåwÆ‹v^1uþVfN†™¡rtXTßu»l„vÎW`l0"
+ TOUHOU_TAISHI_SAMA: "*YPR'YºN"
+ TOUHOU_SAMANERA: "™l%V"
+ TOUHOU_BHIKKHU: "ÔkN"
+ TOUHOU_SAMANERIKA: "™l%V<S"
+ TOUHOU_BHIKKHUNI: "ÔkN<S"
+ TOUHOU_SAINT: "1WºN"
+ TOUHOU_TINKER: "Žb^"
+ TOUHOU_HIGHTINKER: "ØšIrŽb^"
+ TOUHOU_MASTERTINKER: "Žb^•"
+ TOUHOU_KAISER: "ïQ’d"
+ TOUHOU_KAISERIN: "ïQ’d3t"
+ TOUHOU_BLOOD_DUKE: "NˆlQ5r"
+ TOUHOU_BLOOD_DUCHESS: "NˆlQ5r"
+ TOUHOU_BLOOD_KING: "Nˆ‹s"
+ TOUHOU_BLOOD_QUEEN: "œœNˆsY‹s"
+ TOUHOU_BLOOD_EMPEROR: "Nˆ^"
+ TOUHOU_BLOOD_EMPRESS: "œœNˆsY‡v"
+ TOUHOU_WANDERING_DOMAIN: "‘N8n†˜ßW"
+ TOUHOU_WANDERING_REALM: "‘N8nýV¦^"
+ TOUHOU_WANDERING_EMPIRE: "‘N8n^ýV"
+ TOUHOU_FREE_SPIRIT: "ê1u„vupB›"
+ TOUHOU_DETECTIVE: "¦O¢c"
+ TOUHOU_LIBRARIAN: "þVfN†™†™•"
+ Gensokyan_mhg_puppet_master: "ŽP!Q'Y^TIN6R"
+ Gensokyan_mhg_puppet_master_legacy: "ŽP!Q'Y^TIN6R"
+ Gensokyan_mhg_puppet_master_desc: "bôfPNaÂ‰OvQÖNºN„v‰N—ewN=fêñTegúQKb0Ù8nb„vnxˆV	ga`ÿ`OêS—	cN0±Rb0	c®”ÿKNT`OPNŽN©RºN„vN^S'YTìN1SOê¨RHN`O&^egÜw)RóSbÉ‰—VÙùRbegô‹=fôf R„v	ga`0"
+ Gensokyan_oni_brawling_kingdom: "´fŽ<›„v)YN"
+ Gensokyan_oni_brawling_kingdom_legacy: "´fŽ<›„v)YN"
+ Gensokyan_oni_brawling_kingdom_desc: "žR›RNcƒ‰ŠØšŽNNR„v?eœ^9ei—0<›ÏeKN–™	g1ûN†˜üR<›ÏefkëXìN(Wb—e-NHYÖScƒw0"
+ Gensokyan_samurai_order: "fkëXO"
+ Gensokyan_samurai_order_legacy: "fkëXO"
+ Gensokyan_samurai_order_desc: "1ufkëX6–µuegßu»lýV¶Rv^nxÝONlNb—„v?eœ^9ei—0"
+ Gensokyan_music_band: "PN–"
+ Gensokyan_music_band_legacy: "PN–"
+ Gensokyan_music_band_desc: "ó—PN=fbìN†˜ßW„vu‹T›R0NÏPvQÖNTIN6RÿbìN„vßu»lwžRE–N=fN²)YKVŽy„vó—PNºNëXÿyYìNåNvQ=cKYºNÃV„vLkòfcVNwbìN0"
+ Gensokyan_kpp_kappa_state: "³låz¦ýV"
+ Gensokyan_kpp_kappa_state_legacy: "³låz¦ýV"
+ Gensokyan_kpp_kappa_state_desc: "býV=f1uNNÖNºNOSjO„v³låzNbÄub„vÿÙO—V(W¡rtöeÙGrW0WŸN—ŽbçT0‹Y(W³låzìN²‹ïS†NÖNìN-NgHNpgúQ„v±MOŽb^v^	g±HN›NºN?aaý–ÙMO'YåT.S&&ôvóvQ,rŒNûNg0"
+ Gensokyan_tgu_caste_system: ")Y×rIrµu6R¦^"
+ Gensokyan_tgu_caste_system_legacy: ")Y×rIrµu6R¦^"
+ Gensokyan_tgu_caste_system_desc: "(WýV¶R…QèRRHNpe*NRåTNT„vIrµu„v>yO0&ž)Y×r1ÛLˆ¡r»lÿw‹vür)Y×rREQSVýV¶R„v›Q‹N›RÏ‘0"
+ Gensokyan_snk_toyosatomimi_monarchy: "1W·VTIN6R"
+ Gensokyan_snk_toyosatomimi_monarchy_legacy: "1W·VTIN6R"
+ Gensokyan_snk_toyosatomimi_monarchy_desc: "1u0Njw3w^yPR,gºN.„vTIN6RÿåNûNºN=U2NØšHe„v˜RÚPSOû|QX.úQeg„výV¶RIrµu6R¦^0"
+ Gensokyan_mim_mimas_empire: "E›T›Æ–âV"
+ Gensokyan_mim_mimas_empire_legacy: "E›T›Æ–âV"
+ Gensokyan_mim_mimas_empire_desc: "E›T›Æ–âV„vN6R?eœ^ÿhQSOý–Çeg„v¡NwGW,T‹TŽNóØšT›Õlv`upE›T›„vûNUOcHy0"
+ Gensokyan_thr_engineer_society: "åTz^>yO"
+ Gensokyan_thr_engineer_society_legacy: "åTz^>yO"
+ Gensokyan_thr_engineer_society_desc: "1ugHN—V›RNgwQR°e„våTz^Nb†˜üR„v?eCg=fïSýw„v0.úQ°e–˜Nô‹TfkhV=fžR°s(WÙ>yO6–µu6R¦^-NKfGS„v=UN„V0"
+ Gensokyan_yum_scientific_society: "ÑyfR¶R>yO"
+ Gensokyan_yum_scientific_society_legacy: "ÑyfR¶R>yO"
+ Gensokyan_yum_scientific_society_desc: "1u*geggO'Y„vÑyfR¶RNb†˜üR„v?eœ^0N<OÙöeãN„v?eCgÿÑyfR¶R>yOÌ‘êS	guir^SŽNNBS6–µuÿ0NBS6–µu0=f1u1YtNR„vHghVºNNbÄub„v0"
+ TOUHOU_SPIRIT_PRINCE: "¡Nup²N‹s"
+ TOUHOU_SPIRIT_KING: "¡Nup‹s"
+ TOUHOU_SPIRIT_EMPEROR: "¡Nup^‡v"
+ TOUHOU_SPIRIT_PRINCESS: "¡NuplQIN"
+ TOUHOU_SPIRIT_QUEEN: "¡NupsY‹s"
+ TOUHOU_SPIRIT_EMPRESS: "¡NupsY‡v"
+ Gensokyan_oni_underworld_clan: "0W•^v`<›lÏe"
+ Gensokyan_oni_underworld_clan_legacy: "0W•^v`<›lÏe"
+ Gensokyan_oni_underworld_clan_desc: "0W•^v`<›lÏe=f1uESOO(W0W•^NLu„v<›ÏeÄubŒgce?eCg0Lˆ?eèè•(W'YèRöeô•Ný=fegmNSS»SmNSSÿw?eCg²NÿfRÏP'YYpe8^Á‰„vTIN6R±,‚Ytÿ‹†ô‹MRûN†˜–ˆN«ˆAQ¸‹ÞûN0"
+ TOUHOU_EXECUTOR: "²bÕl"
+ TOUHOU_EXARCH: "I`cw"
+ TOUHOU_SORCERER: "T›=g^"
+ TOUHOU_MAGE: "T›ÕlO"
+ TOUHOU_ARCHMAGE: "'YT›üR^"
+ TOUHOU_SORCERERESS: "T›=g^"
+ TOUHOU_MAGE_FEM: "T›ÕlO"
+ TOUHOU_ARCHMAGE_FEM: "'YT›üR^"
+ MIM_EMPIRE: "E›T›Æ–âV"
+ MIM_EMPIRE_ADJ: "E›T›Æ–âV"
+ Gensokyan_sff_sword_of_nature: "'Yê6qKNQR"
+ Gensokyan_sff_sword_of_nature_desc: "–NwbìN„v›RÏ‘åNÊSqVÍT›R„vžX•ÿ'Yê6q,g«ŽNòTbHN†NbìNg'Y„vßvËS0P©RvQ›RÏ‘ÿbìN—VåNwck±RJT,gýVsSHN'Yê6q„v¡R2RKNQR0"
+ Gensokyan_sff_sword_of_nature_legacy: "'Yê6qKNQR"
+ TH_cradle_of_fairy_civilization: "–Y¾|‡efÑSey0W"
+ TH_cradle_of_fairy_civilization_desc: "bìN–Y¾|àeÕlÍV×S«ˆSVjO=fÐgÍyèK„0bìNÅV‰˜9ei—býVOKNbHN–Y¾|‡ef„vÑSey0W0"
+ Gensokyan_hif_hifuu_club: "ØySñOPNèt‹NO"
+ Gensokyan_hif_hifuu_club_desc: "ØySñOPNè=fN*N1uBlåw‹YfR„vYLufRuìN„gb„vÄuÇuÿèe(WícHy‰^ó`aN„veYØy0‹†ô‹è„vÄuÇu(Wtº‹N=f*NqQŒTýVÿFO0ñOPNèO•0ùRýV¶Råb	gÝuùRCgZv^NýwÏPTIN6R±7h¦”šR¥císºN0"
+ Gensokyan_ski_keigatsu_gang: "²RYrÄu¶Rcw6R"
+ Gensokyan_ski_keigatsu_gang_desc: "Ššyš¶RåNÁ”UKbµkgbLˆNw²RYrÄu„v¶Rcw6R0‹†ô‹?eœ^(WT¹eTb—ýSO°súQ.OßuèK„„vb—ŒŒÿFOŠšyš¶RmN	gØš¦^Í‘Æ‰‡ef„vNb—ÿ‹O‚Y«R÷^uImN6–BS¾‹n0"
+ Gensokyan_yac_kiketsu_gang: "<›pgÄu¶Rcw6R"
+ Gensokyan_yac_kiketsu_gang_desc: "	TT¶RNèlŽN©‹ÖNºNgºvQcäN0<›pgÄu¶Rcw6RN„vte*N?eœ^ýú^Ëz(WÙÍy„gó`NÿsSùR^SýV„v¡r»l=fN*NbŸRýV¶RgHNÍ‘‰„v¹eb—0"
+ Gensokyan_yme_great_kappa_republic: "qSåzqQŒT6R"
+ Gensokyan_yme_great_kappa_republic_desc: "NÏPûR8^„v³låzÿqSåzŒRhQ¥c×SvQ>yO-N„vTr‚Þz‰NND,g)R0àVÙÍy?eœ^ÄuÇuN„vèT'YîTVÿ	N'Y³låz>mû|(W»y4lNqSšRES³låz„vqSåzqQŒTýV-NŒb0R†N8lÜ„vESNb0"
+ Gensokyan_hmc_plutocratic_republic: "‰^ó`aN0–?e»l"
+ Gensokyan_hmc_plutocratic_republic_desc: "‰^ó`aNÌ‘„vºN‰|SvQê«ŽÄuÇuweg„vNÍy0–qQŒTýVÿ8fNFUNIm¨R=eM‘NwýV¶R„v®‹z0ßu»lw(Ws^l-N	úQ0"
+ Gensokyan_kpp_united_kappa_republic: "³låzTwTqQŒTýV"
+ Gensokyan_kpp_united_kappa_republic_desc: "³låz„v…Qè¨RqNåN·ƒ9hd–ÿw)YMb„v³låz²OòT«ˆâVÓu(W†NTNb—×e^KNN0\nbýV„vŽb^åT.SìNòT›bV†NÖNìNÇŽV„vNM‘T`¦^v^³QšRgÎNÖNìNSV-NgHNØš…„vØšIrŽb^„vßu»l0"
+ Gensokyan_kpp_united_kappa_republic_legacy: "³låzTwTqQŒTýV"
+ Gensokyan_kpp_united_kappa_republic_legacy_desc: "³låz„v…Qè¨RqNåN·ƒ9hd–ÿw)YMb„v³låz²OòT«ˆâVÓu(W†NTNb—×e^KNN0\nbýV„vŽb^åT.SìNòT›bV†NÖNìNÇŽV„vNM‘T`¦^v^³QšRgÎNÖNìNSV-NgHNØš…„vØšIrŽb^„vßu»l0"
+ Gensokyan_mru_rabbit_federal_monarchy: "gTQTw¦TIN6R"
+ Gensokyan_mru_rabbit_federal_monarchy_desc: "1upeMOTQPRS‹slQN5Ïe„gú^b„vTIN6R0KS¡rùR‹s²R±R“ŠHeàVÿFOTQPRºNãSmNO(W®‹O-N8lENåb	gN*N®‹-^0"
+ Gensokyan_tgu_absolute_reign: "'Y)Y×rÝuùRTIN6R"
+ Gensokyan_tgu_absolute_reign_desc: "'Y)Y×rNb^S„vIrµuJR1V†NvQÖN„v)Y×rIrµu0ßu»lwê'Y)Y×r-N	úQNåb	gÝuùR„vCg›RÿÅN(WgSpeÅ`µQN—‰ùR)YT›10"
+ Gensokyan_tgu_tengu_republic: ")Y×rqQŒTýV"
+ Gensokyan_tgu_tengu_republic_desc: "Irµu6R¦^òT«ˆŸ^d–0°s(WNb	g)Y×rGW«N	gTIr„vCg)RNIN¡RÿHNýVHeàVåNbcÖSùRÏk*NºNCgÊv„vÝOœ–0"
+ Gensokyan_tgu_sophisticated_caste_system: "¾|Õ–Æu0t„v)Y×rIrµu6R¦^"
+ Gensokyan_tgu_sophisticated_caste_system_desc: "‹†6qÙÍN=fIrµu6R¦^ÿFO¾|Õ–Æu0t„v)Y×rIrµu6R¦^.1S†N)Y×r>yO„vAm¨R'`ÿO	g±b	gýw›RKNºNïSåNKfGS0R'Y)Y×rIrµu0"
+ Gensokyan_hak_wolf_tengu_society: "‹vür)Y×rTIN6R"
+ Gensokyan_hak_wolf_tengu_society_desc: "1u(u)R*r•dŽx†N)Y×rIrµu6R¦^„v‹vür)Y×rNbßu»l„vTIN6R0KS¡r‹vür)Y×rv^N>PTŽN¾‹nTINÿFOÖNìNôfÅ`?a	gNMO‹vür)Y×rTINwN=f–ûNaNMO'Y)Y×rFd^0"
+ Gensokyan_rod_gourmet_monarchy: "U™.™TIN6R"
+ Gensokyan_rod_gourmet_monarchy_desc: "1uÐg*N–Y*`'YÏe„vãNhˆºNirNbßu»l„vTIN6RÿvQIN‰îv„v=fHN†N—V0RôfYÍs™08fNY²N=f8^(uŽNžR°sdkîvh„vKbµkÿNÇæSûRƒRÕlmN=fïSLˆ„v0"
+ Gensokyan_youmu_half_phantom_shogunate: "JSºNJSupU^œ^"
+ Gensokyan_youmu_half_phantom_shogunate_desc: "NÍy1uJSºNJSup¶RÏeÆ–-NNb	gCg›R(WKb„vßu»lbVV0‹†6qÖNìNºNpezSÿFOnxÁ‹=fSSŠ„vbëXÿ›RBlNýV¶R…Q„vvQÖNlQlR«NvQ¶RIN„v.Oˆc0"
+ Gensokyan_mmu_thalassocratic_monarchy: "wmCgTIN6R"
+ Gensokyan_mmu_thalassocratic_monarchy_desc: "býV=fNÍywmm'`„vTINýV0wm›Q=fbìNLˆ?e-N„vÍ‘¹pÿwN=z>yOÐl„v¹e¹eb—b—0ïSåNÙHNô‹ÿbìN=fN=eåb	gýV¶R„vwm›Q0"
+ Gensokyan_joo_realm_of_luxurious_waste: "ú”.Vjm9KNýV"
+ Gensokyan_joo_realm_of_luxurious_waste_desc: "býVwQ	g^yf„vvQ-NNÍy^y'`0NÇÿbìN„v^yåNvQú”.V„vV=eNùR0¡R¡rt„vN„UwW„ðy0‹†6q(W'YYpeÅ`µQNýO¾–åN”^ØNÿFObìN„vlOòTÂa—VåNsYÑ‚HNœi7hv^bÅbÖNºNNbàeÕlbÅb„v0¡RÎ˜i–0"
+ Gensokyan_sei_necrocratic_government: "up?eCg"
+ Gensokyan_sei_necrocratic_government_desc: "SVvQÖNýV¶Råb	g»lýVkSýV„váQô•uwöeÿbýVtS=f1uImNw„v‰kºNegßu»l„v0(WìrNMOO'Y„vup=gëX„v†˜üRNÿ¡NwgºvQÏkNy˜cHywNÎNNb‰N„vÍ‘Åb0"
+ TOUHOU_WICKED_HERMIT: "ªÙN"
+ TOUHOU_BUSHI: "fkëX"
+ TOUHOU_CLUB: "ñOPNè"
+ TOUHOU_GREAT_CLUB: "'YñOPNè"
+ TOUHOU_GREAT_FEDERAL_CLUB: "'YñOPNèTw¦O"
+ TOUHOU_CLUB_PRESIDENT: "O•"
+ TOUHOU_FEDERAL_CLUB_PRESIDENT: "TwTO•"
+ TOUHOU_CLUB_PRESIDENT_fem: "O•"
+ TOUHOU_FEDERAL_CLUB_PRESIDENT_fem: "TwTO•"
+ TOUHOU_LICH: "ëT–Y"
+ TOUHOU_GREAT_LICH: "'YëT–Y"
+ TOUHOU_ARCH_LICH: "Øš6–ëT–Y"
+ TOUHOU_LICH_FEM: "ëT–Y"
+ TOUHOU_GREAT_LICH_FEM: "'YëT–Y"
+ TOUHOU_ARCH_LICH_FEM: "Øš6–ëT–Y"
+ TOUHOU_JOURNALIST: "°‹w"
+ TOUHOU_GREAT_JOURNALIST: "–™-^°‹w"
+ TOUHOU_JOURNALIST_fem: "°‹w"
+ TOUHOU_GREAT_JOURNALIST_fem: "–™-^°‹w"
+ TOUHOU_SPOKESMAN: "ãNŠºN"
+ TOUHOU_GREAT_SPOKESMAN: "–™-^ãNŠºN"
+ TOUHOU_SPOKESWOMAN: "ãNŠºN"
+ TOUHOU_GREAT_SPOKESWOMAN: "–™-^ãNŠºN"
+ TOUHOU_TENGU_CONCILOR: "?e¡R®‹XT"
+ TOUHOU_GREAT_TENGU_CONCILOR: "–™-^?e¡R®‹XT"
+ TOUHOU_TENGU_CONCILOR_fem: "?e¡R®‹XT"
+ TOUHOU_GREAT_TENGU_CONCILOR_fem: "–™-^?e¡R®‹XT"
+ TOUHOU_FEDERAL_DOMAIN: "Tw¦†˜"
+ TOUHOU_FEDERAL_REALM: "Tw¦ýV"
+ TOUHOU_FEDERAL_EMPIRE: "'YTw¦"
+ TOUHOU_BAND: "PN–"
+ TOUHOU_BIG_BAND: "'YPN–"
+ TOUHOU_ORCEHSTRA: "PNâV"
+ TOUHOU_SINGER: "LkKb"
+ TOUHOU_LEAD_SINGER: "IN1U"
+ TOUHOU_GREAT_MUSICIAN: "'Yó—PN¶R"
+ TOUHOU_SINGER_fem: "LkKb"
+ TOUHOU_LEAD_SINGER_fem: "IN1U"
+ TOUHOU_GREAT_MUSICIAN_fem: "'Yó—PN¶R"
+ TOUHOU_ADMIRALTY: "wm›Qè"
+ TOUHOU_GRANDADMIRALTY: "wm›QI`è"
+ TOUHOU_CAPTAIN: "9‚•"
+ TOUHOU_ADMIRAL: "Ðccw"
+ TOUHOU_LORD_ADMIRAL: "wm›Qßu^"
+ TOUHOU_LADY_ADMIRAL: "wm›Qßu^"
+ Gensokyan_flr_realm_of_bloodline: "NˆÏe†˜0W"
+ Gensokyan_flr_realm_of_bloodline_legacy: "NˆÏe†˜0W"
+ Gensokyan_flr_realm_of_bloodline_desc: "NÍy<ONN=f1uTNMOsY†˜INËeLˆ8lENßu»l„výV¶R0?eCgôVÕuNwvQsYHVºNTINUSVv^ŠbDn•beQ0RvQ1ZPNN*NºNÑSUSSV-N»S0"
+ TOUHOU_FLANCHY: "™‚pQlQýV"
+ TOUHOU_FLANDOM: "™‚pQ‹sýV"
+ TOUHOU_FLANPIRE: "™‚pQ^ýV"
+ Gensokyan_hng_realm_of_the_dragon: "™ŸKNýV¦^"
+ Gensokyan_hng_realm_of_the_dragon_desc: "NÍyhQÃVhQa•beQ0RßuN-NýVó¢uŽÃ”‹sg¾žN„v?eCg0"
+ Gensokyan_gyk_gouyoku_gang: "R2kTßv¶Rcw6R"
+ Gensokyan_gyk_gouyoku_gang_desc: "U™.™¶RŠbVgN‹Nnø‹ŽNN‹NKNN0HN†NcíuNjP0WžR°svQ0WØv„vib.Vÿ?eœ^SV-N„vÏkNèRGW=fHN†N¨Rfkw¾‹0"

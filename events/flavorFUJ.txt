@@ -1,0 +1,1048 @@
+namespace = flavor_fuj
+country_event = {
+  id = flavor_fuj.1
+  title = flavor_fuj.1.t
+  desc = flavor_fuj.1.desc
+  picture = KAGUYAVSMOKOU_eventPicture
+  fire_only_once = yes
+  trigger = {
+    tag = FUJ
+    NOT = {
+      exists = EIT
+    }
+    NOT = {
+      has_country_flag = fuj_has_adapted_government
+    }
+    owns_core_province = 4997
+    OR = {
+      ai = yes
+      AND = {
+        Eientei_state = {
+          type = all
+          country_or_non_sovereign_subject_holds = ROOT
+        }
+        Bamboo_forest_of_the_lost = {
+          type = all
+          country_or_non_sovereign_subject_holds = ROOT
+        }
+      }
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      set_country_flag = fuj_has_adapted_government
+    }
+  }
+  after = {
+    if = {
+      limit = {
+        ai = no
+      }
+      th_add_rival_estate_loyalty = {
+        loyalty = -49
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = flavor_fuj.1.a
+    add_adm_power = -50
+    add_legitimacy = -20
+    every_province = {
+      limit = {
+        is_core = EIT
+      }
+      remove_core = EIT
+    }
+    if = {
+      limit = {
+        NOT = {
+          government = monarchy
+        }
+      }
+      change_government = monarchy
+    }
+    add_government_reform = Gensokyan_mokou_states_reform
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.2
+  title = flavor_fuj.2.t
+  desc = flavor_fuj.2.desc
+  picture = MOKOUKEINE_eventPicture
+  trigger = {
+    OR = {
+      tag = FUJ
+      was_tag = FUJ
+    }
+    4979 = {
+      country_or_non_sovereign_subject_holds = ROOT
+    }
+    NOT = {
+      has_country_flag = fuj_keine_met
+    }
+  }
+  fire_only_once = yes
+  mean_time_to_happen = {
+    days = 1
+  }
+  immediate = {
+    hidden_effect = {
+      set_country_flag = fuj_keine_met
+    }
+  }
+  option = {
+    name = flavor_fuj.2.a
+    add_adm_power = 50
+    add_dip_power = 50
+    add_mil_power = 50
+    th_enable_touhou_advisor = {
+      advisor = th_advisor_keine
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.3
+  title = flavor_fuj.3.t
+  desc = flavor_fuj.3.desc
+  picture = SHRINE_eventPicture
+  trigger = {
+    has_country_flag = fuj_defeated_sff
+    has_country_flag = fuj_defeated_net
+    has_country_flag = fuj_defeated_mim
+    has_country_flag = fuj_protects_humans
+    NOT = {
+      has_country_flag = fuj_had_claim_event
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      set_country_flag = fuj_had_claim_event
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = flavor_fuj.3.a
+    japan_region = {
+      limit = {
+        NOT = {
+          is_core = ROOT
+        }
+        NOT = {
+          is_permanent_claim = ROOT
+        }
+      }
+      add_permanent_claim = ROOT
+    }
+    add_adm_power = 75
+    add_dip_power = 75
+    add_mil_power = 75
+    if = {
+      limit = {
+        NOT = {
+          government_rank = 2
+        }
+      }
+      set_government_rank = 2
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.4
+  title = flavor_fuj.4.t
+  desc = flavor_fuj.4.desc
+  picture = TERUMOKO_eventPicture
+  is_triggered_only = yes
+  immediate = {
+    custom_tooltip = flavor_fuj.4.tt
+    hidden_effect = {
+      set_country_flag = th_states_improved_relationship_between_kagu_mokou
+      if = {
+        limit = {
+          has_estate_privilege = th_estate_rival_kaguya_subsidize_eientei
+        }
+        remove_estate_privilege = th_estate_rival_kaguya_subsidize_eientei
+      }
+      if = {
+        limit = {
+          has_estate_privilege = th_estate_rival_kaguya_satisfy_kaguya
+        }
+        remove_estate_privilege = th_estate_rival_kaguya_satisfy_kaguya
+      }
+      if = {
+        limit = {
+          has_estate_privilege = th_estate_rival_allow_house_visits
+        }
+        remove_estate_privilege = th_estate_rival_allow_house_visits
+      }
+      set_country_flag = th_disable_rival_privilege
+    }
+  }
+  option = {
+    name = flavor_fuj.4.a
+    hidden_effect = {
+      country_event = {
+        id = flavor_fuj.20
+        days = 150
+      }
+    }
+    custom_tooltip = th_states_relation_improved_tt
+    th_add_rival_estate_loyalty = {
+      loyalty = 30
+    }
+    add_country_modifier = {
+      name = fuj_kaguyas_loyalty
+      duration = -1
+    }
+    custom_tooltip = th_states_disable_rival_privilege_tt
+    custom_tooltip = th_estate_rival_allow_house_visits_at
+    hidden_effect = {
+      set_country_flag = th_estate_rivals_allow_unannounced_visits
+    }
+    ai_chance = {
+      factor = 50
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.5
+  title = flavor_fuj.5.t
+  desc = flavor_fuj.5.desc
+  picture = RINNOSUKE_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.5.a
+    if = {
+      limit = {
+        HMC = {
+          was_player = no
+          ai = yes
+        }
+      }
+      create_subject = {
+        subject_type = vassal
+        subject = HMC
+      }
+    }
+    else = {
+      add_adm_power = 150
+      add_dip_power = 150
+      add_mil_power = 150
+    }
+    ai_chance = {
+      factor = 50
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.6
+  title = flavor_fuj.6.t
+  desc = flavor_fuj.6.desc
+  picture = GENSOKYOTHRONE_eventPicture
+  major = yes
+  is_triggered_only = yes
+  immediate = {}
+  option = {
+    name = flavor_fuj.6.a
+    custom_tooltip = flavor_fuj.6.tt
+    hidden_effect = {
+      save_event_target_as = th_shogun_mokou
+      japan_region = {
+        limit = {
+          owned_by = ROOT
+        }
+        remove_core = ROOT
+      }
+      release = ODA
+      release = AMA
+      release = ASA
+      release = CSK
+      release = DTE
+      release = HJO
+      release = HSK
+      release = HTK
+      release = IKE
+      release = IMG
+      release = MAE
+      release = MRI
+      release = OTM
+      release = OUC
+      release = SBA
+      release = SMZ
+      release = TKD
+      release = TKG
+      release = UES
+      release = YMN
+      release = RFR
+      release = ASK
+      release = KTB
+      release = ANU
+      release = AKM
+      release = AKT
+      release = CBA
+      release = ISK
+      release = ITO
+      release = KKC
+      release = KNO
+      release = OGS
+      release = SHN
+      release = STK
+      release = TKI
+      release = UTN
+      release = TTI
+      every_country = {
+        limit = {
+          capital_scope = {
+            region = japan_region
+          }
+        }
+        country_event = {
+          id = flavor_fuj.7
+        }
+      }
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.7
+  title = flavor_fuj.7.t
+  desc = flavor_fuj.7.desc
+  picture = SHRINE_eventPicture
+  hidden = yes
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.7.a
+    if = {
+      limit = {
+        ai = yes
+        was_player = no
+      }
+      FROM = {
+        create_subject = {
+          subject_type = th_mokou_daimyo
+          subject = ROOT
+        }
+      }
+      change_religion = FROM
+      set_country_flag = th_fuj_eternal_daimyo
+    }
+    else = {
+      FROM = {
+        add_treasury = 100
+      }
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.20
+  title = flavor_fuj.20.t
+  desc = flavor_fuj.20.desc
+  picture = TERUMOKOWEDDING_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    NOT = {
+      has_country_flag = fuj_had_kaguya_consort_event
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      set_country_flag = fuj_had_kaguya_consort_event
+    }
+  }
+  option = {
+    name = flavor_fuj.20.a
+    define_consort = {
+      name = "âèY"  # Kaguya
+      dynasty = "ÏÑ±ÉqS"  # Houraisan
+      culture = "Eientei"
+      adm = 3
+      dip = 5
+      mil = 6
+      age = 20
+      female = yes
+    }
+    hidden_effect = {
+      add_queen_personality = immortal_personality
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.70
+  title = flavor_fuj.7.t
+  desc = flavor_fuj.7.desc
+  picture = SHRINE_eventPicture
+  hidden = yes
+  trigger = {
+    has_country_flag = th_fuj_eternal_daimyo
+    NOT = {
+      war_with = event_target:th_shogun_mokou
+    }
+    NOT = {
+      is_subject_of_type = th_mokou_daimyo
+    }
+    ai = yes
+    was_player = no
+  }
+  mean_time_to_happen = {
+    days = 5
+  }
+  option = {
+    name = flavor_fuj.7.a
+    event_target:th_shogun_mokou = {
+      create_subject = {
+        subject_type = th_mokou_daimyo
+        subject = THIS
+      }
+      country_event = {
+        id = flavor_fuj.71
+      }
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.71
+  title = flavor_fuj.7.t
+  desc = flavor_fuj.7.desc
+  picture = SHRINE_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.7.a
+    tooltip = {
+      create_subject = {
+        subject_type = th_mokou_daimyo
+        subject = FROM
+      }
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.8
+  title = flavor_fuj.8.t
+  desc = flavor_fuj.8.desc
+  picture = KAGUYA_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.8.a
+    custom_tooltip = flavor_fuj.8.tt
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.9
+  title = flavor_fuj.9.t
+  desc = flavor_fuj.9.desc
+  picture = KAGUYA_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.9.a
+    country_event = {
+      id = flavor_fuj.10
+    }
+    ai_chance = {
+      factor = 0
+    }
+  }
+  option = {
+    name = flavor_fuj.9.b
+    country_event = {
+      id = flavor_fuj.11
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.10
+  title = flavor_fuj.10.t
+  desc = flavor_fuj.10.desc
+  picture = KAGUYA_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.10.a
+    custom_tooltip = fuj_cowry_treasure_available_tt
+    hidden_effect = {
+      set_country_flag = fuj_cowry_treasure_available
+      if = {
+        limit = {
+          has_country_flag = fuj_initialized_artifact_hunt
+        }
+        change_variable = {
+          which = fuj_collected_artifacts
+          value = 1
+        }
+      }
+      else = {
+        set_country_flag = fuj_initialized_artifact_hunt
+        set_variable = {
+          which = fuj_collected_artifacts
+          value = 1
+        }
+      }
+    }
+    add_years_of_income = 4
+    add_prestige = -15
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.11
+  title = flavor_fuj.11.t
+  desc = flavor_fuj.11.desc
+  picture = KAGUYAVSMOKOUFUN_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.11.a
+    custom_tooltip = fuj_cowry_treasure_available_tt
+    hidden_effect = {
+      set_country_flag = fuj_cowry_treasure_available
+      if = {
+        limit = {
+          has_country_flag = fuj_initialized_artifact_hunt
+        }
+        change_variable = {
+          which = fuj_collected_artifacts
+          value = 1
+        }
+      }
+      else = {
+        set_country_flag = fuj_initialized_artifact_hunt
+        set_variable = {
+          which = fuj_collected_artifacts
+          value = 1
+        }
+      }
+    }
+    add_prestige = 40
+    add_army_professionalism = 0.1
+    add_dip_power = -75
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.12
+  title = flavor_fuj.12.t
+  desc = flavor_fuj.12.desc
+  picture = MOKOU_eventPicture
+  is_triggered_only = yes
+  immediate = {
+    hidden_effect = {
+      th_getruler_fighting_skill = {
+        skill_boni = 0
+        type = normal
+      }
+      set_variable = {
+        which = th_fuj_dragon_combat_skills
+        value = 750
+      }
+      th_defineopponent_fighting_skill = {
+        variable = th_fuj_dragon_combat_skills
+        type = normal
+      }
+    }
+  }
+  option = {
+    name = flavor_fuj.12.a
+    custom_tooltip = flavor_fuj.12.a.tt
+    highlight = yes
+    th_danmaku_normal_fight_ruler_and_opponent = {
+      win_event = flavor_fuj.14
+      draw_event = flavor_fuj.14
+      defeat_event = flavor_fuj.15
+      days = 10
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.14
+  title = flavor_fuj.14.t
+  desc = flavor_fuj.14.desc
+  picture = MOKOU_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.14.a
+    custom_tooltip = flavor_fuj.14.a.tt
+    add_prestige = 40
+    add_treasury = 1000
+    add_adm_power = 100
+    add_dip_power = 100
+    add_mil_power = 100
+    custom_tooltip = fuj_the_dragon_jewel_available_tt
+    hidden_effect = {
+      set_country_flag = fuj_the_dragon_jewel_available
+      if = {
+        limit = {
+          has_country_flag = fuj_initialized_artifact_hunt
+        }
+        change_variable = {
+          which = fuj_collected_artifacts
+          value = 1
+        }
+      }
+      else = {
+        set_country_flag = fuj_initialized_artifact_hunt
+        set_variable = {
+          which = fuj_collected_artifacts
+          value = 1
+        }
+      }
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.15
+  title = flavor_fuj.15.t
+  desc = flavor_fuj.15.desc
+  picture = DRAGON_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.15.a
+    custom_tooltip = flavor_fuj.15.a.tt
+    custom_tooltip = fuj_the_dragon_jewel_available_tt
+    hidden_effect = {
+      set_country_flag = fuj_the_dragon_jewel_available
+      if = {
+        limit = {
+          has_country_flag = fuj_initialized_artifact_hunt
+        }
+        change_variable = {
+          which = fuj_collected_artifacts
+          value = 1
+        }
+      }
+      else = {
+        set_country_flag = fuj_initialized_artifact_hunt
+        set_variable = {
+          which = fuj_collected_artifacts
+          value = 1
+        }
+      }
+    }
+    ai_chance = {
+      factor = 100
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.16
+  title = flavor_fuj.16.t
+  desc = flavor_fuj.16.desc
+  picture = KAGUYAVSMOKOU_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.16.a
+    trigger = {
+      has_country_flag = fuj_used_fire_rat_robe
+      NOT = {
+        had_country_flag = {
+          flag = fuj_used_fire_rat_robe
+          days = 18250
+        }
+      }
+      NOT = {
+        has_country_modifier = fuj_fire_rat_robe_buff
+      }
+    }
+    custom_tooltip = flavor_fuj.16.a.tt
+    hidden_effect = {
+      clr_country_flag = fuj_used_fire_rat_robe
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.16.b
+    trigger = {
+      has_country_flag = fuj_used_bowl_of_the_buddha
+      NOT = {
+        had_country_flag = {
+          flag = fuj_used_bowl_of_the_buddha
+          days = 18250
+        }
+      }
+      NOT = {
+        has_country_modifier = fuj_bowl_of_the_buddha_buff
+      }
+    }
+    custom_tooltip = flavor_fuj.16.b.tt
+    hidden_effect = {
+      clr_country_flag = fuj_used_bowl_of_the_buddha
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.16.c
+    trigger = {
+      has_country_flag = fuj_used_the_jeweled_branch
+      NOT = {
+        had_country_flag = {
+          flag = fuj_used_the_jeweled_branch
+          days = 18250
+        }
+      }
+      NOT = {
+        has_country_modifier = fuj_the_jeweled_branch_buff
+      }
+    }
+    custom_tooltip = flavor_fuj.16.c.tt
+    hidden_effect = {
+      clr_country_flag = fuj_used_the_jeweled_branch
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.16.d
+    trigger = {
+      has_country_flag = fuj_used_the_dragon_jewel
+      NOT = {
+        had_country_flag = {
+          flag = fuj_used_the_dragon_jewel
+          days = 18250
+        }
+      }
+      NOT = {
+        has_country_modifier = fuj_the_dragon_jewel_buff
+      }
+    }
+    custom_tooltip = flavor_fuj.16.d.tt
+    hidden_effect = {
+      clr_country_flag = fuj_used_the_dragon_jewel
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.16.e
+    trigger = {
+      has_country_flag = fuj_used_cowry_treasure
+      NOT = {
+        had_country_flag = {
+          flag = fuj_used_cowry_treasure
+          days = 18250
+        }
+      }
+      NOT = {
+        has_country_modifier = fuj_cowry_treasure_buff
+      }
+    }
+    custom_tooltip = flavor_fuj.16.e.tt
+    hidden_effect = {
+      clr_country_flag = fuj_used_cowry_treasure
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.101
+  title = flavor_fuj.101.t
+  desc = flavor_fuj.101.desc
+  picture = MOKOU_eventPicture
+  is_triggered_only = yes
+  immediate = {
+    hidden_effect = {
+      th_respawn_ruler_with_new_stats_effect = yes
+    }
+  }
+  option = {
+    name = flavor_fuj.101.a
+    th_respawn_mokou = yes
+  }
+}
+country_event = {
+  id = flavor_fuj.102
+  title = flavor_fuj.102.t
+  desc = flavor_fuj.102.desc
+  picture = MOKOU_eventPicture
+  trigger = {
+    NOT = {
+      has_country_flag = fuj_has_leveling_mokou
+    }
+    OR = {
+      has_government_attribute = th_has_leveling_ruler_general
+      th_is_or_was_tag = {
+        tag = FUJ
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  immediate = {
+    hidden_effect = {
+      set_variable = {
+        which = fuj_mokou_level
+        value = 1
+      }
+      set_variable = {
+        which = fuj_mokou_exp
+        value = 0
+      }
+      set_variable = {
+        which = fuj_mokou_level_cap
+        value = 2
+      }
+      set_variable = {
+        which = fuj_mokou_level_threshold
+        value = 100
+      }
+      set_variable = {
+        which = fuj_mokou_exp_raise
+        value = 150
+      }
+      set_variable = {
+        which = fuj_won_battles_counter
+        value = 0
+      }
+      set_variable = {
+        which = fuj_danmaku_win
+        value = 0
+      }
+      set_variable = {
+        which = fuj_defeated_kaguya
+        value = 0
+      }
+      set_country_flag = fuj_has_leveling_mokou
+    }
+  }
+  option = {
+    name = flavor_fuj.102.a
+    custom_tooltip = flavor_fuj.102.a.tt
+    if = {
+      limit = {
+        NOT = {
+          is_monarch_leader = yes
+        }
+      }
+      country_event = {
+        id = flavor_fuj.104
+      }
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.103
+  title = flavor_fuj.103.t
+  desc = flavor_fuj.103.desc
+  picture = MOKOU_eventPicture
+  trigger = {
+    has_country_flag = fuj_has_leveling_mokou
+    NOT = {
+      check_variable = {
+        which = fuj_mokou_level
+        which = fuj_mokou_level_cap
+      }
+    }
+    check_variable = {
+      which = fuj_mokou_exp
+      which = fuj_mokou_level_threshold
+    }
+    NOT = {
+      has_country_flag = th_has_leveling_event_going
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  immediate = {
+    hidden_effect = {
+      set_country_flag = th_has_leveling_event_going
+      th_respawn_ruler_with_new_stats_effect = yes
+      change_variable = {
+        which = fuj_mokou_level_threshold
+        which = fuj_mokou_exp_raise
+      }
+      multiply_variable = {
+        which = fuj_mokou_exp_raise
+        value = 2
+      }
+      change_variable = {
+        which = fuj_mokou_level
+        value = 1
+      }
+    }
+  }
+  option = {
+    name = flavor_fuj.103.a
+    custom_tooltip = fuj_mokou_leveled_up
+    th_respawn_mokou = yes
+    hidden_effect = {
+      clr_country_flag = th_has_leveling_event_going
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.104
+  title = flavor_fuj.104.t
+  desc = flavor_fuj.104.desc
+  picture = MOKOU_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.104.a
+    th_define_ruler_to_leveling_general = {
+      trait = th_mokou_fire_bender
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.104.b
+    th_define_ruler_to_leveling_general = {
+      trait = th_mokou_fire_resistance
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.104.c
+    th_define_ruler_to_leveling_general = {
+      trait = th_mokou_forest_burner
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.104.d
+    th_define_ruler_to_leveling_general = {
+      trait = th_mokou_front_line_fighter
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.104.e
+    th_define_ruler_to_leveling_general = {
+      trait = th_mokou_volcano_surviver
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.105
+  title = flavor_fuj.102.t
+  desc = flavor_fuj.102.desc
+  picture = MOKOU_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = flavor_fuj.102.a
+    custom_tooltip = flavor_fuj.102.a.tt
+    ai_chance = {
+      factor = 1
+    }
+  }
+}
+country_event = {
+  id = flavor_fuj.106
+  title = flavor_fuj.104.t
+  desc = flavor_fuj.104.desc
+  picture = MOKOU_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_government_attribute = th_has_leveling_ruler_general
+    has_country_flag = fuj_has_leveling_mokou
+  }
+  option = {
+    name = flavor_fuj.104.a
+    th_define_ruler_to_leveling_general = {
+      trait = th_mokou_fire_bender
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.104.b
+    th_define_ruler_to_leveling_general = {
+      trait = th_mokou_fire_resistance
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.104.c
+    th_define_ruler_to_leveling_general = {
+      trait = th_mokou_forest_burner
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.104.d
+    th_define_ruler_to_leveling_general = {
+      trait = th_mokou_front_line_fighter
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+  option = {
+    name = flavor_fuj.104.e
+    th_define_ruler_to_leveling_general = {
+      trait = th_mokou_volcano_surviver
+    }
+    ai_chance = {
+      factor = 1
+    }
+  }
+}

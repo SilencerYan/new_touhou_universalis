@@ -1,0 +1,26 @@
+government = monarchy
+add_government_reform = Gensokyan_rod_gourmet_monarchy
+government_rank = 1
+primary_culture = "Youkai"
+add_accepted_culture = prussian
+add_accepted_culture = pommeranian
+add_accepted_culture = polish
+add_accepted_culture = lithuanian
+religion = th_hakureishinto
+technology_group = tech_gensokyan
+capital = 43
+th_discover_europe = yes
+1443.1.1 = {
+  monarch = {
+    name = "2—s|Z"  # Rumia
+    dynasty = "µR—f„v"  # Dusk
+    birth_date = 443.8.18
+    adm = 4
+    dip = 4
+    mil = 6
+    female = yes
+  }
+  add_ruler_personality = immortal_personality
+  set_ruler_flag = touhou_character_ruler
+  set_ruler_flag = touhou_original_ruler
+}

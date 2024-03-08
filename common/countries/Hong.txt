@@ -1,0 +1,831 @@
+graphical_culture = asiangfx
+		
+color = { 200  100  60 }
+revolutionary_colors = { 5  8  13 }
+
+random_nation_chance = 0
+
+historical_score = 500
+
+historical_idea_groups = {
+	humanist_ideas
+	defensive_ideas
+	administrative_ideas
+	quantity_ideas
+	spy_ideas
+	offensive_ideas
+	trade_ideas
+	quality_ideas
+}
+
+historical_units = {
+	infantry_gen_t1_03
+	cavalry_gen_t1_01
+	infantry_gen_t5_02
+	cavalry_gen_t6_02
+	infantry_gen_t9_01
+	cavalry_gen_t10_01
+	infantry_gen_t12_01
+	cavalry_gen_t14_01
+	cavalry_gen_t17_01
+	infantry_gen_t19_01
+	cavalry_gen_t23_01
+	infantry_gen_t26_01
+	cavalry_gen_t28_02
+}
+
+monarch_names = {
+  "»wúW #0" = 10  # Zhanji
+  "»wÈW #0" = 10  # Zhanjun
+  "»w‰X #0" = 10  # ZhanYong
+  "»w W #0" = 10  # Zhanyin
+  "»w¡X #0" = 10  # Zhanshan
+  "»wX #0" = 10  # Zhangang
+  "»wºX #0" = 10  # Zhan'ao
+  "»w²W #0" = 10  # Zhankai
+  "»wÏW #0" = 10  # Zhanyan
+  "Á‰ñm #0" = 10  # Jianrui
+  "Á‰Œo #0" = 10  # Jianlin
+  "Á‰jn #0" = 10  # Jianti
+  "Á‰óm #0" = 10  # Jianchun
+  "Á‰ıl #0" = 10  # Jianze
+  "Á‰Zm #0" = 10  # Jianjun
+  "Á‰»l #0" = 10  # Jianzhi
+  "Á‰›l #0" = 10  # Jianpei
+  "Á‰Nm #0" = 10  # Jianji
+  "Pyg #0" = 10  # Youji
+  "Pyj #0" = 10  # Youtang
+  "Pylg #0" = 10  # Youwan
+  "PyÆh #0" = 10  # Youlun
+  "Pyßi #0" = 10  # Youbing
+  "PyŸg #0" = 10  # Youyun
+  "Pyˆh #0" = 10  # Youheng
+  "Pywi #0" = 10  # You'kai
+  "šSgq #0" = 10  # Houzhao
+  "šSœp #0" = 10  # Houwei
+  "šS™q #0" = 10  # Houxi
+  "šSœq #0" = 10  # Houcong
+  "‹úW #0" = 10  # Zaiji
+  "‹áX #0" = 10  # Zairui
+  "‹VW #0" = 10  # Zaihou
+  "ÊÃ” #0" = 10  # Yiling
+  "Êµ” #0" = 10  # Yijun
+  "Ê`• #0" = 10  # Yiliu
+  "8^m #0" = 10  # Changluo
+  "8^†n #0" = 10  # Changxu
+  "8^5m #0" = 10  # Changxun
+  "8^»l #0" = 10  # Changzhi
+  "8^im #0" = 10  # Changhao
+  "8^¦m #0" = 10  # Changrun
+  "8^p #0" = 10  # Changyin
+  "8^¥n #0" = 10  # Changbo
+  "1u!h #0" = 10  # Youxiao
+  "1u< #0" = 0  # Youxue
+  "1u!j #0" = 10  # Youmo
+  "1uÀh #0" = 10  # Youjian
+  "1u)h #0" = 10  # Youyi
+  "1uOj #0" = 10  # Youshan
+  "HaÃq #0" = 10  # Ciran
+  "Ha4q #0" = 10  # Ciyu
+  "Ha…p #0" = 10  # Cijiong
+  "Haúp #0" = 10  # Cilang
+  "HaÜp #0" = 10  # Ciheng
+  "Ha²p #0" = 10  # Cizhao
+  "Haq #0" = 0  # Guan
+  "Hap #0" = 10  # Cican
+  "S³p #0" = 10  # Shangbing
+  "SÈp #0" = 10  # Shanglie
+  "Sjq #0" = 10  # Shangyi
+  "Stp #0" = 10  # Shanghong
+  "×VGW #0" = 10  # Zhijun
+  "×V0X #0" = 10  # Zhibao
+  "lQ!• #0" = 10  # Gongxi
+  "lQ.• #0" = 10  # Gongjian
+  "lQW• #0" = 10  # Gongtang
+  "lQí” #0" = 10  # Gongming
+  "Nmºq #0" = 10  # Jixi
+  "Nmèp #0" = 10  # Jiye
+  "Nm¿q  #0" = 10  # Jihuang
+  "Nmq #0" = 10  # Jihuan
+  "Nm«p #0" = 10  # Jixuan
+  "-W #0" = 10  # Meigui
+  "¸W #0" = 10  # Meiyuan
+  "Ÿ”É” #0" = 10  # Zhongxuan
+  "Ÿ”Î” #0" = 10  # Zhongduo
+  "GYn #0" = 10  # Qiyuan
+  "GY6n #0" = 10  # Qiying
+  "GY¶n #0" = 10  # Qirong
+  "	g–p #0" = 10  # Youdun
+  "PRØW #0" = 10  # Zishi
+  "3t<n #0" = 10  # Linmei
+  "Har #0" = 10  # Cijue
+  "Haœp #0" = 10  # Ciwei
+  "Ha q #0" = 10  # Cikai
+  "1ufh #0" = 10  # Youhua
+  "3tn #0" = 10  # Linyuan
+  "hV­X #0" = 10  # Qisheng
+  "h #0" = 10  # Biao
+  "	j #0" = 10  # Shuang
+  "áh #0" = 10  # Gang
+  "Zj #0" = 10  # Su
+  "bh #0" = 10  # Zhen
+  "‘i #0" = 10  # Bo
+  "“h #0" = 10  # Zi
+  "?i #0" = 0  # Chun
+  "Bh #0" = 10  # Gui
+  "Âq #0" = 10  # Xuntan
+  "Çp #0" = 10  # Xunquan
+  "gi #0" = 10  # Ying
+  "i #0" = 10  # Zhi
+  "Cg #0" = 0  # Quan
+  "¸Rào #0" = 10  # Chenhao
+  "ii #0" = 10  # Bian
+  "^j #0" = 10  # Hui
+  "Œg #0" = 0  # Song
+  "!j #0" = 0  # Mo
+  "yi #0" = 10  # Yin
+  "qh #0" = 10  # Jing
+  "h #0" = 10  # Dong
+  "`i #0" = 10  # Nan
+  "ˆR&Œ #0" = 10  # Shouqian
+  "Ä–ñ‚ #0" = 10  # Xiongying
+  "AQ¥q #0" = 10  # Yuntong
+  "AQq #0" = 10  # Yunjian
+  "‡e-W #0" = 10  # Wengui
+  "‡eNY #0" = 10  # Wenkui
+  "Øšfq #0" = 10  # Gaoxu
+  "Øšçq #0" = 10  # Gaosui
+  "šSjq #0" = 10  # Houyu
+  "PyRi #0" = 10  # Yousi
+  "Á‰o #0" = 10  # Jianshu
+  "Py•i #0" = 10  # Yourong
+  "šSr #0" = 10  # Houjue
+  "‹èW #0" = 10  # Zailun
+  "8^Óm #0" = 10  # Changfang
+  "Lp #0" = 0  # Keqin
+  "KQäR #0" = 0  # Fu
+  "eS #0" = 0  # Dounan
+  "—eWS #0" = 0  # Chengzu
+  "Ú‹Vy #0" = 0  # Zixiang 
+  "PRD‰ #0" = 0  # Bingyi
+  "Â‰ #0" = 0  # Zongren
+  "—RÁN #0" = 0  # Yuan
+  "áO-W #0" = 0  # Xingui
+  "—Rt #0" = 0  # Ji
+  "¥š #0" = 0  # Xiang
+  "Xn #0" = 0  # Yu
+  "Él #0" = 0  # Zhong
+  "Nm #0" = 0  # Xizheng
+  "^ck #0" = 0  # Jian
+  "ZW #0" = 0  # Shao'en
+  "kN` #0" = 0  # Jiusi
+  "Vyr^ #0" = 0  # Zugan
+  "”^³‚ #0" = 0  # Kekuan
+  "ESÁN #0" = 0  # Juren
+  "n #0" = 0  # Qing
+  "¦”z˜ #0" = 0  # Qinshun
+  "ïz #0" = 0  # Duan
+  "wmf #0" = 0  # Zhencheng
+  "R #0" = 0  # Bao
+  "»y #0" = 0  # Li
+  "'„ #0" = 0  # Xiao
+  "ã” #0" = 0  # Xian
+  "mt #0" = 0  # Tang
+  "=OCQ #0" = 0  # Boyuan
+  "ómw #0" = 0  # Chunyao
+  ".sàz #0" = 0  # Xianzhang
+  "Œ #0" = 0  # Liang
+  "å‚4l #0" = 0  # Ruoshui
+  "ˆRN #0" = 0  # Shouyi
+  "·V #0" = 0  # De
+  "Œ` #0" = 0  # Ti
+  "*mHQ #0" = 0  # Hongxian
+  "öeĞi #0" = 0  # Shihuai
+  "öe™q #0" = 0  # Shixi
+  "åN^ #0" = 0  # Yizan
+  "S²œ #0" = 0  # Huali
+  "åw·V #0" = 0  # Zhide
+  "CQ!• #0" = 0  # Yuanxi
+  "^fR #0" = 0  # Weizhen
+  "ôubh #0" = 0  # Shisheng
+  "ğ #0" = 0  # Boheng
+  "=Oaˆ #0" = 0  # Mian
+  "•Q #0" = 0  # Zongyi
+  "—RêN #0" = 0  # Kai
+  "ïQ #0" = 0  # Meng
+  "™„ #0" = 0  # Hong
+  "? #0" = 0  # Du
+  "¦^ #0" = 0  # Danian
+  "'Yt^ #0" = 0  # Tai
+  "ğl #0" = 0  # Minzheng
+  "Oe?e #0" = 0  # Mengyang
+  "¦h3– #0" = 0  # Jingming
+  "off #0" = 0  # Zhenqing
+  "oyS #0" = 0  # Gong
+  "! #0" = 0  # Shanfu
+  "„U+Y #0" = 0  # Shen
+  "ñm #0" = 0  # Zhengming
+  "µVf #0" = 0  # Zuo
+  "PO #0" = 0  # Weiqi
+  "ôuš #0" = 0  # Shenzhong
+  "Na-N #0" = 0  # Panlong
+  "e™Ÿ #0" = 0  # Youguang
+  "öeGS #0" = 0  # Qichang
+  "vQf #0" = 0  # Hongdao
+  "VS #0" = 0  # Nanying
+  "WSñ‚ #0" = 0  # Shaozong
+  "Íu—R #0" = 0  # Peng
+  "mV #0" = 0  # Wenshi
+  "û•×‹ #0" = 0  # Liangxiang
+  "o‚øv #0" = 0  # Wannian
+  "Nt^ #0" = 0  # Zongyan
+  "—Rœ˜ #0" = 0  # Tingkui
+  "÷^A› #0" = 0  # Bangzuo
+  "¦PO #0" = 0  # Ruxiu
+  "QÀy #0" = 0  # Guochang
+  "ıVf #0" = 0  # Huanchun
+  "Ø‡‘ #0" = 0  # Xianming
+  ".sf #0" = 0  # Shengdou
+  "u—e #0" = 0  # Zhaochen
+  "‡wdW #0" = 0  # Shimei
+  "ëX #0" = 0  # Guoxi
+  "ıVºs #0" = 0  # Shangzhen
+  "NÍs #0" = 0  # Daoxing
+  "StQ #0" = 0  # Tingbiao
+  "÷^h #0" = 0  # Yunrang
+  "AQ©‹ #0" = 0  # Wan
+  ",t #0" = 0  # Jin
+  "(Œ #0" = 0  # Ding
+  "Ÿ #0" = 0  # Wuchang
+  "”N8^ #0" = 0  # Chengzhang
+  "bàz #0" = 0  # Jiefu
+  "ËNy #0" = 0  # Wenyong
+  "‡eT #0" = 0  # Shiming
+  "NT #0" = 0  # Chonghua
+  "Í‘NS #0" = 0  # Sanfeng
+  "	N0N #0" = 0  # Wanyan
+  "'Y(u #0" = 0  # Dayong
+  "òN‡e #0" = 0  # Kexue
+  "ïSfR #0" = 0  # Yuanjie
+  "CQ‚‚ #0" = 0  # Rucai 
+  "klMb #0" = 0  # Kexi 
+  "ïSœU #0" = 0  # Zhongming
+  "òNf #0" = 0  # Jinxing
+  "Ñ‘f #0" = 0  # Yan
+  "©S #0" = 0  # Yingxiang
+  "Îey #0" = 0  # Zongmin
+
+  "—ROe #0" = -1  # Heyin
+  "ŒT–Z #0" = -1  # Chunmei
+  "%fi #0" = -1  # Tianhui
+  "l`ga #0" = -1  # Kon
+  "œr #0" = -1  # Mao
+  "Ëa #0" = -1  # Yuying
+  "‰sñ‚ #0" = -1  # Yuantong
+  "W #0" = -1  # Yanxiang
+  "ö^ey #0" = -1  # Xiurong
+  "Àycƒ #0" = -1  # Shouying
+  "ÿR–Z #0" = -1  # Fuyuan
+  "y›Z #0" = -1  # Luzhen
+  "„yœZ #0" = -1  # Ruirong
+  "^t+R #0" = -1  # Suzhen
+  ".tÃZ #0" = -1  # Xiao'e
+  "'S%Z #0" = -1  # Xiaoying
+  "'S–Z #0" = -1  # Xiaoyuan
+  "'S›Z #0" = -1  # Xiaoji
+  "'SìY #0" = -1  # Xiaolou
+  "'SZ #0" = 0  # Xixue
+  "Ã” #0" = -10  # Meiling
+}
+
+leader_names = {
+  "1g"  # Zhu
+  "4T"  # Wu
+  "?w"  # Geng
+  "S"  # Shang
+  "Ñ"  # Zheng
+  "u"  # Zhao
+  "Ng"  # Li
+  "Ëe"  # Shi
+  "R"  # Liu
+  "í"  # Guo
+  "hg"  # Yang
+  "‹s"  # Wang
+  "±”"  # Qian
+  "lš"  # Ma
+  "™„"  # Meng
+  "Øš"  # Gao
+  "H–"  # Chen
+  "YR"  # Sun
+  "øSlš"  # Sima
+  "ùf"  # Cao
+  "'„"  # Xiao
+  "PŸ"  # Qi
+  "Vy"  # Zu
+  "hT"  # Zhou
+  "Ä"  # Huang
+  "‹v"  # Bai
+  "±"  # Qiu
+  "dl"  # Tang
+  "F–"  # Lu
+  "¸‹"  # Xu
+  "8^"  # Chang
+  "¯Q"  # Feng
+  "“"  # Deng
+  "NS"  # Hua
+  "Œ˜"  # Gu
+  "9"  # Fei
+  "ØN"  # Fu
+  "áw"  # Hu
+  "…h"  # Mei
+  "›…"  # Xue
+  "Ö^"  # Liao
+  "Ñ‘"  # Jin
+  "öS"  # Ye
+  "UO"  # He
+  "İ„"  # Lan
+  "¦^"  # Du
+  "¹e"  # Fang
+  "Ûk"  # Mao
+  "im"  # Hao
+  "TR"  # Kong
+  "Ò‰"  # Jiao
+  "`"  # Si
+  "Xo"  # Pan
+  "æT"  # Zuo
+  "N"  # Ding
+  "S"  # Bao
+  "%N"  # Yan
+  "-Œ"  # Tan
+  "é—"  # Han
+  "W"  # Luo
+  "0Œ"  # Xie
+  "ˆ"  # Yuan
+  "æy"  # Qin
+  ".–"  # Ruan
+  "ir"  # Niu
+  "şf"  # Zeng
+  "c„"  # Dong
+  "—g"  # Lin
+  "ˆl"  # Shen
+  "'k3–"  # Ouyang
+  "Ï‚"  # Su
+  "N"  # Yu
+  "ûN"  # Ren
+  "ôg"  # Chai
+  "Y"  # Xia
+  "«ƒ"  # Mo
+  "4b"  # Dai
+  "ÜY"  # Jiang
+  "³S"  # Yue
+  ">"  # Jia
+  "Šq"  # Xiong
+  "T"  # Cui
+  "'k3–"  # Ou'yang
+  "‡v+u"  # Huangfu
+  "N¹e"  # Dongfang
+  "äNĞr"  # Linghu
+  "¢u"  # Hong
+}
+
+ship_names = {
+  "?–fkˆ–"  # Abukuma
+  "dÎW"  # Akagi
+  "fów"  # Akashi
+  "Sf"  # Akatsuki
+  "Ùf"  # Akebono
+  "‰Rz‚"  # Aki
+  "Ëy‘N"  # Akigumo
+  "ËyÎ˜"  # Akikaze
+  "Ëyè–"  # Akisame
+  "Ëy—"  # Akishimo
+  "Ëy%m2m"  # Akitsushima
+  "Ëyg"  # Akizuki
+  ")YÎW"  # Amagi
+  ")Yş–"  # Amagiri
+  ")Y%mÎ˜"  # Amatsukaze
+  "R—öS"  # Aoba
+  "u„"  # Aoi
+  "0—"  # Arare
+  "šS"  # Arashi
+  "Rƒno"  # Arashio
+  "	gf"  # Ariake
+  "g"  # Asadori
+  "gœ˜"  # Asagao
+  "gş–"  # Asagiri
+  "g‘N"  # Asagumo
+  "gåe"  # Asahi
+  "gÎ˜"  # Asakaze
+  "Emô•"  # Asama
+  "gêQ"  # Asanagi
+  "g—"  # Asashimo
+  "gno"  # Asashio
+  "Ç‚"  # Ashi
+  "³Äg"  # Ashigara
+  "?–Ï‚"  # Aso
+  "‰R…R"  # Ataka
+  "ípwm"  # Atami
+  "1r•R"  # Atogo
+  "ëuâl"  # Ayanami
+  ">T»Y"  # Azuma
+  "“h"  # Azusa
+  "ĞxÎW"  # Banjo
+  "à‡™Ÿ"  # Banryu
+  "CS"  # Chidori
+  "Qrid"  # Chikuma
+  "CS›S"  # Chishima
+  "CSS"  # Chitose
+  "CSãN0u"  # Chiyoda
+  "CSãN0ubV"  # Chiyodagata
+  "•¸œ"  # Chogei
+  "wm"  # Chokai
+  "²Qp"  # Chuyo
+  "i"  # Enoki
+  "ébIc"  # Etorofu
+  "9Tê–"  # Fubuki
+  "ÌRëX"  # Fuji
+  "ä…âl"  # Fujinami
+  "äSp"  # Furutaka
+  "OÁ‰"  # Fushimi
+  "vbQh"  # Fuso
+  "ŒNÁ‰"  # Futami
+  "™‚É„"  # Fuyo
+  "¬Qg"  # Fuyutsuki
+  "WSÎ˜"  # Hae
+  ")„"  # Hagi
+  ")„Î˜"  # Hagikaze
+  "ËÑ"  # Haguro
+  "ËÎ˜"  # Hakaze
+  "ènÎ˜"  # Hamakaze
+  "ènâl"  # Hamanami
+  "±‚g"  # Hanazuki
+  ")„>S"  # Haogi
+  "%fÎ˜"  # Harukaze
+  "›iT"  # Haruna
+  "%fè–"  # Harusame
+  "%fg"  # Harutsuki
+  "ehËz"  # Hashidate
+  "Ë›S"  # Hashima
+  "×eÎ˜"  # Hatakaze
+  "."  # Hato
+  "R%f"  # Hatsuharu
+  "RÁ–"  # Hatsukari
+  "RÎ˜"  # Hatsukaze
+  "RÑo"  # Hatsuse
+  "R—"  # Hatsushimo
+  "R…h"  # Hatsuume
+  "Rê–"  # Hatsuyuki
+  "R1j"  # Hatsuzakura
+  "Rg"  # Hatsuzuki
+  "¼–"  # Hayabusa
+  "ée%f"  # Hayaharu
+  "éeâl"  # Hayanami
+  "éeÑo"  # Hayase
+  "ée—"  # Hayashimo
+  "éeno"  # Hayashio
+  "8T"  # Hayasui
+  "¾uÎ˜"  # Hayate
+  "s^Ü"  # Heien
+  "ÍT"  # Hibiki
+  "ÔkáS"  # Hiei
+  "gh"  # Hinoki
+  "Ôko‚"  # Hira
+  "s^7b"  # Hirado
+  "Ş˜™Ÿ"  # Hiryu
+  "ñƒ"  # Hishi
+  "Ş˜!nÑo"  # Hitonose
+  "N"  # Hiyodori
+  "¥wMR"  # Hizen
+  "^Î˜"  # Hokaze
+  "äQÔ"  # Hosho
+  "åeT"  # Hyuga
+  "O9T"  # Ibuki
+  "÷–"  # Ikazuchi
+  "÷–"  # Ikazuchi
+  "ùXS"  # Iki
+  "uyš"  # Ikoma
+  "5u"  # Inazuma
+  "”NŒv›S"  # Ioshima
+  "öwÎ˜"  # Isokaze
+  "öwâl"  # Isonami
+  "”NASÃ”"  # Isuzo
+  "%N›S"  # Itsukushima
+  "ówÁ‰"  # Iwami
+  "ĞxKb"  # Iwate
+  "ŒTÉl"  # Izumi
+  "úQ‘N"  # Izumo
+  "Å¸œ"  # Jingei
+  "^y"  # Jintsu
+  "¼–p"  # Junyo
+  "fh"  # Kaba
+  "«g"  # Kaede
+  " R:"  # Kaga
+  "3–p"  # Kagero
+  "wmè•"  # Kaimon
+  "ŞV)Y"  # Kaiten
+  "wmp"  # Kaiyo
+  "ÿg"  # Kaki
+  " RäS"  # Kako
+  "^yÎ˜"  # Kamikaze
+  "^yZ"  # Kamoi
+  "U%m"  # Karatsu
+  "R1„"  # Karukaya
+  ".rn"  # Kasagi
+  "t2"  # Kashi
+  "™™i"  # Kashii
+  "jŸS"  # Kashiwara
+  "%fåe"  # Kasuga
+  "—"  # Kasumi
+  "™™ÖS"  # Katori
+  "Bh"  # Katsura
+  "i„ÎW"  # Katsuragi
+  "³l…Q"  # Kawachi
+  "mlÎ˜"  # Kawakaze
+  "µi"  # Kaya
+  "Î˜‘N"  # Kazagumo
+  "‰i"  # Keyaki
+  "É–"  # Kiji
+  "Êƒg"  # Kikuzuki
+  "<›`"  # Kinu
+  "cˆ.r"  # Kinugasa
+  "Ph"  # Kiri
+  "ş–›S"  # Kirishima
+  "‚Yg"  # Kisaragi
+  "¸Sâl"  # Kishinami
+  "(gşf"  # Kiso
+  "SN"  # Kitakami
+  "nâl"  # Kiyonami
+  "n—"  # Kiyoshimo
+  "yšeh"  # Komahashi
+  "Ñ‘R"  # Kongo
+  "Sp"  # Kotaka
+  "2uÁ”"  # Kotetsu
+  "tèx"  # Kuma
+  "ŠqÎ‘"  # Kumano
+  "—lš"  # Kurama
+  "Ñno"  # Kuroshio
+  "`i"  # Kusunoki
+  "Qh"  # Kuwa
+  "i„"  # Kuzu
+  "‚Î˜"  # Maikaze
+  "Ùi"  # Maki
+  "wS‘N"  # Makigumo
+  "wSâl"  # Makinami
+  "wd"  # Manazuru
+  "Œg"  # Matsu
+  "ŒgÎ˜"  # Matsukaze
+  "Œg›S"  # Matsushima
+  "id6w"  # Maya
+  "ánno"  # Michishio
+  "áng"  # Michizuki
+  ":İO"  # Mikaho
+  "	N.r"  # Mikasa
+  "	Nåeg"  # Mikazuki
+  "	Nˆ–"  # Mikuma
+  "4làeg"  # Minazuki
+  "ğS‘N"  # Minegumo
+  "ğSÎ˜"  # Minekaze
+  "Á‰›S"  # Mishima
+  "ñmê–"  # Miyuki
+  "^tWz"  # Mizhuo
+  "gg"  # Mochizuki
+  "gN"  # Mogami
+  "g"  # Momi
+  "Ch"  # Momo
+  "mR%f"  # Moshun
+  "ÎN‘N"  # Murakumo
+  "Qgè–"  # Murasame
+  "fkÏ…"  # Musashi
+  "F–eY"  # Mutsu
+  "fwg"  # Mutsuki
+  "™YØš"  # Myoko
+  "±zf"  # Nachi
+  "•âl"  # Naganami
+  "•o‚"  # Nagara
+  "•è•"  # Nagato
+  "•g"  # Nagatsuki
+  "±Âs"  # Naka
+  "âlÎ˜"  # Namikaze
+  "jm"  # Naniwa
+  "bi"  # Nara
+  "¨h"  # Nashi
+  "TÖS"  # Natori
+  "Y‘N"  # Natsugumo
+  "Yno"  # Natsushio
+  "Yg"  # Natsuzuki
+  "PRåe"  # Nenohi
+  "°eØš"  # Niitaka
+  "°eg"  # Niizuki
+  "†i"  # Nire
+  "åeÛ"  # Nisshin
+  "ÁNÀm"  # Niyodo
+  "Î‘›S"  # Nojima
+  "Î‘Î˜"  # Nokaze
+  "ıwãN"  # Noshiro
+  "ıw‰vT"  # Notoro
+  "Î‘R"  # Nowaki
+  "¼lÎ˜"  # Numakaze
+  "çw"  # Oboro
+  "Ä–ùz"  # Odake
+  "'Y•N"  # Oi
+  "ıÎ˜"  # Oite
+  "²QÎ˜"  # Okikaze
+  "²Qâl"  # Okinami
+  "²Qóu"  # Okinawa
+  "²Q›S"  # Okinoshima
+  "'Yâl"  # Onami
+  "'Y›S"  # Oshima
+  "'Yno"  # Oshio
+  "'YÊl"  # Otomari
+  "?"  # Otori
+  "ó—Ë"  # Otowa
+  "²Nno"  # Oyashio
+  "'YÀm"  # Oyodo
+  "™ŸäQ"  # Ryuho
+  "™Ÿµš"  # Ryujo
+  "øv!j"  # Sagami
+  "m"  # Sagi
+  "írş–"  # Sagiri
+  "Ši"  # Sakaki
+  "R‘S"  # Sakawa
+  "1j"  # Sakura
+  "”Ngè–"  # Samidare
+  "ée×‚"  # Sanae
+  "‹vg"  # Satsuki
+  "(„id"  # Satsuma
+  "ılÎ˜"  # Sawakaze
+  "Ÿm"  # Sazanami
+  "İT…Q"  # Sendai
+  "Dd%m"  # Settsu
+  "öeè–"  # Shigure
+  "i"  # Shii
+  "weâl"  # Shikinami
+  "we›S"  # Shikishima
+  "›SÎ˜"  # Shimakaze
+  "—g"  # Shimotsutki
+  "`SˆR"  # Shimushu
+  "áOSm"  # Shinano
+  "N‘N"  # Shinonome
+  "^y"  # Shinsoku
+  "PlÎ˜"  # Shiokaze
+  "‹vâl"  # Shirakami
+  "‹v‘N"  # Shirakumo
+  "Nåwkp"  # Shiranui
+  "‹vp"  # Shirataka
+  "‹v2—"  # Shiratsuyu
+  "eyäQ"  # Shoho
+  "Ôd"  # Shokaku
+  "Km)Y"  # Sokuten
+  "Í‚™Ÿ"  # Soryu
+  "Ig"  # Sugi
+  "‰˜èx"  # Suma
+  "…–0u"  # Sumida
+  "X"  # Sumire
+  "hT2–"  # Suwo
+  "ÉQÎ˜"  # Suzukaze
+  "ÉQâl"  # Suzunami
+  "ÉQg"  # Suzutsuki
+  "Ã”7Œ"  # Suzuya
+  "Ã”7Œ"  # Suzuya
+  "Xj"  # Tachibana
+  "*YRÎ˜"  # Tachikaze
+  "'YäQ"  # Taiho
+  "'Yp"  # Taiyo
+  "ØšCSWz"  # Takachiho
+  "Øšâl"  # Takanami
+  "ØšÄ–"  # Takao
+  "Øšx"  # Takasago
+  "Øšno"  # Takashio
+  "ùz"  # Take
+  "Yid"  # Tama
+  "‰sâl"  # Tamanami
+  "9NT"  # Tango
+  "7ŒÎ˜"  # Tanikaze
+  "YYo‚"  # Tatara
+  "Ëz^y"  # Tategami
+  "™Ÿ0u"  # Tatsuta
+  "NoS"  # Teibo
+  ")Y™Ÿ"  # Tenryu
+  "gqg"  # Teruzuki
+  "Ë"  # Toba
+  "öe%mÎ˜"  # Tokitsukaze
+  "8^Ğx"  # Tokiwa
+  "ËSd"  # Tomozuru
+  ")R9h"  # Tone
+  "WPO"  # Tosa
+  "?i"  # Tsubaki
+  "Õq"  # Tsubame
+  "%m‰"  # Tsugaru
+  "Qrâl"  # Tsukuba
+  "Qr+t"  # Tsukushi
+  "ùRlš"  # Tsushima
+  "ƒ"  # Tsuta
+  "‡R»l"  # Uji
+  "…h"  # Ume
+  "wmÎ˜"  # Umikaze
+  "kuP"  # Unebi
+  "‘N™Ÿ"  # Unryu
+  "‘Np"  # Unyo
+  "‘Np"  # Unyo
+  "fmÎ˜"  # Urakaze
+  "fmâl"  # Uranami
+  "no"  # Ushio
+  "„…‘N"  # Usugumo
+  "oSg"  # Uzuki
+  "å‚öS"  # Wakaba
+  "å‚Iƒ"  # Wakakusa
+  "å‚«R"  # Wakamiya
+  "å‚ùz"  # Wakatake
+  "å‚g"  # Wakatsuki
+  "å‚1j"  # Wakazakura
+  "h…"  # Warabi
+  "âwùz"  # Yadake
+  "kQÍ‘qS"  # Yaeyama
+  "kQÍ‘1j"  # Yaezakura
+  "âwçw"  # Yahagi
+  "âwÎ˜"  # Yakaze
+  "kQ‘N"  # Yakumo
+  "qS‘N"  # Yamagumo
+  "qSÎ˜"  # Yamakaze
+  "qSÎW"  # Yamashiro
+  "'YŒT"  # Yamato
+  "qSg"  # Yamazuki
+  "óg"  # Yanagi
+  "kQ›S"  # Yashima
+  "kQAS›S"  # Yasoshima
+  "%Vu"  # Yayoi
+  "Àm"  # Yodo
+  "Àmeh"  # Yodohashi
+  "µRg"  # Yoizuki
+  "ì„"  # Yomogi
+  "	TÎ‘"  # Yoshino
+  "3–%f"  # Yoshun
+  "Y.V"  # Yubari
+  "Yş–"  # Yugiri
+  "Y‘N"  # Yugumo
+  "ê–‘N"  # Yukigumo
+  "ê–Î˜"  # Yukikaze
+  "YêQ"  # Yunagi
+  "1uo‚"  # Yura
+  "Yg"  # Yuzuki
+  "^täQ"  # Zuiho
+  "^td"  # Zuikaku
+  "Sg"  # Beiji
+  ")Y¢g"  # Tianshu
+  "ÛV…"  # Sifu
+  "şRH–"  # Gouchen
+  ")Yñg"  # Tianzhu
+  "ñgòS"  # Zhushi
+  ")Yªg"  # Tianqiang
+  "„sb"  # Xuange
+  "*YS"  # Taizun
+  "S—e"  # Beidou
+  "	NğS"  # Santai
+  ")Y‘s"  # Tianji
+  "‡ef"  # Wenchang
+  "‘š5–S›Q"  # Qizhenjiangjun
+  "ŒÇ†"  # Tenshe
+  "ËR"  # Liaoning
+  "SK„^è•"  # Beiluoshimen
+  "‰s•N"  # Yujing
+  "Vöe"  # Hongshi
+  "R—™Ÿ"  # Qinglong
+  "‹vN†"  # Baihu
+  "1gÀ–"  # Zhuque
+  "„sfk"  # Xuanwu
+  "-ffk"  # Zhaowu
+  "8l‰R"  # Yong'an
+  "WS‰R"  # Nan'an
+  "G–wm"  # Longhai
+  "y‰R"  # Fu'an
+  "yŸ"  # Fuding
+  "Ñ‘f"  # Jinchang
+  "nŸS"  # Qingyuan
+  "‰R"  # Xining
+  "tQIN"  # Xingyi
+  "fk‰R"  # Wu'an
+  "¸TR"  # Xianning
+  "^tf"  # Ruichang
+  "tQS"  # Xinghua
+  "ÛbÜ"  # Zhaoyuan
+  "tQs^"  # Xingping
+  "8lNm"  # Yongji
+  "–w7Y"  # Xiaoyi
+  "8l·^"  # Yongkang
+  "ÁN·V"  # Rende
+  "‰RšR"  # Anding
+  "ö^s^"  # Yanping
+}
+
+army_names = {
+  "^ıVF–›Q"  # Imperial Army
+  "$PROVINCE$›Q"  # $PROVINCE$ Gun
+  "$PROVINCE$¿R"  # $PROVINCE$ Zei
+  "$PROVINCE$âV"  # $PROVINCE$ Dan
+}
+fleet_names = {
+  "^ıVwm›Q"  # Imperial Navy
+  "$PROVINCE$4l›Q"  # $PROVINCE$ Suigun
+  "$PROVINCE$9‚âV"  # $PROVINCE$ Sendan
+  "$PROVINCE$–"  # $PROVINCE$ Tai
+}

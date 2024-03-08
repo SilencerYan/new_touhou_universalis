@@ -1,0 +1,39 @@
+country_decisions = {	
+	mki_convince_alice = {
+		potential = {
+			has_country_flag = mki_enable_convince_alice
+			NOT = { has_country_flag = mki_has_tried_to_convince_alice }
+			OR = {
+				tag = MKI
+				was_tag = MKI
+			}
+			FOM = {
+				was_player = no
+				ai = yes
+			}
+		}
+
+		allow = {
+			is_free_or_tributary_trigger = yes
+			custom_trigger_tooltip = {
+				tooltip = mki_alice_on_the_throne
+				FOM = {
+					is_free_or_tributary_trigger = yes
+					OR = {
+						has_ruler_flag = th_original_alice
+						has_heir_flag = th_original_alice
+					}
+				}
+			}
+		}	
+		effect = {	
+			country_event = {
+				id = flavor_mki.6
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

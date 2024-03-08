@@ -1,0 +1,2717 @@
+th_respawn_ruler_with_new_stats_effect = {
+  hidden_effect = {
+    set_variable = {
+      which = th_respawn_adm_stat
+      which = th_ruler_adm_stat
+    }
+    set_variable = {
+      which = th_respawn_dip_stat
+      which = th_ruler_dip_stat
+    }
+    set_variable = {
+      which = th_respawn_mil_stat
+      which = th_ruler_mil_stat
+    }
+  }
+  hidden_effect = {
+    remove_heir = {
+      allow_new_heir = no
+    }
+  }
+  if = {
+    limit = {
+      OR = {
+        tag = AKI
+        was_tag = AKI
+      }
+    }
+    define_ruler = {
+      name = "YóˆS"  # Shizuha
+      dynasty = "Ày"  # Aki
+      culture = "Youkai"
+      adm = 5
+      dip = 4
+      mil = 3
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = CIN
+        was_tag = CIN
+      }
+    }
+    define_ruler = {
+      name = "*t2ó˙ã"  # Cirno
+      dynasty = "*t2ó)RöNÑv"  # of Cirnia
+      culture = "Fairy"
+      adm = 2
+      dip = 3
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = CLP
+        was_tag = CLP
+      }
+    }
+    define_ruler = {
+      name = "KQ≥Ri`ÆvN"  # Clownpiece
+      dynasty = "KQ≥Ri`ØeÙuSÑv"  # of Clownsville
+      culture = "Fairy"
+      adm = 3
+      dip = 1
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = CRD
+        was_tag = CRD
+      }
+    }
+    define_ruler = {
+      name = "…â"  # Satori
+      dynasty = "‰Sf0W"  # Komeiji
+      culture = "Chireidean"
+      adm = 5
+      dip = 6
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = th_original_satori
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = EIT
+        was_tag = EIT
+      }
+    }
+    define_ruler = {
+      name = "âèY"  # Kaguya
+      dynasty = "ÏÑ±ÉqS"  # Houraisan
+      adm = 3
+      dip = 5
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+      set_ruler_flag = th_original_kaguya
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = FLR
+        was_tag = FLR
+      }
+    }
+    define_ruler = {
+      name = "ôÇpQ5g2ó"  # Flandre
+      dynasty = "ØeaSåÖyr"  # Scarlet
+      culture = "Scarlett"
+      adm = 5
+      dip = 3
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+      set_ruler_flag = th_original_flan
+    }
+    if = {
+      limit = {
+        is_subject = yes
+      }
+      hidden_effect = {
+        add_ruler_modifier = {
+          name = scr_flans_loyalty
+          duration = -1
+        }
+      }
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = KMJ
+        was_tag = KMJ
+      }
+    }
+    define_ruler = {
+      name = "K`"  # Koishi
+      dynasty = "‰Sf0W"  # Komeiji
+      culture = "Chireidean"
+      adm = 5
+      dip = 4
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+      set_ruler_flag = th_original_koishi
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = FOM
+        was_tag = FOM
+      }
+    }
+    if = {
+      limit = {
+        has_country_modifier = fom_magician_hourai_elixir
+      }
+      define_ruler = {
+        name = "Tõtôl"  # Marisa
+        dynasty = "˛ñËñ"  # Kirisame
+        culture = "Magician"
+        adm = 4
+        dip = 3
+        mil = 6
+        age = 20
+        claim = 50
+        female = yes
+      }
+      hidden_effect = {
+        add_ruler_personality = immortal_personality
+        set_ruler_flag = th_original_marisa
+        set_ruler_flag = touhou_character_ruler
+        set_ruler_flag = touhou_original_ruler
+      }
+    }
+    else = {
+      define_ruler = {
+        name = "1rKNN"  # Alice
+        dynasty = "õs<hyrmùO∑V"  # Margatroid
+        culture = "Magician"
+        adm = 5
+        dip = 4
+        mil = 5
+        age = 20
+        claim = 50
+        female = yes
+      }
+      hidden_effect = {
+        add_ruler_personality = immortal_personality
+        set_ruler_flag = th_original_alice
+        set_ruler_flag = touhou_character_ruler
+        set_ruler_flag = touhou_original_ruler
+      }
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = FUJ
+        was_tag = FUJ
+      }
+    }
+    define_ruler = {
+      name = "πY¢u"  # Mokou
+      dynasty = "‰ÖüS"  # Fujiwara
+      culture = "Eientei"
+      adm = 5
+      dip = 4
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+      set_ruler_flag = th_original_mokou
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = GNU
+        was_tag = GNU
+      }
+    }
+    define_ruler = {
+      name = "â^g"  # Gengetsu
+      dynasty = "¶hâ^NLuÑv"  # of the Dream World
+      culture = "Youkai"
+      adm = 3
+      dip = 4
+      mil = 3
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = HEC
+        was_tag = HEC
+      }
+    }
+    define_ruler = {
+      name = "kçaS–cöN"  # Hecatia
+      dynasty = "…bµxØe…bVy)R"  # Lapislazuli
+      culture = "Higanean"
+      adm = 6
+      dip = 6
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = HIG
+        was_tag = HIG
+      }
+    }
+    define_ruler = {
+      name = ".fÏY"  # Eiki
+      dynasty = "€VcR"  # Shiki
+      culture = "Higanean"
+      adm = 6
+      dip = 6
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+    add_ruler_personality = just_personality
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = HNG
+        was_tag = HNG
+      }
+    }
+    define_ruler = {
+      name = "é√î"  # Meiling
+      dynasty = "¢u"  # Hong
+      culture = "Scarlett"
+      adm = 3
+      dip = 4
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+    if = {
+      limit = {
+        is_subject = yes
+      }
+      hidden_effect = {
+        add_ruler_modifier = {
+          name = scr_meilings_loyalty
+          duration = -1
+        }
+      }
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = HVR
+        was_tag = HVR
+      }
+    }
+    if = {
+      limit = {
+        NOT = {
+          has_country_flag = hvr_cannot_get_tenshi
+        }
+      }
+      define_ruler = {
+        name = ")YPR"  # Tenshi
+        dynasty = "‘k±êTES"  # Hinanawi
+        culture = "Heavenish"
+        adm = 3
+        dip = 5
+        mil = 6
+        age = 20
+        claim = 50
+        female = yes
+      }
+      hidden_effect = {
+        add_ruler_personality = immortal_personality
+        set_ruler_flag = touhou_character_ruler
+        set_ruler_flag = touhou_original_ruler
+        set_ruler_flag = th_original_tenshi
+      }
+      if = {
+        limit = {
+          has_country_flag = Gensokyan_hvr_absolute_dictatorship_flag
+        }
+        add_ruler_personality = strict_personality
+        add_ruler_personality = free_thinker_personality
+      }
+      else = {
+        add_ruler_personality = babbling_buffoon_personality
+        add_ruler_personality = free_thinker_personality
+      }
+    }
+    else = {
+      define_ruler = {
+        name = "càñs"  # Iku
+        dynasty = "8lml"  # Nagae
+        culture = "Youkai"
+        adm = 5
+        dip = 6
+        mil = 4
+        age = 20
+        claim = 50
+        female = yes
+      }
+      hidden_effect = {
+        add_ruler_personality = immortal_personality
+        set_ruler_flag = touhou_character_ruler
+        set_ruler_flag = touhou_original_ruler
+      }
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = JNK
+        was_tag = JNK
+      }
+    }
+    define_ruler = {
+      name = "Øu–r"  # Junko
+      dynasty = " "
+      culture = "Senkaian"
+      adm = 6
+      dip = 4
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+      set_ruler_flag = th_original_junko
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = KEI
+        was_tag = KEI
+      }
+    }
+    define_ruler = {
+      name = "øàÏY"  # Keiki
+      dynasty = "ÙWâR^y"  # Haniyasushin
+      culture = "Higanean"
+      adm = 6
+      dip = 4
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = KKO
+        was_tag = KKO
+      }
+    }
+    define_ruler = {
+      name = "√V"  # Kokoro
+      dynasty = "Êy"  # Hata
+      culture = Tsukumogami_culture
+      adm = 4
+      dip = 4
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = KNN
+        was_tag = KNN
+      }
+    }
+    define_ruler = {
+      name = "‹wØW"  # Konngara
+      dynasty = "fã^LuÑv"  # The Astral Knight
+      culture = "Higanean"
+      adm = 5
+      dip = 3
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = KOG
+        was_tag = KOG
+      }
+    }
+    define_ruler = {
+      name = "SO"  # Kogasa
+      dynasty = "YYoÇ"  # Tatara
+      culture = Tsukumogami_culture
+      adm = 6
+      dip = 5
+      mil = 3
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = KPP
+        was_tag = KPP
+      }
+    }
+    define_ruler = {
+      name = "wÉ÷S"  # Nitori
+      dynasty = "≥lŒW"  # Kawashiro
+      culture = "Kappa"
+      adm = 6
+      dip = 5
+      mil = 3
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = YME
+        was_tag = YME
+      }
+    }
+    define_ruler = {
+      name = "ÿö≠S"  # Takane
+      dynasty = "qSŒW"  # Yamashiro
+      culture = "Kappa"
+      adm = 6
+      dip = 4
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = KSE
+        was_tag = KSE
+      }
+    }
+    define_ruler = {
+      name = "NSGb"  # Kasen
+      dynasty = "(É(g"  # Ibaraki
+      culture = Oni_culture
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = LRV
+        was_tag = LRV
+      }
+    }
+    define_ruler = {
+      name = "1rTXÆY"  # Eternity
+      dynasty = "…bSÊt"  # Larva
+      culture = "Fairy"
+      adm = 2
+      dip = 5
+      mil = 2
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = LCU
+        was_tag = LCU
+      }
+    }
+    define_ruler = {
+      name = "0NÏY"  # Toyohime
+      dynasty = "ıug"  # Watatsuki
+      culture = Lunarian_culture
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = LIL
+        was_tag = LIL
+      }
+    }
+    define_ruler = {
+      name = "âÉâÉ"  # Lily
+      dynasty = "óÊtyr"  # White
+      culture = "Fairy"
+      adm = 3
+      dip = 4
+      mil = 2
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MHG
+        was_tag = MHG
+      }
+    }
+    country_event = {
+      id = flavor_mhg.101
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MIM
+        was_tag = MIM
+      }
+    }
+    define_ruler = {
+      name = "EõTõ"  # Mima
+      dynasty = "â^¶hLuÑv"  # of Fantasy World
+      culture = "Higanean"
+      adm = 5
+      dip = 3
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MKI
+        was_tag = MKI
+      }
+    }
+    define_ruler = {
+      name = "^yÓu"  # Shinki
+      dynasty = "TõLuÑv"  # of Makai
+      culture = "Makaian"
+      adm = 6
+      dip = 6
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MRY
+        was_tag = MRY
+      }
+    }
+    define_ruler = {
+      name = "Èe◊Ç"  # Sanae
+      dynasty = "NŒò7å"  # Kochiya
+      culture = Gensokyo_human
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 18
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MYO
+        was_tag = MYO
+      }
+      NOT = {
+        has_country_flag = myo_blocked_byakuren
+      }
+    }
+    define_ruler = {
+      name = "ãv≤É"  # Byakuren
+      dynasty = "1W"  # Hijiri
+      culture = "Magician"
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+    add_ruler_personality = kind_hearted_personality
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MYO
+        was_tag = MYO
+      }
+      has_country_flag = myo_blocked_byakuren
+    }
+    define_ruler = {
+      name = "Nnè"  # Ichirin
+      dynasty = "ëNES"  # Kumoi
+      culture = "Youkai"
+      adm = 4
+      dip = 4
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = NCS
+        was_tag = NCS
+      }
+    }
+    define_ruler = {
+      name = "àîôY8N"  # Shinmyoumaru
+      dynasty = "ST"  # Sukuna
+      culture = Inchling_culture
+      adm = 4
+      dip = 3
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = NET
+        was_tag = NET
+      }
+    }
+    define_ruler = {
+      name = "ã^ã^PR"  # Yuyuko
+      dynasty = "âLà˙R"  # Saigyouji
+      culture = "Netherlandish"
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+      set_ruler_flag = th_original_yuyuko
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = OKI
+        was_tag = OKI
+      }
+    }
+    define_ruler = {
+      name = "êñêSHY"  # Okina
+      dynasty = "idYW"  # Matara
+      culture = "Youkai"
+      adm = 6
+      dip = 6
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = ONI
+        was_tag = ONI
+      }
+    }
+    define_ruler = {
+      name = "«RÍN"  # Yuugi
+      dynasty = "fäq"  # Hoshiguma
+      culture = Oni_culture
+      adm = 5
+      dip = 3
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = PRI
+        was_tag = PRI
+      }
+    }
+    define_ruler = {
+      name = "2óZ(Ñ"  # Lunasa
+      dynasty = "nfâÉyQ∆Y)RÙT"  # Prismriver
+      culture = Poltergeist_culture
+      adm = 4
+      dip = 4
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = RAI
+        was_tag = RAI
+      }
+    }
+    define_ruler = {
+      name = "˜ñü"  # Raiko
+      dynasty = "X›T"  # Horikawa
+      culture = Tsukumogami_culture
+      adm = 6
+      dip = 5
+      mil = 3
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SCR
+        was_tag = SCR
+      }
+    }
+    define_ruler = {
+      name = "åÖs|âÉöN"  # Remilia
+      dynasty = "ØeaSåÖyr"  # Scarlet
+      culture = "Scarlett"
+      adm = 4
+      dip = 4
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+      set_ruler_flag = th_original_remi
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SEK
+        was_tag = SEK
+      }
+    }
+    define_ruler = {
+      name = "dçÓÜGY"  # Sekibanki
+      dynasty = "ÛgNÑv"  # Nukekubi
+      culture = "Youkai"
+      adm = 4
+      dip = 3
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SFF
+        was_tag = SFF
+      }
+    }
+    define_ruler = {
+      name = "ã^ôô"  # Yuuka
+      dynasty = "Œò¡â"  # Kazami
+      culture = "Youkai"
+      adm = 4
+      dip = 4
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SKI
+        was_tag = SKI
+      }
+    }
+    define_ruler = {
+      name = "Èe<õ"  # Saki
+      dynasty = "äöyö"  # Kurokoma
+      culture = "Higanean"
+      adm = 4
+      dip = 4
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = GYK
+        was_tag = GYK
+      }
+    }
+    define_ruler = {
+      name = "2STõ"  # Yuuma
+      dynasty = "Uô.ô"  # Toutetsu
+      culture = "Higanean"
+      adm = 6
+      dip = 4
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SKT
+        was_tag = SKT
+      }
+    }
+    define_ruler = {
+      name = "T0k"  # Nemuno
+      dynasty = "BW0u"  # Sakata
+      culture = "Youkai"
+      adm = 3
+      dip = 3
+      mil = 6
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SNK
+        was_tag = SNK
+      }
+    }
+    define_ruler = {
+      name = "^yPR"  # Miko
+      dynasty = "0Njw3w"  # Toyosatomimi
+      culture = "Senkaian"
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = TFR
+        was_tag = TFR
+      }
+    }
+    define_ruler = {
+      name = "Qh<S"  # Sunny
+      dynasty = "s|SKQ"  # Milk
+      culture = "Fairy"
+      adm = 3
+      dip = 3
+      mil = 3
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = TGU
+        was_tag = TGU
+      }
+      NOT = {
+        has_country_flag = tgu_has_megumu_as_perma_ruler
+      }
+    }
+    define_ruler = {
+      name = "áe"  # Aya
+      dynasty = "SãT8N"  # Shameimaru
+      culture = "Tengu"
+      adm = 4
+      dip = 6
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = TGU
+        was_tag = TGU
+      }
+      has_country_flag = tgu_has_megumu_as_perma_ruler
+    }
+    define_ruler = {
+      name = "ôü"  # Megumu
+      dynasty = "mô≤u8N"  # Iizunamaru
+      culture = "Tengu"
+      adm = 6
+      dip = 4
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = YOF
+        was_tag = YOF
+      }
+    }
+    define_ruler = {
+      name = "œñ"  # Hina
+      dynasty = ".ïqS"  # Kagiyama
+      culture = "Youkai"
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = YAC
+        was_tag = YAC
+      }
+    }
+    define_ruler = {
+      name = "kQCSga"  # Yachie
+      dynasty = "	TT"  # Kicchou
+      culture = "Higanean"
+      adm = 4
+      dip = 6
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MKN
+        was_tag = MKN
+      }
+    }
+    define_ruler = {
+      name = "Íñ"  # Yuki
+      dynasty = "TõLuÑv"  # of Makai
+      culture = "Makaian"
+      adm = 4
+      dip = 5
+      mil = 4
+      age = 20
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = OKU
+        was_tag = OKU
+      }
+    }
+    define_ruler = {
+      name = "zz"  # Utsuho
+      dynasty = "upLNÔç"  # Reiuji
+      culture = "Chireidean"
+      adm = 2
+      dip = 3
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = ORN
+        was_tag = ORN
+      }
+    }
+    define_ruler = {
+      name = "–q"  # Rin
+      dynasty = "kp0q+s"  # Kaenbyou
+      culture = "Chireidean"
+      adm = 4
+      dip = 5
+      mil = 5
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = HKR
+        was_tag = HKR
+      }
+    }
+    if = {
+      limit = {
+        has_country_flag = th_immortal_reimu
+      }
+      define_ruler = {
+        name = "up¶h"  # Reimu
+        dynasty = "ZSKN"  # Hakurei
+        adm = 6
+        dip = 6
+        mil = 6
+        age = 20
+        culture = ROOT
+        religion = ROOT
+        claim = 50
+        female = yes
+      }
+      hidden_effect = {
+        set_ruler_flag = th_current_ruler_reimu_hakurei
+      }
+    }
+    else_if = {
+      limit = {
+        has_country_flag = th_suika_is_ruler
+      }
+      define_ruler = {
+        name = "Ñôô"  # Suika
+        dynasty = "O9T"  # Ibuki
+        culture = Oni_culture
+        adm = 4
+        dip = 4
+        mil = 6
+        age = 15
+        claim = 95
+        female = yes
+      }
+      add_ruler_modifier = {
+        name = HKR_suikas_power
+        duration = -1
+      }
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = GGS
+        was_tag = GGS
+      }
+    }
+    define_ruler = {
+      name = "ENòOLk"  # Kutaka
+      dynasty = "≠^!n"  # Niwatari
+      culture = "Higanean"
+      adm = 5
+      dip = 5
+      mil = 4
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SNZ
+        was_tag = SNZ
+      }
+    }
+    define_ruler = {
+      name = "SHu"  # Komachi
+      dynasty = "SŒëZX"  # Onozuka
+      culture = "Higanean"
+      adm = 3
+      dip = 5
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = YMU
+        was_tag = YMU
+      }
+    }
+    define_ruler = {
+      name = "ñY¶h"  # Youmu
+      dynasty = "BõDõ"  # Konpaku
+      culture = "Netherlandish"
+      adm = 5
+      dip = 4
+      mil = 5
+      age = 16
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MRU
+        was_tag = MRU
+      }
+    }
+    define_ruler = {
+      name = "‡lŸN"  # Rei'sen
+      dynasty = "gTQ"  # Udonge
+      culture = Lunarian_culture
+      adm = 4
+      dip = 3
+      mil = 6
+      age = 16
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = ROD
+        was_tag = ROD
+      }
+    }
+    define_ruler = {
+      name = "2ós|Z"  # Rumia
+      dynasty = "µRófÑv"  # von Dusk
+      culture = "Youkai"
+      adm = 4
+      dip = 4
+      mil = 6
+      age = 16
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = JOO
+        was_tag = JOO
+      }
+    }
+    define_ruler = {
+      name = "sY—Ç"  # Joon
+      dynasty = "ùO^y"  # Yorigami
+      culture = "Youkai"
+      adm = 4
+      dip = 3
+      mil = 6
+      age = 16
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SHI
+        was_tag = SHI
+      }
+    }
+    define_ruler = {
+      name = "+t—Ç"  # Shion
+      dynasty = "ùO^y"  # Yorigami
+      culture = "Youkai"
+      adm = 6
+      dip = 4
+      mil = 3
+      age = 16
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SOU
+        was_tag = SOU
+      }
+    }
+    define_ruler = {
+      name = "f"  # Shou
+      dynasty = "≈R8N"  # Toramaru
+      culture = "Youkai"
+      adm = 5
+      dip = 3
+      mil = 5
+      age = 16
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SEI
+        was_tag = SEI
+      }
+    }
+    define_ruler = {
+      name = "Ró%Z"  # Seiga
+      dynasty = "ó"  # Kaku
+      culture = "Youkai"
+      adm = 6
+      dip = 3
+      mil = 6
+      age = 16
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MMU
+        was_tag = MMU
+      }
+    }
+    define_ruler = {
+      name = "4lá"  # Minamitsu
+      dynasty = "Qg±u"  # Murasa
+      culture = "Youkai"
+      adm = 3
+      dip = 5
+      mil = 5
+      age = 16
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = PRS
+        was_tag = PRS
+      }
+    }
+    define_ruler = {
+      name = "^2óâ"  # Parsee
+      dynasty = "4leh"  # Mizuhashi
+      culture = "Youkai"
+      adm = 6
+      dip = 2
+      mil = 6
+      age = 16
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = HIF
+        was_tag = HIF
+      }
+    }
+    define_ruler = {
+      name = "XPR"  # Sumireko
+      dynasty = "áRPO¡â"  # Usami
+      culture = Gensokyo_human
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = YME
+        was_tag = YME
+      }
+    }
+    define_ruler = {
+      name = "¶hé"  # Yumemi
+      dynasty = "àQT"  # Okazaki
+      culture = Gensokyo_human
+      adm = 6
+      dip = 3
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = THR
+        was_tag = THR
+      }
+    }
+    define_ruler = {
+      name = "Ãëôô"  # Rika
+      dynasty = "+tŒëÑv"  # The Panzerholic
+      culture = Gensokyo_human
+      adm = 5
+      dip = 3
+      mil = 5
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = HAK
+        was_tag = HAK
+      }
+    }
+    define_ruler = {
+      name = "i"  # Momiji
+      dynasty = "¨rpç"  # Inubashiri
+      culture = "Tengu"
+      adm = 4
+      dip = 4
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MRU
+        was_tag = MRU
+      }
+    }
+    define_ruler = {
+      name = "‡lŸN"  # Rei'sen
+      dynasty = "gTQ"  # Udonge
+      culture = "Gyokuto"
+      adm = 4
+      dip = 3
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = YMU
+        was_tag = YMU
+      }
+    }
+    define_ruler = {
+      name = "ñY¶h"  # Youmu
+      dynasty = "BõDõ"  # Konpaku
+      culture = "Netherlandish"
+      adm = 5
+      dip = 4
+      mil = 5
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = PRS
+        was_tag = PRS
+      }
+    }
+    define_ruler = {
+      name = "^2óâ"  # Parsee
+      dynasty = "4leh"  # Mizuhashi
+      culture = "Youkai"
+      adm = 6
+      dip = 2
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = NUE
+        was_tag = NUE
+      }
+    }
+    define_ruler = {
+      name = "zù"  # Nue
+      dynasty = "SãQ"  # Houjuu
+      culture = "Youkai"
+      adm = 4
+      dip = 4
+      mil = 4
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = JOO
+        was_tag = JOO
+      }
+    }
+    define_ruler = {
+      name = "sY—Ç"  # Joon
+      dynasty = "ùO^y"  # Yorigami
+      culture = "Youkai"
+      adm = 4
+      dip = 3
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SHI
+        was_tag = SHI
+      }
+    }
+    define_ruler = {
+      name = "+t—Ç"  # Shion
+      dynasty = "ùO^y"  # Yorigami
+      culture = "Youkai"
+      adm = 6
+      dip = 4
+      mil = 3
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SHI
+        was_tag = SHI
+      }
+    }
+    define_ruler = {
+      name = "ñY¶h"  # Youmu
+      dynasty = "BõDõ"  # Konpaku
+      culture = "Netherlandish"
+      adm = 5
+      dip = 4
+      mil = 5
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SEI
+        was_tag = SEI
+      }
+    }
+    define_ruler = {
+      name = "Ró%Z"  # Seiga
+      dynasty = "ó"  # Kaku
+      culture = "Youkai"
+      adm = 6
+      dip = 3
+      mil = 6
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MMU
+        was_tag = MMU
+      }
+    }
+    define_ruler = {
+      name = "4lá"  # Minamitsu
+      dynasty = "Qg±u"  # Murasa
+      culture = "Youkai"
+      adm = 3
+      dip = 5
+      mil = 5
+      age = 15
+      claim = 50
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = RAN
+        was_tag = RAN
+      }
+    }
+    define_ruler = {
+      name = "›Ñ"  # Ran
+      dynasty = "kQëNôÇZ"  # Yakumovna
+      culture = "Youkai"
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 20
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = ZUT
+        was_tag = ZUT
+      }
+    }
+    define_ruler = {
+      name = "ZUN"
+      dynasty = "Nwm1rKNNâ^PN‚VÑv"  # of Team Shanghai Alice
+      culture = Gensokyo_human
+      adm = 6
+      dip = 6
+      mil = 6
+      age = 44
+      claim = 100
+      male = yes
+    }
+    hidden_effect = {
+      add_ruler_personality = immortal_personality
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = YUM
+        was_tag = YUM
+      }
+    }
+    define_ruler = {
+      name = "¶hé"  # Yumemi
+      dynasty = "àQT"  # Okazaki
+      culture = Gensokyo_human
+      adm = 6
+      dip = 3
+      mil = 6
+      age = 18
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      set_ruler_flag = touhou_character_ruler
+      set_ruler_flag = touhou_original_ruler
+    }
+  }
+  else = {
+    custom_tooltip = th_debug_effect_should_not_occur
+  }
+  th_restore_old_ruler_stats = yes
+}
+th_respawn_heir_with_new_stats_effect = {
+  hidden_effect = {
+    set_variable = {
+      which = th_respawn_heir_adm_stat
+      which = th_heir_adm_stat
+    }
+    set_variable = {
+      which = th_respawn_heir_dip_stat
+      which = th_heir_dip_stat
+    }
+    set_variable = {
+      which = th_respawn_heir_mil_stat
+      which = th_heir_mil_stat
+    }
+  }
+  if = {
+    limit = {
+      OR = {
+        tag = AKI
+        was_tag = AKI
+      }
+    }
+    define_heir = {
+      name = "pzPR"  # Minoriko
+      dynasty = "Ày"  # Aki
+      culture = "Youkai"
+      adm = 5
+      dip = 4
+      mil = 3
+      age = 15
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_heir_personality = immortal_personality
+      set_heir_flag = touhou_character_ruler
+      set_heir_flag = touhou_original_heir
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = FOM
+        was_tag = FOM
+      }
+    }
+    if = {
+      limit = {
+        has_ruler_flag = th_original_marisa
+      }
+      define_heir = {
+        name = "1rKNN"  # Alice
+        dynasty = "õs<hyrmùO∑V"  # Margatroid
+        adm = 5
+        dip = 4
+        mil = 5
+        age = 20
+        culture = "Magician"
+        claim = 50
+        female = yes
+      }
+      hidden_effect = {
+        add_heir_personality = immortal_personality
+        set_heir_flag = touhou_character_ruler
+        set_heir_flag = touhou_original_heir
+        set_heir_flag = th_original_alice
+      }
+    }
+    else = {
+      define_heir = {
+        name = "Tõtôl"  # Marisa
+        dynasty = "˛ñËñ"  # Kirisame
+        culture = "Magician"
+        adm = 4
+        dip = 3
+        mil = 6
+        age = 20
+        claim = 50
+        female = yes
+      }
+      hidden_effect = {
+        add_heir_personality = immortal_personality
+        set_heir_flag = th_original_marisa
+        set_heir_flag = touhou_character_ruler
+        set_heir_flag = touhou_original_heir
+      }
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = CRD
+        was_tag = CRD
+      }
+    }
+    define_heir = {
+      name = "K`"  # Koishi
+      dynasty = "‰Sf0W"  # Komeiji
+      culture = "Chireidean"
+      adm = 5
+      dip = 4
+      mil = 6
+      age = 18
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_heir_personality = immortal_personality
+      set_heir_flag = th_original_koishi
+      set_heir_flag = touhou_character_ruler
+      set_heir_flag = touhou_original_heir
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = GNU
+        was_tag = GNU
+      }
+    }
+    define_heir = {
+      name = "¶hg"  # Mugetsu
+      dynasty = "¶hâ^NLuÑv"  # of the Dream World
+      culture = "Youkai"
+      adm = 3
+      dip = 4
+      mil = 3
+      age = 15
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_heir_personality = immortal_personality
+      set_heir_flag = touhou_character_ruler
+      set_heir_flag = touhou_original_heir
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = LCU
+        was_tag = LCU
+      }
+    }
+    define_heir = {
+      name = "ùOÏY"  # Yorihime
+      dynasty = "ıug"  # Watatsuki
+      culture = Lunarian_culture
+      adm = 5
+      dip = 4
+      mil = 6
+      age = 15
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_heir_personality = immortal_personality
+      set_heir_flag = touhou_character_ruler
+      set_heir_flag = touhou_original_heir
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MHG
+        was_tag = MHG
+      }
+    }
+    define_heir = {
+      name = "›Ñ"  # Ran
+      dynasty = "kQëN"  # Yakumo
+      culture = "Youkai"
+      adm = 5
+      dip = 5
+      mil = 5
+      age = 19
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_heir_personality = immortal_personality
+      set_heir_flag = touhou_character_ruler
+      set_heir_flag = touhou_original_heir
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = PRI
+        was_tag = PRI
+      }
+    }
+    define_heir = {
+      name = "Öh2ópQ"  # Merlin
+      dynasty = "nfâÉyQ∆Y)RÙT"  # Prismriver
+      culture = Poltergeist_culture
+      adm = 4
+      dip = 4
+      mil = 4
+      age = 15
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_heir_personality = immortal_personality
+      set_heir_flag = touhou_character_ruler
+      set_heir_flag = touhou_original_heir
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = SCR
+        was_tag = SCR
+      }
+    }
+    define_heir = {
+      name = "ôÇpQ5g2ó"  # Flandre
+      dynasty = "ØeaSåÖyr"  # Scarlet
+      culture = "Scarlett"
+      adm = 5
+      dip = 3
+      mil = 6
+      age = 15
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_heir_personality = immortal_personality
+      set_heir_flag = touhou_character_ruler
+      set_heir_flag = touhou_original_heir
+      set_heir_flag = th_original_flan
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = TFR
+        was_tag = TFR
+      }
+    }
+    random_list = {
+      50 = {
+        define_heir = {
+          name = "2óZ"  # Luna
+          dynasty = "R2ó∑V"  # Child
+          culture = "Fairy"
+          adm = 4
+          dip = 2
+          mil = 3
+          age = 15
+          claim = 95
+          female = yes
+        }
+      }
+      50 = {
+        define_heir = {
+          name = "ØeTX"  # Star
+          dynasty = "(ÑÚÉ≈ñ"  # Sapphire
+          culture = "Fairy"
+          adm = 2
+          dip = 4
+          mil = 3
+          age = 15
+          claim = 95
+          female = yes
+        }
+      }
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = MKN
+        was_tag = MKN
+      }
+    }
+    define_heir = {
+      name = "Ç"  # Mai
+      dynasty = "TõLuÑv"  # of Makai
+      culture = "Makaian"
+      adm = 4
+      dip = 4
+      mil = 5
+      age = 15
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      add_heir_personality = immortal_personality
+      set_heir_flag = touhou_character_ruler
+      set_heir_flag = touhou_original_heir
+    }
+  }
+  else_if = {
+    limit = {
+      OR = {
+        tag = YUM
+        was_tag = YUM
+      }
+    }
+    define_heir = {
+      name = "CSåvT"  # Chiyuri
+      dynasty = "Sãv›T"  # Kitashirakawa
+      culture = Gensokyo_human
+      adm = 6
+      dip = 4
+      mil = 5
+      age = 15
+      claim = 95
+      female = yes
+    }
+    hidden_effect = {
+      set_heir_flag = touhou_character_ruler
+      set_heir_flag = touhou_original_heir
+    }
+  }
+  th_restore_old_heir_stats = yes
+}
+th_respawn_fairy_pay_monarch_power = {
+  if = {
+    limit = {
+      check_variable = {
+        which = $variable$
+        value = 6
+      }
+    }
+    add_$type$_power = -144
+  }
+  else_if = {
+    limit = {
+      check_variable = {
+        which = $variable$
+        value = 5
+      }
+    }
+    add_$type$_power = -120
+  }
+  else_if = {
+    limit = {
+      check_variable = {
+        which = $variable$
+        value = 4
+      }
+    }
+    add_$type$_power = -96
+  }
+  else_if = {
+    limit = {
+      check_variable = {
+        which = $variable$
+        value = 3
+      }
+    }
+    add_$type$_power = -72
+  }
+  else_if = {
+    limit = {
+      check_variable = {
+        which = $variable$
+        value = 2
+      }
+    }
+    add_$type$_power = -48
+  }
+  else_if = {
+    limit = {
+      check_variable = {
+        which = $variable$
+        value = 1
+      }
+    }
+    add_$type$_power = -24
+  }
+}
+th_respawn_marisa = {
+  hidden_effect = {
+    set_variable = {
+      which = th_respawn_adm_stat
+      which = th_ruler_adm_stat
+    }
+    set_variable = {
+      which = th_respawn_dip_stat
+      which = th_ruler_dip_stat
+    }
+    set_variable = {
+      which = th_respawn_mil_stat
+      which = th_ruler_mil_stat
+    }
+  }
+  define_ruler = {
+    name = "Tõtôl"  # Marisa
+    dynasty = "˛ñËñ"  # Kirisame
+    culture = "Magician"
+    adm = 4
+    dip = 3
+    mil = 6
+    age = 20
+    claim = 50
+    female = yes
+  }
+  hidden_effect = {
+    add_ruler_personality = immortal_personality
+    set_ruler_flag = th_original_marisa
+    set_ruler_flag = touhou_character_ruler
+    set_ruler_flag = touhou_original_ruler
+  }
+  th_restore_old_ruler_stats = yes
+}
+th_respawn_alice = {
+  hidden_effect = {
+    set_variable = {
+      which = th_respawn_adm_stat
+      which = th_ruler_adm_stat
+    }
+    set_variable = {
+      which = th_respawn_dip_stat
+      which = th_ruler_dip_stat
+    }
+    set_variable = {
+      which = th_respawn_mil_stat
+      which = th_ruler_mil_stat
+    }
+  }
+  define_ruler = {
+    name = "1rKNN"  # Alice
+    dynasty = "õs<hyrmùO∑V"  # Margatroid
+    culture = "Magician"
+    adm = 5
+    dip = 4
+    mil = 5
+    age = 20
+    claim = 50
+    female = yes
+  }
+  hidden_effect = {
+    add_ruler_personality = immortal_personality
+    set_ruler_flag = th_original_alice
+    set_ruler_flag = touhou_character_ruler
+    set_ruler_flag = touhou_original_ruler
+  }
+  th_restore_old_ruler_stats = yes
+}
+th_respawn_mokou = {
+  country_event = {
+    id = flavor_fuj.104
+  }
+}
+th_respawn_marisa_heir = {
+  hidden_effect = {
+    set_variable = {
+      which = th_respawn_heir_adm_stat
+      which = th_heir_adm_stat
+    }
+    set_variable = {
+      which = th_respawn_heir_dip_stat
+      which = th_heir_dip_stat
+    }
+    set_variable = {
+      which = th_respawn_heir_mil_stat
+      which = th_heir_mil_stat
+    }
+  }
+  define_heir = {
+    name = "Tõtôl"  # Marisa
+    dynasty = "˛ñËñ"  # Kirisame
+    culture = "Magician"
+    adm = 4
+    dip = 3
+    mil = 6
+    age = 20
+    claim = 50
+    female = yes
+  }
+  hidden_effect = {
+    add_heir_personality = immortal_personality
+    set_heir_flag = th_original_marisa
+    set_heir_flag = touhou_character_ruler
+    set_heir_flag = touhou_original_heir
+  }
+  th_restore_old_heir_stats = yes
+}
+th_respawn_alice_heir = {
+  hidden_effect = {
+    set_variable = {
+      which = th_respawn_heir_adm_stat
+      which = th_heir_adm_stat
+    }
+    set_variable = {
+      which = th_respawn_heir_dip_stat
+      which = th_heir_dip_stat
+    }
+    set_variable = {
+      which = th_respawn_heir_mil_stat
+      which = th_heir_mil_stat
+    }
+  }
+  define_heir = {
+    name = "1rKNN"  # Alice
+    dynasty = "õs<hyrmùO∑V"  # Margatroid
+    adm = 5
+    dip = 4
+    mil = 5
+    age = 20
+    culture = "Magician"
+    claim = 50
+    female = yes
+  }
+  hidden_effect = {
+    add_heir_personality = immortal_personality
+    set_heir_flag = touhou_character_ruler
+    set_heir_flag = touhou_original_heir
+    set_heir_flag = th_original_alice
+  }
+  th_restore_old_heir_stats = yes
+}
+th_restore_old_ruler_stats = {
+  hidden_effect = {
+    export_to_variable = {
+      variable_name = th_start_stat_adm
+      value = ADM
+      who = ROOT
+    }
+    export_to_variable = {
+      variable_name = th_start_stat_dip
+      value = DIP
+      who = ROOT
+    }
+    export_to_variable = {
+      variable_name = th_start_stat_mil
+      value = MIL
+      who = ROOT
+    }
+    subtract_variable = {
+      which = th_respawn_adm_stat
+      which = th_start_stat_adm
+    }
+    subtract_variable = {
+      which = th_respawn_dip_stat
+      which = th_start_stat_dip
+    }
+    subtract_variable = {
+      which = th_respawn_mil_stat
+      which = th_start_stat_mil
+    }
+  }
+  while = {
+    limit = {
+      check_variable = {
+        which = th_respawn_adm_stat
+        value = 1
+      }
+    }
+    change_adm = 1
+    subtract_variable = {
+      which = th_respawn_adm_stat
+      value = 1
+    }
+  }
+  while = {
+    limit = {
+      check_variable = {
+        which = th_respawn_dip_stat
+        value = 1
+      }
+    }
+    change_dip = 1
+    subtract_variable = {
+      which = th_respawn_dip_stat
+      value = 1
+    }
+  }
+  while = {
+    limit = {
+      check_variable = {
+        which = th_respawn_mil_stat
+        value = 1
+      }
+    }
+    change_mil = 1
+    subtract_variable = {
+      which = th_respawn_mil_stat
+      value = 1
+    }
+  }
+}
+th_restore_old_heir_stats = {
+  hidden_effect = {
+    export_to_variable = {
+      variable_name = th_heir_start_stat_adm
+      value = heir_adm
+      who = ROOT
+    }
+    export_to_variable = {
+      variable_name = th_heir_start_stat_dip
+      value = heir_dip
+      who = ROOT
+    }
+    export_to_variable = {
+      variable_name = th_heir_start_stat_mil
+      value = heir_mil
+      who = ROOT
+    }
+    subtract_variable = {
+      which = th_respawn_heir_adm_stat
+      which = th_start_stat_heir_adm
+    }
+    subtract_variable = {
+      which = th_respawn_heir_dip_stat
+      which = th_start_stat_heir_dip
+    }
+    subtract_variable = {
+      which = th_respawn_heir_mil_stat
+      which = th_start_stat_heir_mil
+    }
+  }
+  while = {
+    limit = {
+      check_variable = {
+        which = th_respawn_heir_adm_stat
+        value = 1
+      }
+    }
+    change_heir_adm = 1
+    subtract_variable = {
+      which = th_respawn_heir_adm_stat
+      value = 1
+    }
+  }
+  while = {
+    limit = {
+      check_variable = {
+        which = th_respawn_heir_dip_stat
+        value = 1
+      }
+    }
+    change_heir_dip = 1
+    subtract_variable = {
+      which = th_respawn_heir_dip_stat
+      value = 1
+    }
+  }
+  while = {
+    limit = {
+      check_variable = {
+        which = th_respawn_heir_mil_stat
+        value = 1
+      }
+    }
+    change_heir_mil = 1
+    subtract_variable = {
+      which = th_respawn_heir_mil_stat
+      value = 1
+    }
+  }
+}

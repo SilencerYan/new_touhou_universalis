@@ -1,0 +1,57 @@
+﻿l_english:
+ th_cursed_donation_box: "«ˆÅ‹’T„vi±”±r"
+ th_cursed_donation_box_end_ai_tt: "òTåb	g§Y«ˆÅ‹’T„vi±”±r§!40t^0"
+ th_cursed_donation_box_start_tt: "ZS KN ^y N ¦`0"
+ th_cursed_donation_box_end_no_reimu_tt: "ZSKNup¦hN=fSVMR„vßu»lw0"
+ th_cursed_donation_box_start_reimu_tt: "ZSKNup¦h=fSVMR„vßu»lw0"
+ th_cursed_donation_box_end_tt: "ZS KN ^y 0k œU0"
+ th_religious_turmoil: "—RYe¨RqN"
+ th_gensokyan_celestial_trial: "‰^ó`aN)YgKNÕ‹¼p"
+ th_gensokyan_celestial_trial_start_tt: "SVMR„v‡v^=f§Y‰^ó`aNKNXR(W§!0"
+ th_gensokyan_celestial_trial_stop_tt: "SVMR„v‡v^v^^—§Y‰^ó`aNKNXR(W§!0"
+ th_has_gensokyan_celestial_empire_tt: "òTžRËe§Y‰^ó`aN)Yg§!?eœ^9ei—"
+ th_anti_makaien_rebellion: "ÍST›LuºNÛSqN"
+ th_anti_makaien_rebellion_end_ai_tt: "§YÍST›LuºNÛSqN§!òTcíu100t^0"
+ th_anti_makaien_rebellion_start_tt: "‹NöN0§Y^yîu„vªS§!0òTÑSu0"
+ th_anti_makaien_rebellion_end_tt: "òTŒRbûN¡R§YËR¹RKNS§!b§YˆvOKNS§!0"
+ estate_crow_tengu_disaster: "&ž)Y×r?eØS"
+ estate_crow_tengu_disaster_desc: "°eû•¥bNÑSUS—VÇŽNHV'YÿåNóŽN«ˆ²‹HN=fýV¶R„vwckŒcµcw0ýV¶RCgÄg«ˆŒcác(WNS²–ðu„v°‹wKb-N0"
+ EST_CRUSHED_CROW_TENGU: "§Y&ž)Y×r§!«ˆ§YJR1V§!0"
+ estate_great_tengu_disaster: "'Y)Y×r?eØS"
+ estate_great_tengu_disaster_desc: "'Y)Y×r6–BSÑSUS—VÇŽNHV'YÿåNóŽN«ˆ²‹HN=fýV¶R„vwckŒcµcw0"
+ EST_CRUSHED_GREAT_TENGU: "§Y'Y)Y×r§!«ˆ§YJR1V§!0"
+ estate_wolf_tengu_disaster: "‹vür)Y×rìrËz"
+ estate_wolf_tengu_disaster_desc: "‹vür)Y×r6–BSÑSUS—VÇŽNHV'YÿåNóŽN1»y†NbìN„vŒcµcÿRÂˆúQ»Sv^bËz†NN*N^SŽNÖNìNêñT„výV¶R0"
+ estate_wolf_tengu_disaster_tooltip: "‚Yœgdk‹NÑSuÿ§Y‹vür)Y×r§!SO·ƒ—VìrËzv^ú^ýVÿ`OïSåN	ébåNÙ*N°eýV¶RVËY8n©s0"
+ estate_lunarian_rabbits_disaster: "gTQìrËz"
+ estate_lunarian_rabbits_disaster_desc: "gTQ6–BSÑSUS—VÇŽNHV'YÿåNóŽN1»y†NbìN„vŒcµcÿRÂˆúQ»Sv^bËz†NN*N^SŽNÖNìNêñT„výV¶R0"
+ estate_lunarian_rabbits_disaster_tooltip: "‚Yœgdk‹NÑSuÿ§YgTQ§!SO·ƒ—VìrËzv^ú^ýVÿ`OïSåN	ébåNÙ*N°eýV¶RVËY8n©s0"
+ th_wolf_tengu_estate_broke_free: "‹vür)Y×rìrËz"
+ desc_th_wolf_tengu_estate_broke_free: "‹vür)Y×r±R^ìrËzú^ýV0bìNSOñmIRa×S0R›Q‹NºNãS„vAm1Y0"
+ th_curtail_estate_great_tengu_tt: "§YJR1V'Y)Y×r6–BS0§!"
+ th_curtail_estate_crow_tengu_tt: "§YJR1V&ž)Y×r6–BS0§!"
+ th_tengu_caste_civil_war_disaster: ")Y×r…Qb"
+ th_tengu_caste_civil_war_disaster_desc: "'Y)Y×rSú^INNNOIrµuKNô•„v't.VsQû|òTÑSUSómgKbàeVr„v0Wek0NOIrµu4ngêMRw„v‹Së-Nã‰>eúQeg0"
+ th_tengu_caste_civil_war_disaster_at: "óS	g§Y3§!!kK„zz„v)YT›÷SäNÿ§Y[Root.GetNumOfFailedDemands]§!/§Y3§!	ÿ0"
+ th_tengu_caste_civil_war_disaster_bt: "óS	g§Y4§!!kK„zz„v)YT›÷SäNÿ§Y[Root.GetNumOfFailedDemands]§!/§Y4§!	ÿ0"
+ th_tengu_caste_civil_war_disaster_ct: "óS	g§Y5§!!kK„zz„v)YT›÷SäNÿ§Y[Root.GetNumOfFailedDemands]§!/§Y5§!	ÿ0"
+ th_tengu_caste_civil_war_disaster_et: "óS	g§Y6§!!kK„zz„v)YT›÷SäNÿ§Y[Root.GetNumOfFailedDemands]§!/§Y6§!	ÿ0"
+ th_tengu_caste_civil_war_disaster_ft: "óS	g§Y7§!!kK„zz„v)YT›÷SäNÿ§Y[Root.GetNumOfFailedDemands]§!/§Y7§!	ÿ0"
+ th_tengu_caste_civil_war_disaster_gt: "§Y)Y×r…Qb—VR§!ØšŽN§Y14§!bNOŽN§Y-14§!R0\n\nØšŽN§Y14§!RÿR§Y'Y)Y×r§!6–BSb—V…Qbv^hËz§Y'Y)Y×rÝuùRTIN6R§!0\nNOŽN§Y-14§!RÿR§YNBS)Y×r§!b—V…Qbv^ú^Ëz§Y)Y×rqQŒTýV§!0\n\nSVMR…Qb—VRÿ§Y[Root.th_tengu_civil_war_score.GetValue]§!"
+ th_tengu_caste_civil_war_disaster_tt: "§Y)YT›÷SäN§!(W…QbÛLˆöeNQïS(u0"
+ tgu_cannot_call_diet_tt: "§R(W§Y)Y×r…Qb§!ÛLˆöeNýwìSV®‹‹NO0§!"
+ th_num_of_completed_agendas_tt: "[Root.tgu_completed_agendas.GetValue]"
+ th_num_of_failed_agendas_tt: "[Root.tgu_failed_agendas.GetValue]"
+ th_kappa_counter_movement_disaster: "³låzÍSÐ¨R"
+ kpp_triggered_kappa_counter_movement_disaster_tt: "˜^§Y6RšRÍSÛSqNÕl§!³Q®‹0"
+ th_kappa_counter_movement_disaster_tt: "Œp¾–§Y³låzÍSÐ¨R§!òTÏucíu†NóS§Y10§!t^0"
+ th_kappa_guild_wars_disaster: "³låzLˆO—e‰N"
+ kpp_triggered_kappa_guild_wars_disaster_tt: "˜^§Yã‰ceHV'Y>mû|§!³Q®‹0"
+ th_kappa_guild_wars_disaster_tt: "Œp¾–§Y³låzLˆO—e‰N§!òTÏucíu†NóS§Y10§!t^0"
+ kpp_has_nitori_in_charge_tt: "§Y³lÎWwƒÖS§!=f§Y[Root.GetName]§!„vßu»lw0"
+ kpp_had_the_capitalists_in_power_once: "§Y…D,g¶R§!þf(WŒp¾–gô•ŒcCg0"
+ kpp_had_explosion_enjoyers_in_power_once: "§Yr¸pPNPRºN§!þf(WŒp¾–gô•ŒcCg0"
+ kpp_had_independent_marines_in_power_once: "§YêHV4luQ§!þf(WŒp¾–gô•ŒcCg0"
+ th_lunarian_rabbits_rebellion: "gTQÛSqN"
+ th_lunarian_rabbits_rebellion_end_ai_tt: "§YgTQÛSqN§!òTcíu§Y10§!t^0"
+ th_lunarian_rabbits_rebellion_tt: "bìN	ébZWcùRgTQžRËe§Y%Nw‘G•‹S§!0"

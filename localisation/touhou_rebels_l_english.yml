@@ -1,0 +1,142 @@
+﻿l_english:
+ th_youkai_rebels_title: "ÂrqN–Y*`"
+ th_youkai_rebels_name: "$COUNTRY$ÂrqN–Y*`"
+ th_youkai_rebels_desc: "ÑSÂrÿ'N1Ytzf„v–Y*`ÿIeûQwÆ‰¿u…QNbýwwÁ‰„vÏk*NºN0ƒRìNêSýBlÁkmpN÷mqN0"
+ th_youkai_rebels_army: "ÂrqNÛS›Q"
+ th_youkai_rebels_demand: "dqN¡r»l"
+ th_youkai_rebels_demand_desc: "êVØS-NŽ¨Rweg„v–Y*`0vQ-NN›N–Y*`uó'N1Y†NÃVzfÿNn†wP†ŽNb¹ewýN-NÿvQ=UN„v2kg¿O=fKSïSýw0W6R.úQ÷mqNeg0"
+ th_estates_rebels_title: "‰kLeÛS›Q"
+ th_estates_rebels_name: "$COUNTRY$‰kLeÛS›Q"
+ th_estates_rebels_desc: "æ‚'YÇNñm„v‰kLe¹eKNý–w0ÖNìNûRBl(WžXHVÖNìN†˜–ˆqVÍT›R„vTöeJR1VLe¹e?eCg„v†˜üRºN0"
+ th_estates_rebels_army: "‰kLeÛS›Q"
+ th_estates_rebels_demand: "HN‰kLe©R›R"
+ th_estates_rebels_demand_desc: "ÍSÛS„v=fb¹e‰kLe„vý–wÿÖNìNÕ‹þV(Wb¹eƒX…QžXHV|V¹e‰kLe„vqVÍT›Rÿ"
+ th_buddhist_rebels_title: "—RYeÛS›Q"
+ th_buddhist_rebels_name: "$RELIGION$Ârípw"
+ th_buddhist_rebels_desc: "Âríp—RYe’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„vNáOw0"
+ th_buddhist_rebels_army: "$RELIGION$ÛS›Q"
+ th_buddhist_rebels_demand: "ˆvO$COUNTRYNAME$"
+ th_buddhist_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0"
+ th_moriya_rebels_title: "—RYeÛS›Q"
+ th_moriya_rebels_name: "$RELIGION$Ârípw"
+ th_moriya_rebels_desc: "Âríp—RYe’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„vNáOw0"
+ th_moriya_rebels_army: "$RELIGION$ÛS›Q"
+ th_moriya_rebels_demand: "ˆvO$COUNTRYNAME$"
+ th_moriya_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0"
+ th_taoist_rebels_title: "—RYeÛS›Q"
+ th_taoist_rebels_name: "$RELIGION$Ârípw"
+ th_taoist_rebels_desc: "Âríp—RYe’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„vNáOw0"
+ th_taoist_rebels_army: "$RELIGION$ÛS›Q"
+ th_taoist_rebels_demand: "ˆvO$COUNTRYNAME$"
+ th_taoist_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0"
+ th_old_hakurei_rebels_title: "—RYeÛS›Q"
+ th_old_hakurei_rebels_name: "$RELIGION$Ârípw"
+ th_old_hakurei_rebels_desc: "Âríp—RYe’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„vNáOw0"
+ th_old_hakurei_rebels_army: "$RELIGION$ÛS›Q"
+ th_old_hakurei_rebels_demand: "ˆvO$COUNTRYNAME$"
+ th_old_hakurei_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0"
+ th_shinkistic_rebels_title: "—RYeÛS›Q"
+ th_shinkistic_rebels_name: "$RELIGION$Ârípw"
+ th_shinkistic_rebels_desc: "Âríp—RYe’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„vNáOw0"
+ th_shinkistic_rebels_army: "$RELIGION$ÛS›Q"
+ th_shinkistic_rebels_demand: "ˆvO$COUNTRYNAME$"
+ th_shinkistic_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0"
+ th_rel_lunarian_rebels_title: "—RYeÛS›Q"
+ th_rel_lunarian_rebels_name: "$RELIGION$Ârípw"
+ th_rel_lunarian_rebels_desc: "Âríp—RYe’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„vNáOw0"
+ th_rel_lunarian_rebels_army: "$RELIGION$ÛS›Q"
+ th_rel_lunarian_rebels_demand: "ˆvO$COUNTRYNAME$"
+ th_rel_lunarian_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0"
+ th_hakureishinto_rebels_title: "—RYeÛS›Q"
+ th_hakureishinto_rebels_name: "$RELIGION$Ârípw"
+ th_hakureishinto_rebels_desc: "Âríp—RYe’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„vNáOw0"
+ th_hakureishinto_rebels_army: "$RELIGION$ÛS›Q"
+ th_hakureishinto_rebels_demand: "ˆvO$COUNTRYNAME$"
+ th_hakureishinto_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0"
+ forbid_respawn_tt: "bìN„v¿RLeSO—V0R‰Ršbcíu§Y10t^§!0"
+ th_suppresed_revolters: "òTs^o`ÛSqN"
+ desc_th_suppresed_revolters: "å‹wýN…Q„vÇ–cOuQÊ`T0R†NSV0W„vOOlÿO—V(W*gegÑSuÛSqN„vïSýw'`^—8^S0"
+ th_earth_spirit_rebels_title: "0Wup"
+ th_earth_spirit_rebels_name: "$COUNTRY$0Wup"
+ th_earth_spirit_rebels_desc: "úQçe0WñrYÇN„v0Wup0ƒRìNêS4ng­d’d÷mqN6e·ƒÁkmp0"
+ th_earth_spirit_rebels_army: "0WupÛS›Q"
+ th_earth_spirit_rebels_demand: "RCgÂˆW"
+ th_earth_spirit_rebels_demand_desc: "0WupàVVØSwŽ¨RN‰R0ƒRìNd–†NVwKSïSýwY„v÷mqNKNY+RàeÖNBlg‹YýwžR°sýV¶R„vôTSr^S0"
+ th_independence_fighters_title: "ìrËz—eëX"
+ th_independence_fighters_name: "ÍS—b$COUNTRY$„vìrËz—eëX"
+ th_independence_fighters_desc: "Ù›NÛS›Q×SY†NHSESŽNYegT›ir„vßu»lKNN0ÖNìN‰BlNÜ`NRãN÷Nê[Root.GetName]ÖS—VìrËzÿ"
+ th_independence_fighters_army: "ìrËzÛS›Q"
+ th_independence_fighters_demand: "ê[Root.GetName]ìrËz"
+ th_independence_fighters_demand_desc: "áQºNìN‰BlÖS—Vê[Root.GetName]„vŒRhQìrËzÿwNN(WNNÖNìNOuIm(WŒ„v×e^KNNÿêS‰N=f(W[Root.Monarch.GetName]KNN„v1SLˆ†N0"
+ th_kappa_rebels_title: "³låzÞz‰NùRKb"
+ th_kappa_rebels_name: "$COUNTRY$Þz‰NùRKb"
+ th_kappa_rebels_desc: "bìN-N¸‹YlOÒbÝub²‹SVMR„vŽb^=fvQ†˜–ˆv^‰Bl©‹+RºNeg†˜üR³låz0"
+ th_kappa_rebels_army: "³låzÊ‰Î‰²SO"
+ th_kappa_rebels_demand: "¨cû$COUNTRYNAME$"
+ th_kappa_rebels_demand_desc: "árCgÛS›QHNvQP	ºNwbåNBlßu»l³låz0ÖNìN‰Bl`O©‹$PRETENDER_MONARCH$bHN$COUNTRY$„vTIN0"
+ th_super_capitalists_title: "…D,g¶R"
+ th_super_capitalists_name: "$COUNTRY$…D,g¶R"
+ th_super_capitalists_desc: "…D,g¶R=fýV…Q„vN'Y>mû|ÿÖNìNûRBlåNÛekN?eœ^DnHNãN÷NegžR°svQ)R¦mg'YS0ÖNìNNbýVØ	g+R„v>mû|jObåN¿O©‹ÖNìN„v4Y?QbHNýV¶R?eœ^„v–™0"
+ th_super_capitalists_army: "…D,g¶R„vÇ–cONgKb"
+ th_explosion_enjoyers_title: "r¸pPNPRºN"
+ th_explosion_enjoyers_name: "$COUNTRY$r¸pPNPRºN"
+ th_explosion_enjoyers_desc: "r¸pPNPRºN=fýV…Q„vN'Y>mû|ÿÖNìNÆQYHN†NÛekwzrrrN‹NNir'YY=fåNr¸p„vbVVegžR0ÖNìNNbýVØ	g+R„v>mû|jObåN¿O©‹ÖNìN„v4Y?QbHNýV¶R?eœ^„v–™0 "
+ th_explosion_enjoyers_army: "r¸pPNPRºN„våTuQ"
+ th_independent_marines_title: "êHV4luQ"
+ th_independent_marines_name: "$COUNTRY$êHV4luQ"
+ th_independent_marines_desc: "êHV4luQ=fýV…Q„vN'Y>mû|ÿÖNìNó`‰žR°sbýV„vŒRhQ›Q‹NSv^(WdkÇz-N|bNg‰cê1u0ÖNìNNbýVØ	g+R„v>mû|jObåN¿O©‹ÖNìN„v4Y?QbHNýV¶R?eœ^„v–™0"
+ th_independent_marines_army: "êHV4luQF–b–"
+ th_lunarian_rabbits_rebels_title: "gTQÛS›Q"
+ th_lunarian_rabbits_rebels_name: "$COUNTRY$gTQ"
+ th_lunarian_rabbits_rebels_desc: "gTQûRBlFd1bìN„vßu»lv^Sb—r(WbìN„vW0WNú^ËzwÖNìNêñT„výV¶R0"
+ th_lunarian_rabbits_rebels_army: "gTQê1ubëX"
+ th_lunarian_rabbits_rebels_demand: "žXHVê»lCg"
+ th_lunarian_rabbits_rebels_demand_desc: "gTQ‰Bl«ˆb²‹HNN*NlÏeN9hncvQlÏe.OßuÛLˆê»l0"
+ th_wolf_tengu_rebels_title: "‹vür)Y×rÛS›Q"
+ th_wolf_tengu_rebels_name: "$COUNTRY$ÛS›Q"
+ th_wolf_tengu_rebels_desc: "‹vür)Y×rûRBlFd1bìN„vßu»lv^Sb—r(WbìN„vW0WNú^ËzwÖNìNêñT„výV¶R0"
+ th_wolf_tengu_rebels_army: "‹vür)Y×rã‰>e›Q"
+ th_wolf_tengu_rebels_demand: "žXHVê»lCg"
+ th_wolf_tengu_rebels_demand_desc: "‹vür)Y×r‰Bl«ˆb²‹HNN*NlÏeN9hncvQlÏe.OßuÛLˆê»l0"
+ th_crow_tengu_rebels_title: "&ž)Y×rÛS›Q"
+ th_crow_tengu_rebels_name: "$COUNTRY$ÛS›Q"
+ th_crow_tengu_rebels_desc: "&ž)Y×rÍSùRûNUO-N.Y?eœ^Õ‹þVÆ–CgS„vLˆHNÿÖNìN‰BlØš¦^ê»lw^—ìrËz0"
+ th_crow_tengu_rebels_army: "&ž)Y×r›Q–"
+ th_crow_tengu_rebels_demand: "žXHVê»lCg"
+ th_crow_tengu_rebels_demand_desc: "&ž)Y×rŒS&P†N«ˆeÜ„v–™ýNb»ltÿv^²‹HNvQNsQÃV,g0W—Bl0ÖNìN‰BlbìN©‹T*N0WHSÛLˆê»l0"
+ th_great_tengu_rebels_title: "'Y)Y×rÛS›Q"
+ th_great_tengu_rebels_name: "$COUNTRY$ÛS›Q"
+ th_great_tengu_rebels_desc: "'Y)Y×r8^àVHNNánTINOPTNOIrµu„vê1uS9ei—wÑS¨RÛSqN0"
+ th_great_tengu_rebels_army: "'Y)Y×r›Q–"
+ th_great_tengu_rebels_demand: "žX RyrCg"
+ th_great_tengu_rebels_demand_desc: "'Y)Y×r‰BlbìNÍ‘°e¿l(uwNWYSOû|sSlšÌwN„v‘šëXßu»lNwgÎNÖNìN„vœQl0ÖNìN‰BlÓumgÙ*N1uQS1„vNBS)Y×r¡rt„výV¶R0"
+ th_scientistic_rebels_title: "—RYeÛS›Q"
+ th_scientistic_rebels_name: "$RELIGION$Ârípw"
+ th_scientistic_rebels_desc: "ÑyfRº‹ÂráO’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„v^—áO’V0\n§Yå‹ÛS›QàeÕlŠbêñT„vNLuÂ‰åNýVYe„vbVVHV RÙuÖNýV0§!"
+ th_scientistic_rebels_army: "$RELIGION$ÛS›Q"
+ th_scientistic_rebels_demand: "SbP$COUNTRYNAME$"
+ th_scientistic_rebels_demand_desc: "ÑyfRº‹ÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WÛLˆxvzžRõ0\n§Yå‹ÛS›QàeÕlŠbêñT„vNLuÂ‰åNýVYe„vbVVHV RÙuÖNýV0§!"
+ th_occultism_rebels_title: "—RYeÛS›Q"
+ th_occultism_rebels_name: "$RELIGION$Ârípw"
+ th_occultism_rebels_desc: "—RYeÂráO’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„v^—áO’V0\n§Yå‹ÛS›QàeÕlŠbêñT„vNLuÂ‰åNýVYe„vbVVHV RÙuÖNýV0§!"
+ th_occultism_rebels_army: "$RELIGION$ÛS›Q"
+ th_occultism_rebels_demand: "SbP$COUNTRYNAME$"
+ th_occultism_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0\n§Yå‹ÛS›QàeÕlŠbêñT„vNLuÂ‰åNýVYe„vbVVHV RÙuÖNýV0§!"
+ th_gensokirishitan_rebels_title: "—RYeÛS›Q"
+ th_gensokirishitan_rebels_name: "$RELIGION$Ârípw"
+ th_gensokirishitan_rebels_desc: "—RYeÂráO’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„v^—áO’V0"
+ th_gensokirishitan_rebels_army: "$RELIGION$ÛS›Q"
+ th_gensokirishitan_rebels_demand: "O$COUNTRYNAME$9e—R"
+ th_gensokirishitan_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0"
+ th_scarlet_christians_rebels_title: "—RYeÛS›Q"
+ th_scarlet_christians_rebels_name: "$RELIGION$Ârípw"
+ th_scarlet_christians_rebels_desc: "—RYeÂráO’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„v^—áO’V0"
+ th_scarlet_christians_rebels_army: "$RELIGION$ÛS›Q"
+ th_scarlet_christians_rebels_demand: "O$COUNTRYNAME$9e—R"
+ th_scarlet_christians_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0"
+ th_alukhuat_rebels_title: "—RYeÛS›Q"
+ th_alukhuat_rebels_name: "$RELIGION$Ârípw"
+ th_alukhuat_rebels_desc: "—RYeÂráO’VŽVŽV(W×SµcŽNVáOðNýV¶R„vwýNŽcwÛSqN0ÖNìNaþV.O­dvQáOðNv^SbûQNb	g„v^—áO’V0"
+ th_alukhuat_rebels_army: "$RELIGION$ÛS›Q"
+ th_alukhuat_rebels_demand: "O$COUNTRYNAME$9e—R"
+ th_alukhuat_rebels_demand_desc: "—RYeÛS›QHN$RELIGION$áOðNwb0ÖNìN‰BlbìNb²‹ƒRóØšàeN„v0WMOÿbwóS©‹bìNjPbk9eØSÖNìNáOðN„v>N¨Rÿ©‹ÖNìNs^Y—0WTÜbÖNìN„v^y0"

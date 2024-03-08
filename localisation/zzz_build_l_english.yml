@@ -1,0 +1,215 @@
+﻿l_english:
+ building_spectacle_factory: "j•GråT‚S"
+ building_spectacle_factory_desc: "§TwýN—‰ÿ§!\n-ÑSUS¦^ÿ15¤1\n\n§TýV¶R—‰ÿ§!\n-Y²NÑyŽbÿ9	ÿ\n-R°e¦^ÿ15£ino_icon£\n\n§TDn—‰ÿ§!\n-»sƒtÿ0.6\n\n§THeœgÿ§!\n-8fÁT9eØSHNÿ§YIQfRêNhV§!\n"
+ building_steam_engine_manu: "¸„‹lHgÅˆM‘¿u"
+ building_steam_engine_manu_desc: "§TýV¶R—‰ÿ§!\n-Lˆ?eÑyŽbÿ23	ÿ\n-R°e¦^ÿ30£ino_icon£\n-òT¥c×S§Y=T™„ININ§!`no\n\n§TDn—‰ÿ§!\n-Ü”ÿ0.4\n-•ÿ0.3\n\n§THeœgÿ§!\n-8fÁT9eHNÿ§Y¸„‹lHg§!\n"
+ building_metalworking_workshop: "Ñ‘^S RåT‚S"
+ building_metalworking_workshop_desc: "§TýV¶R—‰ÿ§!\n-›Q‹NÑyŽbÿ16	ÿ\n-R°e¦^ÿ15£ino_icon£\n\n§TDn—‰ÿ§!\n-Á”ÿ1.0\n\n§THeœgÿ§!\n-8fÁTØSbÿ§YÑ‘^S RåT§!\n"
+ building_munition_factory: "›QkpåT‚S"
+ building_munition_factory_desc: "§TýV¶R—‰ÿ§!\n-›Q‹NÑyŽbÿ15	ÿ\n-R°e¦^ÿ17£ino_icon£\n\n§TDn—‰ÿ§!\n-Å”ÿ1.0\n\n§THeœgÿ§!\n-8fÁT9eHNÿ§Y›Q—ÁT§!\n"
+ building_off_1_desc: "àVHNHONDn`ONýwuµN RœQ®p\n\nHN†Nb`YuµNÿnxÝO`O	g³Y„vDnv^§RgdÁk§!Ùhú^Qr"
+ building_off_2_desc: "àVHNHONDn`ONýwuµNÑ‘^S RåT\n\nHN†Nb`YuµNÿnxÝO`O	g³Y„vDnv^§RgdÁk§!Ùhú^Qr"
+ building_off_3_desc: "àVHNHONDn`ONýwuµN›Q—ÁT\n\nHN†Nb`YuµNÿnxÝO`O	g³Y„vDnv^§RgdÁk§!Ùhú^Qr"
+ building_off_4_desc: "àVHNHONDn`ONýwuµN¸„‹lHg\n\nHN†Nb`YuµNÿnxÝO`O	g³Y„vDnv^§RgdÁk§!Ùhú^Qr"
+ building_off_5_desc: "àVHNHONDn`ONýwuµNIQfRêNhV\n\nHN†Nb`YuµNÿnxÝO`O	g³Y„vDnv^§RgdÁk§!Ùhú^Qr"
+ building_off_1: "HONDn"
+ building_off_2: "HONDn"
+ building_off_3: "HONDn"
+ building_off_4: "HONDn"
+ building_off_5: "HONDn"
+ building_cannon_foundry: " RœQ®påT‚S"
+ building_cannon_foundry_desc: "§TwýN—‰ÿ§!\n-ÑSUS¦^ÿ10¤1\n\n§TýV¶R—‰ÿ§!\n-›Q‹NÑyŽbÿ7	ÿ\n-R°e¦^ÿ10£ino_icon£\n\n§TDn—‰ÿ§!\n-Ü”ÿ0.4\n-!•ÿ0.3\n\n§THeœgÿ§!\n-8fÁT9eHNÿ§Y RœQ®p§!\n"
+ building_off: "HONDn"
+ building_off_desc: "àVHNHONDn`ONýwuµN RœQ®p\n\nHN†Nb`YuµNÿnxÝO`O	g³Y„vDnv^§RgdÁk§!Ùhú^Qr"
+ building_canal_system: "Ð³lû|ßu"
+ building_canal_system_desc: "§TýV¶R—‰ÿ§!\n-Lˆ?eÑyŽbÿ7	ÿ\n"
+ building_road_network_desc: "§TýV¶R—‰ÿ§!\n-Lˆ?eÑyŽbÿ3	ÿ\n"
+ building_mine: "ÿwµN"
+ building_mine_desc: "§TwýN‰Blÿ§!\n-àeÇ‘ÿwîOckuHe\n-wýN…QàeÿwirDn\n\n§TýV¶R‰Blÿ§!\n-—‰Y²N¹ppe§Y100£dip£§!\n\n§THeœgÿ§!\n-`OS·ƒ—VNRïSO`O„vwýN…QØR¢c0RÐg›NDn„vVÇ‘‹NöN0§!\n"
+ building_wood_workshop: "(gåTJW"
+ building_wood_workshop_desc: "§TwýN—‰ÿ§!\n-8fÁTÿ(gPg\n-ÑSUS¦^ÿ10¤1\n\n§TýV¶R—‰ÿ§!\n-Lˆ?eÑyŽb(10)\n-R°e¦^ 5£ino_icon£\n\n§THeœgÿ§!\n-8fÁTØSHNÿ§Y(gåT§!\n"
+ building_leather_workshop: "6Ri—‚S"
+ building_leather_workshop_desc: "§TwýN—‰ÿ§!\n-8fÁTÿrrju\n-ÑSUS¦^ÿ10¤1\n\n§TýV¶R—‰ÿ§!\n-Lˆ?eÑyŽbÿ14	ÿ\n-R°e¦^ 7£ino_icon£\n\n§THeœgÿ§!\n-8fÁT9eØSHNÿ§Y®vi—§!\n"
+ building_jewellery_workshop: "–™p™åTJW"
+ building_jewellery_workshop_desc: "§TwýN—‰ÿ§!\n-8fÁTÿ§Y%tÀs§!§Ob§!§YRów§!§Ob§!§YÍsàs§!§Ob§!§Yö”§!§Ob§!§YÑ‘ÿw§!\n-ÑSUS¦^ÿ20¤1\n\n§TýV¶R—‰ÿ§!\n-Y²NÑyŽbÿ11	ÿ\n-R°e¦^ 20£ino_icon£\n\n§THeœg§!\n-8fÁT9eHNÿ§Y–™p™§!\n"
+ building_steam_factory: "¸„‹lHgåT‚S"
+ building_steam_factory_desc: "‰BlLˆ?eÑyŽbÿ24	ÿ\n‰BlR°e¦^35£ino_icon£\n-òTÏu¥c³u§Y=T™„ININ§!\n‰BlóSN*NwýNXR(W§Y¸„‹lHg§!\n"
+ building_magical_library: "T›ÕlþVfN†™"
+ building_magical_library_desc: "‰BlLˆ?eÑyŽbÿ10	ÿ\n‰BlR°e¦^£ino_icon£\n‰BlóSN*NwýNXR(W§YT›ÕlfN§!\n"
+ SPECIALMANUFACTORY: "yrŠkåT‚S"
+ INNOVATION: "R°e¦^"
+ MINING: "Ç‘ÿw-N"
+ INFRASTRUCTURE: "úWNx¾‹Ëe"
+ LATENT: "jo(W8fÁT"
+ LATENT_METALWORKING: "§WÑ‘^S RåT   3.50¤\nFUÁTµNúQÿ§!§G+0.1§!"
+ LATENT_MUNI: "§W›Q—ÁT 4.00¤\n­‹Ãuÿ§!§G+2.5%§!"
+ LATENT_LEATHER: "§W®vi— 3.50¤\nNb×S²QûQ2O³Rÿ§!§G-10%§!"
+ LATENT_WOOD: "§W(gåT 3.50¤\nLˆ?e¹RÏ‘ÿ§! §G+10%§!"
+ LATENT_JEV: "§W–™p™ 5.00¤\nLˆ?eHe‡sÿ§!§G+2.5%§!"
+ LATENT_STEAM: "§W¸„‹lHg 5.00¤\nÑyŽb±‚9ÿ§!§G-2.5%§!"
+ LATENT_CANNON: "§W RœQ®p 4.25¤\n®puQjObýw›Rÿ§!§G+10%§!"
+ LATENT_OPT: "§WIQfRêNhV 4.00¤\nwm›QS†˜Hg¨Rÿ§!§G+1§!"
+ prices_marcin.1.t: "·VýVdUR‘¯uÀQÕl"
+ prices_marcin.1.d: "·VýVdUR‘¯uÀQÕlÿb¸‹=fgäSw„vß˜ÁTÕlÄ‰òT«ˆ¥c³u0Ùy˜ÕlÄ‰‰BldUR‘„vbRêSP–ŽN4l0'Y¦žŒTdUR‘±‚0ß˜ÁTÑv¡rÕl(uŽNte*N·VýVÿOdUR‘uµN×S0RôfYP–6R0"
+ prices_marcin.1.a: "=f"
+ REIN: "·VýVdUR‘¯uÀQÕl"
+ New_TradeGood_Events.1.t: "FUNUc¸œ"
+ New_TradeGood_Events.1.d: "(W17NªuÿºNìNšRg0RSgW»SUc¸œ0ÖNìN=f1u,rNybÎN‹NNNUc¸œ„vºNÿôT¯eKQ„vN¶R†˜üR„v0ùR¸œ|œµNÁT„v—BlŒTUc¸œýVKNô•„vÞz‰NnxÝO†N÷N<hESØšNN0"
+ New_TradeGood_Events.1.a: "=f"
+ COMMERCIAL_WHALING: "FUNUc¸œ"
+ prices_marcin.3.t: "VÛlšÃ”¯…0R'k2m"
+ prices_marcin.3.d: "lšÃ”¯…ŽN16NªuNJSöS«ˆVÛ'k2mÿ=fåT&O^'Y²Nbc„vNèR0ÙÍyINß˜–T«ˆ'k2mwmXTÐ0RNLuT0W„v†˜WŒT=nãS0"
+ prices_marcin.3.a: "*Y‹Y†N"
+ prices_marcin.10.t: "VÛ‰¢uÿg0R'k2m"
+ prices_marcin.10.d: "‰¢uÿgŽN16NªuNJSöS«ˆVÛ'k2mÿ=fåT&O^'Y²Nbc„vNèR0ÙÍyINß˜–T«ˆ'k2mwmXTÐ0RNLuT0W„v†˜WŒT=nãS0"
+ prices_marcin.4.t: "vYj‘ØSÍy"
+ prices_marcin.4.d: "–NwöeãN„vÑSUSÿ'k2m„vvYj‘6RjOåTz‚ßNwÓbUSúQ†N‚YR·Vr^j‘b^S›svYj‘„vØSÍyvYj‘ÿÙùRå‹y˜FUÁT„v÷N<hµNu†NïygqVÍT0"
+ prices_marcin.4.a: "*Y‹Y†N"
+ CHEESE_ART: "vYj‘6RjOåTz‚"
+ prices_marcin.7.t: "Ñy«ƒ„vNøuN"
+ prices_marcin.7.d: "Ébú‹„v®vÃWyrW·ZSSY<S=f,rN*N(Wa'Y)R„vÑy«ƒú^ËzNøuåTN„vºNÿß–ÖN„v–™RÿÑy«ƒ„vNøuNì„ÃRÑSUSÿˆVëV1S…Ç†N'k2m'YYpeÑS¾„vKbåTN-NÃV0"
+ prices_marcin.7.a: "bìN—V=ecÖN„vR°e"
+ prices_marcin.7.b: "±bIkÿbìNÊV-Nž©m"
+ metalworking_modifier_new: "Ñ‘^S RåTwýNVY±R"
+ metalworking_modifier_leader_new: "Ñ‘^S RåTINüRw Rb"
+ indigo_leader_new: "i—R—Óg™eIN‰uµNwVY±R"
+ camel_leader_new: "†š|šIN‰uµNwVY±R"
+ ebony_leader_new: "ÑžŽjIN‰uµNwVY±R"
+ llama_leader_new: "Ž2m|šIN‰uµNwVY±R"
+ mod_special_title: "£trade_icon_me£ beuHeœgUSHy"
+ mod_special_desc: "§Y8f Rb§!\n£dye_icon£-Çuir8f÷N<Pÿ§G+15.0%§!\n£lama_icon£-qS	0WbVÑSUSb,gÿ§G-10.0%§!\n£camel_icon£-r^ñelPÑSUSb,gÿ§G-10.0%§!\n\n(W`Oåb	g8f RbTÿÙ›NHeœgO(WNt^TwHe"
+ woad_type: "ØƒÝ„wn\n§WÙÍyi—R—Óg™e=fÎNØƒÝ„iir-NÐcÖS„vÿvQr‚.t+TÏ‘‰SŽNwckÎNpS¦^0WHSiir-NÐcÖS„vÓg™e§!"
+ woad_type_bad: "ØƒÝ„wn\n§WÙÍyi—R—Óg™e=fÎNØƒÝ„iir-NÐcÖS„vÿvQr‚.t+TÏ‘‰SŽNwckÎNpS¦^0WHSiir-NÐcÖS„vÓg™e§!"
+ indigo_india: "'k2m—Bl"
+ mod_goods_title: "£trade_icon_le£beuDn"
+ mod_goods_desc: "§ODn§! | §GïS(u§! | §M[Root.GetIfSubjectsTGE]§!| §YòTO(u§! | §TI`¡‹§!\nÜ”ÿ§G[Root.copper.GetValue]§!ÿ§M[Root.from_subjects_copper.GetValue]§!ÿ§Y[Root.copper_used.GetValue]§!ÿ§T[Root.copper_total.GetValue]§!\n!•ÿ§G[Root.tin.GetValue]§!ÿ§M[Root.from_subjects_tin.GetValue]§!ÿ§Y[Root.tin_used.GetValue]§!ÿ§T[Root.tin_total.GetValue]§!\nÁ”ÿ§G[Root.iron.GetValue]§!ÿ§M[Root.from_subjects_iron.GetValue]§!ÿ§Y[Root.iron_used.GetValue]§!ÿ§T[Root.iron_total.GetValue]§!\nÅ”ÿ§G[Root.lead.GetValue]§!ÿ§M[Root.from_subjects_lead.GetValue]§!ÿ§Y[Root.lead_used.GetValue]§!ÿ§T[Root.lead_total.GetValue]§!\n•ÿ§G[Root.zinc.GetValue]§!ÿ§M[Root.from_subjects_zinc.GetValue]§!ÿ§Y[Root.zinc_used.GetValue]§!ÿ§T[Root.zinc_total.GetValue]§!\n»sƒtÿ§G[Root.glass.GetValue]§!ÿ§M[Root.from_subjects_glass.GetValue]§!ÿ§Y[Root.glass_used.GetValue]§!ÿ§T[Root.glass_total.GetValue]§!\nßpIƒÿ§G[Root.tobacco.GetValue]§!ÿ§M[Root.from_subjects_tobacco.GetValue]§!ÿ§Y[Root.tobacco_used.GetValue]§!ÿ§T[Root.tobacco_total.GetValue]§!\nïSïSÿ§G[Root.cocoa.GetValue]§!ÿ§M[Root.from_subjects_cocoa.GetValue]§!ÿ§Y[Root.cocoa_used.GetValue]§!ÿ§T[Root.cocoa_total.GetValue]§!"
+ New_TradeGood_Events.2.a: "ôf°e"
+ prices_marcin.16.t: "pS¦^i—R—Óg™e8f"
+ prices_marcin.16.d: "(WÑS°sŽVpS¦^„vôf¹e¿O„v8fï¿uTÿÛãSFUºN—VåNVâl¯eV6e„v8fÍ‘z0'k2mùRpS¦^i—R—Óg™e„vÛãSŒTO(u'YE^¦^žX Rÿ6qwÙmNüRôSV0WµN„vi—R—Óg™eŠÑSN×S0kÎÿµNNbabaw–eQ)Tƒn0"
+ prices_marcin.16.a: "-Nÿ"
+ my_tooltip_woad: "ØƒÝ„wn„vi—R—Óg™eSOÛNekÿ\n8f÷N<Pÿ§R-0.5%§!\npS¦^0WHS„vi—R—Óg™ewýNSO·ƒ—Vÿ\n,g0WFUÁTµNúQîOckÿ§G+10%§!"
+ building_sculpture_workshop: "Õ–QXåTJW"
+ building_sculpture_workshop_desc: "§TwýN‰Blÿ§!\n-8fÁTÿ§Y'Ytów§!§Ob§!§Y‰s§!\n-ÑSUS¦^ÿ15¤1\n\n§TýV¶R‰Blÿ§!\n-Lˆ?eÑyŽbÿ7	ÿ\n-R°e¦^ 7£ino_icon£\n\n§THeœgÿ§!\n-8fÁTlØSHNÿ§Y'YtówÕ–QX§!§Ob§!§Y‰sÕ–QX§!\n"
+ building_uniforms_workshop: "Çu^‚S"
+ building_uniforms_workshop_desc: "§TwýN—‰ÿ§!\n-8fÁTÿ§Y^™e§!§Ob§!§YŠÛk§!§Ob§!§YÉh±‚§!\n-ÑSUS¦^ÿ15¤1\n\n§TýV¶R—‰ÿ§!\n-›Q‹NÑyŽbÿ21	ÿ\n-R°e¦^ 7£ino_icon£\n\n§THeœgÿ§!\n-8fÁT9eØSHNÿ§Y6Rg§!\n"
+ LATENT_METALWORKING_TECH: "£Military_technology_TGE£16"
+ LATENT_MUNI_TECH: "£Military_technology_TGE£15"
+ LATENT_LEATHER_TECH: "£Administrative_technology_TGE£14"
+ LATENT_WOOD_TECH: "£Administrative_technology_TGE£10"
+ LATENT_JEV_TECH: "£Diplomatic_technology_TGE£11"
+ LATENT_STEAM_TECH: "£Administrative_technology_TGE£24"
+ LATENT_CANNON_TECH: "£Military_technology_TGE£7"
+ LATENT_OPT_TECH: "£Diplomatic_technology_TGE£9"
+ LATENT_UNIFORMS: "§W6Rg   4.25¤\nF–›QëXlÞVY¦^ÿ§!§G+5%§!"
+ LATENT_UNIFORMS_TECH: "£Military_technology_TGE£21"
+ LATENT_SCULPTURE: "§WÕ–QX 4.00¤§!§Y'Ytów§W/§!‰s§!\n§WO'YåTzGSµu±‚9ÿ§!§G-15%§!\n§WÑSUSb,gîOckÿ§!§G-2.5%§!"
+ LATENT_SCULPTURE_TECH: "£Administrative_technology_TGE£7"
+ building_cigars_factory: "ê–ƒ‚S"
+ building_cigars_factory_desc: "§TýV¶R—‰ÿ§!\n-Y²NÑyŽbÿ10	ÿ\n-R°e¦^ÿ 15£ino_icon£\n\n§TDn—‰ÿ§!\n-ßpIƒÿ0.6\n\n§THeœgÿ§!\n-8fÁT9eØSHNÿ§Yê–ƒ§!\n"
+ building_chocolate_factory: "çTKQ›RåT‚S"
+ building_chocolate_factory_desc: "§TýV¶R—‰ÿ§!\n-Y²NÑyŽbÿ12	ÿ\n-R°e¦^ÿ 15£ino_icon£\n\n§TDn—‰ÿ§!\n-ïSïSÿ0.6\n\n§THeœgÿ§!\n-8fÁT9eØSHNÿ§YçTKQ›R§!\n"
+ building_off_6_desc: "àVHNHONDn`ONýwuµNê–ƒ\n\nHN†Nb`YuµNÿnxÝO`O	g³Y„vDnv^§RgdÁk§!Ùhú^Qr"
+ building_off_7_desc: "àVHNHONDn`ONýwuµNçTKQ›R\n\nHN†Nb`YuµNÿnxÝO`O	g³Y„vDnv^§RgdÁk§!Ùhú^Qr"
+ building_off_6: "HONDn"
+ building_off_7: "HONDn"
+ building_import_from_subjects: "ÛãS^SýVDn"
+ building_import_from_subjects_desc: "§TwýN—‰ÿ§!\n-1u`O„vD–¸^ýVNb	g\n-uµNyrŠkDn\n\n§THeœgÿ§!\n-DnSOlûy0R`O„vDnXR¨P`l\n\n§TD–¸^ýV·ƒ—VHeœgÿ§!"
+ building_stop_import_from_subjects: "jPbkÛãSDn"
+ building_stop_import_from_subjects_desc: "§TwýN—‰ÿ§!\n-1u`O„vD–¸^ýVNb	g\n-—RINýVck(WÛãSDn\n\n§THeœgÿ§!\n-DnSNQlûy0R`O„vDnXR¨P`l\n\n"
+ LATENT_CIGARS: "§Wê–ƒ  4.25¤§!\n§G+2§!§W°e–kl0WúWNxz6e§!"
+ LATENT_CIGARS_TECH: "£Diplomatic_technology_TGE£ 10"
+ LATENT_CHOCOLATE: "§WçTKQ›R  4.00¤\nD–¸^ýV›Q–böeëXlÿ§!§G+10%§!"
+ LATENT_CHOCOLATE_TECH: "£Diplomatic_technology_TGE£ 12"
+ prices_marcin.17.t: "îh—gxO„vHeœg"
+ prices_marcin.17.d: "–NwºNãS„vžX•ŒTŠegŠY„vW0W«ˆV¦W(uŽNœQNQ RNTÍyåTNùR(gPg„v—BlN­ežX Rÿîh—gn«ˆxOüRô†N(gPgíwHŒT÷N<hN¨m0"
+ prices_marcin.17.a: "(g4Yÿ(g4Yÿb„v‹sýV—‰(g4Yÿ"
+ DEFORESTATION_HAPPEN: "îh—gxOqVÍT"
+ prices_marcin.18.t: "NøuKNï„v)Tƒn"
+ prices_marcin.18.d: "–Nw)YgRÂˆbNT„vSú^ýV¶RÿN¦^ïS`—„vNøu^™eŒT¾|Æu÷thV›O”^«ˆ÷mqNŒT…Qb|bNg0–NwN¹e8fØS—VqSi–ŒTN3zšRÿÎNS¬N0RTëXfWN!X„vFUºNòTÏu>eV†NNøuKNï0"
+ prices_marcin.18.a: "¡lNøu†Nÿ"
+ COLLAPSE_OF_THE_SILK_ROAD: "NøuKNï)TƒnqVÍT"
+ string_is_subject_tge: "—RIN"
+ string_is_not_subject_tge: "D–^SýV"
+ import_from_subjects_modifier: "—RINýVck(WÛãSDn"
+ chocolate_modifier: "çTKQ›R8f Rb"
+ building_fur_workshop: "Ûk®våTJW"
+ building_fur_workshop_desc: "§TwýN—‰ÿ§!\n-8fÁTÿ§YÛk®v§!\n-ÑSUS¦^ÿ10¤1\n\n§TýV¶R—‰ÿ§!\n-Y²NÑyŽb(5)\n-R°e¦^ 5£ino_icon£\n\n§THeœgÿ§!\n-8fÁTØSHNÿ§YÛk®vcˆir§!\n"
+ LATENT_FUR: "§WÛk®vcˆir   3.50¤\nF–›Qmcwÿ§!§G-10%§!"
+ LATENT_FUR_TECH: "£Diplomatic_technology_TGE£5"
+ silver_tooltip: "å‹wNýwú^.§YuµNú^Qr§!"
+ building_spy_agency_desc: "§TwýN‰Blÿ§!\n-ÑSUS¦^ÿ20¤1\n\n§TýV¶R‰Blÿ§!\n-ßu»lw„vY²Nýw›RóSHN§Y5§!\n"
+ building_armory_desc: "§TwýN‰Blÿ§!\n-ÑSUS¦^ÿ20¤1\n\n§TýV¶R‰Blÿ§!\n-ßu»lw„v›Q‹Nýw›RóSHN§Y5§!\n"
+ building_post_office_desc: "§TwýN‰Blÿ§!\n-ÑSUS¦^ÿ20¤1\n\n§TýV¶R‰Blÿ§!\n-ßu»lw„vLˆ?eýw›RóSHN§Y5§!\n"
+ mine_marcin.1.t: "Ç‘ÿwN"
+ mine_marcin.1.d: ""
+ tin_mine: ",g0WÇ‘ÿwN\n§W!•ÿwDnÿ§!§G+0.4§!\n§W-------------§!\n§WbìN(W0WhˆÑS°s†NN›NïS›O)R(u„vDn0Nx^„v=f‰OKNbHNå‹wýN„vIN‰úQãSirSN³—r0§!"
+ tin_mine_small: ",g0WÇ‘ÿwN\n§W!•ÿwDnÿ§!§G+0.2§!\n§W-------------§!\n§WbìN(W0WhˆÑS°s†NN›NïS›O)R(u„vDn0Nx^„v=f‰OKNbHNå‹wýN„vIN‰úQãSirSN³—r0§!"
+ copper_mine: ",g0WÇ‘ÿwN\n§WÜ”ÿwDnÿ§!§G+0.4§!\n§W-------------§!\n§WbìN(W0WhˆÑS°s†NN›NïS›O)R(u„vDn0Nx^„v=f‰OKNbHNå‹wýN„vIN‰úQãSirSN³—r0§!"
+ copper_mine_small: ",g0WÇ‘ÿwN\n§WÜ”ÿwDnÿ§!§G+0.2§!\n§W-------------§!\n§WbìN(W0WhˆÑS°s†NN›NïS›O)R(u„vDn0Nx^„v=f‰OKNbHNå‹wýN„vIN‰úQãSirSN³—r0§!"
+ iron_mine: ",g0WÇ‘ÿwN\n§WÁ”ÿwDnÿ§!§G+0.4§!\n§W-------------§!\n§WbìN(W0WhˆÑS°s†NN›NïS›O)R(u„vDn0Nx^„v=f‰OKNbHNå‹wýN„vIN‰úQãSirSN³—r0§!"
+ iron_mine_small: ",g0WÇ‘ÿwN\n§WÁ”ÿwDnÿ§!§G+0.4§!\n§W-------------§!\n§WbìN(W0WhˆÑS°s†NN›NïS›O)R(u„vDn0Nx^„v=f‰OKNbHNå‹wýN„vIN‰úQãSirSN³—r0§!"
+ zinc_mine: ",g0WÇ‘ÿwN\n§W•ÿwDnÿ§!§G+0.4§!\n§W-------------§!\n§WbìN(W0WhˆÑS°s†NN›NïS›O)R(u„vDn0Nx^„v=f‰OKNbHNå‹wýN„vIN‰úQãSirSN³—r0§!"
+ zinc_mine_small: ",g0WÇ‘ÿwN\n§W•ÿwDnÿ§!§G+0.2§!\n§W-------------§!\n§WbìN(W0WhˆÑS°s†NN›NïS›O)R(u„vDn0Nx^„v=f‰OKNbHNå‹wýN„vIN‰úQãSirSN³—r0§!"
+ lead_mine: ",g0WÇ‘ÿwN\n§WÅ”ÿwDnÿ§!§G+0.4§!\n§W-------------§!\n§WbìN(W0WhˆÑS°s†NN›NïS›O)R(u„vDn0Nx^„v=f‰OKNbHNå‹wýN„vIN‰úQãSirSN³—r0§!"
+ lead_mine_small: ",g0WÇ‘ÿwN\n§WÅ”ÿwDnÿ§!§G+0.2§!\n§W-------------§!\n§WbìN(W0WhˆÑS°s†NN›NïS›O)R(u„vDn0Nx^„v=f‰OKNbHNå‹wýN„vIN‰úQãSirSN³—r0§!"
+ mine_marcin.1.a: "=f"
+ UNIQUE: "yrµN"
+ marble_test: "Ñžr‚'Ytówÿw"
+ lama_tradegood: "Ž2m|šyrŠkHeœg\n§WÀoIm = £yes£§!\n§WqS	0WbVwýNÑSUSb,gÿ§!§G-10.0%§!"
+ building_Instruments_workshop: "PNhVåTJW"
+ building_Instruments_workshop_desc: "§TwýN—‰ÿ§!\n-ÑSUS¦^25¤1\n\n§TýV¶R—‰ÿ§!\n-†˜W…QóS—‰	gNYwýNHNÿ\n§Yîh—g§!§Ob§!§Yh—g§!§Ob§!§YN—g§!\n-Y²NÑyŽbÿ12	ÿ\n-R°e¦^ÿ15£ino_icon£\n\n§THeœgÿ§!\n-8fÁT9eØSHNÿ§Y&VPNhV§!\n"
+ LATENT_INSTRUMENTS: "§WPNhVåTJWÿ4.50¤\nLˆ?e¹RÏ‘ÿ§!§G+150§!"
+ LATENT_INSTRUMENTS_TECH: "£Diplomatic_technology_TGE£12"
+ TGE_base_button_title: " RåT6RbÁT\nV=T/sQí•"
+ TGE_name: " RåT6RbÁT"
+ TGE_Goods_name_pr: "IN‰FUÁT"
+ TGE_Goods_name_pr_title: "å‹wýNµNúQ„vIN‰FUÁT³QšR†N`OýwZ0RYS±”ÿåNÊS`OýwYuµNêT›N!k‰FUÁT0"
+ TGE_Infrastructure_name_pr: "wýN÷N<P"
+ TGE_Infrastructure_terrain_pr: "0WbVÿ[Root.GetTerrainTGE]"
+ string_Terrain_TGE_marsh: "§T¼lýl§!"
+ string_Terrain_TGE_farmlands: "§GœQ0u§!"
+ string_Terrain_TGE_hills: "§gNu–§!"
+ string_Terrain_TGE_forest: "§Jîh—g§!"
+ string_Terrain_TGE_woods: "§Oh—g§!"
+ string_Terrain_TGE_mountain: "§YqS	§!"
+ string_Terrain_TGE_grasslands: "§GIƒŸS§!"
+ string_Terrain_TGE_jungle: "§JN—g§!"
+ string_Terrain_TGE_desert: "§Y™l.o§!"
+ string_Terrain_TGE_coastline: "§Mwm¸S¿u§!"
+ string_Terrain_TGE_coastal_desert: "§Y¿lwm™l.o§!"
+ string_Terrain_TGE_drylands: "§Yñe0W§!"
+ string_Terrain_TGE_highlands: "§OØš0W§!"
+ string_Terrain_TGE_savannah: "§YzhIƒŸS§!"
+ string_Terrain_TGE_steppe: "§l'YIƒŸS§!"
+ TGE_Infrastructure_climate_pr: "lPÿ[Root.GetClimateTGE]"
+ string_Climate_TGE_tropical: "§Jíp&^§!"
+ string_Climate_TGE_arid: "§Yr^ñe§!"
+ string_Climate_TGE_arctic: "§Wg0W§!"
+ string_Climate_TGE_temperate: "§l)n&^§!"
+ TGE_Infrastructure_winter_pr: ")Ylÿ[Root.GetWinterTGE]"
+ string_Winter_TGE_severe_winter: "§W%N¬Q§!"
+ string_Winter_TGE_normal_winter: "§gÒR¬Q§!"
+ string_Winter_TGE_mild_winter: "§Y–f¬Q§!"
+ string_Winter_TGE_mild_monsoon: "§B)nŒTè–cR§!"
+ string_Winter_TGE_normal_monsoon: "§Vck8^è–cR§!"
+ string_Winter_TGE_severe_monsoon: "§PHVÈpè–cR§!"
+ string_Winter_TGE_NO: "§Otf)Y§!"
+ TGE_Infrastructure_type_pr: "‰|‹Wÿ[Root.GetTypeTGE]"
+ string_Type_TGE_island_port: "§M¿lwm§!"
+ string_Type_TGE_island_no: "§G…QF–§!"
+ string_Type_TGE_island: "§T›SS§!"
+ close_TGE_title: "sQí•"
+ destroy_pr_TGE_title: "§YÍ‘teµNNþ”§!\n\n-------------\nS°s	g„vuµN¿u9e.HN°e„vÿO`OïSåN	ébuµNNT„v8fÁT06qwÙ=f	gãN÷N„v0"
+ upgrade_pr_TGE_title: "§Y9eÛµNNþ”§!\n\n-------------\nSSVMR„vuµN¿uGSµuHNåT^ôfAut„vÿO`O	gýw›RêSVMR„v6RÁT-Nãb	úQ8fÁT06qwÙÍy°sãNS=f	gãN÷N„v0"
+ TGE_Resource_title: "§Y[Root.GetTradeGoodsName]§!"
+ Infrastructure_TGE_title: "§YaNQgúWú^§!\nÿAQ¸‹uµNÿ\n§O7Œir§!0§OR‘‰|§!0§Orrju§!0§O‰Q‡§!0§O|œ‰|§!0§O(gPg§!0§OŠÛk§!\n-------------\naNQg8fÁTúWú^ãNhˆNwÏPœQl0n+YÙ‰|åeYNåeÎN‹NŽrUSFUÁTuµN„vN,‚ºN"
+ Infrastructure_mine_TGE_title: "§YÿwHSúWú^§!\nÿAQ¸‹uµNÿ\n§OÁ”ÿw§!0§OÜ”ÿw§!0§OÑ‘ÿw§!0§O•ÿw§!0§OÅ”ÿw§!0§Oö”ÿw§!0§O!•ÿw§!0§Odqÿw§!\n-------------\nÿwHS8fÁTúWú^ãNhˆNw`—›äRNWl4l¨‹åePR„vaN²NìN0ÖNìN(uP•4YNÅk›RÎN0WÌ‘˜cúQRÏ…ÿê•wNwŽr4gwÈSZW³Q„vLwNÍdˆR0"
+ Infrastructure_TGE_MED_title: "§YaNQgúWú^§!\nÿAQ¸‹uµNÿ\n§O7Œir§!0§OR‘‰|§!0§Orrju§!0§O‰Q‡§!0§O|œ‰|§!0§O(gPg§!0§OŠÛk§!\nÿyrŠkÿ\n§lDj„i§!0§lÑgXj§!\n-------------\n0W-Nwm¯s±b„vNY¿l¸SÏe²åNKhùWDj„iN‘.ŽR‘„vŽbz‚HNu03–IQM’d0uÎ‘0wmÎ˜®V®V9TÂbÿSV0WºN(WùRDj„iíVa„„íVjOir„vŽr4ggq™e-NŒb0R†N^SŽNêñT„v‚‚OY0"
+ prices_marcin.19.t: "‘šuQ„vpˆK„"
+ prices_marcin.19.d: "kpoƒfkhV„vúQ°sN›Q‹Nb=g„vØSSÏQS†NùRblš„v—Bl0àVdklš9S„v÷N<hÑt^eg'YE^NÌÿùRbìN„vlšNegô‹Ùâe&^eg†NHgGÿÈS.b†Ncb0"
+ prices_marcin.19.a: "”^°eÅ`µQ0"
+ DECLINE_OF_CAVALRY: "‘šuQ„vpˆK„"
+ prices_marcin.20.t: "‡ez‚YtQú^Qrofl"
+ prices_marcin.20.d: "‡ez‚YtQÍ‘°eÀoÑSºNìNùR'Y‹Wú^QråTz„vtQ±ÿjOHNÍs5ú^QrPg™e„v'Ytów¿O«ˆg…VåNôfØš‰Bl0—Bl„vÀožXg'Y0W²QûQ†N'Ytów„v÷N<hÿùRbìN„v'YtówLˆNegô‹Ùâe&^eg†NHgGÿÈS.b†Ncb0"
+ prices_marcin.20.a: "nxÝOgO(Ç‘ówHW0"
+ RENAISSANCE_ARCHITECTURE_BOOM: "‡ez‚YtQú^Qrofl"

@@ -1,0 +1,1575 @@
+namespace = touhou_news
+
+#Aya's newspaper of Gensokyo. Here you pick the newspaper up
+country_event = {
+	id = touhou_news.1
+	title = "touhou_news.1.t"
+	desc = "touhou_news.1.desc"
+	picture = AYAPAPERNEWS_eventPicture
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = { set_country_flag = th_had_newspaper_event }
+	}
+
+	option = {	#Read today's entire article
+		name = touhou_news.1.a
+		country_event = {
+			id = touhou_news.90
+		}
+	}
+
+	option = {	#I read it later
+		name = touhou_news.later
+		highlight = yes
+	}
+}
+
+#If you pick the newspaper later up via decision
+country_event = {
+	id = touhou_news.2
+	title = "touhou_news.2.t"
+	desc = "touhou_news.2.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+	
+	option = {	#Kappa, Tengu and Lunarian Update and their patch notes
+		name = touhou_news.2.i
+		country_event = {
+			id = touhou_news.90
+		}
+	}
+	
+	option = {	#Yamaxanadu, Oni and Mima Update and their patch notes
+		name = touhou_news.2.h
+		country_event = {
+			id = touhou_news.80
+		}
+	}
+	
+	option = {	#Last mission tree overhaul update and their patch notes
+		name = touhou_news.2.g
+		country_event = {
+			id = touhou_news.70
+		}
+	}
+	
+	option = {	#Big Satori-Remilia update and their patch notes
+		name = touhou_news.2.f
+		country_event = {
+			id = touhou_news.60
+		}
+	}
+	
+	option = {	#Big Fariy update and their patch notes
+		name = touhou_news.2.e
+		country_event = {
+			id = touhou_news.50
+		}
+	}
+	
+	option = {	#Reimus vs Sanae (+ others) update and their patch notes
+		name = touhou_news.2.d
+		country_event = {
+			id = touhou_news.40
+		}
+	}
+	
+	option = {	#Kaguya update and their patch notes
+		name = touhou_news.2.c
+		country_event = {
+			id = touhou_news.30
+		}
+	}
+	
+	option = {	#Big Gensokyo update
+		name = touhou_news.2.b
+		country_event = {
+			id = touhou_news.20
+		}
+	}
+
+	option = {	#Yukari's update and their patch notes
+		name = touhou_news.2.a
+		country_event = {
+			id = touhou_news.10
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.later
+		highlight = yes
+	}
+}
+
+###Yukari and Yuyuko update###
+
+#Main Article
+country_event = {
+	id = touhou_news.10
+	title = "touhou_news.10.t"
+	desc = "touhou_news.10.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.11
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.14
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#BREAKING NEWS - SNOW SPRING INCIDENT
+country_event = {
+	id = touhou_news.11
+	title = "touhou_news.11.t"
+	desc = "touhou_news.11.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.12
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.10
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.14
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#YUKARI UPDATED
+country_event = {
+	id = touhou_news.12
+	title = "touhou_news.12.t"
+	desc = "touhou_news.12.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.13
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.11
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.14
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#YUYUKO UPDATED
+country_event = {
+	id = touhou_news.13
+	title = "touhou_news.13.t"
+	desc = "touhou_news.13.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.14
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.12
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.14
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#NEW DIPLO DANMAKU - IMPORTANT
+country_event = {
+	id = touhou_news.14
+	title = "touhou_news.14.t"
+	desc = "touhou_news.14.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.13
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+###Big Gensokyo update###
+
+#Main Article
+country_event = {
+	id = touhou_news.20
+	title = "touhou_news.20.t"
+	desc = "touhou_news.20.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+###Kaguya and Mokou update###
+
+#Main Article
+country_event = {
+	id = touhou_news.30
+	title = "touhou_news.30.t"
+	desc = "touhou_news.30.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.31
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#BREAKING NEWS - ETERNAL NIGHT INCIDENT
+country_event = {
+	id = touhou_news.31
+	title = "touhou_news.31.t"
+	desc = "touhou_news.31.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.32
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.30
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Lunarians
+country_event = {
+	id = touhou_news.32
+	title = "touhou_news.32.t"
+	desc = "touhou_news.32.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.33
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.31
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.30
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#New idea sets for a bunch of nations
+country_event = {
+	id = touhou_news.33
+	title = "touhou_news.33.t"
+	desc = "touhou_news.33.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.32
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.30
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+###Reimu, Sanae, Shinki and Flandre + Satori's pets update###
+
+#Main Article
+country_event = {
+	id = touhou_news.40
+	title = "touhou_news.40.t"
+	desc = "touhou_news.40.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.41
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#BREAKING NEWS - MOUNTAIN OF FAITH INCIDENT
+country_event = {
+	id = touhou_news.41
+	title = "touhou_news.41.t"
+	desc = "touhou_news.41.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.42
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.40
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#SANAE UPDATE
+country_event = {
+	id = touhou_news.42
+	title = "touhou_news.42.t"
+	desc = "touhou_news.42.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.43
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.41
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.40
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#REIMU REWORK
+country_event = {
+	id = touhou_news.43
+	title = "touhou_news.43.t"
+	desc = "touhou_news.43.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.44
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.42
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.40
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#FLANDRE'S HOLY ROMAN AMBITIONS
+country_event = {
+	id = touhou_news.44
+	title = "touhou_news.44.t"
+	desc = "touhou_news.44.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.45
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.43
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.40
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#SHINKI MISSIONS
+country_event = {
+	id = touhou_news.45
+	title = "touhou_news.45.t"
+	desc = "touhou_news.45.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.44
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.40
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+###Big Fairy and Yuuka update + Delayed Reimu, Marisa and Flandre update###
+
+#Main Article
+country_event = {
+	id = touhou_news.50
+	title = "touhou_news.50.t"
+	desc = "touhou_news.50.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.51
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#CIRNO DEMANDS JUST-ICE
+country_event = {
+	id = touhou_news.51
+	title = "touhou_news.51.t"
+	desc = "touhou_news.51.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.52
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.50
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#THREE FAIRY PIRACY
+country_event = {
+	id = touhou_news.52
+	title = "touhou_news.52.t"
+	desc = "touhou_news.52.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.53
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.51
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.50
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#LARVA AND ETERNITY
+country_event = {
+	id = touhou_news.53
+	title = "touhou_news.53.t"
+	desc = "touhou_news.53.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.54
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.52
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.50
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#NEWS FROM THE MOON
+country_event = {
+	id = touhou_news.54
+	title = "touhou_news.54.t"
+	desc = "touhou_news.54.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.55
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.53
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.50
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#YUUKA AND HER BEAUTIFUL GARDEN
+country_event = {
+	id = touhou_news.55
+	title = "touhou_news.55.t"
+	desc = "touhou_news.55.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.56
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.54
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.50
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#REIMU AND MARISA SO PASSIVE?!
+country_event = {
+	id = touhou_news.56
+	title = "touhou_news.56.t"
+	desc = "touhou_news.56.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.55
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.50
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+###Reimu, Marisa, Remilia, Satori, Gengetsu, Flandre update + Murder Case reportage + Koishi###
+
+#Main Article
+country_event = {
+	id = touhou_news.60
+	title = "touhou_news.60.t"
+	desc = "touhou_news.60.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.61
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#REMILIA GETS MORE AMBITIOUS
+country_event = {
+	id = touhou_news.61
+	title = "touhou_news.61.t"
+	desc = "touhou_news.61.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.62
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.60
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#SATORI'S NEW AMBITIONS
+country_event = {
+	id = touhou_news.62
+	title = "touhou_news.62.t"
+	desc = "touhou_news.62.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.63
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.61
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.60
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#MURDER CASE IN SDM AND KOISHI WANDERING OFF
+country_event = {
+	id = touhou_news.63
+	title = "touhou_news.63.t"
+	desc = "touhou_news.63.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.64
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.62
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.60
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#NEWS FROM REIMU
+country_event = {
+	id = touhou_news.64
+	title = "touhou_news.64.t"
+	desc = "touhou_news.64.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.65
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.63
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.60
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#NEWS FROM MARISA
+country_event = {
+	id = touhou_news.65
+	title = "touhou_news.65.t"
+	desc = "touhou_news.65.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.64
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.60
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+###Yuyuko, Yukari, Sanae, Kaguya, Mokou, Shinki update###
+
+#Main Article - Writer changed from Aya to Hatate, which means the text is more neutral
+country_event = {
+	id = touhou_news.70
+	title = "touhou_news.70.t"
+	desc = "touhou_news.70.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.71
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Makai news
+country_event = {
+	id = touhou_news.71
+	title = "touhou_news.71.t"
+	desc = "touhou_news.71.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.72
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.70
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Kaguya vs Mokou - 2.0
+country_event = {
+	id = touhou_news.72
+	title = "touhou_news.72.t"
+	desc = "touhou_news.72.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.73
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.71
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.70
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Sanae calls for Crusades
+country_event = {
+	id = touhou_news.73
+	title = "touhou_news.73.t"
+	desc = "touhou_news.73.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.74
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.72
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.70
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Yukari reorganized the shogunate
+country_event = {
+	id = touhou_news.74
+	title = "touhou_news.74.t"
+	desc = "touhou_news.74.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.75
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.73
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.70
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Yuyuko adjustments
+country_event = {
+	id = touhou_news.75
+	title = "touhou_news.75.t"
+	desc = "touhou_news.75.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.74
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.70
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+###Eiki, Yuugi, Mima content + PoFV and SA Incident###
+
+#Main Article - Writer changed from Aya to Hatate, which means the text is more neutral
+country_event = {
+	id = touhou_news.80
+	title = "touhou_news.80.t"
+	desc = "touhou_news.80.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.81
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Blooming of Gensokyo
+country_event = {
+	id = touhou_news.81
+	title = "touhou_news.81.t"
+	desc = "touhou_news.81.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.82
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.80
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#The Yamaxanadu's Authority of Gensokyo
+country_event = {
+	id = touhou_news.82
+	title = "touhou_news.82.t"
+	desc = "touhou_news.82.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.83
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.81
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.80
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Geysers of Gensokyo
+country_event = {
+	id = touhou_news.83
+	title = "touhou_news.83.t"
+	desc = "touhou_news.83.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.84
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.82
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.80
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#The Brawlers of the Oni Exiles
+country_event = {
+	id = touhou_news.84
+	title = "touhou_news.84.t"
+	desc = "touhou_news.84.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.85
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.83
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.80
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Mysteries of Mima
+country_event = {
+	id = touhou_news.85
+	title = "touhou_news.85.t"
+	desc = "touhou_news.85.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.84
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.80
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+###Map Update, Nitori, Takane, Aya and Lunarian update###
+
+#Main Article - The newspapers stand trial!
+country_event = {
+	id = touhou_news.90
+	title = "touhou_news.90.t"
+	desc = "touhou_news.90.desc"
+	picture = HATATENEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.91
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Emergences of new realms - Sumireko, Yuuma and Takane are now here
+country_event = {
+	id = touhou_news.91
+	title = "touhou_news.91.t"
+	desc = "touhou_news.91.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.92
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.90
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#The kappa of Nitori
+country_event = {
+	id = touhou_news.92
+	title = "touhou_news.92.t"
+	desc = "touhou_news.92.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.93
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.91
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.90
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#The mountain kappa
+country_event = {
+	id = touhou_news.93
+	title = "touhou_news.93.t"
+	desc = "touhou_news.93.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.94
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.92
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.90
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#Tengu Terror
+country_event = {
+	id = touhou_news.94
+	title = "touhou_news.94.t"
+	desc = "touhou_news.94.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.95
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.93
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.90
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+#The Lunarians strike
+country_event = {
+	id = touhou_news.95
+	title = "touhou_news.95.t"
+	desc = "touhou_news.95.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.94
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.90
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}

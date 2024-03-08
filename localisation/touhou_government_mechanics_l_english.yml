@@ -1,0 +1,373 @@
+﻿l_english:
+ mechanic_enable_drain_nature_action_yes: "=T(uMOŽNwýNLub—…Q„v0§Y0W›RÁûy§!0	c®”egŠbê»l†˜0W„vÑSUS¦^lûyó§Y*Y3–±‚0u§!„vÃV0W&^0"
+ mechanic_enables_yuyukos_food_hunt_yes: "ïSÎNYeg‡eS-N·ƒ—VžXÊv0"
+ mechanic_enables_call_to_defensive_war_yes: "·ƒ—Vµb—b^—‰^ó`aNµOeuw„v2–¡V'`b‰N§YÂSbìS2U§!0"
+ mechanic_fairy_respawn_mechanic_yes: "M–NOYIm±‚90"
+ mechanic_th_can_overload_provinces_yes: "ïSåNÇÑSUSúWNxºN›Reg§YÇ‹§!wýN0"
+ mechanic_th_own_provinces_go_berserk_yes: "wýN§Y´fp§!0"
+ mechanic_enables_fairy_bloom_yes: "úWŽN3zšR¦^åN—V0R˜Y Rbbé`Z0"
+ mechanic_has_fairy_pirate_estate_yes: "åb	g§Y–Y¾|'Y×v§!6–BS0"
+ gnk_foe_mokou_statists: "¹Y¢uŒc5‚"
+ gnk_foe_mokou_statists_MECHANIC_TOOLTIP: "ä…ŸS"
+ gnk_own_kaguya_monarchists: "‰YŒc5‚"
+ gnk_own_kaguya_monarchists_MECHANIC_TOOLTIP: "ì„±ƒqS"
+ gnk_foe_kaguya_statists: "‰YŒc5‚"
+ gnk_foe_kaguya_statists_MECHANIC_TOOLTIP: "ì„±ƒqS"
+ gnk_own_mokou_monarchists: "¹Y¢uŒc5‚"
+ gnk_own_mokou_monarchists_MECHANIC_TOOLTIP: "ä…ŸS"
+ mechanic_th_divine_legitimacy_mechanic_yes: "AQ¸‹(WØšckßu'`Nê.OYe-NÐcGS.OYeHV¦^NZg0"
+ mechanic_th_increased_power_from_own_deity_yes: "	jOHNbìN^yf„v^yGyegáOIYO&^egåNNHeœgÿ\n—RYeßuNÿ§G+25.0%§!\nÇb‰NHV6R9eØS—RYe„v±‚9ÿ§G-50.0%§!\nF–›QëXlÿ§G+5.0%§!\nwm›QëXlÿ§G+5.0%§!\nå‚SVg¶RÏeN^yGyNTROM–NO‹NöN0=föeP±b't°e„v^yf†N0„v‘˜‡s0"
+ mechanic_enables_scarlet_bloodlust_yes: "=T(u§Y)s¢uÜUNˆ§!0"
+ mechanic_enables_yama_authority_yes: "=T(u§Y–T›CgZ§!\nàeÕl«ˆ	jOžRËeb—§Y‰^ó`aNLˆ¨R§!0"
+ mechanic_enables_magician_expansion_cb_yes: "=T(u±Rbt1u0§YT›ÕlOV†u§!00"
+ mechanic_enables_satori_subjects_yes: "=T(u^SýV‰|‹W§YÉ‰^SD–¸^ýV§!0"
+ mechanic_enables_satori_subject_interactions_yes: "=T(u§YÉ‰^SD–¸^’N¨R§!0"
+ mechanic_enables_satori_advanced_subject_interactions_yes: "=T(u§YØšµuÉ‰^SD–¸^’N¨R§!0"
+ mechanic_enables_migration_through_countries_yes: "=T(uÇùRýV¶R*O.±RðyegÛLˆ§YÁ™V§!0"
+ kmj_capital: "É‰„v‘N8ný^"
+ mechanic_enables_development_transfer_yes: "=T(u§YÑSUS¦^lûy§!0"
+ mechanic_disables_settled_property_yes: "àeÕlåb	gYŽNN*NwýN0"
+ mechanic_enables_claim_immunity_yes: "=T(u§Y±RðyAŒMQ§!0"
+ mechanic_disables_subject_annexation_yes: "y(uTv^^SýV0"
+ mechanic_enables_yukaris_shogunate_yes: "=T(u§Y+tU^œ^§!0"
+ mechanic_th_mortal_policies_yes: "=T(uáQô•?eVr0"
+ mechanic_th_can_enforce_heathen_conversion_yes: "ïSùRVYe’VHV6R9eYe0"
+ mechanic_th_has_leveling_ruler_general_yes: "åb	gïSGSµußu»lwS†˜"
+ mechanic_th_has_oni_succession_yes: "=T(u<›Ïeçub"
+ mechanic_th_disable_respawn_yes: "y(ußu»lwYúQ"
+ mechanic_th_legitimacy_through_battles_yes: "êßu»lwS†˜„vb—eÜw)R-N·ƒ—Vckßu'`"
+ mechanic_th_uses_nature_transfer_yes: "ïSÛLˆ0W›RÁûy"
+ mechanic_th_penalty_for_dishonor_yes: "ÌwVßvËSöeOm×Sé`Z"
+ mechanic_th_can_convert_general_to_ruler_yes: "°sûNßu»lw»yNTS†˜ïSGSûNßu»lw0"
+ mechanic_th_winter_adaptability_yes: "g0WN°QÝTwýNNQåb	gé`Z0"
+ mechanic_th_winter_afinity_yes: "ÐcGS%N¬QKNN„vÑSUSb,gNuµNHe‡s0"
+ mechanic_th_no_step_back_yes: "ïSO(u³Q®‹0³QNT00"
+ mechanic_enables_yama_authority: "=T(u–T›CgZ"
+ mechanic_th_has_battle_passion: "=T(ub—eípñV"
+ mechanic_th_has_improved_battle_passion: "ïSÇ‘(ub—eípñV³Q®‹"
+ mechanic_th_has_spell_schools: "=T(uT›ÕlfR>m"
+ mechanic_th_has_spell_schools_yes: "O(uT›ÕlfR>m0"
+ mechanic_th_has_battle_passion_yes: "O(ub—eípñV0"
+ mechanic_th_has_improved_battle_passion_yes: "åb	gb—eípñV³Q®‹Ç‘(u0"
+ mechanic_th_has_questioned_legitimacy_yes: "°eûNßu»lwNûNöe„vckßu'`NP–gØšHN50¹p0"
+ mechanic_enables_natives_idea_group_yes: "AQ¸‹§YŸSOOl§!tõVÄu0"
+ mechanic_enables_natives_idea_group_no: "NAQ¸‹§YŸSOOl§!tõVÄu0"
+ th_battle_passion: "b—eípñV"
+ mughal_government_Gensokyan_culture_assimilated: "‰^ó`aNVkp›R"
+ mughal_government_Gensokyan_culture_assimilated_desc: "‰^ó`aNOOlY«ŽŽNNN”–Ýu„v0WHSÿKS¡r‚YdkÿÇùRT‰|Žb=g„vxvzÿyYìNbŸRžR°s†NNNgHV„vkp›R0bìNýwûQ%yYìNêSýwô‹=f*NGYù&&"
+ mughal_government_moon_culture_assimilated: "gºNÀQSOSšR"
+ mughal_government_moon_culture_assimilated_desc: "KS¡rðV¾–Í‘Í‘ÿFOgºNgÈuØ=f¥c×S†NvQ(WbìN?eœ^SV-NNbY„vMOn0P©RvQåwÆ‹ÿbìN·ƒÖS0R†NÀQSNáOw„vHV›RÿNgwQ‰N®‹	ÿåTwQ0"
+ Gensokyan_myo_monastery_altaic_assimilated: "W“^üfkpªgKb"
+ Gensokyan_myo_monastery_altaic_assimilated_desc: "(WVg-NšNIƒŸSTÿW“^üfkpªgKb ReQ†NbìN„v›Q–0©‹LeºN(WbìN„vªgðXMR²˜–b'Tÿ"
+ Gensokyan_myo_monastery_baltic_assimilated: "âlW„vwm8f"
+ Gensokyan_myo_monastery_baltic_assimilated_desc: "egêâlpQ„v®|ß˜ÿegêÄOW¯e„vÛk®vÿ‹NwÙ›N5Í‘'ir„v9‚êS(WâlW„vwmegÞV8nVÿwm¸S¹¿OàVdkú^Ëzw†N¸‹Yôu²bo‚‹Y„vÌRv™=nãS0"
+ Gensokyan_myo_monastery_british_assimilated: "ßu»lwmm"
+ Gensokyan_myo_monastery_british_assimilated_desc: "‚Yœgô‹'YNR ˜	gÀNHNf>f„vyrV„vÝ‹ÿ±¿O=fvQNïSNN„vwm›Q0ÙêS0‚–ÊSvQb=gÜ…+RýV0SvQ9‚êS³ueQwm›QTÿbìNSßu»lwmmÿ"
+ Gensokyan_myo_monastery_burman_assimilated: "8u›Q^"
+ Gensokyan_myo_monastery_burman_assimilated_desc: "8u5ÏeìN«ˆg¸‹ÈuuÂSxuQÕl0ÖNìN„vNNåwÆ‹SùRbìN'Y	gÊvY0"
+ Gensokyan_myo_monastery_byzantine_assimilated: "Wlš„vWµN"
+ Gensokyan_myo_monastery_byzantine_assimilated_desc: "¸‹Yåb	gNTz¦^TÕl'`„výV¶RýþfêðyHNWlš^ýV0¾–SbìNNýwbHNæSN*N`—VgºNlegHYÖSWlšKNT„výV¶RHNÿ"
+ Gensokyan_myo_monastery_carpathian_assimilated: "ŽUSôT!–Ñž›Q"
+ Gensokyan_myo_monastery_carpathian_assimilated_desc: "ŽUSôT!–„vßu»lw•ENåNegOV8^YÇ–cO›QegÝOkSÖNìN„výV¶R0°s(W±›NcOuQÍN(WdkYÿïS=fNO	gºNQ-pNÖNìN„vg¡R†NÿàVdkbìNïSåNëOÖNìNM–÷N0"
+ Gensokyan_myo_monastery_caucasian_assimilated: "lšFzœKQtY¶–"
+ Gensokyan_myo_monastery_caucasian_assimilated_desc: "Øš R0tºN•gåNegý=flšFzœKQ„vtY¶–bëX„vºN›Regnÿw1S=fø‹‚Ydk‰|„vºNú^Ëz†N·VÌ‘Ï‚9NýV0bìNOçuíuÛb6etY¶–bëXv^¥c³uÖNìN0"
+ Gensokyan_myo_monastery_gaelic_assimilated: "Øš0WºN„vÇRl"
+ Gensokyan_myo_monastery_gaelic_assimilated_desc: "Ù›NegêNR ˜›SSSè„vºNìNåNvQùRYLe„vµb—bNùR8^„v—Qab=g„v—b'`wû•T)YN0°s(W(WbìN„vßu»lNÿïSåNÇ–(uÖNìNÛbìN„v›Q–egO›Q–ôf	g”^›R0"
+ Gensokyan_myo_monastery_central_indic_assimilated: "N—gb"
+ Gensokyan_myo_monastery_central_indic_assimilated_desc: "SmÆR„vN—gŒTi–v`„v)Yl„gb†NpS¦^„v-Nè0WHS0SV0WWW„NÅNŒb0R†NuXR„v¹eÕlÿwN(W±Ì‘ƒîXb•0bìNSŠbÖNìN„våwÆ‹Ð(u0R›Q–-NÿÙ7hbìN1SïSåN(Wgp‚æ‚„v0WHSÝOc›Q–„veˆÙu0"
+ Gensokyan_myo_monastery_east_asian_assimilated: "Q¶R˜RÚPHg„g"
+ Gensokyan_myo_monastery_east_asian_assimilated_desc: "CSŒvt^egQ¶R„v?e»ltõVcVNw-NýVÿbVb	gHe‡s„vßu»lÿÝOœ–TIN„vckßu0‹†6qƒRKNMR*gýwpNckSÿQ¶R˜RÚPSO6R„vN›NbRïSåN«ˆbìNêñT„v?eœ^8T6e0"
+ Gensokyan_myo_monastery_kongo_group_assimilated: "Rœg—RYe‡T"
+ Gensokyan_myo_monastery_kongo_group_assimilated_desc: "YNRœgºNùR—RYeÇ‘ÖS>eûN`¦^ÿSV0W„vßu»lw¶RÏeøvSVPNaHN^ýVN²N!K0"
+ Gensokyan_myo_monastery_cushitic_assimilated: "myøS‹s¦uð„v‹sýV"
+ Gensokyan_myo_monastery_cushitic_assimilated_desc: "àQ*NNªuåNegÿ^—2mKNÒ‰Nôv=fúWcwYe„v!X’W0myøS‹s¦uð„vEe‹NKˆN†N‹sýV(WúWcwYeNLu<w-N„vTÕl'`ÿNdkTöevQýV‹sðXðyvQNˆßuegêŽN1WÏu-N„vNbWè•‹s0bìNïSåN)R(uÙ*NWµNeg¨c^bìN„v^ýVv^.O­dbìN„váOðN0"
+ Gensokyan_myo_monastery_dravidian_assimilated: "WSpS¦^åTN"
+ Gensokyan_myo_monastery_dravidian_assimilated_desc: "WSpS¦^=fºuÇu0™™™eŒTÍs5Rów„vµNNtQúeKN¶R0Ù›NµNN„vbŸRNÅNÅN=f0WtN„vvP6qÿØ=fuµNŒT8fKNô••üuYBg„vQÜuTwû|„vÓuœg0bìNïSåNÎNÙ*NSOû|-NfR0RˆVYïSåNÐ(u(WbìNýV¶R„vN‰0"
+ Gensokyan_myo_monastery_african_assimilated: "¯eæt^Ì‘„v0ÌR"
+ Gensokyan_myo_monastery_african_assimilated_desc: "NísþVºNESOO„v^—2mNwm¸SEQán†N0ÌR0x^NSV0WºNòTÏuú^Ëz†NÿwqSÿ)R(uÙ›NR5„vDnS=fNy˜ŽrUS„vûN¡R0"
+ Gensokyan_myo_monastery_east_slavic_assimilated: "'YÄ‰!jVuQ"
+ Gensokyan_myo_monastery_east_slavic_assimilated_desc: "øvùRvQÖNýV¶RÿN¯eÉb+YºNýwYÛbâbž^'Y„v›Q–0ÖNìNÇ'YÄ‰!jVuQŒTfkÅˆ•^BS6–µueg¾0RÙ*Nîv„v0‹†6qbìNÇ»SÎN*gIN¨RSÕ‹ÇÙÍy?eVrÿFO=fmN¸‹ÙÍy¹eÕlØ=f	gN›NO¹p„v0"
+ Gensokyan_myo_monastery_eastern_aryan_assimilated: "NpS¦^ºuÇuN"
+ Gensokyan_myo_monastery_eastern_aryan_assimilated_desc: "Nøu0Éh±‚ŒT^™eÀoÑS†NNpS¦^0WHS„vÏuNm0ÖNìNùRÙ›NFUÁT„vOVOÙ*N0WHSbHN°euµNŽb=g„vR°e-NÃVÿwbìNSëkN¹rkŒ0WÇ‘(uÙ›NŽb=g0"
+ Gensokyan_myo_monastery_evenks_assimilated: "án2m‘šuQb=g"
+ Gensokyan_myo_monastery_evenks_assimilated_desc: "W„T„ván2mÁ”‘šÿvQHV'YKNY(WŽNÖNìNOÀy„vb=g0ÌQŒšŽNLeºN„vHg¨R'`OHNÁkmp'`„vµOüIeûQÐc›OHgO0‹†6qbìNêñT„v‘šuQùRÙ›N¹eÕlv^NL–uÿFO=ffR`NánÏeºN„vNNåwÆ‹SO—VÖNìNwck„vàeïSµb!c0"
+ Gensokyan_myo_monastery_french_assimilated: "ÕlýV«R÷^‡eS"
+ Gensokyan_myo_monastery_french_assimilated_desc: "ÕlýV5Ïe‡eS(WhQNLu«N	gÛvT0ÕlýV„vY²N˜RìNŒT'YOìNnxÝOÖNìNýV¶R„vÍ‘‰0WMO(WýVE–N^HNAm.O0ÖNìN”^å‹HNbìN„výV¶Rg¡R0"
+ Gensokyan_myo_monastery_germanic_assimilated: "·Va×VpS7RHg"
+ Gensokyan_myo_monastery_germanic_assimilated_desc: "ImWRpS7R„vÑSfi—‹T'`0W¨c¨R†NhQt>yO„vÑSUSÿw·Va×VckYŽN²QûQ„v-NÃV0ŒcácúQHrpS7RïSåN.^©RbìNSbìN„v`ó`ŒTtõV.OM^ýV„vÏkN*NÒ‰K„0"
+ Gensokyan_myo_monastery_great_lakes_group_assimilated: "'YVnHSceuQ"
+ Gensokyan_myo_monastery_great_lakes_group_assimilated_desc: "^—2m'YVnHS„vèK„ìN•ENåNeg­‹ÃuNwOÀy„vceuQ0ÇŠbÖNìNTv^eQbìN„v'Y›QÿbìNïSåNôf	gHe‡s0W cHYLeºN„v0ÌR0"
+ Gensokyan_myo_monastery_hindusthani_assimilated: "8làebkƒX„vib.V"
+ Gensokyan_myo_monastery_hindusthani_assimilated_desc: "ck‚Y·VÌ‘Ï‚9NýVKNMR¸‹YO'Y„vHQˆN7hÿbìNSVŸN*NO'Y„vpS¦^^ýV0pS¦^¯efWêS=f*NVËYÿ"
+ Gensokyan_myo_monastery_iberian_assimilated: "OÔk)RšN–klININ"
+ Gensokyan_myo_monastery_iberian_assimilated_desc: "OÔk)RšNºNlåb	gNwib.V„vÄ–ÃVÿv^SÖNìN„vÆ‰¿u>e(W†N¢c0tŒTVg*gåwNLuN0jOHNbìNýV¶RNïSRrR„vNèRÿÖNìNSOVgv^šRES(WbìN`S†˜„v0WHS0"
+ Gensokyan_myo_monastery_iranian_assimilated: "‰¹efRw"
+ Gensokyan_myo_monastery_iranian_assimilated_desc: "Åd•âl¯eí‹„vfRwåNÊSFUºN=fbìNKbNg—V›R„výwã0(W8T³u†NˆVYâl¯e„vfRÆ‹TÿbìNmNïSåN(WêñT„výV¶RùW‰QN›NÙ7h„vfRw0"
+ Gensokyan_myo_monastery_japanese_g_assimilated: "åe,gfkëX"
+ Gensokyan_myo_monastery_japanese_g_assimilated_desc: "åe,gfkëX6–µuàVÖNìN„vÝuùRàVÚ‹åNÊS(WbHWNR‰kNHS„v¾|^ywû•TÛVwm0KS¡rÖNìN„vRRŒTbìN„vÅˆYÔkøvîTuÜÿbìN„vëXuQÍN6qïSåNfR`NÖNìN„vfkëX¾|^y0"
+ Gensokyan_myo_monastery_korean_g_assimilated: "gœœ‡eºN"
+ Gensokyan_myo_monastery_korean_g_assimilated_desc: "gœœ„v?e»l¯sƒXNôvˆV'Yz¦^×SYÒ‰¦^„vfR=gÂ‰¹pqVÍT0Ù1SŽVŽVObVbNHWEQán‡eS.t‰Q„v©º‹ÿÙ=fbìN”^å‹fR`N„v0Ç‘(uå‹6R¦^ïSåN¨c¨RýV¶RR°eÑSUS0"
+ Gensokyan_myo_monastery_latin_assimilated: "‡ez‚YtQVTIN"
+ Gensokyan_myo_monastery_latin_assimilated_desc: "a'Y)RTSi—°e„v‡eSÎN¡l	gpˆÇÿv^nbVbNÍyfŽN¥c×S°eœœ‹NirŒT`ó`„v°e‡eS0bìN„výV¶R(W|Qv^ÖNìN„vTöeÿmNÅV‰˜ÎNÖNìNNöeñOÛ„v`ó`-NfR`N0"
+ Gensokyan_myo_monastery_lost_cultures_group_assimilated: "1YK„„våwÆ‹"
+ Gensokyan_myo_monastery_lost_cultures_group_assimilated_desc: "±›NNïS`®‹N'Y	geg†S„vºNòT«ˆbýVVg0ÖNìN^yGY„vbeuNb=gÙubìN&^egˆVY=TÑS0"
+ Gensokyan_myo_monastery_turko_semitic_assimilated: "ÎžáQyrÁ”‘š"
+ Gensokyan_myo_monastery_turko_semitic_assimilated_desc: "?–Éb=ONLu.tegåNHVîX„vblšW„ðy0©‹bìN„vëXuQM‘YÙ›NHVeP„vlšÿïSåN©‹bìN„v‘šuQäNLeºNôf Rû•Î˜'NÆw0"
+ Gensokyan_myo_monastery_maghrebi_assimilated: "ôTôTÌ‘wm×v"
+ Gensokyan_myo_monastery_maghrebi_assimilated_desc: "lš<hÌ‘^àQNNÊVìb†NS^—„vwm¸S0ÖNìN(W«R cegêa'Y)RÎW¦„vFU9‚ÙNöN‹NN	g0NÌR„vÏuŒš0bìN”^å‹VìSÖNìN ReQbìN„vwm›Qv^Äuú^N=eÁy c9‚0"
+ Gensokyan_myo_monastery_malay_assimilated: "lšegjŒFU"
+ Gensokyan_myo_monastery_malay_assimilated_desc: "lšegºN	gNw `EN„v8fNN.Oßu0ûNUO^gbŸR„vlšegßu»lwýÅV‰˜brbrŠbác8f?eVrŒTSV0WFUºN„vøvùRHV¦^0ÙÍy0NÌR„vFUNåwÆ‹SùRbìN'Y	gÊvY0"
+ Gensokyan_myo_monastery_mande_assimilated: "O¯epQ„v‰è¹ƒX"
+ Gensokyan_myo_monastery_mande_assimilated_desc: "bìNòTÏuSüf·VºNßuN(WbìN„v×e^KNNÿbìN„v^ýVòTÏuÎN^—2mNôvö^8O0RšN2m0(WbìN„vnfNÏ‚9NýVKNNÿO¯epQSOâVÓuNô0"
+ Gensokyan_myo_monastery_mon_khmer_assimilated: "NWSšNúR™^ú^¾‹"
+ Gensokyan_myo_monastery_mon_khmer_assimilated_desc: "ØšÉhŒTŠWSW0WN„vofÂ‰Ýu'YYpeý=fèT'Y„vúR™^0t’ŽNbìNùRú^¾‹O'YåTz„vtQ±ÿxvzÙ›N‡eS„vú^QrŽb=g¯wšRïSåN6e·ƒˆVYN‰0"
+ Gensokyan_myo_monastery_pacific_assimilated: "*Ys^m4lKb"
+ Gensokyan_myo_monastery_pacific_assimilated_desc: "*Ys^mN„vºN=f)Yu„v4lKbÿïSåN(WòTåwg'Y„vwmmN*‚LˆˆVÜ„vÝ»y0bìN”^å‹Ð(uÖNìNjOHNbìNwm›Q„vN*NÄubèRegÝOkSbìN„vwm¸S0"
+ Gensokyan_myo_monastery_sahelian_assimilated: "™l.o8ngrl"
+ Gensokyan_myo_monastery_sahelian_assimilated_desc: "(„kÒRºN=f’dÈTÉb™l.o„v8ngrlÿÖNìNýwY(W8^ºNàeÕlLˆp„v0WbVNÜLˆ0"
+ Gensokyan_myo_monastery_scandinavian_assimilated: "S'kºN„vÞz‰NNR°e"
+ Gensokyan_myo_monastery_scandinavian_assimilated_desc: "¯e*X„v³uôušN	g `EN„vb‰N.Oßuÿ1uŽNÙ*NŸSàVÿS'k	g'YÏ‘ÏuŒš0NÌR„v›Q˜RÿbìNïSåNÎN-NrlÖSR5„våwÆ‹0"
+ Gensokyan_myo_monastery_south_slavic_assimilated: "¯eÉb+Y!X’W"
+ Gensokyan_myo_monastery_south_slavic_assimilated_desc: "WS¯eÉb+YºNEQSV†N'k2mvQÖNýV¶Rµb¡VYegµOeuw„v!X’W0ÇVgÖNìNÿbìNÁ‹f†NNR!X’Wý=f’V³R„vÿˆVëV'k2mmNOHSgŽNbìN„vßu»l0"
+ Gensokyan_myo_monastery_southern_african_assimilated: "WS^—ÄžÑ‘"
+ Gensokyan_myo_monastery_southern_african_assimilated_desc: "WS^—ÛvµNÄžÑ‘ÿàVdkSV0WºN	gNw^—8^	gHe‡s„v¡‹—r¹eÕlÿåNnxÝOÖNìN„v'¨ÀwNO%`gRNGS0"
+ Gensokyan_myo_monastery_sudanese_assimilated: "Ï‚9NºNFU–ï¿u"
+ Gensokyan_myo_monastery_sudanese_assimilated_desc: "Ï‚9NºNéeòTú^Ëz†N†‰ÖvÖNìNW0WN„vqSi–0W&^„v8fï¿u0YN†NÙ¹pÿÖNìN„v8fŠb^—2m„vWSè0WHSŒTÃWÊS„v0ÌRÓuT†Nweg0"
+ Gensokyan_myo_monastery_tartar_assimilated: "'YIƒŸSšlš"
+ Gensokyan_myo_monastery_tartar_assimilated_desc: "N'k'YIƒŸSùRlš9Segô‹=fNGrOÀy„v>egrHW0Wÿ‘—|—ºNˆV‹Y0W)R(u†NƒR0ÖNìN(W	gHe„v>egr!jVŒTAu²wŽb=gN„v)YK	g©RŽNbìNHN‘šuQìNyrY'YÏ‘„vlš9S0"
+ Gensokyan_myo_monastery_southeastasian_group_assimilated: "ðlÏeÎW^S"
+ Gensokyan_myo_monastery_southeastasian_group_assimilated_desc: "(WðlÏeºN-NnfMXR(W„v0üf|ƒW0?e»l!jVSßu»lwŒTÖN„vÎW^SVjONLu„v-NÃV0ùR–™ýÍ‘‰'`„vHVÈpsQèlüRôðlÏeºNú^Ëz†NýwY=ecpeŒvNESl„v'YÎW^0àVHNbìNêñTmNµc6RNwàQµ^'YÎW^ÿðlÏeºNùRÎW^ÑSUS„v¾|SùRbìN'Y	gÊvY0"
+ Gensokyan_myo_monastery_tibetan_group_assimilated: "Ï…Ïeæ‚LˆININ"
+ Gensokyan_myo_monastery_tibetan_group_assimilated_desc: "‰Ï…„vçP±OŠbÖNìN„vu‹TIY.sÙu(WV>ewÈSeÜ„vúR™^Ì‘æ‚Lˆ¥Qó`0bìNOHeÿNÖNìN„vIY.s¾|^y0"
+ Gensokyan_myo_monastery_finno_ugric_assimilated: "¬‚pQ„š²P"
+ Gensokyan_myo_monastery_finno_ugric_assimilated_desc: "çeNLuS¹e«ˆ°Qê–†‰Öv„vg0WNGr«ˆ¸‹YºNðyHNNÛkKN0W„v0W¹e«ˆ¬‚pQ-LNbSºNðy|THNêñT„v¶RíV0"
+ Gensokyan_myo_monastery_west_african_assimilated: "‰^—ßu»l6–µu"
+ Gensokyan_myo_monastery_west_african_assimilated_desc: "–NwbìN„v^ýVNôvö^8O0R‰^—èK„ÿbìNŠegŠOVŽNeÜ„vSV0Wßu»lw06qwÿ–Nwöeô•„v¨cûyÿbìNck(WfR`NSÙ›N,g0W†˜üRBSTv^0RbìNêñTKN-Nÿbaba0WµOŽ†SV0W„vßu»lv^ÓumgƒRìN„vê»l0"
+ Gensokyan_myo_monastery_west_slavic_assimilated: "¯eÉb+YS›Q"
+ Gensokyan_myo_monastery_west_slavic_assimilated_desc: "‰¯eÉb+YºNàQASt^egHN›Q–ùW‰Q†N¸‹YÅd•(u^—8^Ä‰b=gN°eVfkhV„vS›Q0çuÖNìN«ˆbìNVgKNTÿbìN”^å‹EQR)R(uÙN¹p0"
+ Gensokyan_myo_monastery_western_aryan_assimilated: "äS	TÉbyrFUºN"
+ Gensokyan_myo_monastery_western_aryan_assimilated_desc: "MOŽNäS	TÉbyr„vFUºNìNvšMpS¦^m„v^–wmßWûRŒbZÖS)R¦m„vHgO0ÖNìNŠb8fÐc¼pHNNè•¾|ÆR„vÑyfRÿSVbìN8T6eÖNìN„v=nãSöeÿÙSùRbìN'Y	g(uY0"
+ Gensokyan_myo_monastery_thai_group_assimilated: "íp&^ú^Qr"
+ Gensokyan_myo_monastery_thai_group_assimilated_desc: "pS¦^=e±=fN*N%Nw‘NxQ‹Wíp&^„v0WHSÿFOðlÏeºNtS¾‹Õl(W±Ì‘ú^.†NRO„vú^Qr0°s(WÙ›Nú^Qr)YMbHNbìNg¡Rÿ©‹bìNýwYôf	gHe0Wú^.bìN„vú^Qr0"
+ Gensokyan_myo_monastery_kamchatkan_g_assimilated: "‰=O)RšNsºN"
+ Gensokyan_myo_monastery_kamchatkan_g_assimilated_desc: "*XßR RºNˆVePîXÿåwS‚YUO(WN‰=O)RšN„vÒR·Q¯sƒX-NuXR0ÖNìNmN=fØšHe„vsºNÿïSåNûQPûNUOa0ˆ0RµOeQÖNìN†˜W„vºN0(WÖNìN„v.^©RNÿ¡l	geQµOwO(WbìN„v‹sýVƒX…Qx^MQ0"
+ Gensokyan_myo_monastery_Gensokyan_culture_assimilated: "‰^ó`aNVkp›R"
+ Gensokyan_myo_monastery_Gensokyan_culture_assimilated_desc: "‰^ó`aNOOlY«ŽŽNNN”–Ýu„v0WHSÿKS¡r‚YdkÿÇùRT‰|Žb=g„vxvzÿyYìNbŸRžR°s†NNNgHV„vkp›R0bìNýwûQ%yYìNêSýwô‹=f*NGYù&&"
+ Gensokyan_myo_monastery_moon_culture_assimilated: "gºNÀQSOSšR"
+ Gensokyan_myo_monastery_moon_culture_assimilated_desc: "KS¡rðV¾–Í‘Í‘ÿFOgºNgÈuØ=f¥c×S†NvQ(WbìN?eœ^SV-NNbY„vMOn0P©RvQåwÆ‹ÿbìN·ƒÖS0R†NÀQSNáOw„vHV›RÿNgwQ‰N®‹	ÿåTwQ0"
+ mechanic_enables_lunarian_rabbits_yes: "=T(u§YgTQ§!6–BS"
+ mechanic_has_wolf_tengu_estate_yes: "åb	g§Y‹vür)Y×r§!6–BS"
+ mechanic_has_great_tengu_estate_yes: "åb	g§Y'Y)Y×r§!6–BS"
+ mechanic_th_has_tinker_contests_yes: "åb	g§YŽb^RËx§!ÿfãN	>N"
+ mechanic_th_has_tinker_elections_on_ruler_death_yes: "°e„v§YŽb^§!O(Wßu»lw»yNöe	úQ"
+ mechanic_th_innovativeness_from_elections_yes: "ÎN§Y	>N§!-N·ƒ—VR°e¦^"
+ mechanic_th_innovativeness_from_embracing_institutions_yes: "¥c³u`no·ƒ—V§G10§!¹pR°e¦^"
+ mechanic_th_passive_innovativeness_yes: "=T(u§Y4t^§!N!k„v§YR°e¦^‹NöN§!"
+ mechanic_th_kappa_gadgets_yes: "=T(u§YSwQhV°h§!"
+ mechanic_th_has_kappa_rebels_yes: "	>NNßu»lweS°eOVÑS§R³låzÛSqN§!"
+ mechanic_th_has_kappa_elections_yes: "åb	g³låzV	>N"
+ mechanic_th_has_limited_terms_yes: "ßu»lwûNg	gP–"
+ mechanic_th_has_limited_terms_no: "ßu»lwïSåNNP–!kpeÍ‘°eSV	"
+ mechanic_is_rabbit_government_yes: "=f§YgTQ?eCg§!"
+ mechanic_pashas_purify_land_yes: "åb	g§YžRËeÀQS„vgºNyrO§!ÿÙSHNÔYûN†NgºNyrO¡r6R„vwýNžXûmåNNHeœgÿ\n,g0WlØS‡eS±‚9ÿ§G-25.0%§!\n,g0W.OYe›RÏ‘ÿ§G+2.0%§!\n—RYeßuN!.sÿ§G-50.0%§!\n"
+ mechanic_uses_purified_land_yes: "O(u§YÀQW§!"
+ mechanic_has_tengu_estates_yes: "åb	g§Y)Y×r§!ø‹6–BS"
+ mechanic_has_tengu_estates: "åb	g§Y)Y×r§!ø‹6–BS"
+ mechanic_enables_tengu_newspaper_yes: "=T(u§Y)Y×r°eû•§!Y²NLˆ¨R"
+ mechanic_enables_tengu_newspaper: "§Y)Y×r°eû•§!"
+ mechanic_is_wolf_tengu_government_yes: "=f§Y‹vür)Y×r?eCg§!"
+ mechanic_th_has_tengu_elections_yes: "åb	g§Y)Y×rV	>N§!"
+ mechanic_th_can_concentrate_innovativeness_yes: "ïS§YÆ–-NR°e¦^§!åNã‰•ÑyŽb"
+ mechanic_th_halved_respawn_cost_yes: "§YìS2UbINRVeg§!„v±‚9M–NO§G50%§!"
+ mechanic_th_has_naval_professionalism_yes: "åb	g§Ywm›QLwN¦^§!"
+ mechanic_th_has_necromatic_actions_yes: "åb	g§Yup³Q®‹§!ïS(u"
+ mechanic_th_gets_extra_manpower_from_pillaging_yes: "³c c–™ýOÙuˆNb¹e§G3000§!ºN›R RN§G1t^§!„vºN›R0"
+ mechanic_th_no_dev_reduction_from_manpower_exploit_yes: "eRJR§YºN›R§!NOM–NOÑSUS¦^0"
+ mechanic_th_can_lend_special_loans_yes: "=T(u§YÐc›Onm8Y7>k§!N§Y«R cYýV0µN§!0"
+ mechanic_th_negated_bankruptcy_yes: "ûyd–Nb	g§Y4xµN§!&^eg„v›Q‹Né`Z\n4xµN°s(WSObìN„v3zšR¦^NZgØSHN§G0§!¹pNckßu'`ØSHN§G100§!"
+ mechanic_th_extra_gain_from_exploiting_yes: "×SeRJRÑSUS¦^„vwýNåb	g˜Y Rbÿ\neRJRúWNxz6eÙuˆN§G+0.02t^§!„v6eeQ\neRJRúWNxuµNÙuˆN§G-33.0%§!,g0WÑSUSb,gN§G+10%§!,g0WFUÁTµNúQcíu§Y5§!t^\neRJRúWNxºN›RÙuˆN§G+0.5§!F–›QNwm¶R.Oßu"
+ mechanic_th_50_chance_of_no_dev_loss_on_exploit_yes: "åb	g§G50%§!„vàQ‡s(WeRJRûNa	Ny˜ÑSUS¦^öeNOM–NO×SeRJRwýN„vÑSUS¦^"
+ mechanic_th_can_steal_from_treasury_yes: "=T(uýw›R§Y«R cYýV0µN§!"
+ naval_professionalism_var: "wm›QLwN¦^"
+ mechanic_th_undead_respawning_yes: "§YìS2UbINRVeg§!„v±‚9M–NO§G66%§!NêSw9£dip£"
+ th_naval_professionalism_mechanic: "wm›QLwN¦^"
+ ability_th_naval_professionalism_mechanic: "wm›QLwN¦^"
+ th_naval_professionalism: "wm›QLwN¦^"
+ th_naval_professionalism_desc: "wm›QLwN¦^SO°sNw`O„vwm›Q	gY'Y„vHe‡sNhÆQS0ïSÇÛbßRÐccw0b—V	g`Oßu»lwÂS R„vwmb0åNÊSÁy cegÐcGSÿw(Wm×SŒRhQS•öeROM–NO0\nwm›QLwN¦^ÙuˆNåNN100%„vžXÊvÿ\nwm›QF–b–­‹Ãu¦^ÿ§G+10.0%§!\nwm›QF–b–Nb×S²QûQ2O³Rÿ§G-20.0%§!\n\ndkYØS(W¾0RNšR‚‚¹pTÙuˆNåNNžXÊvÿ\n¾0R20%ÿ0‚9‚1»y¥cbHg‡sÿ§G+10.0%§!\n¾0R40%ÿS•ùRôVÎW„vqVÍTÿ§G+1.00§!\n¾0R60%ÿS•He‡sÿ§G50.0%§!0Áy cHe‡sÿ§G+50.0%§!\n¾0R80%ÿÏkt^wm›Q.OßupˆÏQÿ§G-1.0%§!\n¾0R100%ÿñT¹ewm¸SwmbVY±Rÿ§G+1.00§!\n\n---------------\n§YÏkt^·ƒ—Vÿ§!\nÁy cÿ§G+0.2§!\n«ˆŒRhQS•ÿ§R-0.5§!\n§YËzsS·ƒ—Vÿ§!\nÛbßRÐccwÿ§G+1§!\nb—V	gßu»lwÐccwÂS R„vwmbÿ§G+0.5§!\n"
+ monthly_th_naval_professionalism: "g¦^wm›QLwN¦^"
+ th_naval_professionalism_gain_modifier: "wm›QLwN¦^îOck"
+ th_yukaris_shogunate_mechanic: "+tKNFd^"
+ ability_th_yukaris_shogunate_mechanic: "+tKNFd^"
+ th_manipulate_subjects: "Fd^^SýV"
+ th_manipulate_subjects_desc: "bìN„v^SýVìN²‹HNÖNìNêñT„v¾|^ya×V1uvQêñTŠbác0wÖNìNNbåwuS„v=fÖNìN„vÏkNy˜>N¨RGW=féeòT«ˆ‹NHQ’cÇ„v0"
+ overlord_th_manipulate_subjects: "Fd^^SýV"
+ subject_th_manipulate_subjects: "Fd^^SýV"
+ th_manipulate_subjects_tt: "Nb	g§Y'YT§!N§YD–¸^§!1Y»S§G5.0%§!ìrËz>PTcíu§Y10t^§!0"
+ th_tearing_reality: "•dÂˆžR(W"
+ th_tearing_reality_desc: "UOHNwžRÿžR(WNirNÇ=f™–ô•–Y*`yY›RÏ‘„v©sPNHW0Wb†N0sS¿O=fb¹e^SýV„vëXuQìN¦NNÇ=fÙØvbeu'YËh-N„vËhPRwòT0wbìN„v›RÏ‘RObìNýwÏPùR…VËhPR±7hŒuQcSàe	gNÎN0"
+ overlord_th_tearing_reality: "•dÂˆžR(W"
+ subject_th_tearing_reality: "•dÂˆžR(W"
+ th_tearing_reality_tt: "Nb	g§Y'YT§!N§YD–¸^§!'N1Y§R1000§!ºN›R0§R1000§!hQNSºN›RÊS§R-2§!F–›QNP–cíu§Y10t^§!0\nÏk*N×S0RqVÍT„v^SýVÙuˆN§Y[Root.GetName]§!§G250§!ºN›R0"
+ th_puppeteering_mortals: "©sVáQºN"
+ th_puppeteering_mortals_desc: "áQºNìNN1VS–Y*`„v1VÃVzfˆV¹RfÍdµu0NÅNïS(uT›Õlÿ(uE››R¦NýwZP0RÿHN†N[Root.Monarch.GetHerHis]‹NN[Root.Monarch.GetName]uóÞgHN‹˜úV„v<›ŒTgNáOûNºN„vÉ‰–Y*`ýýwô‹g0"
+ th_puppeteering_mortals_tt: "Nb	g§Y'YT§!N§YD–¸^§!1Y»S§R1§!Y²NsQû|cíu§Y10t^§!0"
+ overlord_th_puppeteering_mortals: "©sVáQºN"
+ subject_th_puppeteering_mortals: "©sVáQºN"
+ mechanic_th_gets_manpower_from_battles_yes: "b—Vb—eOÙuˆNb¹e§G100%§!ûQNgLe›Qpeîv„vºN›RåNÊS§G50%§!b¹eb‰kpeîv„vºN›R\n“‰cb—eOb`Y§G30%§!ûQNgÊS'N1Ypeîv„vºN›R"
+ th_battle_passion_mechanic: "b—eípñV"
+ ability_th_battle_passion_mechanic: "b—eípñV"
+ th_battle_passion_desc: "b—eípñV=fÍyaˆÏ‘<›ÏebëXTYtÀoÈpb—eåNÊSN[Root.GovernmentName]KNLeb‰k¹eO„vÆQYz¦^„vHS¦^0ØšŽN0ÿbëXìNO‚EuuIm1k6q”^bÿNOŽN0ÿ<›KNýV¿OOw–eQŒS&PNjPÞn0\n\nb—eípñV‰Ç(WF–b-N.bLe›Q§Y2O¡N§!v^TöeKSïSýwS0WÏQSè–mc1Yeg·ƒÖS0·ƒ—Vb—eípñV„v¡‹—rlQV‚YNÿ\n§T(<ûQNgLe›Q> * (5% + <ûQNgµNu„vb—eípñV>) - (<b›Q2O¡N> * (4% - <2O¡NNbJRÏQ„vb—eípñV>)) * <b—eípñV·ƒÖSîOck> / <›QâVI`pe>§!\n§YûQNgµNu„vb—eípñV8lNHN<Pÿ2O¡NNbµNu„vb—eípñV8lNHNck<P0§!\n\n§Yb—eípñVRµkÿ§!\n§G+50.00§!\n§G+35.00ó+50.00§!\n§G+20.00ó+35.00§!\n§Y-20.00ó+20.00§!\n§R-35.00ó-20.00§!\n§R-50.00ó-35.00§!\n§R-50.00§!"
+ monthly_th_battle_passion: "Ïkgb—eípñV"
+ th_battle_passion_gain_modifier: "b—eípñV·ƒÖSîOck"
+ mechanic_th_buff_flexible_deity_privilege_yes: "6–BSyrCg0§Y	éb*NºN^yGy§!0NQÐcØšYeëX6–BSqVÍT›RÿNQM–NOg'YN6R¦^0"
+ mechanic_th_decreased_danmaku_duel_refusal_yes: "vQÖNýV¶RôfN>PTŽNÒbÝuNbìNÛLˆ§Y9VU^³Q—e§!0\n)íwQ!kÑSwcb„vöeô•§Y10t^§!0"
+ mechanic_th_unlock_clerical_danmaku_duel_yes: "ã‰•Y²NLˆ¨R0§Y>múQ³Q—eëTsY§!0"
+ mechanic_th_reduce_needed_trade_power_for_propagating_yes: "ÏQS§G-20.0%§!Ç‘(u8f?eVr0§Y>mcëTsY§!0NbÅV‰˜„v8fÞz‰N›R"
+ mechanic_th_reduced_penalty_from_conversion_yes: "Ø§G100.0%§!ÎNwýN.OYe-N'N1Y„vŒTŒ¦^"
+ mechanic_no_penalties_from_secondary_religion_change_yes: "ôf9eøv‡áOðNSNQM–NO§YZg§!"
+ mechanic_improve_all_estates_loyalty_on_secondary_religion_change_yes: "ôf9eøv‡áOðN°s(WOÙuˆN§G+20.0%§!àVÚ‹¦^ó§YNb	g§!6–BS"
+ mechanic_can_convert_provinces_to_secondary_religion_yes: "=T(uN*N³Q®‹ÿAQ¸‹.OYeëXOwýN9e—RHN§Yøv‡áOðN§!"
+ mechanic_buffed_secondary_religion_provinces_yes: "`O„v§Yøv‡áOðN§!wýN°s(W·ƒ—V§G-1.00§!,g0WÛSqN¦^ÿ§G-5§!Ïkt^0W¹eR»yININåNÊS§G-0.05§!Ïkg,g0Wê»l¦^"
+ mechanic_seizing_land_no_rebels_from_estate_lunarian_rabbits_yes: "ÎN§YgTQ§!¡l6e†˜WNQæ‰ÑSgTQÛS›Q"
+ th_cirno_fairy_liberation_mechanic: "°Q¾|KNã‰>e"
+ ability_th_cirno_fairy_liberation_mechanic: "°Q¾|KNã‰>e"
+ th_cirno_adm_power: "–Y¾|Lˆ?e"
+ th_cirno_dip_power: "–Y¾|Pc`"
+ th_cirno_mil_power: "–Y¾|Ãufk"
+ monthly_th_cirno_adm_power: "Ïkg–Y¾|Lˆ?e"
+ monthly_th_cirno_dip_power: "Ïkg–Y¾|Pc`"
+ monthly_th_cirno_mil_power: "Ïkg–Y¾|Ãufk"
+ th_cirno_adm_power_gain_modifier: "–Y¾|Lˆ?e·ƒÖSîOck"
+ th_cirno_dip_power_gain_modifier: "–Y¾|Pc`·ƒÖSîOck"
+ th_cirno_mil_power_gain_modifier: "–Y¾|Ãufk·ƒÖSîOck"
+ th_fairy_self_organization: "ÃOÛ–Y¾|ÄuÇuS"
+ th_fairy_self_organization_desc: ""
+ th_fairy_collect_war_donations: "ßRÆ––Y¾|'Yb‰NPc³u"
+ th_fairy_collect_war_donations_desc: ""
+ th_fairy_recruit_from_fairy_lands: "ÎN–Y¾|†˜0WVuQ"
+ th_fairy_recruit_from_fairy_lands_desc: ""
+ th_unleash_lifeforce_title: "u‹T›R>eúQ"
+ th_unleash_lifeforce_desc: "©‹ÂrlKNkpŠb2UwbìNbëXÃV-N„vÂrípNylylbaÿ"
+ th_larva_goddess_mechanic: "–Y¾|KN^y'`"
+ ability_th_larva_goddess_mechanic: "–Y¾|KN^y'`"
+ th_creation_of_life: "R.u‹T"
+ th_creation_of_life_desc: ""
+ th_cause_berserk_lifeforce: "u‹T›R´fp"
+ th_cause_berserk_lifeforce_desc: ""
+ th_devouring_life: "RƒÎ‘TlV"
+ th_devouring_life_desc: ""
+ POWER_OF_THE_FAIRY_GODDESS: "ÑS%c–Y¾|^yKN›R"
+ th_necromantic_magic_mechanic: "‰kupT›Õl"
+ ability_th_necromantic_magic_mechanic: "‰kupT›Õl"
+ th_shrine_theocracy_mechanic: "^y>yÆ–Cg6R"
+ ability_th_shrine_theocracy_mechanic: "^y>yÆ–Cg6R"
+ th_collect_from_the_donation_box: "Sbti±”±r"
+ th_collect_from_the_donation_box_desc: ""
+ th_invite_youkais: "Ž÷‹–Y*`"
+ th_invite_youkais_desc: ""
+ th_sanction_holy_war: "1Wb6RÁˆ"
+ th_sanction_holy_war_desc: ""
+ th_sword_of_nature_mechanic: "'Yê6qKNQR"
+ ability_th_sword_of_nature_mechanic: "'Yê6qKNQR"
+ th_balance_power: "s^aˆýwÏ‘"
+ th_restoration_power: "YŸSýwÏ‘"
+ th_feral_power: "Âr´fýwÏ‘"
+ monthly_th_balance_power: "Ïkgs^aˆýwÏ‘"
+ monthly_th_restoration_power: "ÏkgYŸSýwÏ‘"
+ monthly_th_feral_power: "ÏkgÂr´fýwÏ‘"
+ th_balance_power_gain_modifier: "s^aˆýwÏ‘·ƒÖSîOck"
+ th_restoration_power_gain_modifier: "YŸSýwÏ‘·ƒÖSîOck"
+ th_feral_power_gain_modifier: "Âr´fýwÏ‘·ƒÖSîOck"
+ th_cosmic_control: "Ídµu)Y0W"
+ th_cosmic_control_desc: ""
+ th_tranquility_for_the_realm: "ƒXßW‰RR"
+ th_tranquility_for_the_realm_desc: ""
+ th_force_of_nature: "'Yê6qKNZ¿R"
+ th_force_of_nature_desc: ""
+ th_wolf_tengu_monarchy_mechanic: "‹vür)Y×rTIN6R"
+ ability_th_wolf_tengu_monarchy_mechanic: "‹vür)Y×rTIN6R"
+ th_wolf_tengu_ability_liberate_wolves: "ã‰>e‹vür)Y×r"
+ th_wolf_tengu_ability_liberate_wolves_desc: ""
+ th_wolf_tengu_ability_raiding_parties: "ÄuÇu«R c–"
+ th_wolf_tengu_ability_raiding_parties_desc: ""
+ th_wolf_tengu_ability_vanguards: "VìSHQ•›Q"
+ th_wolf_tengu_ability_vanguards_desc: ""
+ th_wolf_tengu_adm_power: "‹vür)Y×rLˆ?e"
+ th_wolf_tengu_dip_power: "‹vür)Y×rY²N"
+ th_wolf_tengu_mil_power: "‹vür)Y×r›Q‹N"
+ monthly_th_wolf_tengu_adm_power: "Ïkg‹vür)Y×rLˆ?e"
+ monthly_th_wolf_tengu_dip_power: "Ïkg‹vür)Y×rY²N"
+ monthly_th_wolf_tengu_mil_power: "Ïkg‹vür)Y×r›Q‹N"
+ th_wolf_tengu_adm_power_gain_modifier: "‹vür)Y×rLˆ?e·ƒÖSîOck"
+ th_wolf_tengu_dip_power_gain_modifier: "‹vür)Y×rY²N·ƒÖSîOck"
+ th_wolf_tengu_mil_power_gain_modifier: "‹vür)Y×r›Q‹N·ƒÖSîOck"
+ th_tengu_council_mechanic: ")Y×r®‹O"
+ ability_th_tengu_council_mechanic: ")Y×r®‹O"
+ th_pacify_the_estates: "Fds^T6–BS"
+ th_pacify_the_estates_desc: ""
+ th_raise_the_vanguard: "âdGSHQ•›Q"
+ th_raise_the_vanguard_desc: ""
+ th_estate_power: ")Y×r6–BS=ec"
+ th_vanguard_power: ")Y×rHQ•›Q=ec"
+ monthly_th_estate_power: "Ïkg)Y×r6–BS=ec"
+ monthly_th_vanguard_power: "Ïkg)Y×rHQ•›Q=ec"
+ th_estate_power_gain_modifier: ")Y×r6–BS=ec·ƒÖSîOck"
+ th_vanguard_power_gain_modifier: ")Y×rHQ•›Q·ƒÖSîOck"
+ th_scarlet_bloodlust_mechanic: ")s¢uÜUNˆ"
+ ability_th_scarlet_bloodlust_mechanic: ")s¢uÜUNˆ"
+ th_scarlet_bloodlust: ")s¢uÜUNˆ"
+ th_scarlet_bloodlust_desc: "NÖNýVNTÿbìN[Root.GovernmentName]	gØš5„v8TNˆ<›pš‹šŽNbHWNÿïOÆ‰NwHNb¹ecƒ‰Šw‰k„vœQl0àVvQl(KNEeÿÙ›NëXuQOØS—VÜUNˆÿv^Nëkàe‘uî•ýw(Wb—e-NQu0\n(WŒTs^öegÿM–NO†NbìNÏuNm„vHe‡s„v)s¢uÜUNˆ=fbìNlO„vN'YÅb0FO=fÿ(Wb‰NöegÜUNˆýwäNbìN„vè–w–eQÂrípÿ(Wcƒ‰ŠKNb-NûQ%Le›Q0"
+ monthly_th_scarlet_bloodlust: "Ïkg)s¢uÜUNˆ"
+ th_scarlet_bloodlust_gain_modifier: ")s¢uÜUNˆ·ƒÖSîOck"
+ th_embrace_blood_frenzy: "åb±bœœNˆÂrno"
+ th_embrace_blood_frenzy_desc: ""
+ th_cleanse_blood_frenzy: "’cd–œœNˆÂrno"
+ th_cleanse_blood_frenzy_desc: ""
+ th_scarlet_charisma_mechanic: "Nˆr‚E››R"
+ ability_th_scarlet_charisma_mechanic: "Nˆr‚E››R"
+ th_scarlet_charisma: "Nˆr‚E››R"
+ th_scarlet_charisma_desc: "Nˆr‚E››R=fbýVY²N.ã‹„vSO°s0E››RŠØšÿ¿OŠ¹Rfô‹gýV…QY?e»lžRSOgºbìN„va×V0\nÓu‹s²RTwûYÙuˆN§G+5§!Nˆr‚E››RÿwIN¨R•dÁk‹s²RTwûYRO§R-10§!Nˆr‚E››R0"
+ monthly_th_scarlet_charisma: "ÏkgNˆr‚E››R"
+ th_scarlet_charisma_gain_modifier: "Nˆr‚E››R·ƒÖSîOck"
+ th_throw_banquet: "´R÷‹¾R¢R"
+ th_throw_banquet_desc: ""
+ JUST_THREW_A_BANQUET: "R´R÷‹Ç¾R¢R"
+ th_might_of_destruction_mechanic: "4xOWKNZT"
+ ability_th_might_of_destruction_mechanic: "4xOWKNZT"
+ th_might_of_destruction: "4xOWKNZT"
+ th_might_of_destruction_desc: "§Y4xOWKNZT§!=fHNb‰NwïyÄ„„výwÏ‘0ÏkSV&qWM0W0Ákmp4N4YN÷mqNÛVwöeÿ™‚pQ5g2—„v4xOWKN›R¿OOžX•0\n\nåNNLˆ¨ROÐcGS4xOWKNZTÿ\nÿpûQÎW™Xÿ§G+10§!	ÿ\nÿùRYýVwýNžRËe&qW?eVrÿ§G+1§!	ÿ\nÿeRJRÑSUS¦^ÿ§G+5§!	ÿ"
+ monthly_th_might_of_destruction: "Ïkg4xOWKNZT"
+ th_might_of_destruction_gain_modifier: "4xOWKNZT·ƒÖSîOck"
+ th_four_of_a_kind: "yÌV0ÛVÍ‘XR(W0"
+ th_four_of_a_kind_modifier: "yÌV0ÛVÍ‘XR(W0"
+ th_four_of_a_kind_desc: ""
+ th_maze_of_love: "yÌV0K`KN÷«R0"
+ th_maze_of_love_modifier: "yÌV0K`KN÷«R0"
+ th_maze_of_love_desc: ""
+ th_laevatein: "yÌV0±ƒætNl0"
+ th_laevatein_modifier: "yÌV0±ƒætNl0"
+ th_laevatein_desc: ""
+ POWER_OF_PURE_DESTRUCTION: "ÑS%c4xOWKNZT"
+ th_cin_fairy_self_organization: "–Y¾|ê»l"
+ desc_th_cin_fairy_self_organization: "býV–Y¾|'YO„v>yO=fåNêÑSÄuÇuú^b„vÿbìN?eœ^Nb—bÅb„vø‹Y1ûN1udk—V0RÏQ‰0"
+ th_hellfairy_army_berzerk: "u‹T›R…wƒ"
+ desc_th_hellfairy_army_berzerk: "0`OaÆ‹0R¡l	gÿ	galýy„výwÏ‘jOVüRÿbìN„vfkhV(uegùRØN`O±=fcêTSbêTÿ0"
+ th_hellfairy_army_berzerk_drain: "u‹T›Rwíz"
+ desc_th_hellfairy_army_berzerk_drain: "qšOëXuQìN„vÃVzfÛeQ…‘˜¶r`N>NwKS†NÖNìN„vu‹T›RÿÙ'YE^M–NO†Nb›Q„vb—e›R0"
+ th_creation_of_life_modifier: "R.u‹T"
+ desc_th_creation_of_life_modifier: ""
+ th_cause_berserk_lifeforce_modifier: "u‹T›R´fp"
+ desc_th_cause_berserk_lifeforce_modifier: ""
+ th_devouring_life_modifier: "TlVu‹T›R"
+ desc_th_devouring_life_modifier: ""
+ th_collect_from_the_donation_box_modifier: "Sbti±”±r"
+ desc_th_collect_from_the_donation_box_modifier: ""
+ th_invite_youkais_modifier: "Ž÷‹–Y*`"
+ desc_th_invite_youkais_modifier: ""
+ th_sanction_holy_war_modifier: "1Wb6RÁˆ"
+ desc_th_sanction_holy_war_modifier: ""
+ th_transfer_power_nature: "0W›RÁûy"
+ TRANSTER_POWER_NATURE: "§Y0W›RÁûy§!"
+ th_transfer_power_nature_trigger1: "§Rÿ(Wå‹ê»l†˜0W…Qåb	góS1*NÑSUS¦^HN§Y4§!bôfØš„v	g8hwýN0§!"
+ th_transfer_power_nature_trigger2: "§RÿóSåb	g§Y25§!¹p?eœ^9ei—Û¦^0§!"
+ th_transfer_power_nature_trigger3: "§Rÿ§Y*Y3–±‚0u§!0WHSÅV‰˜«ˆ×S`Oµc6RN	gŒRte8hÃV0§!"

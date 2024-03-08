@@ -1,0 +1,705 @@
+﻿l_english:
+ th_set_target_as_aggressor_title: "Sîvh¾‹HNIeûQ¹e"
+ th_set_target_as_aggressor_desc: "	šRN*NîvhýV¶Rÿ©‹vQbHNæSN*N	šRýV¶R„vjo(WÛIeùRaŒ0êSýw	g1*NýV¶RbHN¡‹R„vÛIe¹e0"
+ th_set_target_as_aggressor_tooltip: "	šRN*NîvhýV¶Rÿ©‹vQbHNæSN*N	šRýV¶R„vjo(WÛIeùRaŒ0êSýw	g1*NýV¶RbHN¡‹R„vÛIe¹e0"
+ th_set_target_as_aggressor_spcial_condition: "ÿîvhÅV‰˜=fbìN„v¿RLeb=fbìN„vLeºN\nÿbwîvhÔkbìN	gNwôfØš„vÑSUS¦^\nÿbwîvhóS	g250ÑSUS¦^\nÿbwîvh=fRHVKN–™"
+ th_diplomacy_has_already_a_planned_aggressor: "ÿ¡l	gN*NýV¶RÆQYbHNÛIe¹e0"
+ th_remove_target_as_aggressor_title: "nd–ÛIe¹eîvh"
+ th_remove_target_as_aggressor_desc: "SîvhÎN¡‹R‹Y„vÛIe¹e«ŽNûyd–ÿOb¹e—VåN	ébæSN*NýV¶RjOHNbìN„vSbKb0"
+ th_remove_target_as_aggressor_tooltip: "SîvhÎN¡‹R‹Y„vÛIe¹e«ŽNûyd–ÿOb¹e—VåN	ébæSN*NýV¶RjOHNbìN„vSbKb0"
+ th_diplomacy_needs_a_planned_aggressor: "ÿN*NýV¶RòT«ˆ±R^HNÛIe¹e0"
+ th_diplomacy_has_still_cooldown: "ÿ(WÇ»S„v5t^Ì‘ÿbìN¡l	gcwÇb‰N0"
+ th_break_vassal_alliance_title: "­eÝuD–¸^„vßv¦u"
+ th_break_vassal_alliance_desc: "­eÝu`OD–¸^Nb	g„vßv¦uÿsSOÖNìNNœU0kÙ7h0ùRŽNMQNb¹eD–¸^ôv¥cVbegô‹Ù=føvSV	g(u„v0"
+ th_break_vassal_alliance_tooltip: "­eÝu`OD–¸^Nb	g„vßv¦uÿsSOÖNìNNœU0kÙ7h0ùRŽNMQNb¹eD–¸^ôv¥cVbegô‹Ù=føvSV	g(u„v0"
+ th_create_tributary_state_title: "¾‹nôfYÜÝg!ýV"
+ th_create_tributary_state_desc: "ú^®‹ÖNìNbHNbìNN^S„vg!ýVsSOÖNìNNNbìN¥cäX0"
+ th_create_tributary_state_tooltip: "ú^®‹ÖNìNbHNbìNN^S„vg!ýVsSOÖNìNNNbìN¥cäX0"
+ th_create_tributary_state_dev_condition_tooltip: "ÿîvhýV¶R„vÑSUS¦^Nýw…ÇbìNbwóS	g200*NÑSUS¦^"
+ th_create_tributary_state_strength_condition_tooltip: "ÿîvhýV¶R„v›Q‹N›RÏ‘‰SŽNbìN30%"
+ th_create_tributary_state_distance_condition_tooltip: "ÿîvhýV¶RNb¹eKNô•„vÝ»y‰SŽN500"
+ th_eit_set_target_as_aggressor_title: "Sîvh¾‹HNIeûQ¹e"
+ th_eit_set_target_as_aggressor_desc: "	šRN*NîvhýV¶Rÿ©‹vQbHNæSN*N«ˆ	šRýV¶R„vjo(WÛIe¹e0TNöeô•gYïS‰R’c5*NÛIe¹e0"
+ th_eit_set_target_as_aggressor_tooltip: "	šRN*NîvhýV¶Rÿ©‹vQbHNæSN*N«ˆ	šRýV¶R„vjo(WÛIe¹e0TNöeô•gYïS‰R’c5*NÛIe¹e0"
+ th_eit_set_target_as_aggressor_spcial_condition: "ÿîvhÔkb¹e	gNwôfØš„vÑSUS¦^\nÿbwîvhóS	g125ÑSUS¦^"
+ th_diplomacy_eit_has_already_max_aggressors: "bìNòTÏuåb	g5*N¡‹R‹Y„vIeûQ¹e†N0"
+ th_eit_remove_target_as_aggressor_title: "nd–ÛIe¹eîvh"
+ th_eit_remove_target_as_aggressor_desc: "SîvhÎN¡‹R‹Y„vÛIe¹e«ŽNûyd–ÿOb¹e—VåN	ébæSN*NýV¶RjOHNbìN„vSbKb0"
+ th_eit_remove_target_as_aggressor_tooltip: "SîvhÎN¡‹R‹Y„vÛIe¹e«ŽNûyd–ÿOb¹e—VåN	ébæSN*NýV¶RjOHNbìN„vSbKb0"
+ th_diplomacy_eit_needs_one_aggressor: "b¹eóS—‰1*N¡‹R‹Y„vÛIe¹e"
+ th_bribe_subject_title: "?B^SýV"
+ th_bribe_subject_desc: "úQÑ‘^jOHN<yir?Bb¹e^SýV?eœ^åNÐcØš§G50§!ÖNìNùRbìN„vwÕlÿv^Nûyd–ÖNìNùRbìN„vNb	g§YµOeuib.V§!wÕl0Nb—±‚9„vÑ‘^å‚^SýV„vI`ÑSUS¦^NOŽN250RåN^SýVI`ÑSUS¦^(W1t^…Q„v6eeQHNúWÆQVËYôvó1000ÑSUS¦^ÿgYåN5t^…Q„v6eeQHNúWÆQ0\n\nSVMR±‚9ÿ$COST|Y$¤"
+ th_bribe_subject_tooltip: "úQÑ‘^jOHN<yir?Bb¹e^SýV?eœ^åNÐcØšÖNìNùRbìN„vwÕlÿv^Nûyd–ÖNìNùRbìN„vNb	gµOeuib.VwÕl0"
+ th_bribe_subjed_off_cd: "êN!k?BÇ^SýVåNegòTÏuÇ»S†N1t^0"
+ th_incite_moriya_zealots_title: "‹q¨RÂráO’V"
+ th_incite_moriya_zealots_tooltip: "Twû|ˆRâw„váOOv^Ÿ¨RvQHc«ŽÍS—b[From.GetName]ÿ"
+ th_incite_moriya_zealots_desc: "±‚9(W§Y[From.GetName]§!„v§R30§!¹pô•ŒQÜuÄ‰!j0bìN„vNMOëTsYSjoeQ§Y[From.GetName]§!v^åN§Y[Root.Religion.GetName]§!KNTVÑS—RYeššqN0\n\ndkLˆ¨R„v·QtSöeô•HN§Y5t^§!0"
+ th_diplomacy_has_already_incited_zealots: "(WgÑ„v§Y5t^§!…Q¡l	g(WÙ*NýV¶R‹q¨RÇÂrípw0"
+ th_request_conversion_title: "‰Bl9eáO"
+ th_request_conversion_tooltip: "â‹î•[From.GetName]	g¡l	g,Tô‹ÇbìN„vINÊSQeNIN)mâwù‹¿‹PR0"
+ th_request_conversion_desc: "Õ‹NwÇY²NN„vRô‹ÊSwÃVegSN*NýV¶RlSHNˆRâw^yS0"
+ th_mry_conversion_enabled_tt: "‹NöN0§YˆRâw^ySn‹AmLˆ§!0òT(W§Y0Î˜^yUV0§!VØSgô•ÑSu0"
+ th_establish_religious_tributaries_title: "ú^Ëz—RYeg!sQû|"
+ th_establish_religious_tributaries_tooltip: "ú^®‹ÖNìNbHNbìNTN„v—RYeg!ýV0"
+ th_establish_religious_tributaries_desc: "`O^g‰Bl§Y[From.GetName]§!bHNb¹e„v§Y—RYeg!ýV§!Tÿ\njOHN—RINýV`OïSåN‰BlÖNìNåN$COST|Y$¤0£adm£0£dip£0£mil£b£icon_manpower£„vbVV4³uS!0—RYeg!ýVØO9hnc[From.GetName]„vI`ÑSUS¦^Ïk§Y50§!ÐcGS§G+0.01§!g¦^áOðN›R0\nÖNìNïSåNìrËz0WNvQÖNýV¶RÛLˆY²NLˆ¨R0\n\n—RYeg!ýVÇûNa¹eV9e—R§Y[Root.Religion.GetName]§!åNY„vvQÖN—RYeb=f[Root.GetName]NQHN§Y^y>yÆ–Cg6R§!öeÿvQSOÖS—V§RìrËz§!0"
+ th_cancel_religious_tributaries_title: "ÖSˆm—RYeg!sQû|"
+ th_cancel_religious_tributaries_tooltip: "ÖSˆmbìNNå‹ýV„v—RYeg!sQû|0"
+ th_cancel_religious_tributaries_desc: "`O^g­eÝubìNN§Y[From.GetName]§!„v—RYeg!sQû|Tÿ"
+ DIPLOMACYACTION_CATEGORY_: "‰^ó`aNLˆ¨R"
+ TH_DIPLO_TOTAL_DEVELOPMENT: "1uŽNvQÑSUS¦^ÿ"
+ TH_DIPLO_OPPINION: "ÖNìNùRbìN„v‹Ya¦^ÿ"
+ TH_DIPLO_TRUST_WITH: "ùRbìN„váOûNÿ"
+ th_loot_from_treasury_title: "«R cYýV0µN"
+ th_loot_from_treasury_tooltip: ">mcsYÑ‚„váOOMRŽV[From.GetName]NÎNÖNìN±?Q¢b›N±”egÿ"
+ th_loot_from_treasury_desc: "«R c[From.GetAdjective]„v0µNS)ÏQb¹e[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R50§!ÿFOO§G6e·ƒ§!øvSVŽNîvh§Y6*Ng§!„vg6eeQ$COST|Y$¤‚Yœg[From.GetName]„výV“^Ì‘	gÙHNY±”„vÝ‹0\n\n`OïSåNÏk§Y25t^§!ŒbTN*NýV¶RwP¹p±”0§Y[From.GetName]§!ùRb¹e„v‹Ya¦^SM–NO§R-50§!NÖNìNO·ƒ—VùRb¹e„v±Rbt1u0§YY²N®O±§!00"
+ th_diplomacy_has_already_looted_treasury: "(WÇ»S„v§Y25t^§!…Q¡l	gùRdkýV¶R«R cÇýV“^0"
+ th_diplomacy_cant_loot_from_allies: "`ONýw¢b`OßvËS„v01S¡l¹pcƒ‰ŠHN`Oÿ"
+ th_diplomacy_has_not_truce_with_target: "`ONýw«R cN`O	gObOS®‹„vºN0"
+ th_hunt_youkais_title: "»lÎ‘î†–Y*`"
+ th_hunt_youkais_tooltip: "Œr¢‹>mc[Root.Monarch.GetName]MRŽV»lØhKb–Y*`„vQY¦u0"
+ th_hunt_youkais_desc: "`O^g>mc[Root.Monarch.GetName]MRŽV§Y[From.GetName]§!»lÑSÂrNØhKb„v–Y*`HNÿÙSOO`O„vßu»lwNÎ‘î†–Y*`ÛeQNHW§Y9VU^b§!ÿ¾–¦^IrµuåNîvh„vÑSUS¦^eg³QšR0bŸR„vÝ‹`OS·ƒ—V§Y[From.GetName]§!„v§G+25§!‹YaÊS§G6e·ƒ§!„v$COST|Y$¤øvSVŽNîvhI`ÑSUS¦^XNåN2ÿ‚Yœg–Y*`sKb„vVY±RuHe„vÝ‹RHNXNåN4	ÿQ RN50$COST|Y$¤0\n‰USV–Y*`érsbìN—‰30£adm£ÊS15£mil£.\n\ndkLˆ¨Rˆmw§Y5¹p–Y*`érs9(u§!Ì‘„v§Y1¹p§!ÿSVMR9(uHN§Y[Root.th_youkai_hunt_charges.GetValue]§!	ÿ0\nÏk¹p9(u—‰§Y5t^§!egb`Y0"
+ th_diplomacy_youkai_hunt_cant_hunt_for_enemies: "[From.GetName]ùRbìNegô‹âe^—LeºN¦N^—ßvËSÿ¡l	gNbìN²NbNùRb¹eóSåb	g§Y-25§!‹Ya0"
+ th_challenge_to_danmaku_duel_title: "cb9VU^³Q—e"
+ th_challenge_to_danmaku_duel_tooltip: "[Root.Monarch.GetName]SåN9VU^³Q—eT[From.Monarch.GetName]ÑSwcbÿ"
+ th_challenge_to_danmaku_duel_desc: "`O^gT@[From.GetTag] §Y[From.GetName]§!„v[From.Monarch.GetName]ÑSw9VU^³Q—ecbHNÿÙSOO[Root.Monarch.GetName]ŒT[From.Monarch.GetName]ÛLˆ§Y9VU^³Q—e§!ÿvQb—e›RSåNN`ON7h„v¹eVÛLˆ¡‹—r0bŸR„vÝ‹`OSÎN-N·ƒ—V§G+30§!¹p›RÏ‘•bS06qw1Y%„vÝ‹bìNS1Y»SùR[From.GetName]„v§R30§!¹p›RÏ‘•bS0\nßu»lw„v›Q‹Nýw›RNOŽN[Root.Monarch.GetName]„výV¶RO‹TŽNÒbÝu³Q—e0\n‰T[From.GetName]ÑSwcbbìN—‰§R25§!£mil£0"
+ th_fairy_prank_title: "–Y¾|teÊ†"
+ th_fairy_prank_tooltip: "ùR[From.GetName]dv`jOgRÿ"
+ th_fairy_prank_desc: "dv`jOgRS)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R25§!v^ÙuˆNvQîOck0§Y«ˆteÊ†§!0cíu§Y10t^§!N.b‚YNqVÍTÿ\nY²NðX‰Šÿ§R-1§!\n\n`OïSåNÏk§Y15t^§!TTN*NýV¶RÑSwteÊ†0[From.GetName]ùRb¹e„v‹YaSM–NO§R30§!NÖNìNO·ƒ—VùRb¹e„v±Rbt1u0§YY²N®O±§!00[Root.GetBonusLoyaltyForFairyPiratesFromPranks]"
+ th_cin_prank_title: "°Qù–´fÎ˜teÊ†"
+ th_cin_prank_tooltip: "ùR[From.GetName]v`jOgRNjuv^ÙuvQeg¹p°Qù–´fÎ˜ÿ"
+ th_cin_prank_desc: "dv`jOgRO)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R25§!ÿûyd–[From.GetName]§R15%§!„vt^¦^ºN›R<PNÙuˆNvQ§Y10t^§!ÿ,rŒNchHNcíu§Y15t^§!	ÿîOck0§Y°Qù–´fÎ˜§!0.b‚YNqVÍTÿ\nûy¨R¦^ÿ§R-10.0%§!ÿ,rŒNchHN§R-20.0%§!	ÿ\nF–›Qmcwÿ§R+10.0§!\n\n`OïSåNÏk§Y15t^§!TTN*NýV¶RÑSwteÊ†0[From.GetName]ùRb¹e„v‹YaSM–NO§R30§!NÖNìNO·ƒ—VùRb¹e„v±Rbt1u0§YY²N®O±§!00[Root.GetBonusLoyaltyForFairyPiratesFromPranks]"
+ th_clp_prank_title: "ag¹u¶rñmnteÊ†"
+ th_clp_prank_tooltip: "ùR[From.GetName]v`jOgRNjuv^ÙuvQeg¹p¾|^y•qNÿ"
+ th_clp_prank_desc: "dv`jOgRO)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R25§!ÿ.b(W[From.Capital.GetName]„v§R15%§!RƒŸ^¦^NÙuˆNvQ§Y10t^§!îOck0§Yag¹u¶rñmn§!0.b‚YNqVÍTÿ\nŒ˜î•±‚9ÿ§R+25.0%§!\n‰^X2–¡Vÿ§R-25.0%§!\n\n`OïSåNÏk§Y15t^§!TTN*NýV¶RÑSwteÊ†0[From.GetName]ùRb¹e„v‹YaSM–NO§R30§!NÖNìNO·ƒ—VùRb¹e„v±Rbt1u0§YY²N®O±§!00[Root.GetBonusLoyaltyForFairyPiratesFromPranks]"
+ th_lil_prank_title: "¥b%f"
+ th_lil_prank_tooltip: "©‹[From.GetName]åwS%f)Y‰eg†Nv^OvQ„våePRôf‹YÇ›Nÿ"
+ th_lil_prank_desc: "[Root.Monarch.GetName]S²NêÞ˜ŽV[From.GetName]åNäNvQ†˜eu%f)Y„vŽ‹Yÿ[From.GetName]ùRb¹e„v‹Ya¦^SÐcGS§G+50§!cíu§Y10t^§!0\n\n`OïSåNÏk§Y15t^§!TTN*NýV¶RJTåwvQ%f)YKNŽ0\n‰¥b%fR—‰bìN„v50£dip£0\n\nKS¡rTWR=fÙHN™Q„vÿFOdkY²NLˆ¨RÍNO«ˆÆ‰HN§YteÊ†§!0[Root.GetBonusLoyaltyForFairyPiratesFromPranks]"
+ th_tfr_sunny_prank_title: "ô‹Tê•IQteÊ†"
+ th_tfr_sunny_prank_tooltip: "ùR[From.GetName]v`jOgRNjuv^ÇIQ¿ueg6R.úQ‰^aŒÿ"
+ th_tfr_sunny_prank_desc: "dv`jOgRO)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R25§!ÿžX R[From.GetName]§R0.5§!ŒSb¦^v^ÙuˆNvQîOck0§Yô‹Tê•IQ§!0cíu§Y10t^§!N.b‚YNqVÍTÿ\nôVÎWýw›Rÿ§R-10.0%§!\nS•ùRIeÎW„vqVÍTÿ§R-1§!\n\n`OïSåNÏk§Y15t^§!TTN*NýV¶RÑSwteÊ†0[From.GetName]ùRb¹e„v‹YaSM–NO§R30§!NÖNìNO·ƒ—VùRb¹e„v±Rbt1u0§YY²N®O±§!00[Root.GetBonusLoyaltyForFairyPiratesFromPranks]"
+ th_tfr_luna_prank_title: "Ârè–teÊ†"
+ th_tfr_luna_prank_tooltip: "ùR[From.GetName]v`jOgRNjuv^ˆmd–hTôVNb	g„vðXó—ÿ"
+ th_tfr_luna_prank_desc: "dv`jOgRO)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R25§!ÿûyd–[From.GetName]„v§R20§!ZgNÙuˆNîOck0§YÂrè–§!0cíu§Y10t^§!v^.b‚YNqVÍTÿ\nY²NðX‰Šÿ§R-1§!\nhQNS8fÞz‰N›Rÿ§R-10.0%§!\n\n`OïSåNÏk§Y15t^§!TTN*NýV¶RÑSwteÊ†0[From.GetName]ùRb¹e„v‹YaSM–NO§R30§!NÖNìNO·ƒ—VùRb¹e„v±Rbt1u0§YY²N®O±§!00[Root.GetBonusLoyaltyForFairyPiratesFromPranks]"
+ th_tfr_star_prank_title: "ê•wÝ„RówteÊ†"
+ th_tfr_star_prank_tooltip: "ùR[From.GetName]v`jOgRNjuv^a”^0RvQ„vNb	gIm¨Rÿ"
+ th_tfr_star_prank_desc: "dv`jOgRO)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R25§!ÿûyd–[From.GetName]„v§Yb‰N÷þ–§!v^ÙuˆNvQîOck0§Yê•wÝ„Rów§!0cíu§Y10t^§!N.b‚YNqVÍTÿ\nûy¨R¦^ÿ§R-10.0%§!\n\n`OïSåNÏk§Y15t^§!TTN*NýV¶RÑSwteÊ†0[From.GetName]ùRb¹e„v‹YaSM–NO§R30§!NÖNìNO·ƒ—VùRb¹e„v±Rbt1u0§YY²N®O±§!00[Root.GetBonusLoyaltyForFairyPiratesFromPranks]"
+ th_diplomacy_has_already_pranked: "(WgÑ„v§Y15t^§!…Q¡l	gteÊ†Ç[From.GetName]0"
+ th_diplomacy_cant_prank_enemies: "N[From.GetName]N=fLeºNb¿RLe0"
+ th_diplomacy_cant_prank_haters: "[From.GetName]„v`¦^NHNLea0"
+ th_diplomacy_has_not_truce_with_prank_target: "N[From.GetName]¡l	gObOS®‹0"
+ th_lrv_prank_title: "QbÅKNY"
+ th_lrv_prank_tooltip: "©‹[From.GetName]„vlPØS—Vôf‚gv^OvQ„våePRôf‹YÇ›Nÿ"
+ th_lrv_prank_desc: "[Root.Monarch.GetName]S²NêùR[From.GetName]Ëe=gv^>fW„9e„USV0W„vlP0[From.GetName]ùRb¹e„v‹Ya¦^SÐcGS§G+25§!NÙuˆNvQ§Y10t^§!îOck0§YQbÅKNY§!0.b‚YNqVÍTÿ\nÑSUSb,gÿ§G-5.0%§!\ng¦^ŒSb¦^ÿ§G-0.05§!\nhQýVÛSqN¦^ÿ§G-1.00§!\n\n`OïSåNÏk§Y15t^§!9e„UTN*NýV¶R„vlP0[Root.GetDipCostsForLRVPrank][Root.GetOwnBuffForLRVPrank]\n\nKS¡rTWR=fÙHN™Q„vÿFOdkY²NLˆ¨RÍNO«ˆÆ‰HN§YteÊ†§!0[Root.GetBonusLoyaltyForFairyPiratesFromPranks]"
+ TH_BASE_DISOBEDIENCE: "úWNxNÅ`?a<Pÿ"
+ TH_NEGATIVE_PRESTIGE: "Zgÿ"
+ th_demand_war_support_title: "÷‹Blb‰Nôc©R"
+ th_demand_war_support_tooltip: "[Root.GetSCRRequestWarSupportCost]"
+ th_demand_war_support_desc: "[Root.GetSCRRequestWarSupportDesc]"
+ th_scr_request_war_support_costs_tt: "Ð(u`OùR[From.GetName]„váOûN¦^åNO[Root.GetName]ÇŒ2R·ƒ—V[From.GetAdjective]10%„vºN›R0ÙS±‚9b¹e§R10§!¹pùRvQ„v§YáOûN¦^§!0"
+ th_scr_request_war_support_costs_cheap_tt: "Ð(u`OùR[From.GetName]„váOûN¦^åNO[Root.GetName]ÇŒ2R·ƒ—V[From.GetAdjective]10%„vºN›R0ÙS±‚9b¹e§R5§!¹pùRvQ„v§YáOûN¦^§!0"
+ th_scr_request_war_support_costs_desc: "bìNSÐ(u§Y[From.GetName]§!„váOûNv^TvQ÷‹ôcbëX0vQ§Y10%§!„vºN›RS«ˆûyd–N«ˆ²Nbcb§Y[Root.GetName]§!TIrpeÏ‘„vºN›R0\nå‹Lˆ¨RS±‚9b¹eùRvQ§R10§!„v§YáOûN¦^§!0\nbìNSàeÕlT[From.GetName]÷‹Blb‰Nôc©Rcíu§Y5t^§!0"
+ th_scr_request_war_support_costs_cheap_desc: "bìNSÐ(u§Y[From.GetName]§!„váOûNv^TvQ÷‹ôcbëX0vQ§Y10%§!„vºN›RS«ˆûyd–N«ˆ²Nbcb§Y[Root.GetName]§!TIrpeÏ‘„vºN›R0\nå‹Lˆ¨RS±‚9b¹eùRvQ§R5§!„v§YáOûN¦^§!0\nbìNSàeÕlT[From.GetName]÷‹Blb‰Nôc©Rcíu§Y5t^§!0"
+ th_demand_war_support_has_been_requested_tt: "êb¹eN!k÷‹Blb‰Nôc©RåNegS*gÏuÇ§Y5t^§!0"
+ th_convince_to_join_war_title: "ìS2UÂSb"
+ th_convince_to_join_war_tooltip: "Ð(u`OùR§Y[From.GetName]§!„váOûNìS2UvQÂSN`OÙ¹„vNb	gb‰N0\ndkìS2U±‚9b¹e[Root.GetSCRConvinceForWarCost]0"
+ th_convince_to_join_war_desc: "[Root.Monarch.GetName]SÐ(u[Root.Monarch.GetHerHis]ZgÊSqVÍT›Regô‹g[From.GetName]„v[From.Monarch.GetName] ReQ0Rb¹e„vNb	gb‰N-Nÿ\ndkìS2U±‚9b¹e[Root.GetSCRConvinceForWarCost]0\nbìNSàeÕlìS2U[From.GetName]ób¹e„vNb	gb‰Ncíu§Y15t^§!0"
+ th_scr_convince_for_war_costs_tt: "ùR[From.GetName]„v§R20§!¹p§YáOûN¦^§!"
+ th_scr_convince_for_war_costs_cheap_tt: "ùR[From.GetName]„v§R10§!¹p§YáOûN¦^§!"
+ th_steal_books_title: "ƒzfN"
+ th_steal_books_desc: "0P–0ÙÌ‘„vfNM|S)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R25§!ÿv^S(WbŸR„vÅ`µQNÙuˆN[From.GetName]åNîOck0§YwPfN<§!0cíu§Y5t^§!N&^egåNNqVÍTÿ\nÑyŽb±‚9ÿ§R+5.0%§!\ntõV±‚9ÿ§R+5.0%§!\n\nTöeÿ[Root.GetName]S·ƒ—VåNNûNNHeœgÿ\n·ƒ—VîOck0§YfNM|6eÏ…ibEQ§!0cíu§Y5t^§!ÿ&^egåNNqVÍTÿ\nÑyŽb±‚9ÿ§G+5.0%§!\ntõV±‚9ÿ§G+5.0%§!\n·ƒ—V§G10.00§!?eœ^9ei—Û¦^\n·ƒ—V§G2§!R°e¦^\nå‚òTuHeRàeÕl(Wå‹Lˆ¨R-N·ƒ—V0§YfNM|6eÏ…ibEQ§!00\n\n(WLˆƒz-NS	g§Y25%§!„vàQ‡s§RNàeNb·ƒ§!0\n\n`OïSåNÏk§Y25t^§!TTN*NýV¶R0P0fN0[From.GetName]ùRb¹e„v‹Ya¦^SM–NO§R100§!ÿwNvQOùRb¹e„v±Rbt1u0§YY²N®O±§!00"
+ th_steal_books_tooltip: "ÅLˆƒzv^KSïSýw0WYÎN[From.GetName]0P0úQfNeg0"
+ th_diplomacy_has_already_stolen_books: "(WÇ»S„v§Y25t^§!…Q¡l	g(WdkýV¶R×vƒzÇfNM|0"
+ th_awaken_trauma_title: "2U’‘R2O"
+ th_awaken_trauma_tooltip: "Ídµu[From.Monarch.GetName]„v¾|^yÿícV[From.Monarch.GetHerHis]2OãSÿww[From.Monarch.GetSheHe]ýw0R†NÀNHN0"
+ th_awaken_trauma_desc: "[Root.Monarch.GetName]SûûR[From.Monarch.GetName]„v°‹ÆVv^ícV[From.Monarch.GetHerHis]Nb	g2OÕuN¡‹R0\n)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R[Root.GetCRDDiploSpyCost]§!ÿûyd–[From.GetName]„v§Yb‰N÷þ–§!v^ÙuˆN[From.GetName]åNîOck0§Y2U’‘R2O§!0cíu§Y5t^§!ÿ&^egåNNHeœgÿ\nZgpˆÏQÿ§R+0.5%§!\nt^¦^F–›Q.OßupˆÏQÿ§R+0.5%§!\nt^¦^wm›Q.OßupˆÏQÿ§R+0.5%§!\n3zšR¦^±‚9ÿ§R+5.0%§!\n\nêSýwÏk§Y15t^§!jO(uŽNTNîvh0"
+ th_awaken_trauma_cd_tt: "ê[From.Monarch.GetName]„vR2O«ˆ2U’‘TóSòTÇ»S†N§Y15t^§!0"
+ th_recollect_memory_title: "ÞV¯n°‹ÆV"
+ th_recollect_memory_tooltip: "HN·ƒÖSvQNy˜ýw›Rwd0t[From.GetName]„v°‹ÆVåN›ON!k'`O(u0"
+ th_recollect_memory_desc: "[Root.Monarch.GetName]Sû‹ÖS[From.Monarch.GetName]„v°‹ÆVv^°‹N[From.Monarch.GetHerHis]ØyÆRŒTýw›R0\n)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R[Root.GetCRDDiploSpyCost]§!v^(W*geg„v§Y5t^§!¥ceQ[From.GetName]„v§YY²NLˆ¨R§!›ON!k'`O(u0‚Yœgîvh¡l	gûNUOyr¾‹„vY²NLˆ¨Rÿ±HNO·ƒ—VNvQÎ˜<høv”^„vîOckcíu§Y5t^§!ÿbwôv0R`OÞV¯n†N+RºN„v°‹ÆV0\n\nSVMRÿêS	gåb	gûN¡Rh„v‰^ó`aNýV¶RMb=f	gHeîvh0"
+ th_recollect_memory_subject_title: "ÞV¯n°‹ÆV"
+ th_recollect_memory_subject_tooltip: "HN·ƒÖSvQNy˜ýw›Rwd0t[From.GetName]„v°‹ÆVåN›ON!k'`O(u0"
+ th_recollect_memory_subject_desc: "[Root.Monarch.GetName]Sû‹ÖS[From.Monarch.GetName]„v°‹ÆVv^°‹N[From.Monarch.GetHerHis]ØyÆRŒTýw›R0\n(W*geg„v§Y5t^§!¥ceQ[From.GetName]„v§YY²NLˆ¨R§!›ON!k'`O(u0‚Yœgîvh¡l	gûNUOyr¾‹„vY²NLˆ¨Rÿ±HNO·ƒ—VNvQÎ˜<høv”^„vîOckcíu§Y5t^§!ÿbwôv0R`OÞV¯n†N+RºN„v°‹ÆV0\n\nSVMRÿêS	gåb	gûN¡Rh„v‰^ó`aNýV¶RMb=f	gHeîvh0"
+ th_write_propaganda_title: "RÑSîOp™¥bS"
+ th_write_propaganda_tooltip: "bìN&ž)Y×rS(W[From.GetName]ce^sQNNbìN„vcƒwN„Uo‚„v°eû•v^O[From.GetAdjective]lOØV‰cb¹e„vNb	gµOeuib.Vv`Lˆ0"
+ th_write_propaganda_desc: "bìN„v&ž)Y×rS(W[From.GetName]ce^b¹e‹Y„v°eû•v^O[From.GetAdjective]lOØV°‹b¹e„vNb	gµOeuib.Vv`Lˆ0\n)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R50§!v^M–NO§G50§![From.GetAdjective]ùRb¹e„vNb	g§YµOeuib.V§!wÕl0\n\nêSýwÏk§Y15t^§!jO(uŽNTNîvh0"
+ th_write_propaganda_cd_tt: "§RbìN(WÇ»S„v§Y15t^§!Ì‘òTùR§Y[From.GetName]§!§YRÑSîOp™¥bS§!0§!"
+ th_create_false_memories_title: "ÇuZ†GP°‹ÆV"
+ th_create_false_memories_tooltip: "ùR[From.GetName]„v?eœ^ÇuùR[Root.GetName]„vZ†GP°‹ÆVv^OvQØV°‹b¹eÇ»S„vµOeuib.V0"
+ th_create_false_memories_desc: "ùR[From.GetName]„v?eœ^ÇuùR[Root.GetName]„vZ†GP°‹ÆVÿ±‚9[Root.GetAdjective]I`ÑSUS¦^÷N<P„vNJS£dip£åNäNvQØV°‹bìNÇ»S„vµOeuib.V0\ndkY²NLˆ¨RSûyd–§Y[From.GetName]§!ùR§Y[Root.GetName]§!„vNb	g§YµOeuib.V§!wÕl0êSýwÏk§Y10t^§!jO(uŽNTNîvh0"
+ th_create_false_memories_off_cd: "(WÇ»S§Y10t^§!v^*gSOŒš0RZ†GP„v°‹ÆV0"
+ th_create_false_memories_tt: "Y²N¹ppeóSåb	g[From.GetName]I`ÑSUS¦^÷N<P„vNJS0"
+ th_former_hell_reinforcement_title: ">mc0WñržXôc"
+ th_former_hell_reinforcement_tooltip: "[Root.GetName]S>mc10000ëXuQMRŽV[From.GetName]åNEQžRvQºN›R."
+ th_former_hell_reinforcement_desc: "§Y[Root.GetName]§!S>mc§Y10000§!ëXuQó§Y[From.GetName]§!åNEQžRvQºN›R0ÙS9eØSvQùR[Root.GetName]„v‹Ya¦^§G+50§!0"
+ th_conscript_soldiers_from_vassal_title: "VßRëXuQ"
+ th_conscript_soldiers_from_vassal_tooltip: "[Root.GetName]SHVë[From.GetName]>mcvQ50%„vºN›RóvQ—RIN0"
+ th_conscript_soldiers_from_vassal_desc: "§Y[Root.GetName]§!SHVë§Y[From.GetName]§!>mc§G50%§!„vºN›RóvQ—RIN0\nÙSÐcGS[From.GetName]„vìrËz>PT§R+25.0%§!0"
+ th_read_the_mind_title: "Ídµu¾|^y"
+ th_read_the_mind_tooltip: "[Root.Monarch.GetName]SÐ(u[Root.Monarch.GetHerHis]¾|^yýw›RegÍdµu[From.Monarch.GetName]„v¾|^yåNO[From.GetName]bHN[Root.GetName]„vD–¸^0"
+ th_read_the_mind_desc: "[Root.Monarch.GetName]SÐ(u[Root.Monarch.GetHerHis]¾|^yýw›RegÍdµu[From.Monarch.GetName]„v¾|^yåNO[From.GetName]bHN[Root.GetName]„vD–¸^0\n)ÏQb¹e(W[From.GetAdjective]„vô•ŒQÜuÄ‰!j§R75§!v^Šb§Y[From.GetName]§!lSHN§YÉ‰^SD–¸^§!0\n\nùR©s¶RO(uHeœgƒîT0"
+ th_suppress_free_will_title: "¬P.wßu»l"
+ th_suppress_free_will_tooltip: "[Root.Monarch.GetName]SÐ(u[Root.Monarch.GetHerHis]¾|^yýw›R¬P.w[From.Monarch.GetName]åNOvQ(WNµköeg…Qôf Rz˜ÎN0"
+ th_suppress_free_will_desc: "[Root.Monarch.GetName]SÐ(u[Root.Monarch.GetHerHis]¾|^yýw›R¬P.w[From.Monarch.GetName]åNOvQ(WNµköeg…Qôf Rz˜ÎN0\n[Root.GetCRDDiploPointCost][From.GetName]„v[From.Monarch.GetName]v^ÙuˆNvQîOck0§YÝuùRgÎN§!0cíu§Y5t^§!ÿ&^egåNNHeœgÿ\nìrËz>PTÿ§G-15.0%§!\n\n6qwÿ¬P.wv^^—=f8lEN„v0(WvQHeœgˆm1YTÿ[From.GetName]SÖS—VîOck0§Y4xÂˆV„v¬P.w§!0ÿ&^egåNNHeœgÿ\nìrËz>PTÿ§R+25.0%§!\n\nêSýwÏk§Y15t^§!jO(uŽNTNîvh0"
+ th_unlock_magical_potential_of_human_subject_title: "ã‰•T››Rjoýw"
+ th_unlock_magical_potential_of_human_subject_tooltip: "[Root.Monarch.GetName]SÐ(u[Root.Monarch.GetHerHis]ÃVupa”^ýw›Rã‰•[From.GetName]lO„vT››Rjoýw0"
+ th_unlock_magical_potential_of_human_subject_desc: "[Root.Monarch.GetName]SÐ(u[Root.Monarch.GetHerHis]ÃVupa”^ýw›Rã‰•§Y[From.GetName]§!lO„vT››Rjoýw0\n§Y[From.GetName]§!S9eØSvQÑyŽbNuQÍyÄuó§Y‰^ó`aNÑyŽbÄu§!0dkYÿ[From.GetName]„vìrËz>PTSM–NO§G10.0%§!0"
+ th_send_administrative_support_title: "»SLˆ?eôc©R"
+ th_send_administrative_support_tooltip: "[From.GetName]S×S0RLˆ?eôc©RÿåNOvQýwôf‹Y0W¡rtvQ†˜W0"
+ th_send_administrative_support_desc: "[From.GetName]S×S0RLˆ?eôc©RÿåNOvQýwôf‹Y0W¡rtvQ†˜W0\n»S§R75§!£adm£v^ÙuˆN§Y[From.GetName]§!åNîOck0§YLˆ?eôc©R§!0cíu§Y10t^§!ÿ&^egåNNHeœgÿ\n8hÃVS±‚9ÿ§G-10.0%§!"
+ th_send_administrative_support_tt: "*g×S0RHeœg0Lˆ?eôc©R0„vqVÍT0"
+ th_influence_vassal_title: "qVÍTÉ‰^SD–¸^"
+ th_influence_vassal_tooltip: "•beQwmÏ‘Ñ‘^åNg'Yz¦^qVÍT[From.GetName]0"
+ th_influence_vassal_desc: "•beQwmÏ‘Ñ‘^åNg'Yz¦^qVÍT[From.GetName]0\nbìNS±‚9[From.GetName]„v§R2t^§!6eeQ$COST|Y$¤egqVÍT§Y[From.GetName]§!06qwÿvQùRb¹e„váOûNSÐcGS§G5§!ÿvQìrËz>PTSM–NO§G10.0%§!ÿvQ‹Ya¦^SÐcGS§G+75§!cíu§Y10t^§!v^ÙuˆNvQîOck0§YY«ŽŽNHV¿RqVÍTN§!0cíu§Y10t^§!ÿÙSHNvQ&^egåNNHeœgÿ\ng¦^Lˆ?e¹ppeÿ§G+2§!\ng¦^Y²N¹ppeÿ§G+2§!\ng¦^›Q‹N¹ppeÿ§G+2§!"
+ th_influence_vassal_tt: "*g×S0R0Y«ŽŽNHV¿RqVÍTN0„vqVÍT0"
+ th_have_two_years_worth_of_income_of_from: "óSåb	g[From.GetName]„v2t^6eeQ$COST|Y$¤"
+ th_collect_extra_tax_from_vassal_title: "V6e˜Yz>k"
+ th_collect_extra_tax_from_vassal_tooltip: "[Root.GetName]SV6eIrTŽN[From.GetName]Nt^ýN6eeQ„vz>k0"
+ th_collect_extra_tax_from_vassal_desc: "§Y[Root.GetName]§!SV6eIrTŽN§Y[From.GetName]§!Nt^ýN6eeQ„vz>k0"
+ th_send_hellish_officers_title: ">mc0Wñrcw›Q"
+ th_send_hellish_officers_tooltip: "[Root.GetName]S>mcvQNN8^¾‹0Wñrcw›QMRŽV[From.GetName]0"
+ th_send_hellish_officers_desc: "[Root.GetName]S>mcvQ8^¾‹0Wñrcw›QMRŽV[From.GetName]0\nSV0Wñrcw›QYŽNýVYöeÿ§Y[From.GetName]§!S·ƒ—V0§Y0Wñrcw›Q§!0ÿåN·ƒ—VåNNHeœgÿ\nF–›QëXlÿ§G+20.0%§!\n­‹Ãu¦^ÿ§G+5.0%§!\nìrËz>PTÿ§G-10.0%§!"
+ th_return_hellish_officers_title: "ìSÞV0Wñrcw›Q"
+ th_return_hellish_officers_tooltip: "[Root.GetName]SÎN[From.GetName]ìSÞVvQ8^¾‹0Wñrcw›Q0"
+ th_return_hellish_officers_desc: "[Root.GetName]SÎN[From.GetName]ìSÞVvQ8^¾‹0Wñrcw›Q0\n§Y[From.GetName]§!SNQ×S0R0§Y0Wñrcw›Q§!0„vqVÍT0"
+ th_crd_diplo_cost_tt: "±‚975£dip£åNÛLˆ¬P.w"
+ th_crd_diplo_no_cost_tt: "¬P.w"
+ th_suppress_free_will_cd_tt: "ê[From.GetName]„v[From.Monarch.GetTitle]«ˆ¬P.wTóSòTÇ»S†N§Y15t^§!0"
+ th_crd_spy_cost_tt: "50"
+ th_crd_cheap_spy_cost_tt: "25"
+ th_find_koishi_title: "Œb0RK`†Nÿ"
+ th_find_koishi_tooltip: "ÏuÇpehT„vdûRÿbìNÈuŽNŒb0RK`†Nÿ"
+ th_find_koishi_desc: "[Root.Monarch.GetName]SMRŽV§Y[From.GetName]§!v^TäSf0WK`î•ðX‹Y0ÕkßzÿyY=f[Root.GetName]„vçubºNÿwNbìNmN	gµköeô•¡lÁ‰ÇyY†N0"
+ th_from_cant_be_rival_or_enemy_tt: "[From.GetName]v^^—b¹e¿RLebNb¹eLeùR0"
+ th_is_not_the_emperor: "[From.GetName]N=f^y1WWlš^ýV‡v^"
+ th_is_not_the_emperor_china: "[From.GetName]N=f-NýV‡v^"
+ th_is_not_the_pope: "[From.GetName]N=fYe—R"
+ th_is_not_an_elector: "[From.GetName]N=f	^¯O"
+ th_has_not_own_subjects: "[From.GetName]v^*gåb	gvQêñT„vD–¸^"
+ th_from_is_free_or_tributary_tt: "[From.GetName]=fìrËzýV¶Rbg!ýV0"
+ th_from_is_loyal: "[From.GetName]àVŽN[Root.GetName]0"
+ th_has_not_100_dev_tt: "[From.GetName]S*g	g100„vI`ÑSUS¦^0"
+ th_has_not_200_dev_tt: "[From.GetName]S*g	g200„vI`ÑSUS¦^0"
+ th_needs_at_least_25_opinion_tt: "[From.GetName]ùR[Root.GetName]„v‹Ya¦^óS	g25."
+ th_has_aggressive_expansion_modifier: "§R§Y[From.GetName]§!¡l	gùR§Y[Root.GetName]§!„v§YµOeuib.V§!‹Ya¦^îOck0§!"
+ th_is_not_in_coalition_against_us_tt: "[From.GetName]v^*g ReQSôVQ0"
+ th_is_not_outraged_about_us_tt: "[From.GetName]„v`¦^NHNLea0"
+ th_scr_scarlet_charisma_costs_tt: "§R10§!¹pNˆr‚E››R"
+ th_scr_scarlet_charisma_costs_cheap_tt: "§R5§!¹pNˆr‚E››R"
+ th_convince_to_join_war_already_used_tt: "(WÇ»S„v§Y15t^§!¡l	g«ˆ[Root.GetName]ìS2UÛb‰N-N0"
+ th_from_is_not_ally_tt: "[From.GetName]=fbìN„vßvËS0"
+ th_from_is_powerful_to_be_worth: "[From.GetName]óSåb	gN[Root.GetName]N7hY„vI`ÑSUS¦^bwóSHN,r7TRHV0"
+ th_from_is_not_immune_to_diplomatic_actions_tt: "§R[From.Monarch.GetName]=f§Y‰^ó`aN„v–T›CgZ§!v^N[From.Monarch.GetSheHe]SNÆQb¹eùR§Y[From.GetName]§!ÛLˆÙy˜Y²NLˆ¨R0§!"
+ th_proclaim_assert_dominance_cb_title: "±RHy8—CgPãS"
+ th_proclaim_assert_dominance_cb_tooltip: "O(u§R10§!ZgåN·ƒ—VùR[From.GetName]„v±Rbt1u§Y=eM‘b‰N§!cíu§Y5t^§!0"
+ th_proclaim_assert_dominance_cb_desc: "bìNS±‚9§R10§!Zgv^mc³R[From.GetName]ùRb¹e„v§R5§!áOûN¦^åN·ƒ—VùR[From.GetName]„v±Rbt1u§Y=eM‘b‰N§!cíu§Y5t^§!0\nå‚b¹ežR°s=eM‘ÿR§Y=eM‘b‰N§!±Rbt1uAQ¸‹b¹e·ƒ—V250£adm£0250£dip£0250£mil£µu3t^ýN„v$COST|Y$¤0dkYÿSV[From.GetName]„v–™ýŒRhQRƒŸ^öeÿbìN„v–™ýS·ƒ—V§G+1§!úWNxz6e0§G+1§!úWNxuµNb§G+1§!úWNxºN›R0\n‚YœgvQ^—i—‹TqQŒTýVÿRdk±Rbt1uAQ¸‹b¹e(W[From.GetName]ú^ËzTIN6R0"
+ TH_ANNEXINVALID: "`OêSýwTv^N*N(W`OTNóS¾§Y10§!t^„v^SýV0"
+ th_provoke_war_against_target_title: "cwb‰N"
+ th_provoke_war_against_target_desc: "±R^N*NýV¶RHNbìN¡‹R‹Y„vÛIe¹e„vîvh06qTÛIe¹eSTîvh±R^ÛLˆcƒ‰ŠKNbÿd–^—îvh=f©s¶R0"
+ th_provoke_war_against_target_tooltip: "±R^N*NýV¶RHNbìN¡‹R‹Y„vÛIe¹e„vîvh06qTÛIe¹eSTîvh±R^ÛLˆcƒ‰ŠKNbÿd–^—îvh=f©s¶R0"
+ th_provoke_war_against_target_condition: "ÿîvhÅV‰˜=fbìN„v¿RLeb=fbìN„vLeºN\nÿbwîvhÔkbìN	gôfY„vÑSUS¦^\nÿbwîvhóS	g100ÑSUS¦^\nÿbwîvh=f4Y÷SRHV"
+ th_eit_provoke_war_against_target_title: "cwb‰N"
+ th_eit_provoke_war_against_target_desc: "±R^N*NýV¶RHNbìN¡‹R‹Y„vÛIe¹e„vîvh06qTÛIe¹eSTîvh±R^ÛLˆcƒ‰ŠKNbÿd–^—îvh=f©s¶R0"
+ th_eit_provoke_war_against_target_tooltip: "±R^N*NýV¶RHNbìN¡‹R‹Y„vÛIe¹e„vîvh06qTÛIe¹eSTîvh±R^ÛLˆcƒ‰ŠKNbÿd–^—îvh=f©s¶R0"
+ th_eit_provoke_war_against_target_condition: "ÿîvhÅV‰˜=fbìN„v¿RLeb=fbìN„vLeºN\nÿbwîvh=fRHV"
+ th_promote_to_vassal_title: "ã‰d–áOðNIY³u"
+ th_promote_to_vassal_tooltip: "ã‰d–§Y[From.GetName]§!IY³uáOðN„vLw1v^OKNbHN§Y[Root.GetName]§!„vnfD–¸^ýV09hncvQI`ÑSUS¦^„vYSeg±‚9b¹e„váOðN›R0"
+ th_promote_to_vassal_desc: "ã‰d–§Y[From.GetName]§!IY³uáOðNKNLw1v^OKNbHN§Y[Root.GetName]§!„vnf§YD–¸^ýV§!0\nå‹Lˆ¨RSO9hnc§Y[From.GetName]§!I`ÑSUS¦^„vYSeg±‚9b¹e„v§YáOðN›R§!0"
+ th_call_to_religious_war_title: "÷SìS—RYeb‰N"
+ th_call_to_religious_war_tooltip: "äNGYùÑSuÿ©‹—RYeg!ýV³QšR ReQ0R[Root.GetName]„vNb	gb‰NSV-N0"
+ th_call_to_religious_war_desc: "[Root.GetName](WqS%`öeIR†˜×S0R†NGYùv^ïSTvQ§Y—RYeg!ýV§!KNNÑSúQÂSNbìNNb	gb‰N„v÷SìS0\nå‹Lˆ¨R±‚9„váOðN›RIrŽN—RYeg!ýVI`ÑSUS„vASRKNN0"
+ th_call_to_religious_war_tt: "åb	góSIrŽN§Y[From.GetName]§!I`ÑSUS¦^„v§Y1/10§!áOðN›RÿSVMRáOðN›Rÿ§Y[Root.faith_power.GetValue]§!	ÿ0"
+ th_call_for_crusade_title: "ÑS¨R1Wb‹NØS"
+ th_call_for_crusade_tooltip: "bìNSÑS¨R1Wb‹NØSåNùR—b[From.GetName]„vVYe’Vÿ"
+ th_call_for_crusade_desc: "[Root.GetName]SÑS¨R§Y1Wb‹NØS§!åNùR—b§Y[From.GetName]§!ÿOvQbHN1Wb‹NØS„vîvhcíu§Y30t^§!bôvóvQaƒ6qàeXRÿÏk*NáOðN§Y[Root.Religion.GetName]§!áOðNNN1Wb‹NØSîvh¥cäX„výV¶RïS(u1Wb‹NØS±Rbt1uùR[From.GetName]±Rb0\ndkYÿå‚[Root.Religion.GetName]áOðNýV¶RN[From.GetName]YŽN²Nb¶r`ÿRO(Wb‰Ngô•·ƒ—VåNNHeœgÿ\nF–›QëXlÿ§G+10.0%§!\nhQNSz6eîOckÿ§G+10.0%§!\nF–›QëXlb`Y¦^ÿ§G+10.0%§!\nZgÿ§G+1.00§!\ng¦^áOðN›Rÿ§G+0.50§!\nIY.s¦^ÿ§G+0.25§!\n\nå‹Lˆ¨RS±‚9b¹e§R50§!¹páOðN›R0"
+ th_call_for_crusade_ct: "[From.GetName]N=f§Y[Root.Religion.GetName]§!0"
+ th_eit_influence_outworld_country_title: "qVÍTYLuýV¶R"
+ th_eit_influence_outworld_country_tooltip: "bìNS•bD[From.GetName]ÿqVÍTvQùRb¹e„vwÕlv^ùRvQÝOÁ‹ìrËz0"
+ th_eit_influence_outworld_country_desc: "bìNSqVÍTùR§Y[From.GetName]§!egô‹àesQ't‰„vYLuýV¶ROvQ`—ÑbìN„vY²NËzHWÿžX RÖNìNùRbìN„v`¦^§G25§!cíu§Y10§!t^0(WÙµköeô•…QÖNìNmNO6e0R§G-10.0%§!„vÑyŽb±‚90ÖNìNùRbìN„v§YáOûN§!9eØS†N§G5§!0 \n\nÙON!k'`±‚9b¹eqQ¡‹[From.GetName]§Y1t^§!6eeQ„vÑ‘±”0"
+ th_eit_influence_outworld_country_ct: "*g×S0R0§YqVÍTYLuýV¶R§!0„vqVÍT0"
+ th_eit_create_tributary_state_title: "¾‹Ëzg!sQû|^SýV"
+ th_eit_create_tributary_state_tooltip: "ú^®‹ÖNìNbHNbìN„vg!ýV0"
+ th_eit_create_tributary_state_desc: "`O^g‰Bl§Y[From.GetName]§!bHNbìN§Yg!ýV§!Tÿ\n‚YœgÖNìN¥c×SÿÖNìNïSåN‰Bl`OåN$COST|Y$¤0£adm£0£dip£0£mil£b£icon_manpower£„vbVV4³uS!0\nÖNìNïSåNìrËz0WNvQÖNýV¶RÛLˆY²NLˆ¨R0\n‚YœgÖNìN¥c×S†NÐc®‹ÿRÖNìNùRbìN„váOûN9eØS†N§G5§!0"
+ th_eit_create_tributary_state_tt: "[Root.GetName]„vÑyŽbóSN[From.GetName]„vÑyŽbTµu0"
+ th_promote_to_vassal_tt: "åb	góSIrŽN§Y[From.GetName]§!I`ÑSUS¦^„váOðN›RÿSVMRáOðN›Rÿ§Y[Root.faith_power.GetValue]§!	ÿ0"
+ TH_FEAR_OF_US: "Ouç`bìNÿ"
+ TH_YAMA_INFLUENCE: "–T›Lˆ¨R¥c×S¦^ÿ"
+ TH_IS_THE_ASTRALKNIGHT: "=ff‹^QRëXÿ"
+ TH_WARSCORE: "SVMRb‰NRpeÿ"
+ TH_CANNOT_ANNEX_SUBJECTS: "`O„v?eSONAQ¸‹Tv^^SýV0"
+ th_lecture_ruler_title: "­‹ë‹ßu»lw"
+ th_lecture_ruler_tooltip: "­‹ë‹[From.GetName]„v[From.Monarch.GetTitle]v^ùRvQpbqN‰^ó`aNŒTs^„vLˆHNÛLˆé`Y0"
+ hig_lecture_upgrade_text: "\nÏkg›Q‹N¹ppeÿ§R-1.00§!"
+ th_lecture_ruler_desc: "[Root.Monarch.GetTitle][Root.Monarch.GetName]SOÜb¿‹[From.GetName]„v[From.Monarch.GetTitle][From.Monarch.Dynasty.GetName][From.Monarch.GetName]v^åN[From.Monarch.GetHerHis]±ŽN‰^ó`aN…QwzuQéžfk„vt1uw­‹ë‹w[From.Monarch.GetHerHim]ÿ\n\nÏQS[From.GetName]ùR[Root.GetName]„v‹Ya¦^§R100§!ÿw[From.GetName]SO×S0R§YÝuZ§!cíu§Y10t^§!ÿOÏk*N‰^ó`aNýV¶R»ýV·ƒ—VùR[From.GetName]±Rbt1u§Y9e”`b‰N§!0\nw(W[From.GetName]×S0R­‹ë‹öeO·ƒ—VåNNîOckÿ\n±Rb„v3zšR¦^é`Zÿ§R+1.00§![Root.GetYamaLectureBuff]\n\nå‹Lˆ¨R±‚9§R10§!¹p–T›CgZ0"
+ th_lecture_ruler_tt: "(WÇ»S„v§Y20t^§!ô•¡l	gÛLˆÇ­‹ë‹0"
+ th_lift_lecture_title: "²dd–­‹ë‹"
+ th_lift_lecture_tooltip: "²dd–ùR[From.GetName]„v[From.GetRespawningRuler]„v­‹ë‹v^AQ¸‹vQÞVegßu»l0"
+ th_lift_lecture_desc: "²dd–ùR[From.GetName]„v[From.GovernmentName]„v­‹ë‹v^AQ¸‹[From.GetRespawningRuler]RVeg0\n\n§Y[From.GetName]§!SNQ×S0RÝuZv^ýwjOHNòSžRßu»lwQ¦^ŒcCg0\n\nbìNOÎN²d•­‹ë‹-N·ƒ—V§R4§!¹pP%¦^0"
+ th_bestow_yama_grace_title: "PˆN–T›i`à`"
+ th_bestow_yama_grace_tooltip: "PˆN[From.GetName]åN–T›„vi`à`ÿ±‚9P%¦^egÐcGSvQùRb¹e„v‹Ya¦^0"
+ hig_grace_of_yama_opinion_value: "50"
+ hig_grace_of_yama_opinion_value_upgraded: "100"
+ th_bestow_yama_grace_desc: "PˆN[From.GetName]åN–T›„vi`à`0§Y[From.GetName]§!ùR[Root.GetName]„v‹Ya¦^ÐcGS§G[Root.GetGraceOfYamaOpinion]§!cíu§Y20t^§!ÿv^—V0RîOck0§Y–T›„vi`à`§!0cíu§Y20t^§!ÿ&^egåNNHeœgÿ\nZgÿ§G+1.00§!\n3zšR¦^±‚9ÿ§G-15.0%§!\nÏkt^P%¦^ÿ§G-0.10§!\n§Y(WdkîOckcíugô•·ƒ—VùR­‹ë‹„vAŒMQ0§!\n\n§Y[Root.GetName]§!·ƒ—VîOck0§YPˆN–T›i`à`§!0cíu§Y20t^§!ÿ&^egåNNHeœgÿ\n–T›CgZÿ§G+15.0%§!\n–T›Lˆ¨R¥c×S¦^ÿ§G15.00§!\n\nå‹Y²NLˆ¨RSùR[Root.GetName]µNu§R2§!¹pP%¦^0"
+ hig_enforce_peace_authority_value: "20"
+ hig_enforce_peace_authority_value_upgraded: "25"
+ th_enforce_gensokyan_peace_title: "ÒRäN‰^ó`aNjPb"
+ th_enforce_gensokyan_peace_tooltip: "Ð(ušN›s(„±¦^„vCgZHV6RjPb0"
+ th_enforce_gensokyan_peace_desc: "bìNSHV6R§Y[From.GetName]§!NvQb‰NîvhKNN¾bàeagöNŒTs^0å‚[From.GetName]¥c×SàeagöNŒTs^ÿbìNS·ƒ—V§Y[From.GetName]§!„vI`ÑSUS¦^÷N<P-N„v§G[Root.GetYamaEnforcePeaceValue]%§!jOHN§Y–T›CgZ§!0å‚[From.GetName]ÒbÝuàeagöNŒTs^ÿ±HNbìNS ReQ0R[From.GetName]b‰Nîvh-N„v2–¡V¹eùR—bµOeuÿ\n‰=fbìNMckS2–¡VwNb—Vb‰Nÿ±HNbìNS·ƒ—V§Y[From.GetName]§!„vI`ÑSUS¦^÷N<P-N„v§G[Root.GetYamaEnforcePeaceValue]%§!jOHN§Y–T›CgZ§!0\n‰=fbìN(W2–¡Vb‰N-N%Sÿ±HNbìNS'N1Y§R10§!¹p–T›CgZ0\n‰=fbìN(Wb‰N-NUSìr¾ZŒTÿ±HNbìNS'N1Y§R20§!¹p–T›CgZÿw‰=fbìNàeagöNŒTs^b=f(WO¿RNUSìr¾ZŒTÿ±HNbìNS˜Y'N1Y§R10§!¹p§Y–T›CgZ§!åNÊS§R1§!¹p3zšR¦^0"
+ th_enforce_gensokyan_peace_tt: "=fˆ”ùR§Y‰^ó`aN§!ýV¶R„vÛIeb‰N„v†˜üRýV0"
+ th_demand_unlawful_territory_title: "0t‰^—Õl†˜W"
+ th_demand_unlawful_territory_tooltip: "ÒRäNS^—Õl„v‰^ó`aN†˜WRVØNvQTÕlNb	gw0 "
+ th_demand_unlawful_territory_desc: "bìNSÒRäN§Y[From.GetName]§!SvQ`S	g„vMOŽN‰^ó`aN0ÑSUS¦^gØšNàe8hÃVwýNRVØÙuvQTÕlNb	gw0«ˆRVØ8hÃVwýN„výV¶R„v‹Ya¦^SÐcGS§G+50§!0å‚[From.GetName]ÒbÝužRËeÿ±HNbìNO·ƒ—VùR[From.GetName]„v±Rbt1u0§Y–T›r^‰m§!0wî•˜˜wýNS·ƒ—VîOck0§Y^—Õl†˜W§!0cíu§Y10t^§!ÿ&^egåNNHeœgÿ\n,g0WÛSqN¦^ÿ§R+10.00§!\n,g0W8hÃVS±‚9ÿ§R+10.0%§!\n,g0WºN›RîOckÿ§R-50.0%§!\n[From.GetName]ùRbýV„v‹Ya¦^M–NO§R100§!0\n\n[Root.GetHIGDemandUnlawfulTerritoryBonus]"
+ th_demand_unlawful_territory_ct: "[From.GetName]åb	góS§Y1§!*N¡l	g§Y^—Õl†˜W§!îOck„v*g8hÃVS‰^ó`aNwýN0"
+ th_hig_demand_unlawful_territory_normal_desc: "ÙSO±‚9§Y1§!¹p–T›CgZ0"
+ th_hig_demand_unlawful_territory_buffed_desc: "å‚[From.GetName]¥c×Sÿ±HNbìNS·ƒ—VNbðX0twýNÑSUS¦^„v§G50%§!jOHN–T›CgZ0&TRbìNS'N1Y§Y1§!¹p–T›CgZ0"
+ th_hig_demand_unlawful_territory_extra_buffed_desc: "å‚[From.GetName]¥c×Sÿ±HNbìNS·ƒ—VNbðX0twýNÑSUS¦^„v§G75%§!jOHN–T›CgZ0&TRbìNS'N1Y§Y1§!¹p–T›CgZ0"
+ TH_HAS_IMPROVED_DEMAND_PROVINCE: "òT9eÛ0t‰^—Õl†˜Wÿ"
+ TH_WAS_ALREADY_DEMANDED_A_PROVINCE: "òTÏu=f«ˆ0t‰„v^—Õl†˜Wÿ"
+ TH_IS_NOT_GENSOKYAN: "N=f‰^ó`aN„vNèRÿ"
+ th_demand_partitioning_title: "ÒRäNRrR"
+ th_demand_partitioning_tooltip: "ÒRäNýV¶RÛLˆRrRÿRVØTwˆNvQKNMR„vNb	gw0"
+ th_demand_partitioning_desc: "bìNSÒRäN§Y[From.GetName]§!RrRýVW0å‚vQ¥c×SRrR‰R’cÿ±HN[From.GetName]SÊ‘>eúQNb	gmTv^„v‰^ó`aNýV¶Rv^SNb	g‰^ó`aNwýNRVØóvQKNMR„vNb	gw0&TRbìNO·ƒ—VùR[From.GetName]„v±Rbt1u0§Y‰^ó`aNã‰>eb‰N§!0cíu§Y5t^§!0\nå‹Lˆ¨R±‚9§Y10§!–T›CgZv^OM–NO[From.GetName]ùRbìN„v‹Ya¦^§R200§!0"
+ th_demand_partitioning_tt: "[From.GetName]åb	góS§Y5§!*N+T	gYýV8hÃV„v‰^ó`aNwýN0"
+ th_return_non_hell_provinces_title: "RVØ^—0WñrwýN"
+ th_return_non_hell_provinces_tooltip: "HVäNb¹e^SýVRVØNb	gNMOŽN§Y0Wñr§!0§Yçe0Wñr§!b§Y¥QLu§!0WHSb=f§YŽVf0Wñr§!HSßW„vwýNóvQKNMR„vNb	gw0"
+ th_return_non_hell_provinces_desc: "HVäN§Y[From.GetName]§!RVØNb	gNMOŽN§Y0Wñr§!0§Yçe0Wñr§!b§Y¥QLu§!0WHSb=f§YŽVf0Wñr§!HSßW„vwýNóvQKNMR„vNb	gw0\nÏk1Y»SN*NwýNÿ[From.GetName]„vìrËz>PT¿OOÐcGS§R2§!0"
+ th_appoint_executor_title: "ûN‹T²bÕl"
+ th_appoint_executor_tooltip: "ú^®‹ÖNìNbHNbìN„v²bÕlåN±RHybìN„v›Q‹N›RÏ‘0"
+ th_appoint_executor_desc: "ú^®‹§Y[From.GetName]§!bHNbìN„v§Y²bÕlýV§!0jOHNšN›s(„±¦^„v²bÕlÿ[From.GetName]SO·ƒ—VÑ<OkSbýVN‰|„vôfHVžXÊvv^ýwYåb	g§Y5§!*NMOŽN§Y0Wñr§!0WHSKNYÿ§YŽVf0Wñr§!HSßW0§Yçe0Wñr§!0§Y0Wñr§!0§Y¥QLu§!	ÿ„vwýNNNOùR[Root.GetName]„v–T›CgZ.bb—qVÍT0\n\nå‚vQ³QšRÒbÝuå‹Ðc®‹ÿ±HNbìNS·ƒ—VHVë[From.GetName]bHNbìN„v²bÕlýV„v±Rbt1u0\nå‹Lˆ¨R±‚9§Y20§!¹p–T›CgZ0bìN8lÜNýwTöeåb	gYŽN§Y1§!*N²bÕlýVD–¸^0"
+ th_elevate_subject_government_rank_title: "KfS^SýVµu+R"
+ th_elevate_subject_government_rank_tooltip: "KfS`O^SýV„v?eœ^IrµuóNNµu+R0"
+ th_elevate_subject_government_rank_desc: "KfS[From.GetName]„v?eœ^IrµuóNNµu+R0"
+ th_offer_ludicrous_loan_title: "Ðc›Onm8Y7>k"
+ th_offer_ludicrous_loan_tooltip: "TîvhýV¶RúQ7>kÿˆNåNvQÝugÿˆNåNb)R¦m0"
+ th_offer_ludicrous_loan_desc: "bìNST§Y[From.GetName]§!úQIrTŽNbìN§Y1t^§!6eeQ„v7>k0§Y[From.GetName]§!S6eNÙ›N±”ÿFOOÿbúQIrTŽN§Y10§!r7>k-N„v§Y10%§!jOHNt^)Ro`=eØN§Y50t^§!0\n§Y[Root.GetName]§!·ƒ—V§YÐc›O†Nnm8Y7>k§!cíu§Y5t^§!ÿ&^egåNNHeœgÿ\nt^¦^z6eÿ§G+60.00§!\nhQNSz6eîOckÿ§G+25.0%§!\n\nbìNêSýwÏk§Y25t^§!TTNýV¶RúQN!k7>k0"
+ th_offer_ludicrous_loan_ct: "§RÿbìN(WÇ»S„v§Y15t^§!Ì‘òTùR§Y[From.GetName]§!úQPÇ7>k0§!"
+ th_lcu_send_in_lunarian_officers_title: ">mcgºNcw›Q"
+ th_lcu_send_in_lunarian_officers_tooltip: "T[From.GetName]>múQgºNcw›QÿåNw9›Q‹N¹ppeHNãN÷NÐcGSvQ›Q‹NžR›R0"
+ th_lcu_send_in_lunarian_officers_desc: "T[From.GetName]>múQgºNcw›QÿåNw9›Q‹N¹ppeHNãN÷NÐcGSvQ›Q‹NžR›R0[From.GetName]O·ƒ—VîOck0§YgºNcw›Q§!0cíu§Y15t^§!ÿ&^egåNNHeœgÿ\n­‹Ãu¦^ÿ§G+5%§!\n\ndkLˆ¨RSO±‚9b¹e§Y100¹p›Q‹N¹ppe§!0\n"
+ th_lcu_demand_war_support_title: "0t‰ôfYTQPR"
+ th_lcu_demand_war_support_tooltip: "bìN—‰ÎN[From.GetName]—V0RôfYè–ÿåNŠbôfYuQ›RkXEQÛb›Q0"
+ th_lcu_demand_war_support_desc: "bìNS‰BlÎN[From.GetName]ûy²NvQhQèïS(uºN›R„v§Y20%§!ób¹e0\ngbLˆdkLˆ¨RSObìN'N1Y[From.GetName]„v§Y5¹páOûN¦^§!0\n"
+ th_charter_trade_post_title: "yr¸‹8fÙz"
+ th_charter_trade_post_tooltip: "‰BlÙ*NýV¶RúQ.UN*NýwYbHN8flQøS„v¿lwmwýN0\n±‚9IrTŽN§Y3t^§!„v6eeQ0"
+ th_charter_trade_post_desc: "[Root.GetName]SVúQIrTŽN§Y3t^§!„v6eeQeg²Nbc§Y[From.GetName]§!„vNY¿lwmwýN0å‹wýNSO«ˆûm Róå‹0WHS„v„v§Y[Root.GetAdjective]8flQøS§!0"
+ th_from_needs_two_cities: "§Rÿ§Y[From.GetName]§!NýwúQ.UvQgTN*NwýN0§!"
+ th_from_needs_one_port: "§Rÿ§Y[From.GetName]§!¡l	g¿lwmwýN0§!"
+ th_from_cannot_sell_capital: "§Rÿ§Y[From.GetName]§!NýwúQ.UvQ–™ý0§!"
+ th_cannot_buy_from_same_continent_competitors: "§Rÿ§Y[From.GetName]§!N[Root.GetName]MOŽNTNWW'YF–N0§!"
+ th_from_has_province_in_uncontested_region: "§Rÿ§Y[From.GetName]§!?aaúQ.UÙub¹e„v=nãSNb(W„vhQèHSßWb¹eGWòTåb	gwýN0§!"
+ th_from_has_province_is_in_range: "§Rÿ§Y[From.GetName]§!„v=nãSGWNYŽNbìN„v–klƒôV…Q0§!"
+ th_is_not_currently_trying_to_charter_trade_post: "§RÿbìNNýwTöeT2N*NýV¶RÑSúQyr¸‹8fÙz„v‰Bl0§!"
+ th_from_has_not_trade_deal_event_open: "§Rÿ§Y[From.GetName]§!ck(WYtùRvQwýNKNNÑSúQ„vyr¸‹‰Bl0§!"
+ TH_IS_NOT_AT_WAR_TT: "§RÿbýVYŽNb‰N¶r`0§!"
+ TH_FROM_IS_NOT_AT_WAR_TT: "§Rÿ§Y[From.GetName]§!YŽNb‰N-N0§!"
+ th_purchase_war_support_title: "-pNb‰Nôc©R"
+ th_purchase_war_support_tooltip: "Tå‹ýVÐc›OÑ‘±”åNbcÖSvQ(WbìNböeÐc›O›Q‹Nôc©R0\n±‚9IrTŽN§Y5t^§!„v6eeQ0"
+ th_purchase_war_support_desc: "[Root.GetName]OÐc›OIrTŽN§Y5t^§!„v6eeQegbcÖS§Y[Root.GetName]§! ReQ0R§Y[Root.GetName]§!„vNb	gÛIeb2–¡Vb‰N-N0"
+ th_needs_to_be_at_war: "§RÿbìNNýw(W*gYŽNb‰Nöe‰Blb‰Nôc©R0§!"
+ th_purchase_truce_title: "-pN-NËz"
+ th_purchase_truce_tooltip: "Tå‹ýVÐc›OÑ‘±”åNbcÖSvQ(W¥cNeg„v6t^ÝOc-NËz0\n±‚9IrTŽN§Y4t^§!„v6eeQ0"
+ th_purchase_truce_desc: "[Root.GetName]OÐc›OIrTŽN§Y4t^§!„v6eeQegbcÖS§Y[Root.GetName]§!N§Y[From.GetName]§!øv’N§YjPb§!§Y5t^§!0"
+ th_from_has_truce_already: "§Rÿ§Y[From.GetName]§!òTN`O	gObOS®‹0§!"
+ th_is_at_war_with_from: "§Rÿ`ONýwTYŽN`O„vb‰N-N„vÐgýV-pN-NËz0§!"
+ TH_FROM_TOTAL_DEV_NOT_200_TT: "§Rÿ§Y[From.GetName]§!„vI`ÑSUS¦^ØšŽN§Y200§!0§!"
+ TH_HAS_FIVE_LOANS: "åb	g”Nr7>kÿ"
+ TH_HAS_TEN_LOANS: "åb	gASr7>kÿ"
+ TH_HAS_DEFICIT: "YŽNdWRÿ"
+ th_sell_newspaper_title: "¨c•¥b¸u"
+ th_sell_newspaper_tooltip: "TîvhýV¶RÐc›O¥b¸uåNbcÖSvQÑ‘±”0"
+ th_sell_newspaper_desc: "T§Y[From.GetName]§!Ðc›O¢‹¥bg¡RåNbcÖSIrTŽNvQ§G6*Ng„v§!6eeQ0§Y[From.Capital.GetName]§!·ƒ—V§G5§!¹p*g¥c³u`noÛ¦^ÿ§Y[From.GetName]§!·ƒ—V§G20§!¹p9ei—Û¦^0\n§Y[Root.GetAdjective]§!„v–HgN*N¸u.VwýN·ƒ—V0§Y«ˆ¥b>yV(u§!0cíu§Y10§!t^ÿ&^egåNNHeœgÿ\n,g0W8fÞz‰N›RîOckÿ§G+5.0%§!\n\n`OÏk§Y10§!t^ïSåNTTNýV¶R¨c•¥b¸u0\n§Y[Root.GetName]§!ÅV‰˜óSåb	g§Y1§!YuµN¸u.VN¡l	g§Y«ˆ¥b>yV(u§!îOck„vwýNeggbLˆdkY²NLˆ¨R0"
+ TH_TARGETS_HOME_TRADE_NODE_OUT_OF_REACH_tt: "§Rÿ§Y[From.GetName]§!„v,gàW8f‚‚¹p(W§Y[Root.GetName]§!„v8fƒôVKNY0§!"
+ TH_FROM_IS_RIVAL: "§Rÿ§Y[From.GetName]§!=f§Y[Root.GetName]§!„v¿RLe0§!"
+ TH_FROM_IS_ENEMY: "§Rÿ§Y[From.GetName]§!N§Y[Root.GetName]§!LeùR0§!"
+ TH_CANNOT_USE_AGAINST_WAR_ENEMIES_TT: "§Rÿ§Y[From.GetName]§!NbýV²Nb-N0§!"
+ TH_FROM_HAS_TRUCE_WITH_ROOT_TT: "§Rÿ§Y[From.GetName]§!Nb¹e	gObOS®‹0§!"
+ TH_CAN_SELL_ONLY_EVERY_10_YEARS_TT: "§Rÿ§Y[From.GetName]§!òT(WÇ»S§Y10§!t^Ì‘-pNÇbìN„v¥b¸u0§!"
+ TH_EMBARGOING_FROM: "§RÿbìNyÐ†N§Y[From.GetName]§!0§!"
+ TH_EMBARGOING_BY_FROM: "§Rÿ§Y[From.GetName]§!ck(WyÐbìN0§!"
+ TH_NEEDS_ONE_AVAILABLE_PAPER_PROVINCE_TT: "§R bìN*gåb	gûNUOuµN§Y¸u.V§!NNXR(W§Y«ˆ¥b>yV(u§!îOck„vwýN0§!"
+ TH_CANNOT_DO_ACTION_TO_SUBJECTS_TT: "§Rÿ§Y[From.GetName]§!N=fìrËz„v0§!"
+ TH_WOULD_GET_IT_FOR_FREE: "SMQ9¥c6e"
+ TH_WOULD_GET_IT_CHEAPER: "S(W˜bcbT¥c6e"
+ TH_IS_BANKRUPT: "òT4xµNÿ"
+ th_buy_newspaper_title: "pN¥b¸u"
+ th_buy_newspaper_tooltip: "ÎN)Y×r±?QpN¥b¸uÿÙuˆNb¹eåN`no.O­džXÊvÊSvQÖNVY±R0"
+ th_buy_newspaper_desc: "bìNOÎN§Y[From.GetName]§!-pN¥b¸u0\nbìNOÙu§Y[From.GetName]§!=eØN§R3*Ng§!bcÖS§Y[From.GetName]§!„v§G5§!¹pºNÅ`N§G5§!¹páOûN¦^0dkYÿbìNO·ƒ—VîOck0§Y)Y×r°eû•§!0cíu§Y10t^§!ÿ&^egåNNHeœgÿ\n`no.O­dÿ§G+25.0%§!\n9e„UsQû|ÿ§G10.0%§!"
+ TH_ONLY_USABLE_EVERY_10_YEARS_TT: "§RÿÅNïSÏk§Y10§!t^ùRTNîvhO(uN!k0§!"
+ TH_CANNOT_BUY_NEW_NEWSPAPER_TT: "§RÿbìNòT-pNÇ§Y[From.GetName]§!„v¥b¸u0§!"
+ TH_REQUIRES_5_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y5§!0§!"
+ TH_REQUIRES_10_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y10§!0§!"
+ TH_REQUIRES_15_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y15§!0§!"
+ TH_REQUIRES_20_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y20§!0§!"
+ TH_REQUIRES_25_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y25§!0§!"
+ TH_REQUIRES_30_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y30§!0§!"
+ TH_REQUIRES_35_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y35§!0§!"
+ TH_REQUIRES_40_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y40§!0§!"
+ TH_REQUIRES_45_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y45§!0§!"
+ TH_REQUIRES_50_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y50§!0§!"
+ TH_REQUIRES_55_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y55§!0§!"
+ TH_REQUIRES_60_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y60§!0§!"
+ TH_REQUIRES_65_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y65§!0§!"
+ TH_REQUIRES_70_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y70§!0§!"
+ TH_REQUIRES_75_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y75§!0§!"
+ TH_REQUIRES_80_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y80§!0§!"
+ TH_REQUIRES_85_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y85§!0§!"
+ TH_REQUIRES_90_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y90§!0§!"
+ TH_REQUIRES_95_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y95§!0§!"
+ TH_REQUIRES_100_SPY_NETWORK_TT: "§RÿbìN(W§Y[From.GetName]§!„vô•ŒQÄ‰!jóS—‰¾0R§Y100§!0§!"
+ TH_HAS_TRUST_LEVEL_5_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y5§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_10_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y10§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_15_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y15§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_20_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y20§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_25_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y25§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_30_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y30§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_35_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y35§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_40_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y40§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_45_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y45§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_50_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y50§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_55_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y55§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_60_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y60§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_65_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y65§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_70_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y70§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_75_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y75§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_80_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y80§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_85_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y85§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_90_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y90§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_95_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y95§!¹páOûN¦^0§!"
+ TH_HAS_TRUST_LEVEL_100_TT: "§Rÿ§Y[From.GetName]§!¡l	g§Y[Root.GetName]§!„v§Y100§!¹páOûN¦^0§!"
+ TH_CAN_DENOUNCE_EVERY_5_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y5§!t^Ì‘òT«ˆvQßvËS4Œ1Ç0§!"
+ TH_FROM_NEEDS_TO_HAVE_ALLIES: "§Rÿ§Y[From.GetName]§!¡l	gßvËS0§!"
+ th_spread_good_image_title: "±R.Oo‚‹YbVaŒ"
+ th_spread_good_image_tooltip: "°d™QÏuØš¦^îOp™Ç„vbýV°eû•åN9eØSîvhýV¶RùRbìN„v‹Ya¦^0"
+ th_spread_good_image_desc: "±R.Oo‚‹YbVaŒOObìN(W§Y[From.GetAdjective]§!„vô•ŒQÄ‰!j)S§R30.00§!v^ÐcGS§Y[From.GetName]§!ùRbìN„v‹Ya¦^§G25§!0"
+ th_spread_good_image_cd_tt: "§Rÿ§Y[From.GetName]§!„v‹Ya¦^(WgÑ„v§Y10§!t^…QòT-NÇbìNîOp™¥b¸u„vÛbpe0§!"
+ th_denounce_allies_title: "µcJTßvËS"
+ th_denounce_allies_tooltip: "°d™QîvhýV¶RßvËS„vbür‹Nù¥bSÿM–NOvQNb	gßvËSùRvQ„v‹Ya¦^100¹p0"
+ th_denounce_allies_desc: "µcJTßvËSOObìN(W§Y[From.GetAdjective]§!„vô•ŒQÄ‰!j)S§R60.00§!v^M–NO§Y[From.GetName]§!„vNb	gßvËSùRvQ„v‹Ya¦^§R100§!0"
+ th_demotivate_military_title: "6R¦u¨Rfk"
+ th_demotivate_military_tooltip: "°d™QsQŽNîvhýV¶R(WY²NN„vNû•ÿ1VSvQè–(W*geg5t^Ì‘„vb—e›R0"
+ th_demotivate_military_desc: "6R¦u¨RfkOObìN(W§Y[From.GetAdjective]§!„vô•ŒQÄ‰!j)S§R25.00§!v^&^egåNNHeœgÿ\nF–›QëXlÿ§R-10.0%§!\nwm›QëXlÿ§R-10.0%§!\n\ncíu§Y5t^§!0"
+ th_demotivate_military_tt: "§Rÿ§Y[From.GetName]§!„v›Q‹NòT×S0R6R¦u¨Rfk„vqVÍT0§!"
+ th_spread_republican_ideas_dip_action_title: "­d’dqQŒT`ó`"
+ th_spread_republican_ideas_dip_action_tooltip: "°d™QcbýV¶R°s	ggb?eCgÄg„v¥bSÿHN­d’dNqQŒT6R„v„gó`wckSVSb‰N0"
+ th_spread_republican_ideas_dip_action_desc: "­d’dqQŒT`ó`OObìN(W§Y[From.GetAdjective]§!„vô•ŒQÄ‰!j)S§R20.00§!ÿÙuˆNbìNùR§Y[From.GetName]§!„v±Rbt1u§Y­d’dqQŒT`ó`§!ÿcíu§Y”Nt^§!0"
+ th_spread_republican_ideas_dip_action_tt: "§RÿbìNòTåb	gùR§Y[From.GetName]§!­d’dqQŒT`ó`„v±Rbt1u0§Y"
+ TH_IS_A_REPUBLIC_TT: "§Rÿ§Y[From.GetName]§!=fqQŒT6RýV¶R0§Y"
+ TH_IS_THE_POPE_TT: "§Rÿ§Y[From.GetName]§!=fYe—R0§Y"
+ TH_IS_THE_CELESTIAL_EMPIRE_TT: "§Rÿ§Y[From.GetName]§!=f-NýV‡v^0§Y"
+ TH_IS_HRE_EMPEROR_TT: "§Rÿ§Y[From.GetName]§!=f^y1WWlš^ýV‡v^0§Y"
+ TH_IS_THE_YAMAXANADU_TT: "§Rÿ§Y[From.GetName]§!=f‰^ó`aN„v–T›SVNS0§Y"
+ th_spread_gossip_title: "ce­dAmŠ‡í‹"
+ th_spread_gossip_tooltip: "°d™Q`O„v°‹wìN`—,TÞVeg„v	gsQîvhýV¶Rßu»lw„vAmŠ‡í‹ÿv^Ák‰cvQY²NðX‰Š0"
+ th_spread_gossip_desc: "ce­dAmŠ‡í‹OObìN(W§Y[From.GetAdjective]§!„vô•ŒQÄ‰!j)S§R40.00§!v^Ák‰c§Y[From.Monarch.GetName]§!„vðX‰Š0\n§Y[From.GetName]§!·ƒ—V0§Y4xOWT‰Š§!0cíu§Y”Nt^§!ÿbwôv0R§Y[From.Monarch.GetName]§!MOHNbkÿ&^egåNNHeœgÿ\nY²NðX‰Šÿ§R-2.00§!\n^SýVìrËz>PTÿ§R+10.00%§!"
+ th_spread_gossip_tt: "§Rÿ§Y[From.Monarch.GetName]§!„vðX‰ŠòTmý‹2Œ0§!"
+ TH_SPYNETWORK: "úWŽNb¹eô•ŒQ"
+ th_establish_puppet_state_title: "ú^ËzŽP!QýV"
+ th_establish_puppet_state_tooltip: "Ð(ubìN„vô•ŒQeg±R.OŸ¨RîvhýV¶R„vlOOKNøváObHNbýV„vŽP!QOÔk°s(Weg—Vôf‹Y0"
+ th_establish_puppet_state_desc: "Ð(ubìN(W§Y[From.GetAdjective]§!„vhQèô•ŒQåN(W§Y[From.GetName]§!ú^Ëz§YŽP!QýV§!0\nŽP!QýV=fNÍyg!ýV‰|‹WÿvQ¹ƒXN±RðyïS›O—RIN)R(u0\n\n§Rå‚îvhýV¥c×SvQ°ešRMOTabHN[Root.GetAdjective]„vŽP!QýVÿRå‹Lˆ¨ROObìN(W[From.GetName]„vô•ŒQM–ó§Y0§!0§!"
+ th_establish_puppet_state_at: "§Rÿ§Y[From.GetName]§!v^*gTöebHNY²NLˆ¨R0§Y±R.Oo‚‹YbVaŒ§!0„vîvhÿ§Y0§!/§Y2§!	ÿ0§!"
+ th_establish_puppet_state_bt: "§Rÿ§Y[From.GetName]§!v^*gTöebHNY²NLˆ¨R0§Y±R.Oo‚‹YbVaŒ§!0„vîvhÿ§Y1§!/§Y2§!	ÿ0§!"
+ TH_MUST_BE_AT_WAR_TT: "§RÿbìN*gYŽNb‰N¶r`0§!"
+ th_cancel_puppet_state_status_title: "ÖSˆmŽP!QýV¾‹n"
+ th_cancel_puppet_state_status_tooltip: "ÖSˆmbìNNå‹ýV„vŽP!QsQû|0"
+ th_cancel_puppet_state_status_desc: "`O^g­eÝubìNN§Y[From.GetName]§!„vŽP!QsQû|Tÿ\nÙSmc³RbìNKNô•„vsQû|v^NO2NýVÛeQHNg§Y5§!t^„vjPbg0"
+ th_call_puppet_state_to_arms_title: "ìS2UŽP!QÂSb"
+ th_call_puppet_state_to_arms_tooltip: "Ð(ubìN„vqVÍT›RegÍdµubìN„vŽP!QýV ReQ0Rb¹e„vNb	gb‰N-N0"
+ th_call_puppet_state_to_arms_desc: "`O^gÍdµu§Y[From.GetName]§! ReQ0Rb¹e„vNb	g§YÛIeb‰N§!N§Y2–¡Vb‰N§!-NTÿ\n\n§Rå‚vQTa ReQb‰NÿRå‹Lˆ¨ROObìN(W[From.GetName]„vô•ŒQM–ó§Y0§!0§!"
+ th_promote_puppet_to_vassal_title: "KfSŽP!QHND–¸^ýV"
+ th_promote_puppet_to_vassal_tooltip: "Ð(ubìN„vô•ŒQegŠbŽP!QýVKfSHNïS›OTv^„vD–¸^ýV0"
+ th_promote_puppet_to_vassal_desc: "KfSŽP!QHND–¸^ýVOObìN(W§Y[From.GetAdjective]§!„vô•ŒQ)S§R80.00§!ÿv^S§Y[From.GetName]§!ØSôfHNbìN„vD–¸^ýV0"
+ th_negotiate_truce_title: "OSFUOb"
+ th_negotiate_truce_tooltip: "Ð(ubìN(W¥b¸uN„vqVÍT›RegNîvhOSFUOb0"
+ th_negotiate_truce_desc: "å‚§Y[From.GetName]§!TaÿROSFUObOO§Y[From.GetName]§!N§Y[Root.GetName]§!ÛeQ§Y5t^§!„vObg0\n\nêSýwÏk§Y10t^§!ùRTNîvhO(uN!k0\n§Rå‚vQ¥c×SObÿRå‹Lˆ¨ROObìN(W[From.GetName]„vô•ŒQM–ó§Y0§!0§!"
+ th_negotiate_truce_cd_tt: "§RÿbìN(WÇ»S„v§Y10t^§!Ì‘òTùR§Y[From.GetName]§!O(uÇ§YOSFUOb§!0§!"
+ th_lcu_lend_lunarian_weapons_title: "úQPgNfkhV"
+ th_lcu_lend_lunarian_weapons_tooltip: "TîvhýV¶RúQPfkhVN¾‹YåNëOvQùRN*N»ýV±Rb0(WîvhýV¶RÜw)RKNTSObHNbìN„v^SýV0"
+ th_lcu_lend_lunarian_weapons_desc: "±‚9§R100§!›Q‹N¹ppeegPúQgNfkhVÙu§Y[From.GetName]§!ÿØSôfvQÑyŽbÄuNuQÍy‰|‹WHN§Ygt§!0§Y[From.GetName]§!OùR–HgN*NN=f[Root.GetName]bvQ^SýV„v»ýV§R±Rb§!0\nå‚§Y[From.GetName]§!b—Vb‰NbàeÕlùRûNN»ýV±RbÿRvQObHN§Y[Root.GetName]§!„v§YD–¸^ýV§!0\n\n§Y›Q‹N¹ppe±‚9ÖS³QŽNNb	g¹ppe±‚9îOck0§!"
+ th_lcu_lend_lunarian_weapons_tt: "§Rÿ§Y[From.GetName]§!„vÑyŽbÄuòTÏu=f§Y‰^ó`aN§!0§Ygt§!b§Y°sãNSgt§!0§!"
+ th_create_tributary_state_dialog: "[This.GetName]Ž÷‹býVbHNÖNìN„v§Yg!ýV§!0"
+ th_request_conversion_dialog: "[This.GetName]"
+ th_establish_religious_tributaries_dialog: "[This.GetName]‰BlbýVbHNÖNìN„v§Y—RYeg!ýV§!0bìNOØSbÏP=f8^„vg!ýV±7hÿFO=fNæebìN9efýVYe±HNÙÍyg!sQû|1SOŸ^d–0"
+ th_offer_ludicrous_loan_dialog: "[This.GetName]7Nb¹eIrTŽN[This.GetAdjective]§Y1t^§!„v6eeQÿFObìNÅV‰˜Töe¥c×SåN§Y10§!r7>k-N„v§R10%§!jOHNt^)Ro`=eØN§Y50t^§!0"
+ TH_HAS_HUNTEDED_YOUKAI_IN_FROM_TT: "§Rÿ§Y[Root.GetName]§!(WgÑ„v§Y5t^§!…Q¡l	g(W§Y[From.GetName]§!bŸR»lÇÎ‘î†„v–Y*`0§!"
+ TH_HAS_NO_YOUKAI_HUNT_CHARGES_LEFT_TT: "§Rÿ§Y[Root.Monarch.GetName]§!¡l	g³Y„v¾|›ReggbLˆNNy˜»lûN¡R0ÿ§Y5§!¹p9(u-NSVMRØiR§Y[Root.th_youkai_hunt_charges.GetValue]§!9	ÿ0§!"
+ TH_HAS_SENT_YOUKAI_HUNTER_TT: "§Rÿ§Y[Root.Monarch.GetName]§!—‰N*NgåNIr…V[Root.Monarch.GetSheHe]ÎNérs-NRVeg0 §!"
+ TH_FROM_HAS_AT_LEAST_NEGATIVE_175_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y-175§!0§!"
+ TH_FROM_HAS_AT_LEAST_NEGATIVE_150_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y-150§!0§!"
+ TH_FROM_HAS_AT_LEAST_NEGATIVE_125_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y-125§!0§!"
+ TH_FROM_HAS_AT_LEAST_NEGATIVE_100_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y-100§!0§!"
+ TH_FROM_HAS_AT_LEAST_NEGATIVE_75_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y-75§!0§!"
+ TH_FROM_HAS_AT_LEAST_NEGATIVE_50_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y-50§!0§!"
+ TH_FROM_HAS_AT_LEAST_NEGATIVE_25_OPINION_TT: "§R §Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y-25§!0§!"
+ TH_FROM_HAS_AT_LEAST_0_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y0§!0§!"
+ TH_FROM_HAS_AT_LEAST_POSITIVE_25_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y25§!0§!"
+ TH_FROM_HAS_AT_LEAST_POSITIVE_50_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y50§!0§!"
+ TH_FROM_HAS_AT_LEAST_POSITIVE_75_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y75§!0§!"
+ TH_FROM_HAS_AT_LEAST_POSITIVE_100_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y100§!0§!"
+ TH_FROM_HAS_AT_LEAST_POSITIVE_125_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y125§!0§!"
+ TH_FROM_HAS_AT_LEAST_POSITIVE_150_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y150§!0§!"
+ TH_FROM_HAS_AT_LEAST_POSITIVE_175_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y175§!0§!"
+ TH_FROM_HAS_AT_LEAST_POSITIVE_200_OPINION_TT: "§Rÿ§Y[From.GetName]§!ùR§Y[Root.GetName]§!„v‹Ya¦^óS	g§Y200§!0§!"
+ TH_RELIGIOUS_SCHOOL_DISALLOWS_TT: "§RÿbìN„v§YINAm—R>m§!NAQ¸‹bìNgbLˆå‹Y²NLˆ¨R0§!"
+ TH_FROM_RELIGIOUS_SCHOOL_DISALLOWS_TT: "§Rÿ[From.GetAdjective]„v§YINAm—R>m§!NAQ¸‹bìNgbLˆå‹Y²NLˆ¨R0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_1_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y1t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_2_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y2t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_3_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y3t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_4_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y4t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_5_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y5t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_6_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y6t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_7_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y7t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_8_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y8t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_9_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y9t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_10_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y10t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_20_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y20t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_25_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y25t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_30_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y30t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_35_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y35t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_40_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y40t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_45_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y45t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_50_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y50t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_75_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y75t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_BEEN_CHALLENGED_IN_THE_LAST_100_YEARS_TT: "§Rÿ§Y[From.GetName]§!(WÇ»S„v§Y100t^§!Ì‘òT	gºNTvQÑSúQÇ9VU^³Q—e0§!"
+ TH_DANMAKU_HAS_1_YEARS_COOLDOWN_TT: "§Rÿ§Y[Root.Monarch.GetName]§!(WÇ»S„v§Y1t^§!Ì‘òTNLe¹eÔkÕ‹ÇN—‰Oo`0§!"
+ TH_DANMAKU_HAS_2_YEARS_COOLDOWN_TT: "§Rÿ§Y[Root.Monarch.GetName]§!(WÇ»S„v§Y2t^§!Ì‘òTNLe¹eÔkÕ‹ÇN—‰Oo`0§!"
+ TH_DANMAKU_HAS_3_YEARS_COOLDOWN_TT: "§Rÿ§Y[Root.Monarch.GetName]§!(WÇ»S„v§Y3t^§!Ì‘òTNLe¹eÔkÕ‹ÇN—‰Oo`0§!"
+ TH_DANMAKU_HAS_4_YEARS_COOLDOWN_TT: "§Rÿ§Y[Root.Monarch.GetName]§!(WÇ»S„v§Y4t^§!Ì‘òTNLe¹eÔkÕ‹ÇN—‰Oo`0§!"
+ TH_DANMAKU_HAS_5_YEARS_COOLDOWN_TT: "§Rÿ§Y[Root.Monarch.GetName]§!(WÇ»S„v§Y5t^§!Ì‘òTNLe¹eÔkÕ‹ÇN—‰Oo`0§!"
+ TH_DANMAKU_HAS_6_YEARS_COOLDOWN_TT: "§Rÿ§Y[Root.Monarch.GetName]§!(WÇ»S„v§Y6t^§!Ì‘òTNLe¹eÔkÕ‹ÇN—‰Oo`0§!"
+ TH_DANMAKU_HAS_7_YEARS_COOLDOWN_TT: "§Rÿ§Y[Root.Monarch.GetName]§!(WÇ»S„v§Y7t^§!Ì‘òTNLe¹eÔkÕ‹ÇN—‰Oo`0§!"
+ TH_DANMAKU_HAS_8_YEARS_COOLDOWN_TT: "§Rÿ§Y[Root.Monarch.GetName]§!(WÇ»S„v§Y8t^§!Ì‘òTNLe¹eÔkÕ‹ÇN—‰Oo`0§!"
+ TH_DANMAKU_HAS_9_YEARS_COOLDOWN_TT: "§Rÿ§Y[Root.Monarch.GetName]§!(WÇ»S„v§Y9t^§!Ì‘òTNLe¹eÔkÕ‹ÇN—‰Oo`0§!"
+ TH_DANMAKU_HAS_10_YEARS_COOLDOWN_TT: "§Rÿ§Y[Root.Monarch.GetName]§!(WÇ»S„v§Y10t^§!Ì‘òTNLe¹eÔkÕ‹ÇN—‰Oo`0§!"
+ TH_HAS_HARMONIZED_FROM_RELIGION_TT: "§RÿbìNòTÏu‡T†N§Y[From.Religion.GetName]§!0§!"
+ TH_BUDDHIST_DENIED_ALLIANCE: "§RÿbìNNýwN^—§Y[Root.Religion.GetName]§!býVYeHN*gNbìN‡T„v—RYe„výV¶RÓußv0§!"
+ TH_FROM_BUDDHIST_DENIED_ALLIANCE: "§Rÿ§Y[From.GetName]§!NýwN^—§Y[From.Religion.GetName]§!býVYeHN*gNbìN‡T„v—RYe„výV¶RÓußv0§!"
+ TH_FROM_IS_OUR_ALLY: "§Rÿ§Y[From.GetName]§!=fbìN„vßvËS0§!"
+ TH_FROM_IS_NOT_OUR_ALLY: "§Rÿ§Y[From.GetName]§!N=fbìN„vßvËS0§!"
+ th_demand_war_support_dialog: "[This.GetName]÷‹BlbìN8OúQôcKb ReQ0RÖNìNSVMRckÛLˆ„vNb	gb‰N-N0"
+ th_convince_to_join_war_dialog: "[This.GetName]÷‹BlbìN8OúQôcKb ReQ0RÖNìNSVMRckÛLˆ„vNb	gb‰N-N0"
+ th_scarlet_charisma_dip_action_title: "Nˆr‚E››R"
+ th_scarlet_charisma_dip_action_tooltip: "O(u[Root.GetSCRScarletCharismaCost]eg·ƒ—VùR§Y[From.GetName]§!„v§G10§!¹páOûNN§G50§!¹p‹Ya¦^0"
+ th_scarlet_charisma_dip_action_desc: "[Root.Monarch.GetName]SÐ(u[Root.Monarch.GetHerHis]qVÍT›R·ƒ—V[From.Monarch.GetName]„váOûN0\nåN[Root.GetSCRScarletCharismaCost]²NbcùR§Y[From.GetName]§!„v§G10§!¹páOûNN§G50§!¹p‹Ya¦^0"
+ th_scr_scarlet_charisma_prestige_costs_tt: "§R40§!Zg"
+ th_scr_scarlet_charisma_prestige_costs_cheap_tt: "§R20§!Zg"
+ th_read_the_mind_dialog: "[This.GetName]Õ‹þVÍdµubìN„vÃVzfåNSbýVØSb§YÉ‰^SD–¸^§!0"
+ TH_FROM_IS_AT_WAR_TT: "§Rÿ§Y[From.GetName]§!YŽNb‰N-N0§!"
+ TH_FROM_HAS_NOT_ENOUGH_MAN_1_TT: "§Rÿ§Y[From.GetName]§!óS	g§Y1000§!ºN›RÌRYO0§!"
+ TH_FROM_HAS_NOT_ENOUGH_MAN_2_TT: "§Rÿ§Y[From.GetName]§!óS	g§Y2000§!ºN›RÌRYO0§!"
+ TH_FROM_HAS_NOT_ENOUGH_MAN_3_TT: "§Rÿ§Y[From.GetName]§!óS	g§Y3000§!ºN›RÌRYO0§!"
+ TH_FROM_HAS_NOT_ENOUGH_MAN_4_TT: "§Rÿ§Y[From.GetName]§!óS	g§Y4000§!ºN›RÌRYO0§!"
+ TH_FROM_HAS_NOT_ENOUGH_MAN_5_TT: "§Rÿ§Y[From.GetName]§!óS	g§Y5000§!ºN›RÌRYO0§!"
+ TH_FROM_HAS_NOT_ENOUGH_MAN_6_TT: "§Rÿ§Y[From.GetName]§!óS	g§Y6000§!ºN›RÌRYO0§!"
+ TH_FROM_HAS_NOT_ENOUGH_MAN_7_TT: "§Rÿ§Y[From.GetName]§!óS	g§Y7000§!ºN›RÌRYO0§!"
+ TH_FROM_HAS_NOT_ENOUGH_MAN_8_TT: "§Rÿ§Y[From.GetName]§!óS	g§Y8000§!ºN›RÌRYO0§!"
+ TH_FROM_HAS_NOT_ENOUGH_MAN_9_TT: "§Rÿ§Y[From.GetName]§!óS	g§Y9000§!ºN›RÌRYO0§!"
+ TH_FROM_HAS_NOT_ENOUGH_MAN_10_TT: "§Rÿ§Y[From.GetName]§!óS	g§Y10000§!ºN›RÌRYO0§!"
+ TH_ROOT_REQUIRES_5_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y5§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_10_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y10§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_15_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y15§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_20_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y20§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_25_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y25§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_30_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y30§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_35_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y35§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_40_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y40§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_45_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y45§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_50_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y50§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_55_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y55§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_60_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y60§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_65_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y65§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_70_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y70§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_75_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y75§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_80_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y80§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_85_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y85§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_90_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y90§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_95_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y95§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_100_ADM_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y100§!¹p£adm£0§!"
+ TH_ROOT_REQUIRES_5_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y5§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_10_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y10§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_15_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y15§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_20_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y20§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_25_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y25§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_30_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y30§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_35_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y35§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_40_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y40§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_45_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y45§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_50_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y50§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_55_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y55§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_60_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y60§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_65_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y65§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_70_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y70§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_75_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y75§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_80_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y80§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_85_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y85§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_90_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y90§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_95_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y95§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_100_DIP_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y100§!¹p£dip£0§!"
+ TH_ROOT_REQUIRES_5_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y5§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_10_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y10§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_15_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y15§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_20_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y20§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_25_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y25§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_30_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y30§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_35_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y35§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_40_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y40§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_45_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y45§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_50_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y50§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_55_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y55§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_60_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y60§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_65_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y65§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_70_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y70§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_75_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y75§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_80_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y80§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_85_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y85§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_90_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y90§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_95_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y95§!¹p£mil£0§!"
+ TH_ROOT_REQUIRES_100_MIL_TT: "§Rÿ§Y[Root.GetName]§!óS	g§Y100§!¹p£mil£0§!"
+ TH_FROM_ALLIED_WITH_WAR_ENEMIES_TT: "§Rÿ§Y[From.getName]§!=fbìN„v²NbLe¹eKNN„vßvËS0§!"
+ th_eit_create_tributary_state_dialog: "[This.GetName]Ž÷‹býVbHNÖNìN„v§Yg!ýV§!0"
+ th_enforce_gensokyan_peace_dialog: "[This.GetName]ûRBlžR°s‰^ó`aNƒX…QŒTs^0å‚b¹e¥c×SÿR[This.GetName]S·ƒ—V§Y–T›CgZ§!ÿwbìNÅV‰˜Èubk(W‰^ó`aNƒX…Q„vNRib.V0&TR–T›1SOÙz0RbìN„vLeºN±¹ÂSb0"
+ th_demand_unlawful_territory_dialog: "[This.GetName]‰BlbìNRVØMOŽN‰^ó`aNƒX…Q„v^—Õl†˜W0"
+ th_demand_partitioning_dialog: "[This.GetName]‰Blb¹eÊ‘>eMOŽN‰^ó`aNƒX…QNb	gm0RTv^„výV¶R0"
+ th_appoint_executor_dialog: "[This.GetName]÷‹Blb¹ebHNvQ§Y²bÕlýV§!ÿÙ=f§Y–T›SVNS§!„vNÍyyrŠk^SýV‰|‹W0"
+ th_charter_trade_post_dialog: "[This.GetName]÷‹BlåNIrTŽNvQ§Y3t^§!„v6eeQeg²NbcbìNNY¿lwmwýN0"
+ th_purchase_war_support_dialog: "[This.GetName]÷‹BlåNIrTŽNvQ§Y5t^§!„v6eeQegbcÖSbìNôc©R§Y[This.GetAdjective]§!Nb	gb‰N0"
+ th_purchase_truce_dialog: "[This.GetName]÷‹BlåNIrTŽNvQ§Y4t^§!„v6eeQegbcÖSöe•§Y5t^§!„vøv’NjPb0"
+ th_sell_newspaper_dialog: "[This.GetName]Tb¹e›O”^¥b¸uåNbcÖSIrTŽNvQ§Y6*Ng„v§!6eeQ0¥b¸uOHNbìN„v–™ýÐc›O§G5§!¹p*g¥c³u`noÛ¦^åNÊS§G20§!¹p9ei—Û¦^0"
+ TH_AT_WAR_WITH_FROM: "§Rÿ§Y[From.GetName]§!N§Y[Root.GetName]§!²Nb0§!"
+ TH_HAS_REGENCY: "§RÿbìNSVMRYŽNDd?eßu»l0§!"
+ TH_FROM_HAS_REGENCY: "§Rÿ§Y[From.GetName]§!SVMRYŽNDd?eßu»l0§!"
+ TH_HAS_PRESTIGE_5_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y5§!¹p0§!"
+ TH_HAS_PRESTIGE_10_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y10§!¹p0§!"
+ TH_HAS_PRESTIGE_15_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y15§!¹p0§!"
+ TH_HAS_PRESTIGE_20_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y20§!¹p0§!"
+ TH_HAS_PRESTIGE_25_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y25§!¹p0§!"
+ TH_HAS_PRESTIGE_30_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y30§!¹p0§!"
+ TH_HAS_PRESTIGE_35_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y35§!¹p0§!"
+ TH_HAS_PRESTIGE_40_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y40§!¹p0§!"
+ TH_HAS_PRESTIGE_45_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y45§!¹p0§!"
+ TH_HAS_PRESTIGE_50_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y50§!¹p0§!"
+ TH_HAS_PRESTIGE_55_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y55§!¹p0§!"
+ TH_HAS_PRESTIGE_60_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y60§!¹p0§!"
+ TH_HAS_PRESTIGE_65_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y65§!¹p0§!"
+ TH_HAS_PRESTIGE_70_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y70§!¹p0§!"
+ TH_HAS_PRESTIGE_75_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y75§!¹p0§!"
+ TH_HAS_PRESTIGE_80_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y80§!¹p0§!"
+ TH_HAS_PRESTIGE_85_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y85§!¹p0§!"
+ TH_HAS_PRESTIGE_90_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y90§!¹p0§!"
+ TH_HAS_PRESTIGE_95_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y95§!¹p0§!"
+ TH_HAS_PRESTIGE_100_TT: "§Rÿ§Y[Root.GetName]§!ZgN³§Y100§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_5_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y5§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_10_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y10§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_15_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y15§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_20_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y20§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_25_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y25§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_30_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y30§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_35_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y35§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_40_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y40§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_45_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y45§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_50_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y50§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_55_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y55§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_60_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y60§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_65_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y65§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_70_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y70§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_75_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y75§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_80_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y80§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_85_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y85§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_90_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y90§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_95_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y95§!¹p0§!"
+ TH_HAS_SCARLET_CHARISMA_100_TT: "§Rÿ§Y[Root.GetName]§!Nˆr‚E››RN³§Y100§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_5_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y5§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_10_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y10§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_15_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y15§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_20_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y20§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_25_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y25§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_30_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y30§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_35_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y35§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_40_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y40§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_45_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y45§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_50_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y50§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_55_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y55§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_60_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y60§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_65_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y65§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_70_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y70§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_75_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y75§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_80_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y80§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_85_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y85§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_90_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y90§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_95_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y95§!¹p0§!"
+ TH_HAS_SCARLET_BLOODLUST_100_TT: "§Rÿ§Y[Root.GetName]§!)s¢uÜUNˆN³§Y100§!¹p0§!"
+ th_establish_puppet_state_dialog: "[This.GetName]‰Blb¹ebHNvQ§YŽP!QýV§!0"
+ th_call_puppet_state_to_arms_dialog: "[This.GetName]‰BlbìNHeàVÿHVëb¹e ReQvQSVMRck(WÛLˆ„vNb	gb‰N0"
+ th_negotiate_truce_dialog: "[This.GetName]^gNb¹eOSFUOb§Y5t^§!0"
+ th_lcu_lend_lunarian_weapons_dialog: "[This.GetName]Tb¹eÐc›O§YgNÑyŽb§!0jOHN²NbcbìNSN—VN–HgNN*N»ýVVb0å‚b¹eb—Vb‰Nÿ±HNbìNObHN§Y[This.GetName]§!„v§YD–¸^§!0"
+ th_invite_foreign_scholar_title: "Ž÷‹YýVfRw"
+ th_invite_foreign_scholar_tooltip: "Ð(uY²NKbµkô‹gîvhýV¶R>mc—RYefRwóbýV0"
+ th_invite_foreign_scholar_desc: "bìNST§Y[From.GetName]§!„v§Y[From.Religion.GetName]§!fRwúQŽ÷‹0å‚vQ¥c×SÿbìN„vvQ-NN*NwýNÿOPTŽN	g§Y20§!bôfØšÑSUS¦^	ÿSO9e—R§Y[From.Religion.GetName]§!ÿw§Y[From.GetName]§!O—V0R§G10.00§!Zg0\nå‹Lˆ¨R±‚9§R10.00§!¹pŒTŒ¦^0"
+ th_invite_foreign_scholar_dialog: "[This.GetName]m`÷‹bìN[From.Religion.GetName]„vfRw0ÙSOÖNìN-N„vN*NwýN9e—R§Y[From.Religion.GetName]§!ÿwbìNO—V0R§G10§!Zg0"
+ th_send_monk_ambassador_title: ">mcçP±OO‚‚"
+ th_send_monk_ambassador_tooltip: ">mcNTçP±OåN RHVNîvhýVKNô•„vY²NsQû|0"
+ th_send_monk_ambassador_desc: "bìNST§Y[From.GetName]§!>múQçP±OO‚‚ÿÐcØšÖNìNùRb¹e„váOûN¦^§G5§!åNÊSùRbìN„v‹Ya¦^§G25§!ÿcíu§Y10t^§!0\nå‹Lˆ¨R±‚9§R10.00§!ŒTŒ¦^0"
+ TH_HAS_FROM_RELIGION_TT: "§Rÿ§Y[From.GetName]§!áOðN§Y[Root.Religion.GetName]§!0§!"
+ TH_HAS_HARMONIZED_WITH_FROM_TT: "§RÿbìNòTÏu‡T†N§Y[From.Religion.GetName]§!0§!"
+ TH_HAS_NOT_5_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y5§!0§!"
+ TH_HAS_NOT_10_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y10§!0§!"
+ TH_HAS_NOT_15_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y15§!0§!"
+ TH_HAS_NOT_20_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y20§!0§!"
+ TH_HAS_NOT_25_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y25§!0§!"
+ TH_HAS_NOT_30_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y30§!0§!"
+ TH_HAS_NOT_35_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y35§!0§!"
+ TH_HAS_NOT_40_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y40§!0§!"
+ TH_HAS_NOT_45_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y45§!0§!"
+ TH_HAS_NOT_50_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y50§!0§!"
+ TH_HAS_NOT_55_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y55§!0§!"
+ TH_HAS_NOT_60_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y60§!0§!"
+ TH_HAS_NOT_65_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y65§!0§!"
+ TH_HAS_NOT_70_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y70§!0§!"
+ TH_HAS_NOT_75_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y75§!0§!"
+ TH_HAS_NOT_80_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y80§!0§!"
+ TH_HAS_NOT_85_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y85§!0§!"
+ TH_HAS_NOT_90_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y90§!0§!"
+ TH_HAS_NOT_95_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y95§!0§!"
+ TH_HAS_NOT_100_HARMONY_TT: "§Rÿ§Y[Root.GetName]§!ŒTŒ¦^N³§Y100§!0§!"
+ TH_HAS_NOT_5_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y5§!0§!"
+ TH_HAS_NOT_10_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y10§!0§!"
+ TH_HAS_NOT_15_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y15§!0§!"
+ TH_HAS_NOT_20_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y20§!0§!"
+ TH_HAS_NOT_25_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y25§!0§!"
+ TH_HAS_NOT_30_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y30§!0§!"
+ TH_HAS_NOT_35_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y35§!0§!"
+ TH_HAS_NOT_40_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y40§!0§!"
+ TH_HAS_NOT_45_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y45§!0§!"
+ TH_HAS_NOT_50_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y50§!0§!"
+ TH_HAS_NOT_55_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y55§!0§!"
+ TH_HAS_NOT_60_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y60§!0§!"
+ TH_HAS_NOT_65_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y65§!0§!"
+ TH_HAS_NOT_70_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y70§!0§!"
+ TH_HAS_NOT_75_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y75§!0§!"
+ TH_HAS_NOT_80_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y80§!0§!"
+ TH_HAS_NOT_85_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y85§!0§!"
+ TH_HAS_NOT_90_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y90§!0§!"
+ TH_HAS_NOT_95_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y95§!0§!"
+ TH_HAS_NOT_100_LEGITIMANCY_OR_EQUIVALENT_TT: "§Rÿ§Y[Root.GetName]§!ckßu'`bvQùR”^ðyŒN³§Y100§!0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_1_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y1§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_2_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y2§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_3_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y3§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_4_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y4§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_5_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y5§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_10_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y10§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_15_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y15§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_20_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y20§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_25_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y25§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_30_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y30§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_35_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y35§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_40_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y40§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_45_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y45§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_50_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y50§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_55_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y55§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_60_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y60§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_65_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y65§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_70_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y70§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_75_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y75§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_80_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y80§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_85_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y85§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_90_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y90§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_95_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y95§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"
+ TH_FROM_WAS_TARGET_AT_LEAST_100_YEARS_AGO_TT: "§Rÿ§Y[From.GetName]§!(WgÑ§Y100§!t^…Q¡l	gbHNå‹Y²NLˆ¨R„vîvh0§!"

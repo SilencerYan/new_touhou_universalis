@@ -1,0 +1,628 @@
+lunar_motivated_workforce_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	#trigger = {	#Just for testing purposes
+	#	adm_power = 200
+	#}
+	#effect = {
+	#	add_stability = 1
+	#}
+	#potential = {
+	#	tag = LCU
+	#}
+	modifier = {
+		development_cost = -0.1
+		build_cost = -0.05
+	}
+	ai_will_do = {
+		factor = 15
+		modifier = {
+			factor = 1
+			is_at_war = no
+		}
+	}
+}
+
+lunar_scripts_of_tsukuyomi_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = {
+		stability_cost_modifier = -0.10
+		global_autonomy = -0.03
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			NOT = { religious_unity = 0.8 }
+		}
+		modifier = {
+			factor = 2
+			unrest = 4
+			NOT = { stability = 0 }
+		}
+	}
+}
+
+lunar_purification_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = { 
+		global_missionary_strength = 0.02
+		culture_conversion_cost = -0.15
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			NOT = { religious_unity = 0.8 }
+		}
+		modifier = {
+			factor = 0
+			NOT = {
+				any_owned_province = {
+					has_owner_religion = no
+				}
+			}
+		}
+	}
+}
+
+lunar_blessed_weapons_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = { 
+		land_morale = 0.1
+		discipline = 0.025
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+lunar_moon_defense_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = { 
+		naval_morale = 0.1
+		ship_durability = 0.1 
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+lunar_hunting_deserteurs_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = { 
+		army_tradition = 1
+		yearly_corruption = -0.05
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			corruption = 3
+		}
+		modifier = {
+			factor = 2
+			NOT = { army_tradition = 40 }
+		}
+	}
+}
+
+lunar_children_of_tsukuyomi_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = {
+		legitimacy = 1
+		devotion = 1
+		horde_unity = 1
+		republican_tradition = 0.5
+		years_of_nationalism = -5
+	}
+	ai_will_do = {
+		factor = 6
+		modifier = {
+			factor = 2
+			NOT = { legitimacy_equivalent = 80 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { legitimacy_equivalent = 60 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { legitimacy_equivalent = 40 }
+		}
+		modifier = {
+			factor = 0
+			legitimacy_equivalent = 95
+		}
+	}
+}
+
+lunar_impure_deported_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = {
+		global_colonial_growth = 20
+		expel_minorities_cost = -0.25
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			th_num_of_colonies = {
+				amount = 1
+			}
+		}
+		modifier = {
+			factor = 2
+			num_of_colonists = 2
+		}
+	}
+}
+
+lunar_forced_bun_conscription_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = {
+		global_manpower_modifier = 0.1
+		manpower_recovery_speed = 0.15
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			is_at_war = yes
+			NOT = { manpower_percentage = 0.9 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { manpower_percentage = 0.5 }
+		}
+	}
+}
+
+lunar_lunarian_sages_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = { 
+		idea_cost = -0.05
+		innovativeness_gain = 0.25
+	}
+	ai_will_do = {
+		factor = 15
+	}
+}
+
+lunar_workcamps_for_the_impure_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = { 
+		production_efficiency = 0.15
+	}
+	ai_will_do = {
+		factor = 17
+		modifier = {
+			factor = 0.5
+			treasury = 500
+		}
+		modifier = {
+			factor = 0
+			treasury = 2500
+		}
+	}
+}
+
+lunar_lunarian_security_corps_aspect = {
+	cost = 100
+	potential = {
+		NOT = {has_global_flag = lcu_domination_flag}
+	}
+	modifier = {
+		global_unrest = -1.5
+		reduced_liberty_desire = 5
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			unrest = 2
+		}
+		modifier = {
+			factor = 2
+			num_of_rebel_controlled_provinces = 1
+		}	
+	}
+}
+
+lunar_fury_of_junko_aspect = {
+	cost = 100
+	potential = {
+		has_country_flag = lcu_purified_gensokyo
+		5330 = {
+			country_or_non_sovereign_subject_holds = ROOT
+		}
+	}
+
+	modifier = {
+		shock_damage = 0.15
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+lunar_cunning_ways_of_yuyuko_aspect = {
+	cost = 100
+	potential = {
+		has_country_flag = lcu_purified_gensokyo
+		4958 = {
+			country_or_non_sovereign_subject_holds = ROOT
+		}
+	}
+
+	modifier = {
+		global_spy_defence = 0.25
+		diplomats = 1
+	}
+	ai_will_do = {
+		factor = 15
+	}
+}
+
+lunar_control_of_yukari_aspect = {
+	cost = 100
+	potential = {
+		has_country_flag = lcu_purified_gensokyo
+		4989 = {
+			country_or_non_sovereign_subject_holds = ROOT
+		}
+	}
+
+	modifier = {
+		vassal_income = 0.25
+		diplomatic_annexation_cost = -0.1
+	}
+	ai_will_do = {
+		factor = 15
+	}
+}
+
+lunar_charisma_of_remilia_aspect = {
+	cost = 100
+	potential = {
+		has_country_flag = lcu_purified_gensokyo
+		4968 = {
+			country_or_non_sovereign_subject_holds = ROOT
+		}
+	}
+
+	modifier = {
+		diplomatic_reputation = 1
+		improve_relation_modifier = 0.2
+	}
+	ai_will_do = {
+		factor = 15
+	}
+}
+
+lunar_sadistic_treatment_of_yuuka_aspect = {
+	cost = 100
+	potential = {
+		has_country_flag = lcu_purified_gensokyo
+		5152 = {
+			country_or_non_sovereign_subject_holds = ROOT
+		}
+	}
+
+	modifier = {
+		yearly_army_professionalism = 0.01
+		harsh_treatment_cost = -0.25
+	}
+	ai_will_do = {
+		factor = 15
+	}
+}
+
+lunar_motivated_workforce_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+
+	modifier = {
+		development_cost = -0.1
+		build_cost = -0.2
+		build_time = -0.2
+	}
+	ai_will_do = {
+		factor = 15
+		modifier = {
+			factor = 1
+			is_at_war = no
+		}
+	}
+}
+
+lunar_scripts_of_tsukuyomi_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = {
+		stability_cost_modifier = -0.2
+		global_autonomy = -0.075
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			NOT = { religious_unity = 0.8 }
+		}
+		modifier = {
+			factor = 2
+			unrest = 4
+			NOT = { stability = 0 }
+		}
+	}
+}
+
+lunar_purification_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = { 
+		global_missionary_strength = 0.04
+		culture_conversion_cost = -0.25
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			NOT = { religious_unity = 0.8 }
+		}
+		modifier = {
+			factor = 0
+			NOT = {
+				any_owned_province = {
+					has_owner_religion = no
+				}
+			}
+		}
+	}
+}
+
+lunar_blessed_weapons_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = { 
+		land_morale = 0.15
+		discipline = 0.05
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+lunar_moon_defense_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = { 
+		naval_morale = 0.2
+		ship_durability = 0.1
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			is_at_war = yes
+		}
+	}
+}
+
+lunar_hunting_deserteurs_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = { 
+		army_tradition = 2
+		yearly_corruption = -0.1
+	}
+	ai_will_do = {
+		factor = 12
+		modifier = {
+			factor = 2
+			corruption = 3
+		}
+		modifier = {
+			factor = 2
+			NOT = { army_tradition = 40 }
+		}
+	}
+}
+
+lunar_children_of_tsukuyomi_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = {
+		legitimacy = 2
+		devotion = 2
+		horde_unity = 2
+		republican_tradition = 1
+		years_of_nationalism = -5
+	}
+	ai_will_do = {
+		factor = 6
+		modifier = {
+			factor = 2
+			NOT = { legitimacy_equivalent = 80 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { legitimacy_equivalent = 60 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { legitimacy_equivalent = 40 }
+		}
+		modifier = {
+			factor = 0
+			legitimacy_equivalent = 95
+		}
+	}
+}
+
+lunar_impure_deported_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = {
+		global_colonial_growth = 50
+		expel_minorities_cost = -0.25
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			th_num_of_colonies = {
+				amount = 1
+			}
+		}
+		modifier = {
+			factor = 2
+			num_of_colonists = 2
+		}
+	}
+}
+
+lunar_forced_bun_conscription_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = {
+		global_manpower_modifier = 0.25
+		manpower_recovery_speed = 0.25
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			is_at_war = yes
+			NOT = { manpower_percentage = 0.9 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { manpower_percentage = 0.5 }
+		}
+	}
+}
+
+lunar_lunarian_sages_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = { 
+		idea_cost = -0.15
+		technology_cost = 0.15
+	}
+	ai_will_do = {
+		factor = 15
+	}
+}
+
+lunar_workcamps_for_the_impure_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = { 
+		production_efficiency = 0.2
+		global_prosperity_growth = 1
+	}
+	ai_will_do = {
+		factor = 17
+		modifier = {
+			factor = 0.5
+			treasury = 500
+		}
+		modifier = {
+			factor = 0
+			treasury = 2500
+		}
+	}
+}
+
+lunar_lunarian_security_corps_aspect_v2 = {
+	cost = 100
+	potential = {
+		has_global_flag = lcu_domination_flag
+	}
+	modifier = {
+		global_unrest = -2
+		reduced_liberty_desire = 20
+	}
+	ai_will_do = {
+		factor = 10
+		modifier = {
+			factor = 2
+			unrest = 2
+		}
+		modifier = {
+			factor = 2
+			num_of_rebel_controlled_provinces = 1
+		}	
+	}
+}

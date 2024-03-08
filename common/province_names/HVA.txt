@@ -1,0 +1,425 @@
+873 = "?–¯eXbÌ‘šN"  # Astoria
+893 = {
+  "°e)YPRâl)R¯e"  # New Tenshipolis
+  "°e)YPRâl)R¯e"  # New Tenshipolis
+}
+894 = "OÑySÕl^÷–"  # Ecore Fabre
+896 = "<hpQ·V³l"  # Grand River
+897 = {
+  "SówÎW"  # Little Rock
+  "SówÎW"  # Little Rock
+}
+899 = {
+  "'kNbKQ"  # Ozarks
+  "¯enf—gòƒS·V"  # Springfield
+}
+900 = {
+  "1WÉbSæt"  # St. Larva
+  "1WÉbSæt"  # St. Larva
+}
+905 = {
+  "·^mtS^Éb+Y"  # Council Bluff
+  "·^mtS^Éb+Y"  # Council Bluff
+}
+907 = {
+  "Ï‚âl¯eyr"  # Sioux Post
+  "Ï‚âl¯eyr"  # Sioux Post
+}
+908 = {
+  "f<SÏ‚¾"  # Minnesota
+  "1W0NìY"  # St. Toyohime
+}
+910 = "÷–·V±ƒKQ"  # Red Lake
+911 = {
+  "NJS›S"  # Upper Peninsula
+  "ÃW¯eaS³uôT"  # Escanaba
+}
+913 = "nf÷–Ì‘·V1k"  # Prairie du Chien
+914 = {
+  "<h—g"  # Green Bay
+  "<h—g"  # Green Bay
+}
+915 = {
+  "®veYÌ‘šN"  # Peoria
+  "®veYÌ‘šN"  # Peoria
+}
+918 = {
+  "mRòƒ¯e"  # Memphis
+  "mRòƒ¯e"  # Memphis
+}
+921 = "ôTTœåe"  # Baton Rouge
+925 = {
+  "OìY!X"  # Fort Yorihime
+  "OìY!X"  # Fort Yorihime
+}
+929 = {
+  "(„áQ³u"  # Savannah
+  "(„áQ³u"  # Savannah
+}
+930 = "Övi`¯e"  # Gaines
+931 = "ChhÎW"  # Peachtree
+932 = {
+  "ågS¯efe"  # Charleston
+  "ågS¯efe"  # Charleston
+}
+934 = {
+  "³uÀN=OÒR"  # Nashborough
+  "³uÀN=OÒR"  # Nashborough
+}
+935 = "ƒlXb R"  # Watauga
+936 = {
+  "ØšqSHS"  # Overmountain
+  "«ƒÌ‘¯efe"  # Morristown
+}
+939 = {
+  "^ê2SaS"  # Paducah
+  "^ê2SaS"  # Paducah
+}
+940 = {
+  "ïf¯eôuS"  # Louisville
+  "ïf¯eôuS"  # Louisville
+}
+941 = {
+  "ÈTW·VG•"  # Harrodstown
+  "ÈTW·VG•"  # Harrodstown
+}
+944 = {
+  ")YPRáS"  # Tenshroit
+  ")YPRáS"  # Tenshroit
+}
+945 = {
+  "¦žúWú‹"  # Mackinac
+  "¦žúWú‹!X"  # Fort Mackinac
+}
+946 = {
+  "8lml±ƒY"  # Nagaeledo
+  "8lml±ƒY"  # Nagaeledo
+}
+947 = {
+  "KQ)R+YpQ"  # Cleveland
+  "KQ)R+YpQ"  # Cleveland
+}
+948 = {
+  "T›tÃWTX"  # Marisetta
+  "T›tÃWTX"  # Marisetta
+}
+949 = "^bSÌ‘GY"  # Blue Ridge
+950 = {
+  ")YPRfe"  # Tenshitown
+  ")YPRfe"  # Tenshitown
+}
+952 = {
+  "sYÑ‚³l"  # Joon River
+  "sYÑ‚™„·V"  # Joonmond
+}
+953 = {
+  "T›tpQ"  # Marisaland
+  "T›tâl)R¯e"  # Marispolis
+}
+956 = {
+  "cˆ–s·VSòƒšN"  # Ikudelphia
+  "cˆ–s·VSòƒšN"  # Ikudelphia
+}
+958 = {
+  "‰^ó`‰eY"  # Gensokeeo
+  "‰^ó`‰eY"  # Gensokeeo
+}
+959 = {
+  "WR¯eyr"  # Rochester
+  "WR¯eyr"  # Rochester
+}
+960 = {
+  "eY¯eZb"  # Oswego
+  "eY¯eZb"  # Oswego
+}
+961 = {
+  "¯eTX!X"  # Fort Star
+  "¯eTX!X"  # Fort Star
+}
+963 = {
+  "eYSôT<S"  # Albany
+  "eYSôT<S"  # Albany
+}
+964 = {
+  "¯eKQ…QKQTXê"  # Schenectady
+  "¯eKQ…QKQTXê"  # Schenectady
+}
+965 = {
+  "ËuÑ‚"  # New Yorigami
+  "ËuÑ‚ÎW"  # New Yorigami City
+}
+966 = {
+  "=OKQ^S"  # Berkshires
+  "¯enf—gòƒS·V"  # Springfield
+}
+967 = {
+  "W—V›S"  # Rhode Island
+  "nfWôu‰v¯e"  # Providence
+}
+968 = {
+  "lš(„ø‹^X"  # Massachusetts
+  "âlëX˜"  # Boston
+}
+969 = {
+  ",gR˜"  # Bennington
+  ",gR˜"  # Bennington
+}
+970 = {
+  "°eU^ÀNS"  # New Hampshire
+  "4g(ƒƒ¯e"  # Portsmouth
+}
+973 = {
+  ")nåTNS"  # Vancouver
+  ")nåTNS"  # Vancouver
+}
+980 = "?–æt†–"  # Avalon
+981 = "÷–5uÒ‰"  # Cape Ray
+982 = "^÷–˜Ò‰"  # Cape Breton
+983 = "1r·VNS‹sPR›S"  # Prince Edward Isl.
+984 = "¬‚ê"  # Fundy
+985 = {
+  "™„KQ˜"  # Moncton
+  "™„KQ˜"  # Moncton
+}
+986 = " R¯eiO"  # Gaspe
+987 = {
+  ")nŽƒ"  # Windsor
+  ")nŽƒ"  # Windsor
+}
+988 = {
+  "!•ÆYÑy"  # Simcoe
+  "s|·Vk¯eyr"  # Midhurst
+}
+989 = {
+  "‰R'Yeu"  # Ontario
+  "Ñ‘¯e˜"  # Kingston
+}
+990 = "	N³lÎW"  # Three Rivers
+992 = {
+  "VyrG•"  # Wright's Town
+  "VyrG•"  # Wright's Town
+}
+993 = {
+  "™„yr)RS"  # Montreal
+  "™„yr)RS"  # Montreal
+}
+994 = {
+  "A›SKQ"  # Quebec
+  "A›SKQÎW"  # Quebec City
+}
+996 = "…haS‚„³u"  # Mecatina
+998 = {
+  "Ì‘ëXán!X"  # Fort Richmond
+  "Ì‘ëXán!X"  # Fort Richmond
+}
+999 = "OëXüf"  # Eastmain
+1000 = {
+  "œÀsyr!X"  # Fort Rupert
+  "œÀsyr!X"  # Fort Rupert
+}
+1001 = {
+  "Ï‚1W›sKN"  # Sault Ste. Marie
+  "Ï‚1W›sKN"  # Sault Ste. Marie
+}
+1003 = {
+  "Fz¯eÕlKQyrÌ‘"  # Moose Factory
+  "Fz¯eÕlKQyrÌ‘"  # Moose Factory
+}
+1004 = {
+  "eYSôT<S!X"  # Fort Albany
+  "eYSôT<S!X"  # Fort Albany
+}
+1005 = "¦uKQÕlKQyrÌ‘"  # York Factory
+1006 = {
+  ")YPRN"  # Tenshill
+  ")YPRN"  # Tenshill
+}
+1007 = {
+  "÷–Œn"  # Thunder Bay
+  "÷–Œn"  # Thunder Bay
+}
+1008 = "÷–·V³l"  # Red River
+1009 = "&O¯eÌ‘V"  # Berens River
+1010 = "Y¬‚"  # Dauphin
+1011 = "=OyQ"  # The Pas
+1174 = {
+  "ƒlSôu¯eŒn"  # Walvis Bay
+  "ƒlSôu¯eŒn"  # Walvis Bay
+}
+2003 = "“^yr…Q"  # Kootenai
+2007 = "±ƒ¯e^X·V÷–¯e"  # Les Cedres
+2012 = "è•V÷–…hb<h"  # Memphremagog
+2013 = "aS¯eïg"  # Casco
+2016 = "<hpQ·VyKQ¯e"  # Great Forks
+2017 = "ÃW·V™„˜"  # Edmonton
+2018 = "pgëX=O"  # Jasper
+2021 = {
+  "Sm)Y"  # Little Heaven
+  "Sm)Y"  # Little Heaven
+}
+2023 = "`ÄOf³l7Œ"  # Wyoming Valley
+492 = "âlYÎžT"  # Porto Rico
+2512 = "yrÉbV¯e"  # Traverse
+2513 = {
+  "¦žê!X"  # Fort Madison
+  "¦žê!X"  # Fort Madison
+}
+2514 = {
+  "	TÉbYÒ‰"  # Cape Girardeau
+  "	TÉbYÒ‰"  # Cape Girardeau
+}
+2515 = "òSÆR¯e!X"  # Fort Smith
+2517 = "s|SVn"  # Mille Lacs
+2520 = {
+  "SÃWÊS"  # Little Egypt
+  "VW"  # Cairo
+}
+2521 = {
+  "(„	Tú‹"  # Saginaw
+  "(„	Tú‹"  # Saginaw
+}
+2522 = {
+  "'Y%`AmÎW"  # Grand Rapids
+  "'Y%`AmÎW"  # Grand Rapids
+}
+2523 = "‡eîh"  # Vincennes
+2524 = "pS,r‰R³u"  # Indiana
+2525 = {
+  "mQh‚„ôuS"  # Losantiville
+  "mQh‚„ôuS"  # Losantiville
+}
+2526 = {
+  "RKQffe"  # Lexington
+  "RKQffe"  # Lexington
+}
+2527 = {
+  "ågTXªR R"  # Chattanooga
+  "ågTXªR R"  # Chattanooga
+}
+2531 = {
+  "¨N(ƒôuS"  # Huntsville
+  "¨N(ƒôuS"  # Huntsville
+}
+2538 = "òƒí¯e"  # Fidius
+2539 = {
+  "V÷–·VÌ‘KQ"  # Frederick
+  "V÷–·VÌ‘KQ"  # Frederick
+}
+2540 = {
+  "eYäS¯eTX"  # Augusta
+  "eYäS¯eTX"  # Augusta
+}
+2541 = "Ñyƒlôu"  # Keowee
+2542 = {
+  "ZSyyr"  # Beaufort
+  "ZSyyr"  # Beaufort
+}
+2543 = "•Œn"  # Long Bay
+2544 = {
+  "Ymyr"  # Charlotte
+  "Ymyr"  # Charlotte
+}
+2546 = "VnfòƒS"  # Cape Fear
+2548 = "°e³l"  # New River
+2549 = {
+  "Ym(ƒôuS"  # Charlottesville
+  "Ym(ƒôuS"  # Charlottesville
+}
+2550 = "Éb^Ilú‹KQ"  # Rappahannock
+2552 = "®vS0tS"  # Pearsall
+2554 = {
+  "ôTS„vid"  # Baltimore
+  "ôTS„vid"  # Baltimore
+}
+2555 = {
+  "9SyQ!X"  # Pittsburgh
+  "9SyQ!X"  # Pittsburgh
+}
+2557 = "‰^pQGY"  # West Branch
+2558 = "aS(ƒúWS"  # Catskills
+2559 = {
+  "Ðc·^·VW R"  # Ticonderoga
+  "Ðc·^·VW R"  # Ticonderoga
+}
+2560 = {
+  "ËuÑž‡e"  # New Heaven
+  "ËuÑž‡e"  # New Heaven
+}
+2561 = {
+  "nf)Rƒ¯e"  # Plymouth
+  "nf)Rƒ¯e"  # Plymouth
+}
+2562 = {
+  "úWi`"  # Keene
+  "úWi`"  # Keene
+}
+2563 = {
+  "iO™„yr"  # Vermont
+  "™„|V)RÃW"  # Montpelier
+}
+2564 = "`yrqS"  # White Mountains
+2566 = "aS¯eNl"  # Castine
+2568 = "^SÒ‰"  # Cape Sable
+2569 = {
+  "ÈT)RÕlKQ¯e"  # Halifax
+  "ÈT)RÕlKQ¯e"  # Halifax
+}
+2570 = "1WsYÑ‚"  # St. Joon
+2572 = "NWS˜"  # Campbelton
+2574 = "³u‰R"  # Nain
+2577 = "N›S=n"  # Seven Islands
+2580 = "æ—«ƒTXGY"  # Wemotaci
+2582 = "Ì‘«ƒ¯eúW"  # Rimouski
+2586 = "ú‹yræt0t R"  # Nottawasaga
+2587 = "lš<SþV—g"  # Manitoulin
+2595 = {
+  ")YLu³l"  # Heavenly River
+  "ÉbKQW¯e›S"  # Ile a la Crosse
+}
+2597 = "WS^pQGY"  # South Branch
+2588 = "KQmÀN"  # Cloche
+2592 = "^X‡e"  # Severn
+2593 = "OyQVn"  # Lake of the Woods
+2600 = "Vs|)Ri`"  # Vermillion
+2601 = "“æ—9h"  # Dunvegan
+2603 = {
+  "1W)YPR!X"  # Fort St. Tenshi
+  "1W)YPR!X"  # Fort St. Tenshi
+}
+2604 = "TN»l‹sPRÎW"  # Prince George
+2605 = "‚¯eætnf"  # Shuswap
+2606 = {
+  "‡e!X"  # Fort Aya
+  "‡e!X"  # Fort Aya
+}
+2670 = {
+  "Y&OY"  # Toronto
+  "¦uKQ"  # York
+}
+2671 = "™Ÿ·V"  # Ronde
+4872 = {
+  "^ÕlW"  # Buffalo
+  "^ÕlW"  # Buffalo
+}
+4890 = "%n*YNS"  # Ottawa
+4637 = {
+  ")Yèn"  # Heavenly Coast
+  ")Yèn"  # Heavenly Coast
+}
+4379 = "ýV‹sá"  # King's County
+104 = {
+  "s|pQ"  # Milan
+  "s|pQ"  # Milan
+}
+4729 = {
+  "^Yæt"  # Padua
+  "^Yæt"  # Padua
+}
+134 = {
+  "ôumN³u"  # Vienna
+  "ôumN³u"  # Vienna
+}
+2746 = {
+  "ôuN"  # Widdin
+  "ôuN"  # Widdin
+}

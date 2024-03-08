@@ -1,0 +1,33 @@
+﻿l_english:
+ th_cin_rfc_points_not_initialized: "‹sS–Y¾|VòTRËYSÿbìN(Wdkgô•óSb—V§Y125§!¹p0"
+ th_cin_rfc_points_counter: "óS(W§Y‹sS–Y¾|V§!gô•b—V§Y125§!¹pÿSVMRHN§Y[Root.th_rfc_own_high_score.GetValue]§!¹p	ÿ0"
+ th_hkr_incidents_not_initialized: "VØS¡‹pehVòTÆQY1Sêu0"
+ th_hkr_incidents_counter_1: "óS	g§Y1§!!kVØSòT«ˆ[Root.GetName]åNOKbôf‹Y„vÓuNSã‰³QÿSVMRHN§Y[Root.th_incident_outcome_counter.GetValue]§!	ÿ"
+ th_hkr_incidents_counter_2: "óS	g§Y2§!!kVØSòT«ˆ[Root.GetName]åNOKbôf‹Y„vÓuNSã‰³QÿSVMRHN§Y[Root.th_incident_outcome_counter.GetValue]§!	ÿ"
+ th_hkr_incidents_counter_3: "óS	g§Y3§!!kVØSòT«ˆ[Root.GetName]åNOKbôf‹Y„vÓuNSã‰³QÿSVMRHN§Y[Root.th_incident_outcome_counter.GetValue]§!	ÿ"
+ th_sff_flower_counter_not_initialized: "i«ˆ¡‹pehVòTÆQY1Sêu0"
+ th_sff_initialize_sun_garden_power: "ÐcGS*Y3–±‚0u„v›RÏ‘Irµuó§Y1§!µuÿgØšIrµuÿ§Y5§!	ÿ0"
+ th_sff_increase_sun_garden_power: "ÐcGS*Y3–±‚0u„v›RÏ‘Irµu§Y1§!µuÿSVMRIrµuÿ§Y[Root.sff_sun_garden_counter.GetValue]§!/§Y5§!	ÿ0"
+ th_sff_flower_counter_2: "óS	g§Y2§!ÍyyrŠkiiròT«ˆ[Root.GetName]6eÆ–ÿSVMRHN§Y[Root.sff_flower_counter.GetValue]§!	ÿ"
+ th_sff_flower_counter_4: "óS	g§Y4§!ÍyyrŠkiiròT«ˆ[Root.GetName]6eÆ–ÿSVMRHN§Y[Root.sff_flower_counter.GetValue]§!	ÿ"
+ th_lil_enable_colonial_maitenance_reduction: "=T(u§Y–kl0Wb‰Nôc©R§!0"
+ th_lil_enable_colonial_maitenance_reduction_variable: "ÛNekžX R§Y–kl0Wb‰Nôc©R§!ÿSVMRHN§Y5§!yb-N„v§Y[Root.th_allowed_colonies_for_reduction.GetValue]§!	ÿ"
+ th_lrv_prank_dip_costs: "\nHN†N9e„UlPÿbìN—‰50£dip£0"
+ th_lrv_prank_lower_dip_costs: "\nHN†N9e„UlPÿbìN—‰25£dip£0"
+ th_lrv_own_buff_tt: "\n[Root.GetName]mNS·ƒ—V0§Y8^YfkëX§!0cíu§Y20t^§!ÿ&^egåNNHeœgÿ\nF–›QëXlÿ§G+10.0%§!\nwm›QëXlÿ§G+10.0%§!"
+ th_no_text: ""
+ th_get_him: "ÖN"
+ th_get_her: "yY"
+ th_fairy_pirates_bonus_loyalty_from_pranks: "\n\n§Y–Y¾|'Y×v§!·ƒ—V	a¦`<P§G+10§!åNÊS§G+0.5§!Tg<P0"
+ gensokyo: "‰^ó`aN"
+ moon: "gb—"
+ th_king_ruler: "‹s"
+ th_queen_ruler: "sY‹s"
+ th_no_monarch_ruler: "ßu»lw"
+ th_general_monarch_level_6: "(§Y6§!/§Y5§!/§Y5§!/§Y6§!)"
+ th_general_monarch_level_5: "(§Y6§!/§Y5§!/§Y4§!/§Y6§!)"
+ th_general_monarch_level_4: "(§5Y§!/§Y5§!/§Y3§!/§Y5§!)"
+ th_general_monarch_level_3: "(§Y5§!/§Y5§!/§Y2§!/§Y4§!)"
+ th_general_monarch_level_2: "(§Y4§!/§Y4§!/§Y2§!/§Y3§!)"
+ th_general_monarch_level_1: "(§Y3§!/§Y3§!/§Y2§!/§Y2§!)"
+ th_hig_current_reform_progress: "[YamaOfGensokyo.hig_reform_counter.GetValue]"

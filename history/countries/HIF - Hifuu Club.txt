@@ -1,0 +1,24 @@
+government = monarchy
+add_government_reform = Gensokyan_hif_hifuu_club
+government_rank = 1
+primary_culture = Gensokyo_human
+religion = th_occultism
+technology_group = tech_gensokyan
+capital = 5252
+th_discover_default = yes
+1443.1.1 = {
+  monarch = {
+    name = "XPR"  # Sumireko
+    dynasty = "‡RPOÁ‰"  # Usami
+    birth_date = 1429.8.20
+    adm = 5
+    dip = 5
+    mil = 5
+    female = yes
+    religion = th_occultism
+    culture = Gensokyo_human
+  }
+  add_ruler_personality = th_longevity_personality
+  set_ruler_flag = touhou_character_ruler
+  set_ruler_flag = touhou_original_ruler
+}

@@ -1,0 +1,27 @@
+﻿l_english:
+ IGE_Events.1.t:0 "‹sCgKNS"
+ IGE_Events.1.d:0 "	éb`O„v‹sCgKNS"
+ IGE_Events.1.a: ".O­d1WŠ"
+ IGE_Events.1.b: ".O­dŒTs^"
+ IGE_Jihad:0 "b‰NKNS"
+ IGE_Legalism:0 "ŒTs^KNS"
+ Roman_Castrum: "WlšuQ%„"
+ desc_Roman_Castrum: "bìN„våTz^©‹SV0WºNl(Wb—ùRP``„vb‰Nb—MRÝOc†N3zšR0"
+ benign_legislation_act: "ÁNHa„vÕl‹V"
+ desc_benign_legislation_act: "N+R²NuÿNŠk51ÿN­eŽNÕlÿwT)YNÛvÿ"
+ IGE_Events.15.t: "ë(W	wkw„v'YÁˆ›Q"
+ IGE_Events.15.d: "0&&dkYÿbìNïSýw¯r„vga0ˆ„v•ï‹1S=fAQ¸‹«ˆVg„vÍyÏeåb	gfkhV0†SòSàepe!k0Whˆfÿ^—bÏe‰|ÿvQÃVÅVV0ûNUONTTINêS‰AQ¸‹VÏeåb	gfkhVÿ±ÖN1SO«ˆÙ›NfkhVNb¨cû0buóïSåNô‹ÿT«ˆ‹SëwÐc›OfkhV=f¨cûûNUOINCg„vÅV‰agöN0\n HN†NÝOcŒTs^ÿ[Root.GetAdjective] ÅV‰˜Ta²NúQfkhVÿO6R›QýVININ00"
+ IGE_Events.15.a: "Iw±„v1Y%"
+ IGE_ENFORCE_DEMILITARIZATION_TT: "bìN„v›Q‹Nýw›R(W§R›Q–(Ï‘§!0§R›Q–Ä‰!j§!N§RVuQöeô•§!N«ˆèT'YJR1V0FO‚YœgbìN«ˆ§Bôv¥c§!±RbÿÙ›N1SOb`Y0"
+ IGE_GP_Events.14.a: "^²ˆW0W„vOÀyLˆ?eèè•ÿ"
+ IGE_GP_Events.14.b: "Y²NªR›RnxÝOHV'Y„vTwßvÿ"
+ IGE_GP_Events.14.c: "bìN„v›Q–‰û«ŽNLuMRRÿ"
+ ige_gp_ADM: "Lˆ?e‹Ny˜"
+ ige_gp_DIP: "Y²NHe‡s"
+ ige_gp_MIL: "ºNgŒTs^ÿSVYb‰N"
+ th_request_conversion_hakurei_title: "Ž÷‹eQYe"
+ th_request_conversion_hakurei_tooltip: "÷‹Bl[From.GetName]bHNN`OTYe„vDQVÐY¹Y0"
+ th_request_conversion_hakurei_desc: "(W`ONæSNýVsQû|o‚‹Yöeÿ<yŒŒ0W÷‹BlvQˆvO0"
+ IGE_Events.14.t: "O'Y®‹O"
+ IGE_Events.14.d: "N*Ng‹Y„v®‹OMbM‘—VNbìNÿ–Nw°eNûN†˜üRºN„vNðSÿbìNÅV‰˜wQ†bìNýV¶R„vêTN¹eb—”^å‹—V0RbìNgýwr^„v˜RXT„vNwÍ‘Yt0"
+ press_gangs_modifier: "wm›QtõVÿHVVeQO"

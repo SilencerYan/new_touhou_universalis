@@ -1,0 +1,53 @@
+﻿l_english:
+ training_none: "àeè–ÍdÃu"
+ desc_training_none: "bìN„vè–*gÏuÍdÃu0ÖNìNNnZiªg=e=f`HNûQÑS„vÿmN¡lÕl	gHe0Wb—e0"
+ training_minimal: "gNOè–ÍdÃu"
+ desc_training_minimal: "bìN„vè–êSSf—VúWNx0ÖNìNS*gýw‚Y°sãN›Q–,‚ÐjO0"
+ training_basic: "úWNxè–ÍdÃu"
+ desc_training_basic: "bìN„vè–°sòTÛLˆ†NúWNx„vÍdÃuÿFOÍN—­‹ÃuôfY¹eb—Mbýw¾0R°sãN›Q–„v4ls^0"
+ improving_training: "è–ÍdÃu-N"
+ desc_improving_training: "bìNSVMRck(WÍdÃub¹eè–0"
+ material_shortage_critical: "%NÍ‘ŸS™eíwH"
+ desc_material_shortage_critical: "bìNàQÑ¡l	gûNUOïS(u„vŸS™eeguµNbìN„vfkhVv^üRôàeÕl	gHejOb0"
+ material_shortage_large: "'YybŸS™eíwH"
+ desc_material_shortage_large: "bìNàQNN¡l	g³Y„vŸS™eeguµNbìN„vfkhVv^üRôàeÕl	gHejOb0"
+ material_shortage_occasional: "vPÑSŸS™eíwH"
+ desc_material_shortage_occasional: "bìN„vŸS™e¶rµQ'Yô3zšRÿFOÍNvPÑSíwHÿ¨Yx†NùR9‚êS„vú^.ÊSîOt0"
+ improving_materials: "ŸS™eÇ‘--N"
+ desc_improving_materials: "bìNSVMRckÇ‘-ŸS™eåNã‰íwH0"
+ labs_makeshift: "4NöežRŒš²R"
+ desc_labs_makeshift: "bìN¡l	gýwðy—VN„vžRŒš²R„v0W¹e0ÙO—VûNUO„vxvzýàQÑ=fNïSýw„v0"
+ labs_rudimentary: "RµužRŒš²R"
+ desc_labs_rudimentary: "bìNêS	gRµu„vžRŒš²R0ïSåNÛLˆxvzFOêSýwÉR›RHNKN0"
+ labs_outdated: "ÇöežRŒš²R"
+ desc_labs_outdated: "bìNîvMR„vžRŒš²RNòTÇöeÿÙasTNwÛLˆxvzOçe=föNøvSVðV¾–„v‹N0"
+ improving_labs: "žRŒš²R9eÛ-N"
+ desc_improving_labs: "bìNîvMRck(Wú^¾‹°e„vžRŒš²RåNHNb¹exvzºNXTËeåNôcKb0"
+ literacy_none: "™„'f„v²O"
+ desc_literacy_none: "bìN'YèR„vºNãSGWHN‡eòv0gS	gºNýwÜwûNŒ˜î•„vLw¡R0"
+ literacy_primary: "RIrYe²w"
+ desc_literacy_primary: "bìN-N„v'YYpeºNêS×SÇRIr„vYe²w0'YYpeºNÍNN³åNÜwûNŒ˜î•NLw0"
+ literacy_secondary: "-NIrYe²w"
+ desc_literacy_secondary: "bìN-N„v'YYpeºNêS×SÇ-NIr„vYe²w0¡l	g³Y„v„vºNýwÜwûNŒ˜î•NLw0"
+ improving_literacy: "kbòvÐ¨RÛLˆ-N"
+ desc_improving_literacy: "bìNSVMRckSÕ‹Ye²wbìN„vºNãS0"
+ admin_oe_dangerous: "Ç¦^ib.V„vLˆ?e"
+ desc_admin_oe_dangerous: "?eœ^-NgS	gºNnZiå‹‚YUOËeLˆ°sãNLˆ?eÿbìN—VKSëVjOúQ9eck0"
+ admin_oe: "Ç¦^ib.V„vLˆ?e"
+ desc_admin_oe: "?eœ^-N¡l	g³Y„vºNnZiå‹‚YUOËeLˆ°sãNLˆ?eÿbìN—VKSëVjOúQ9eck0"
+ improving_admin: "Lˆ?e9e„U-N"
+ desc_improving_admin: "bìNSVMRck(WùW­‹bìN„v?e¡RºNXTå‹‚YUO(W°sãNLˆ?eKNNåTjO0"
+ agri_subsistence: "êÙu‹WœQN"
+ desc_agri_subsistence: "ýV¶RÍNOVêÙuê³V„vœQN0îXt^àeÕl«ˆ‰fVìSeQO0"
+ agri_centralized: "Æ–¦uSœQN"
+ desc_agri_centralized: "œQN°sòTÆ–¦uSÿFOÔkwck8^„v°sãNýV¶RÍN—ôfY„vºNKbegÎN‹N0"
+ agri_basic_mec: "RµuHg°hSœQN"
+ desc_agri_basic_mec: "œQN°sòTHg°hSÿFOÏuŒš„v.kHasTNw—‰ôfY„vºNKb”^ùRT‰|î•˜˜0"
+ improving_agri: "œQN¹eV9eo‚-N"
+ desc_improving_agri: "bìNîvMRckYe²wbìN„vœQlv^HNvQÐc›OÐcØšwjOHe‡sNb—„våTwQ0"
+ medical_clueless: "õaÂa„vIS¡RºNXT"
+ desc_medical_clueless: "ýV…QgS	gºN¥c×SÇ°sãNISfRùW­‹0ÖNìNàeÕlÐc›OÙ‰|g¡R0"
+ medical_inexperienced: "ÏuŒš.kH„vIS¡RºNXT"
+ desc_medical_inexperienced: "bìN„vIS¡RºNXTÍNHONÏuŒšÿ—‰ôfYöeô•ÊSDnegOKN¾0RhÆQ0"
+ improving_medicine: "IS¡RºNXTùW­‹-N"
+ desc_improving_medicine: "bìNîvMRck(WùW­‹bìN„vIS¡RºNXTåNOvQŒcác°sãNISfRSOû|Nb—„våwÆ‹ÊSŽbýw0"

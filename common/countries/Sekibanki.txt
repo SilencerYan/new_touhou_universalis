@@ -1,0 +1,586 @@
+graphical_culture = asiangfx
+		
+color = { 15  189  179 }
+
+revolutionary_colors = { 0  8  1 }
+random_nation_chance = 0
+
+historical_score = 500
+
+historical_idea_groups = {
+	religious_ideas
+	economic_ideas
+	quantity_ideas
+	administrative_ideas
+	diplomatic_ideas
+	offensive_ideas
+	humanist_ideas
+	influence_ideas
+}
+
+historical_units = {
+	infantry_gen_t1_03
+	cavalry_gen_t1_01
+	infantry_gen_t5_02
+	cavalry_gen_t6_02
+	infantry_gen_t9_01
+	cavalry_gen_t10_01
+	infantry_gen_t12_01
+	cavalry_gen_t14_01
+	cavalry_gen_t17_01
+	infantry_gen_t19_01
+	cavalry_gen_t23_01
+	infantry_gen_t26_01
+	cavalry_gen_t28_02
+}
+
+monarch_names = {
+  "CQ¡N #0" = 20  # Motohito
+  "ûR¡N #0" = 20  # Mihito
+  "fV¡N #0" = 20  # Hikohito
+  "b¡N #0" = 20  # Fusahito
+  "‹w¡N #0" = 20  # Katsuhito
+  "zf¡N #0" = 20  # Tomohito
+  "πe¡N #0" = 20  # Michihito
+  "åT¡N #0" = 20  # Kazuhito
+  "?e¡N #0" = 20  # Kotohito
+  "tQPR #0" = 20  # Okiko
+  "Õu¡N #0" = 20  # Tsuguhito
+  "oÇ¡N #0" = 20  # Nagahito
+  "∆ã¡N #0" = 20  # Satohito
+  "g¡N #0" = 20  # Asahito
+  "Ü^¡N #0" = 20  # Toshiko
+  "`¡N #0" = 20  # Yasuhito
+  "gq¡N #0" = 20  # Teruhito
+  "¿y¡N #0" = 20  # Hidehito
+  "^¡N #0" = 20  # Morohito
+  "‡`¡N #0" = 20  # Ayahito
+  "Sl #0" = 20  # Takauji
+  "IN‡ã #0" = 20  # Yoshiakira
+  "IN·n #0" = 20  # Yoshimitsu
+  "INc #0" = 20  # Yoshimochi
+  "INœë #0" = 20  # Yoshikazu
+  "INR #0" = 20  # Yoshinori
+  "IN‹w #0" = 20  # Yoshikatsu
+  "IN?e #0" = 20  # Yoshimasa
+  "INEN #0" = 20  # Yoshihisa
+  "INz #0" = 20  # Yoshitane
+  "INÑo #0" = 20  # Yoshizumi
+  "INtf #0" = 20  # Yoshiharu
+  "INâè #0" = 20  # Yoshiteru
+  "IN¿y #0" = 20  # Yoshihide
+  "IN-f #0" = 20  # Yoshiaki
+  "·O‡V #0" = 20  # Nobutada
+  "¿y·O #0" = 20  # Hidenobu
+  "¿y	T #0" = 20  # Hideyoshi
+  "¿yVç #0" = 20  # Hideyori
+  "∂R∑^ #0" = 20  # Ieyasu
+  "¿y‡V #0" = 20  # Hidetada
+  "∂RIQ #0" = 20  # Iemitsu
+  "∂R≤u #0" = 20  # Ietsuna
+  "≤u	T #0" = 20  # Tsunayoshi
+  "∂R·O #0" = 20  # Ienobu
+  "∂RÁu #0" = 20  # Ietsugu
+  "INﬂu #0" = 20  # Yoshimune
+  "∂RÕë #0" = 20  # Ieshige
+  "∂Rªl #0" = 20  # Ieharu
+  "∂RPü #0" = 20  # Ienari
+  "∂RÜ^ #0" = 20  # Ieyoshi
+  "∂RöR #0" = 20  # Iesada
+  "∂RÉ #0" = 20  # Iemochi
+  "IN·O #0" = 20  # Yoshinobu
+
+  "∑V #0" = -5  # Toku
+  "CS #0" = -5  # Sen
+  "âs #0" = -5  # Tama
+  "Îu #0" = -5  # Aya
+  "OHY #0" = -5  # Ina
+  "1r #0" = -5  # Ai
+  "Ày #0" = -5  # Aki
+  "õR #0" = -5  # Ate
+  "äç #0" = -5  # Etsu
+  "Íu #0" = -5  # Cho
+  "»v #0" = -5  # Ei
+  "g #0" = -5  # Fuku
+  "¨Q #0" = -5  # Fuyu
+  "ˆî #0" = -5  # Gin
+  "ü` #0" = -5  # Go
+  "ãv #0" = -5  # Haku
+  "±Ç #0" = -5  # Hana
+  "%f #0" = -5  # Haru
+  "¿y #0" = -5  # Hide
+  "êe #0" = -5  # Hiko
+  "V #0" = -5  # Hiro
+  "%V #0" = -5  # Hisa
+  "≥Ç #0" = -5  # Hou
+  " N #0" = -5  # Ima
+  "N #0" = -5  # Ito
+  "ﬁV #0" = -5  # Kai
+  "Œò #0" = -5  # Kaze
+  " É #0" = -5  # Kiku
+  "‚u #0" = -5  # Kinu
+  "u #0" = -5  # Kon
+  "≤É #0" = -5  # Ren
+  "Yó #0" = -5  # Sei
+  "+g #0" = -5  # Sue
+  "É #0" = -5  # Tsuta
+  "Öh #0" = -5  # Ume
+  "Íñ #0" = -5  # Yuki
+  "¶h #0" = -5  # Yume
+}
+
+leader_names = {
+    # Daimyo names
+  "dçåg"  # Akamatsu
+  "fzf"  # Akechi
+  "≥ç)R"  # Ashikaga
+  "<SPR"  # Amago
+  "¨NÅg"  # Kyogoku
+  "mQ“â"  # Rokkaku
+  "g”N"  # Asakura
+  "EmŒë"  # Asano
+  "?ñœÇ"  # Aso
+  "ïóRbËê"  # Chosokabe
+  "Oæè"  # Date
+  "áâò:ç"  # Hachisuka
+  "`uqS"  # Hatakeyama
+  "Sag"  # Hojo
+  "∆u›T"  # Hosokawa
+  "Nag"  # Ichijo
+  "€k0u"  # Keda
+  " N›T"  # Imagawa
+  "NrÇ"  # Isshiki
+  "ON"  # Ito
+  "^y›O"  # Jinbo
+  " É`l"  # Kikuchi
+  "≥lŒë"  # Kono
+  "MR0u"  # Maeda
+  "åg8l"  # Matsunaga
+  "	NQg"  # Mimura
+  "	NãY"  # Miyoshi
+  "gN"  # Mogami
+  "€k)R"  # Mori
+  "ïõS"  # Nabeshima
+  "ï>S"  # Nagao
+  "«u0u"  # Oda
+  "S.rüS"  # Ogasawara
+  "'YÀS"  # Otomo
+  "'YÖQ"  # Ouchi
+  "ôü.ê˙R"  # Ryuzoji
+  "¯voÇ"  # Sagara
+  "ãe‰Ö"  # Saito
+  "w0u"  # Sanada
+  "PO˘z"  # Satake
+  "Ãë¡â"  # Satomi
+  "Øe‚l"  # Shiba
+  "Ùg0u"  # Shibata
+  "õS%m"  # Shimazu
+  "S0ç"  # Shoni
+  "fk0u"  # Takeda
+  "WêS"  # Toki
+  "∑V›T"  # Tokugawa
+  "ågs^"  # Matsudaira
+  "0N„Å"  # Toyotomi
+  "RrïN"  # Tsutsui
+  "NIg"  # Uesugi
+  "fmN"  # Uragami
+  "qST"  # Yamana
+  "qSÖQ"  # Yamauchi
+}
+
+ship_names = {
+  "?ñfkàñ"  # Abukuma
+  "dçŒW"  # Akagi
+  "fÛw"  # Akashi
+  "Sf"  # Akatsuki
+  "Ÿf"  # Akebono
+  "âRzÇ"  # Aki
+  "ÀyëN"  # Akigumo
+  "ÀyŒò"  # Akikaze
+  "ÀyËñ"  # Akisame
+  "Àyó"  # Akishimo
+  "Ày%m2m"  # Akitsushima
+  "Àyg"  # Akizuki
+  ")YŒW"  # Amagi
+  ")Y˛ñ"  # Amagiri
+  ")Y%mŒò"  # Amatsukaze
+  "RóˆS"  # Aoba
+  "uÑ"  # Aoi
+  "0ó"  # Arare
+  "öS"  # Arashi
+  "RÉno"  # Arashio
+  "	gf"  # Ariake
+  "gû"  # Asadori
+  "gúò"  # Asagao
+  "g˛ñ"  # Asagiri
+  "gëN"  # Asagumo
+  "gÂe"  # Asahi
+  "gŒò"  # Asakaze
+  "EmÙï"  # Asama
+  "gÍQ"  # Asanagi
+  "gó"  # Asashimo
+  "gno"  # Asashio
+  "«Ç"  # Ashi
+  "≥çƒg"  # Ashigara
+  "?ñœÇ"  # Aso
+  "âRÖR"  # Ataka
+  "Ìpwm"  # Atami
+  "1rïR"  # Atogo
+  "Îu‚l"  # Ayanami
+  ">TªY"  # Azuma
+  "ìh"  # Azusa
+  "–xŒW"  # Banjo
+  "‡áôü"  # Banryu
+  "CSû"  # Chidori
+  "Qrid"  # Chikuma
+  "CSõS"  # Chishima
+  "CSÅS"  # Chitose
+  "CS„N0u"  # Chiyoda
+  "CS„N0ubV"  # Chiyodagata
+  "ï∏ú"  # Chogei
+  "ûwm"  # Chokai
+  "≤Qpû"  # Chuyo
+  "éi"  # Enoki
+  "ÈbIc"  # Etorofu
+  "9TÍñ"  # Fubuki
+  "ÃRÎX"  # Fuji
+  "‰Ö‚l"  # Fujinami
+  "‰Spû"  # Furutaka
+  "O¡â"  # Fushimi
+  "vbQh"  # Fuso
+  "åN¡â"  # Futami
+  "ôÇ…Ñ"  # Fuyo
+  "¨Qg"  # Fuyutsuki
+  "WSŒò"  # Hae
+  ")Ñ"  # Hagi
+  ")ÑŒò"  # Hagikaze
+  "À—û"  # Haguro
+  "ÀŒò"  # Hakaze
+  "ËnŒò"  # Hamakaze
+  "Ën‚l"  # Hamanami
+  "±Çg"  # Hanazuki
+  ")Ñ>S"  # Haogi
+  "%fŒò"  # Harukaze
+  "õiT"  # Haruna
+  "%fËñ"  # Harusame
+  "%fg"  # Harutsuki
+  "ehÀz"  # Hashidate
+  "ÀõS"  # Hashima
+  "◊eŒò"  # Hatakaze
+  ".û"  # Hato
+  "R%f"  # Hatsuharu
+  "R¡ñ"  # Hatsukari
+  "RŒò"  # Hatsukaze
+  "R—o"  # Hatsuse
+  "Ró"  # Hatsushimo
+  "RÖh"  # Hatsuume
+  "RÍñ"  # Hatsuyuki
+  "R1j"  # Hatsuzakura
+  "Rg"  # Hatsuzuki
+  "ºñ"  # Hayabusa
+  "Èe%f"  # Hayaharu
+  "Èe‚l"  # Hayanami
+  "Èe—o"  # Hayase
+  "Èeó"  # Hayashimo
+  "Èeno"  # Hayashio
+  "ê8T"  # Hayasui
+  "æuŒò"  # Hayate
+  "s^‹è"  # Heien
+  "ÕT"  # Hibiki
+  "‘k·S"  # Hiei
+  "gh"  # Hinoki
+  "‘koÇ"  # Hira
+  "s^7b"  # Hirado
+  "ﬁòôü"  # Hiryu
+  "ÒÉ"  # Hishi
+  "ﬁò!n—o"  # Hitonose
+  "Nû"  # Hiyodori
+  "•wMR"  # Hizen
+  "^Œò"  # Hokaze
+  "‰Q‘"  # Hosho
+  "ÂeT"  # Hyuga
+  "O9T"  # Ibuki
+  "˜ñ"  # Ikazuchi
+  "˜ñ"  # Ikazuchi
+  "˘XêS"  # Iki
+  "uyö"  # Ikoma
+  "5u"  # Inazuma
+  "îNåvõS"  # Ioshima
+  "ˆwŒò"  # Isokaze
+  "ˆw‚l"  # Isonami
+  "îNAS√î"  # Isuzo
+  "%NõS"  # Itsukushima
+  "Ûw¡â"  # Iwami
+  "–xKb"  # Iwate
+  "åT…l"  # Izumi
+  "˙QëN"  # Izumo
+  "≈è∏ú"  # Jingei
+  "^yê"  # Jintsu
+  "ºñpû"  # Junyo
+  "fh"  # Kaba
+  "´g"  # Kaede
+  "†R:ç"  # Kaga
+  "3ñép"  # Kagero
+  "wmËï"  # Kaimon
+  "ﬁV)Y"  # Kaiten
+  "wmpû"  # Kaiyo
+  "ˇg"  # Kaki
+  "†R‰S"  # Kako
+  "^yŒò"  # Kamikaze
+  "^yZ"  # Kamoi
+  "U%m"  # Karatsu
+  "R1Ñ"  # Karukaya
+  ".rn"  # Kasagi
+  "t2"  # Kashi
+  "ôôi"  # Kashii
+  "jüS"  # Kashiwara
+  "%fÂe"  # Kasuga
+  "ó"  # Kasumi
+  "ôô÷S"  # Katori
+  "Bh"  # Katsura
+  "iÑŒW"  # Katsuragi
+  "≥lÖQ"  # Kawachi
+  "mlŒò"  # Kawakaze
+  "µi"  # Kaya
+  "ŒòëN"  # Kazagumo
+  "âi"  # Keyaki
+  "…ñ"  # Kiji
+  " Ég"  # Kikuzuki
+  "<õ`"  # Kinu
+  "cà.r"  # Kinugasa
+  "Ph"  # Kiri
+  "˛ñõS"  # Kirishima
+  "ÇYg"  # Kisaragi
+  "∏S‚l"  # Kishinami
+  "(g˛f"  # Kiso
+  "SN"  # Kitakami
+  "n‚l"  # Kiyonami
+  "nó"  # Kiyoshimo
+  "yöeh"  # Komahashi
+  "—ëR"  # Kongo
+  "Spû"  # Kotaka
+  "2u¡î"  # Kotetsu
+  "tËx"  # Kuma
+  "äqŒë"  # Kumano
+  "çólö"  # Kurama
+  "—ûno"  # Kuroshio
+  "`i"  # Kusunoki
+  "Qh"  # Kuwa
+  "iÑ"  # Kuzu
+  "ÇŒò"  # Maikaze
+  "Ÿi"  # Maki
+  "wSëN"  # Makigumo
+  "wS‚l"  # Makinami
+  "wdû"  # Manazuru
+  "åg"  # Matsu
+  "ågŒò"  # Matsukaze
+  "ågõS"  # Matsushima
+  "id6w"  # Maya
+  "·nno"  # Michishio
+  "·ng"  # Michizuki
+  "é:ç›O"  # Mikaho
+  "	N.r"  # Mikasa
+  "	NÂeg"  # Mikazuki
+  "	Nàñ"  # Mikuma
+  "4l‡eg"  # Minazuki
+  "SëN"  # Minegumo
+  "SŒò"  # Minekaze
+  "¡âõS"  # Mishima
+  "ÒmÍñ"  # Miyuki
+  "^tWz"  # Mizhuo
+  "gg"  # Mochizuki
+  "gN"  # Mogami
+  "ûg"  # Momi
+  "Ch"  # Momo
+  "mR%f"  # Moshun
+  "ŒNëN"  # Murakumo
+  "QgËñ"  # Murasame
+  "fkœÖ"  # Musashi
+  "FñeY"  # Mutsu
+  "fwg"  # Mutsuki
+  "ôYÿö"  # Myoko
+  "±êzf"  # Nachi
+  "ï‚l"  # Naganami
+  "ïoÇ"  # Nagara
+  "ïËï"  # Nagato
+  "ïg"  # Nagatsuki
+  "±ê¬s"  # Naka
+  "‚lŒò"  # Namikaze
+  "jmê"  # Naniwa
+  "bi"  # Nara
+  "®h"  # Nashi
+  "T÷S"  # Natori
+  "YëN"  # Natsugumo
+  "Yno"  # Natsushio
+  "Yg"  # Natsuzuki
+  "PRÂe"  # Nenohi
+  "∞eÿö"  # Niitaka
+  "∞eg"  # Niizuki
+  "Üi"  # Nire
+  "Âe€è"  # Nisshin
+  "¡N¿m"  # Niyodo
+  "ŒëõS"  # Nojima
+  "ŒëŒò"  # Nokaze
+  "˝w„N"  # Noshiro
+  "˝wâvT"  # Notoro
+  "ŒëR"  # Nowaki
+  "ºlŒò"  # Numakaze
+  "Áw"  # Oboro
+  "ƒñ˘z"  # Odake
+  "'YïN"  # Oi
+  "˝èŒò"  # Oite
+  "≤QŒò"  # Okikaze
+  "≤Q‚l"  # Okinami
+  "≤QÛu"  # Okinawa
+  "≤QõS"  # Okinoshima
+  "'Y‚l"  # Onami
+  "'YõS"  # Oshima
+  "'Yno"  # Oshio
+  "'Y l"  # Otomari
+  "?û"  # Otori
+  "ÛóÀ"  # Otowa
+  "≤Nno"  # Oyashio
+  "'Y¿m"  # Oyodo
+  "ôü‰Q"  # Ryuho
+  "ôüµö"  # Ryujo
+  "¯v!j"  # Sagami
+  "mû"  # Sagi
+  "Ìr˛ñ"  # Sagiri
+  "äi"  # Sakaki
+  "RëS"  # Sakawa
+  "1j"  # Sakura
+  "îNgËñ"  # Samidare
+  "Èe◊Ç"  # Sanae
+  "ãvg"  # Satsuki
+  "(Ñid"  # Satsuma
+  "˝lŒò"  # Sawakaze
+  "üm"  # Sazanami
+  "›TÖQ"  # Sendai
+  "Dd%m"  # Settsu
+  "ˆeËñ"  # Shigure
+  "i"  # Shii
+  "we‚l"  # Shikinami
+  "weõS"  # Shikishima
+  "õSŒò"  # Shimakaze
+  "óg"  # Shimotsutki
+  "`SàR"  # Shimushu
+  "·OSm"  # Shinano
+  "NëN"  # Shinonome
+  "^yê"  # Shinsoku
+  "PlŒò"  # Shiokaze
+  "ãv‚l"  # Shirakami
+  "ãvëN"  # Shirakumo
+  "NÂwkp"  # Shiranui
+  "ãvpû"  # Shirataka
+  "ãv2ó"  # Shiratsuyu
+  "ey‰Q"  # Shoho
+  "‘dû"  # Shokaku
+  "Km)Y"  # Sokuten
+  "ÕÇôü"  # Soryu
+  "Ig"  # Sugi
+  "âòËx"  # Suma
+  "Öñ0u"  # Sumida
+  "X"  # Sumire
+  "hT2ñ"  # Suwo
+  "…QŒò"  # Suzukaze
+  "…Q‚l"  # Suzunami
+  "…Qg"  # Suzutsuki
+  "√î7å"  # Suzuya
+  "√î7å"  # Suzuya
+  "Xj"  # Tachibana
+  "*YRŒò"  # Tachikaze
+  "'Y‰Q"  # Taiho
+  "'Ypû"  # Taiyo
+  "ÿöCSWz"  # Takachiho
+  "ÿö‚l"  # Takanami
+  "ÿöƒñ"  # Takao
+  "ÿöx"  # Takasago
+  "ÿöno"  # Takashio
+  "˘z"  # Take
+  "Yid"  # Tama
+  "âs‚l"  # Tamanami
+  "9NT"  # Tango
+  "7åŒò"  # Tanikaze
+  "YYoÇ"  # Tatara
+  "Àz^y"  # Tategami
+  "ôü0u"  # Tatsuta
+  "NoS"  # Teibo
+  ")Yôü"  # Tenryu
+  "gqg"  # Teruzuki
+  "ûÀ"  # Toba
+  "ˆe%mŒò"  # Tokitsukaze
+  "8^–x"  # Tokiwa
+  "ÀSdû"  # Tomozuru
+  ")R9h"  # Tone
+  "WPO"  # Tosa
+  "?i"  # Tsubaki
+  "’q"  # Tsubame
+  "%mâè"  # Tsugaru
+  "Qr‚l"  # Tsukuba
+  "Qr+t"  # Tsukushi
+  "˘Rlö"  # Tsushima
+  "É"  # Tsuta
+  "áRªl"  # Uji
+  "Öh"  # Ume
+  "wmŒò"  # Umikaze
+  "kuçP"  # Unebi
+  "ëNôü"  # Unryu
+  "ëNpû"  # Unyo
+  "ëNpû"  # Unyo
+  "fmŒò"  # Urakaze
+  "fm‚l"  # Uranami
+  "no"  # Ushio
+  "ÑÖëN"  # Usugumo
+  "oSg"  # Uzuki
+  "ÂÇˆS"  # Wakaba
+  "ÂÇIÉ"  # Wakakusa
+  "ÂÇ´R"  # Wakamiya
+  "ÂÇ˘z"  # Wakatake
+  "ÂÇg"  # Wakatsuki
+  "ÂÇ1j"  # Wakazakura
+  "hÖ"  # Warabi
+  "‚w˘z"  # Yadake
+  "kQÕëqS"  # Yaeyama
+  "kQÕë1j"  # Yaezakura
+  "‚wÁw"  # Yahagi
+  "‚wŒò"  # Yakaze
+  "kQëN"  # Yakumo
+  "qSëN"  # Yamagumo
+  "qSŒò"  # Yamakaze
+  "qSŒW"  # Yamashiro
+  "'YåT"  # Yamato
+  "qSg"  # Yamazuki
+  "Ûg"  # Yanagi
+  "kQõS"  # Yashima
+  "kQASõS"  # Yasoshima
+  "%Vu"  # Yayoi
+  "¿m"  # Yodo
+  "¿meh"  # Yodohashi
+  "µRg"  # Yoizuki
+  "ÏÑ"  # Yomogi
+  "	TŒë"  # Yoshino
+  "3ñ%f"  # Yoshun
+  "Y.V"  # Yubari
+  "Y˛ñ"  # Yugiri
+  "YëN"  # Yugumo
+  "ÍñëN"  # Yukigumo
+  "ÍñŒò"  # Yukikaze
+  "YÍQ"  # Yunagi
+  "1uoÇ"  # Yura
+  "Yg"  # Yuzuki
+  "^t‰Q"  # Zuiho
+  "^tdû"  # Zuikaku
+}
+
+army_names = {
+  "^˝VFñõQ"  # Imperial Army
+  "$PROVINCE$õQ"  # $PROVINCE$ Gun
+  "$PROVINCE$øR"  # $PROVINCE$ Zei
+  "$PROVINCE$‚V"  # $PROVINCE$ Dan
+}
+fleet_names = {
+  "^˝VwmõQ"  # Imperial Navy
+  "$PROVINCE$4lõQ"  # $PROVINCE$ Suigun
+  "$PROVINCE$9Ç‚V"  # $PROVINCE$ Sendan
+  "$PROVINCE$ñ"  # $PROVINCE$ Tai
+}

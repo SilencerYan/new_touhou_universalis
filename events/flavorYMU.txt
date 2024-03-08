@@ -1,0 +1,148 @@
+namespace = flavor_ymu
+country_event = {
+  id = flavor_ymu.1
+  title = flavor_ymu.1.t
+  desc = flavor_ymu.1.desc
+  picture = YOUMU_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  option = {
+    name = flavor_ymu.1.a
+  }
+  option = {
+    name = flavor_ymu.1.b
+    highlight = yes
+    hidden_effect = {
+      STK = {
+        every_owned_province = {
+          kill_units = {
+            who = owner
+          }
+        }
+      }
+      inherit = STK
+      1027 = {
+        add_core = YMU
+        remove_core = ROOT
+        remove_core = STK
+        change_religion = th_hakureishinto
+      }
+    }
+    release = YMU
+    ASK = {
+      Vassalize = YMU
+    }
+    switch_tag = YMU
+    hidden_effect = {
+      YMU = {
+        change_government = monarchy
+        add_government_reform = daimyo
+        adopt_reform_progress = ROOT
+        change_primary_culture = ROOT
+        change_religion = th_hakureishinto
+        remove_country_modifier = conversion_zeal
+        set_in_empire = yes
+        define_ruler = {
+          name = "–Y¦h"  # Youmu
+          dynasty = "B›D›"  # Konpaku
+          age = 16
+          adm = 5
+          dip = 4
+          mil = 5
+          female = yes
+          culture = ROOT
+          religion = th_hakureishinto
+        }
+        set_ruler_flag = touhou_character_ruler
+        set_ruler_flag = touhou_original_ruler
+        set_ruler_flag = th_original_youmu
+        add_ruler_personality = immortal_personality
+        add_accepted_culture = togoku
+        add_accepted_culture = japanese
+        add_accepted_culture = kyushuan
+        add_ruler_modifier = {
+          name = ymu_loyalty_only_to_yuyuko
+          duration = -1
+        }
+        add_adm_power = 132
+        add_dip_power = 114
+        add_mil_power = 126
+        add_manpower = 5
+        add_sailors = 100
+        add_treasury = 150
+        add_prestige = 87
+        set_capital = 1027
+        change_estate_land_share = {
+          estate = estate_church
+          share = 20
+        }
+        change_estate_land_share = {
+          estate = estate_burghers
+          share = 20
+        }
+        change_estate_land_share = {
+          estate = estate_nobles
+          share = 29
+        }
+        capital_scope = {
+          build_to_forcelimit = {
+            infantry = 0.9
+            light_ship = 0.6
+            transport = 0.3
+          }
+        }
+        country_event = {
+          id = th_religion_events.4
+          days = 7
+        }
+      }
+      1027 = {
+        add_base_tax = 3
+        add_base_manpower = 3
+        add_base_production = 3
+        change_culture = ROOT
+      }
+    }
+    ai_chance = {
+      factor = 0
+    }
+  }
+}
+country_event = {
+  id = flavor_ymu.2
+  title = flavor_ymu.2.t
+  desc = flavor_ymu.2.desc
+  picture = YOUMU_eventPicture
+  is_triggered_only = yes
+  immediate = {
+    hidden_effect = {
+      th_respawn_ruler_with_new_stats_effect = yes
+    }
+  }
+  option = {
+    hidden_effect = {
+      if = {
+        limit = {
+          is_female = yes
+          government_rank = 1
+        }
+        convert_female_ruler_to_general = 60
+      }
+      else_if = {
+        limit = {
+          is_female = yes
+          government_rank = 2
+        }
+        convert_female_ruler_to_general = 80
+      }
+      else_if = {
+        limit = {
+          is_female = yes
+          government_rank = 3
+        }
+        convert_female_ruler_to_general = 100
+      }
+    }
+    name = flavor_ymu.2.a
+  }
+}

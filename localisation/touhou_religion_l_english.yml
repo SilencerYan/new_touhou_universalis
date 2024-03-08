@@ -1,0 +1,240 @@
+﻿l_english:
+ Touhou: "‰^ó`aNáOðN"
+ th_hakureishinto: "ZSKN^yS"
+ th_hakureishinto_religion_desc: "ZSKN^yS=fNÍyùR`ONbŸqåw„v«ˆwžRáOðNNw„v^ySYeÛLˆ†N«ƒ'YîOck„v—RYeÿ(WpeŒvt^ô•Ïu1uuIm(W‰^ó`aNÌ‘„vºN‰|N–Y*`qQTNwr‚ÿvQòTÏubVb†NNŸSxQøvV„v.Oßu0"
+ th_moriyashinto: "ˆRâw^yS"
+ th_moriyashinto_religion_desc: "ˆRâw^yS=fùRZSKN^yS„vT9ei—0N‚YvQTLˆÿˆRâw^yST7hèlÍ‘ùR‰^ó`aNø‹^y„vle<y0°s(W„vˆRâw^ySôfNèlŽNleIY*N+R^yfwN=fùRø‹^yÛlÛlwÜb0"
+ th_taoist: "N>mSYe"
+ th_taoist_religion_desc: "N>mSYe=fNÍyùR`ONbŸqåw„v«ˆwžRáOðNNw„vSYeÛLˆ†N«ƒ'YîOck„v—RYeÿ(WpeŒvt^ô•Ïu1uuIm(W‰^ó`aNÌ‘„vºN‰|N–Y*`qQTNwr‚ÿvQòTÏubVb†NNŸSxQøvV„v.Oßu0å‹Ye1u0Njw3w^yPR.OeQÿyYÇx`NSYežR°s†N8lu0"
+ th_buddhist: "NXNiOYe"
+ th_buddhist_religion_desc: "NXNiOYe=fNÍy9e4Ybcb—Ç„viOYe>m+RÿÔkwN›RvQôfHNèlÍ‘¹RÍVNçPKOÑSUS0å‹Ye1uNMO^×Sle1r„v<SçP1W‹v²ƒVeQÿyY„vYeò‹=fºNN–Y2NÏe‰ŒTs^qQY0"
+ th_oldhakurei: "ZSKNÎ˜×O"
+ th_oldhakurei_religion_desc: "ZSKN„väSŽVÎ˜×O=f‰^ó`aN^yS„vNagäSwR=eÿée(W&raSÄ‰R¾‹ËzKNMR1SòTÏuXR(W¸‹EN†N0KS¡rZSKNup¦hòTÏuúQp†N‹Y›NöePNS‰^ó`aN„v'Yèi—°eHN†NZSKN^ySÿNÇ‰^ó`aN„vS¹èRÍNçeZWˆRNwvQ.Oßu0"
+ th_shinkism: "^yîuTÜb"
+ th_shinkism_religion_desc: "^yîuTÜb=f^ySYe„vNÍyyrŠkbV`0N<OƒRáOðNN„vDQVÐY¹Yÿ^yîuTÜb=fÍyN^yYeNêSTÜb^yîusST›Lu„vR.^yNw0"
+ th_lunarian_religion: "gºN`ó`"
+ Hakurei_God: "ZSKN^y"
+ Hakurei_God_desc: "ZSKN^y>y„vˆR²b^y=fNMO*gåwN*gT„v^yf0yY=fZSKN¶R„v1WºNÿtSm0RWØVÿÞ&^Ùu^y>yMR„v^X±”±r&^eg†N„SÐ0I`	gN)Yÿ‰^ó`aNOQ!k°‹wyYvzßz=fŒ&&"
+ Yukari: "kQ‘N"
+ Yukari_desc: "KS¡ryYžR(Nv^N=f^yfÿFOíQPyYÍdµuƒXLu„výw›RÿNSºNùRyYµNu†N‚YdkwÕlmN1Sv^NzGY†N0"
+ Hecatia: "kaSÐcšN"
+ Hecatia_desc: "kaSÐcšN·Ébµx¯eÉbVy)R=fŒc¡r0Wñr„vsY^yÿ9hncTVT7h„vHV›R–Y*`0^yfåNÊSuó=f–T›„vô‹ÕlÿyY(W‰^ó`aNuó=f(WvQÖN„vƒXLuý=fgHNHV'Y„vXR(W0"
+ Okina: "idYW"
+ Okina_desc: "idYW–SHY«ˆðyHNØy^yÿyY«ŽY‰^ó`aNòTENtS•öeô•–Ï…(W‰^ó`aN„vÌwTÿÇO(uyY(WNirÌwN6RjOè•Ib„výw›Reg„`„`0WÛLˆÂ‰ßR0"
+ Aki_Sisters: "ËyÐY¹Y"
+ Aki_Sisters_desc: "ËyÐY¹YpzPRŒTY—öS=fùRÐY¹Y^yÿR¡rËy)Y„v¢uöSN0N6e0"
+ Junko: "¯uÐr"
+ Junko_desc: "¯uÐr=fMO²`gR,‚„v^yupÿNjP0WûRŒbNwHgOHN«ˆNg³R„v?QPRYÇN0yYŒc¡rNwSNir¯uS„výw›R0"
+ Kishin: "z^y"
+ Kishin_desc: "z^y=fNMOegêgt„v^yfÿyYêS—ÑSúQêSŠGrí‹1S³åNONS¿Rmbl0"
+ Shinki: "^yîu"
+ Shinki_desc: "^yîu=fNMO…áQ„v^yfÿT›LuÊSvQNb	gESlý=fyYNKbR.úQeg„v0yY=fR.KNINÿ=†N)YN0WN„v›RÏ‘ÿŒcácNwäSwyÌV„våwÆ‹0"
+ Kochiya: "NÎ˜7Œ"
+ Kochiya_desc: "NÎ˜7Œée×‚=fHNpeNY„v°sºN^yÿ¾ó^yKNºN	ÿÿåb	gVÑSGYù„výw›R0"
+ Suwako: ")mâw"
+ Suwako_desc: ")mâwù‹¿‹PR=fˆRâw^y>y„vŸSRIN^yÿyY„výw›R=fR.ãNhˆ00W0„v0dW00"
+ Kanako: "kQBW"
+ Kanako_desc: "kQBW^yHYPR=f(WàQ*NNªuKNMRÇbÜwù‹¿‹PRÖS—V†NˆRâw^y>y›OIY0WMO„v°eIN^yÿyY„výw›R=fR.ãNhˆ0)Y0„v0ŒN00"
+ Keiki: "ôW‰R^y"
+ Keiki_desc: "ôW‰R^y¿ˆìY=f.‹WKN^yåNÊS×SðVŽNjuuLu0Wñr„vºN‰|up„vˆR²bw0"
+ Hina: "Ï–"
+ Hina_desc: ".•qSÏ–=f„SÐKN^y01S—r(WÏ–„vkyy-NàeÕlSO°súQÙ¹pÿFO=fyYØ=f	g(WsQgqvQáO’Vv^N6eÆ–áOOìN„v„SÐ0"
+ old_hakurei_icon_hakurei: "ZSKN^yÏP"
+ desc_old_hakurei_icon_hakurei: "ZSKN^y=fZSKN^yS-N„vIN^ywNØ=fZSKNup¦hsS‰^ó`aN-Ng	gT„vëTsY„vÝO²b^y0sSOup¦hòTúQpv^O‰^ó`aN-N„v'Yèi—°e†NáOðNÿFOZSKN^yùRŽN±›NàVªVˆRçewegô‹Oçe=fÍ‘‰„vaŒV0"
+ old_hakurei_icon_mima: "E›T›ÏP"
+ desc_old_hakurei_icon_mima: "E›T›=f*N!j7hYNHNºNNbåw„vv`up0NÇyY„v>NbkÊSvQNZSKNáOðN-N„vOYW„TºNir„vsQû|O—VyY>N³‰Í‘ÿ³åNåb	gêñT„v1WÏP0"
+ old_hakurei_icon_yuuka: "‹^™™ÏP"
+ desc_old_hakurei_icon_yuuka: "Î˜Á‰‹^™™ãNhˆNw‰^ó`aNÊS–Y*`-N„v'Yê6q¿R›R0vQ³ùïSý¯nó‰^ó`aN„véeg„vZSKNáOðN0"
+ old_hakurei_icon_shinki: "^yîuÏP"
+ desc_old_hakurei_icon_shinki: "^yîu=f‰^ó`aNÌ‘„vv`T›KNôu¦^T›Lu„v^yfÊS.irIN0jOHNHV'Y„vsY^yÿyYqVÍTNwte*N‰^ó`aNÿuóôv0R‚YÊNyYØ=f(W‰^ó`aNÌ‘Y×STleNOuç`0"
+ old_hakurei_icon_sariel: "(„KN1rSÏP"
+ desc_old_hakurei_icon_sariel: "(„KN1rS=f‰kKN)YOåNÊST›ÕlONëXuQ„vÝO²b^y0nc.OŠSÿ(„KN1rSegêŽNeÜ„v‰¹ev^N(W±Ì‘„v^yÝ‹-NnboNwÍ‘‰„vÒ‰r‚0SNNåwÙ›N.OŠ-N	gYS=f^SžR„v0"
+ hakurei_school: "ZSKN^y"
+ hakurei_school_desc: "ZSKN^y>y„vˆR²b^y=fNMO*gåwN*gT„v^yf0yY=fZSKN¶R„v1WºNwN(WÐgÍyz¦^Nô‹Ø=f‰^ó`aNÌ‘gÌRÛvT„v^yGyÿsS¿OvQàe	gbV`0KS¡r‚YdkÿØ=f	g'YÏ‘lOleIYZSKN^yv^ÜLˆóZSKN^y>yÂSÜb0"
+ yukari_school: "kQ‘N"
+ yukari_school_desc: "kQ‘N+tv^^—=f^yfÿNÇyYùRŽNte*N‰^ó`aN„vqVÍT=fËk¸^n‘u„v0àVHNyY„vE››RmNb¸‹=fàVHNùRyY„vP`ç`¸‹Y–Y*`ÊSºN‰|ý–†NyYv^(WTVT7h„vGY*`^y¿kÌ‘ÑSlbîX'YyY0"
+ hecatia_school: "kaSÐcšN"
+ hecatia_school_desc: "kaSÐcšN·Ébµx¯eÉbVy)R=f0Wñr„vsY^yN¡rtNwOY‰8lNgOŽN0Wñr„v×SÅ‹’T„vupB›0FO=fÿ	gÐg›NupB›«ˆAQ¸‹úQLˆó‰^ó`aNv^P`TuwOvQÜ»yv`‹N0"
+ okina_school: "idYW"
+ okina_school_desc: "idYW–SHY=eM‘NwN›N«ˆyYðyjO‚w„vÎNw0yY„vÙ›NOÎNÔkwO‚‚ìN‰ëV—VYwNÏu8^«ˆ>m»Sr^Ðg›N–SHYÁy•^N¾„vûN¡R0"
+ aki_school: "ËyÐY¹Y"
+ aki_school_desc: "ËyÐY¹YpzPRŒTY—öSN=fgwQÛvT„v^yGy06qwÿ¦”UayYìN„vºNb¸‹‹†SÿÖNìNùRÐY¹Y„vñmIRáOðNÊSHyg.^©R†NÖNìNEQÕˆ0W!nÇ¬Q)Y0"
+ junko_school: "¯uÐr"
+ junko_school_desc: "¯uÐr=fNT^yupÿyY4nBlYÇNNd–mp!c†NyYS„vûNUOºNÞyY„v±›N‰>m»Sgb—MR¿uw«ˆZwÆ–ŽN‰^ó`aN„vëXuQmNN‹OY0"
+ kishin_school: "z^y"
+ kishin_school_desc: "sSOgºNàVHN»yV0Wt=fàVHNvQNmÿvQ-N„vÐg›NºN1S—r‚YdkmNØ(Wce^NwegêÖNìN„v^yupz^y¢csY„v ˜PÝ‹í‹0ÖNìNNOO0WŒNw0WNwm›Q„vOWÝ‹ïStS¡l	gaÆ‹0Rÿ¢csY›RÏ‘„vNèR1SúQêÖNìNêñT„vŠŒ-N&&"
+ shinki_school: "^yîu"
+ shinki_school_desc: "^yîu„vR.irNÅNèleQ	gyY„v›RÏ‘ÿwNØèleQ†NyY„vupIQ0Q RN^—ÔkûR8^„v‹YGYÃVÿÙO—VÙ›NR.irNôv(W‰^ó`aNÌ‘ÛVY8naƒeg²‹åwT›LuYb—„vNLu=f*NÀNHN!j7h0"
+ keiki_school: "ôW‰R^y"
+ keiki_school_desc: "¿ˆìY=f«ˆSbeQ†NjuuLu„vºN‰|up„vˆR²bw0hQàV	gyY(Wÿ¸‹YB›upMbýwN×SÎ‘‹Qup„v­ˆpbÿ	g†NNyw‰^ó`aN„vHgO0"
+ hina_school: "Ï–"
+ hina_school_desc: "Ï–=fMO«uÅu^yÿàVdkNO	g*YYáOO06qwÿleIYyY„vºNI`=fýwÃVÅ`	a¦`v^ýwSÙÍyÃVÅ`&^0R‰^ó`aN„v)Y¯m0WÒ‰0"
+ moriya_school: ")mâw"
+ moriya_school_desc: ")mâwù‹¿‹PR=fMOImül„v^yfNåNvQÎ˜±„v*N'`w×S0R†N^Ûl„v0kÎ0àVdkyY„vTÜbwìNÄub†N*N	gNw¸‹YÊ`ºNó`Õl„v”^ôcâVSO0"
+ kochiya_school: "NÎ˜7Œ"
+ kochiya_school_desc: "NÎ˜7Œée×‚=fMOøvùR°sãN„v^yf0yY„vTÜbwN=fûR8^„vT†áO’Vw=fNbŒ„v0‰|N00Ù›NºNPNa²Q•w–5–Ø	gÇ³RåTjOÿêSHN†Nýw	gHgOŒTée×‚NwúQ»Sll0"
+ kanako_school: "kQBW"
+ kanako_school_desc: "^yHYPR=f*NVbNjOb„vwKbÿv^NOvQáO’VÂa—V†NbHWN„v‹kw‘0HN†NTyYôåNleaÿÙ›NáO’VìNbHN†NïS`„vbëXÿvQSëkN¹rkŒ0Wb—eôvób0RgTNºN0"
+ th_yakumo_scholar_modifier: "kQ‘N„vý–w"
+ desc_th_yakumo_scholar_modifier: "bìNSVMRck>k…VkQ‘N„vý–wåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_hecatia_scholar_modifier: "kaSÐcšN„vB›up"
+ desc_th_hecatia_scholar_modifier: "bìNSVMRck>k…VkaSÐcšN„vB›upåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_okina_scholar_modifier: "–SHY„v‚w"
+ desc_th_okina_scholar_modifier: "bìNSVMRck>k…V–SHY„v‚wåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_aki_scholar_modifier: "ËyÐY¹Y„v¦”Uaw"
+ desc_th_aki_scholar_modifier: "bìNSVMRck>k…VËyÐY¹Y„v¦”UawåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_junko_scholar_modifier: "¯uÐr„vuQëX"
+ desc_th_junko_scholar_modifier: "bìNSVMRck>k…V¯uÐr„vuQëXåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_kishin_scholar_modifier: "z^y„vgKNl"
+ desc_th_kishin_scholar_modifier: "bìNSVMRck>k…Vz^y„vgKNlåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_shinki_scholar_modifier: "^yîu„vR.ir"
+ desc_th_shinki_scholar_modifier: "bìNSVMRck>k…V^yîu„vR.iråNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_keiki_scholar_modifier: "¿ˆìY„vºN‰|up"
+ desc_th_keiki_scholar_modifier: "bìNSVMRck>k…V¿ˆìY„vºN‰|upåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_hina_scholar_modifier: "Ï–„våb²bw"
+ desc_th_hina_scholar_modifier: "bìNSVMRck>k…VÏ–„våb²bwåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_kochiya_scholar_modifier: "ée×‚„v‰|N"
+ desc_th_kochiya_scholar_modifier: "bìNSVMRck>k…Vée×‚„v‰|NåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_moriya_scholar_modifier: "ù‹¿‹PR„vT‹Yw"
+ desc_th_moriya_scholar_modifier: "bìNSVMRck>k…Vù‹¿‹PR„v”^ôcâVåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ th_kanako_scholar_modifier: "^yHYPR„v—eëX"
+ desc_th_kanako_scholar_modifier: "bìNSVMRck>k…V^yHYPR„v—eëXåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ SHINKI_ASPECTS_LONG: "^yKNNbHN"
+ SHINKI_ASPECTS_SHORT: "Lˆ¨R"
+ shinki_create_a_battalion_aspect: "§YR.%„–§!"
+ desc_shinki_create_a_battalion_aspect: "bìN„vsY^y^yîuSOR.N=e›Q–åNûQ®Wb¹eKNLeÿ\n\n^yîuSÄuú^§G14§!*NUSMO„vekuQ0§G4§!*NUSMO„v‘šuQåNÊS(W®puQïS(u„vÅ`µQNMQ9Y R§G5§!*NUSMO„v®puQÿÄuú^öeô•=fŸSeg„vASRKNN0\nå‚b¹e›Q–peÏ‘NP–…Ç§Y100§!ÿR^yîuS(WwýN…QËzIRR.˜Y„vUSMOôv0RóS\nbìN„vpeÏ‘NP–-N§G20%§!HNekuQ\nbìN„vpeÏ‘NP–-N§G4%§!HN‘šuQ\nbìN„vpeÏ‘NP–-N§G10%§!HN‘šuQ\n\ndkYyYØSR.NMOåb	g§G30§!¹pF–›Q.Oßu„vS›Q0"
+ shinki_create_a_battalion_aspect_tt: "^yîuê	N*NwýN-NR.†N›Q–0"
+ shinki_call_for_a_holy_war_aspect: "§YÑS¨R1Wb§!"
+ desc_shinki_call_for_a_holy_war_aspect: "bìN„vsY^y^yîuSÑS¨RN!k1WbÿTöeOÐcØšb¹eF–›QÊSwm›Q„v(Ï‘ÿ\n\n^yîuSR.NMOåb	g§G50§!¹pF–›Q.Oßu„vS›QåNÊSNMOåb	g§G50§!¹pwm›Q.Oßu„vwm›QNSÿv^NÐcØš§G25%§!hQNSºN›RÊS4lKbîOckFO=fM–NO§G10%§!„vF–›QÊSwm›QëXlcíu§Y20t^§!0"
+ shinki_call_for_a_holy_war_aspect_tt: "^yîuùRyY„vãlÑSúQ1WbìS2Uÿ"
+ shinki_dissolve_shrines_aspect: "§YÖS^y>y§!"
+ desc_shinki_dissolve_shrines_aspect: "bìN„vsY^ySOÖSb¹eŸS	g„v^y>yv^SvQDµN(uŽNôf'Y„v‹NNÿ\n\nb¹eSOÐcGS§G25%§!„vhQNSz6ecíu§Y20t^§!0"
+ shinki_dissolve_shrines_aspect_tt: "^yîuSOŠb^y>y„vIY³uEQlQ0"
+ shinki_create_trade_fleet: "§YR.8f9‚–§!"
+ desc_shinki_create_trade_fleet: "bìN„vsY^y^yîuSOHNbìN„vcƒw†˜ßWR.N=e8f9‚–0\n\nMQ9Äuú^5X‚‰‹W9‚êSNú^.öeô•=fŸSeg„v§G1/10§!0"
+ shinki_create_trade_fleet_tt: "^yîuSOR.N=e8f9‚–0"
+ shinki_stability_aspect: "§Y0k¦^T›Lu‚‚åe§!"
+ desc_shinki_stability_aspect: "býVSåN^yîuKNT0k¦^sO‚‚v^NOGPN)YåN›OOo`0"
+ shinki_create_more_court_servants_aspect: "§YR.°e„vOÎN§!"
+ desc_shinki_create_more_court_servants_aspect: "^yîuSHN†˜ßWR.NMO°e„v«R÷^OÎNåN©‹ßu»lôf R‰Œg0\n\nb¹eSOžX R§G1§!*N.OYeëX0§G1§!*NY²N˜RÊS§G2§!*NMQ9S†˜hMOcíu§Y20t^§!0"
+ shinki_create_more_court_servants_aspect_tt: "^yîuSHN†˜ßWR.°e„v«R÷^OÎN0"
+ HOLY_SITE_4359_DESC: "bìN„v—RYe=fúWcwYe„vN*NR=eÿNÇ1uŽNbìNuImŽNÜNåNÊSY(WiOYeN^yS„vqVÍTNÿEebYe1udkàV0W6RœR0åe,g„v.OßuÊS‡eS-N„v¸‹Y‹NirTê‡eQ0R†NbìN„vYeOêNhSV-N0àVdkÿO¿R^y«RÿÙµ^^ySáOðN-NgÍ‘‰„v^y¿k¿ObHN†NbìN„v1W0WÿbYeOYT†Ú‹„váO’VýO0RÙµ^^y«Rg1Wÿeg¥cÑ^ySYeø‹^yåNÊSbìN„vIN0"
+ HOLY_SITE_1029_DESC: "bìN„v—RYe=fúWcwYe„vN*NR=eÿNÇ1uŽNbìNuImŽNÜNåNÊSY(WiOYeN^yS„vqVÍTNÿEebYe1udkàV0W6RœR0åe,g„v.OßuÊS‡eS-N„v¸‹Y‹NirTê‡eQ0R†NbìN„vYeOêNhSV-N0àVdkÿÌRëXqSÿÙµ^^ySáOðN-N„v^yqS¿ObHN†NbìN„v1W0WÿbYeOYT†Ú‹„váO’VýO0RÙµ^^yqSg1Wÿeg¥cÑbìN„vIN0"
+ HOLY_SITE_385_DESC: "¦ž R=fO¯epQYe„vHQåwFzUØž·V„v‰Ro`KN0W0ùRŽNbìNÙ›NåwÆ‹NI‘„váO’Vegô‹ÿÎW^,g«Žv^N×SsQèlÿå‹sQèl„v=fOY«ˆ©cËW(W?–Éb=O„vÄž™l-N„vFzUØž·VöeãN„vWir0b¹ewäSfR¶Rôf	gtQ±Y°sHQåw„v=THyv^Nó`†Nã‰ÖNìNùRŽN)YN„vIN„vwÕl0"
+ HOLY_SITE_379_DESC: "1W0W6wï’d·Q(WÇ»Sþf=f¸‹Y!kASWR›Q„vîvhv^NùRúWcw’VNFz¯e—gÌS¹eegô‹aINT7hñmÜ0àVdkNÅNÅN=fb¹e„vwäSfR¶R1SÞnf„vg1Wwê6qmN^g»SNyw6wï’d·QÙO'YKN0W0"
+ HOLY_SITE_118_DESC: "Wlšÿþf=f^—áQ„vWlš^ýVKNýÿ=fYe—R„vNb(W0WmN=fNNNb	gúWcw’V„v1WÎWuómNSìbbìN„vlO0KS¡rÛekNÑyfR=fbìNáOðN„vúW,g=eñgÿwbìN„v—RYeNòTÁ1S†NOY‰^ó`aN„v.OßuÿFObìNNýwØV‰cbìN„v9h0"
+ LUNARIAN_ASPECTS_LONG: ">yO„v°elaŒ"
+ LUNARIAN_ASPECTS_SHORT: "laŒ"
+ lunar_motivated_workforce_aspect: "³R¨R›RÕlHh"
+ desc_lunar_motivated_workforce_aspect: "gºNuQâV=fN=eASR%NÛ‚„vè–Nv^^—ûNNêSgTQ	gýw›RsQ­‹ÃuhQz0x^Ð4N0R†NÙ›NNÇsQgTQ„v4YNÿN›NgºNCg5ÊS^y˜R³QšRÄuú^N=ebVVyrŠk„v³RåT–OÿvQºNXT1ugTQÄubÿèe(WMQd–gTQìN›Q‹NN„v³R¡R0"
+ lunar_scripts_of_tsukuyomi_aspect: "gYÁ‰„vKb?z"
+ desc_lunar_scripts_of_tsukuyomi_aspect: "gºN‹sýV„v.wgû‹S„vKb?zS+T	g¸‹YsQŽNgE–ô•qVÍTN»lýVt?e„vÏuŒš¥bJT0Ù›N¥bJTùRŽNýV¶Regô‹âe^y1WÈSøvSV	g(u0"
+ lunar_purification_aspect: "ÀQS"
+ desc_lunar_purification_aspect: "gb—ÊSgºN„v‹sýV=fGrmÀQKN0W0KS„UKSŽ0ÙÌ‘¡l	gMOn¹R³uQS®V„v0WNºNÙ¿O=fb¹e^y˜RìNý–ÂrípN„vÃV`ÿalýyKNirSO«ˆgºN„vÕl=gNÜ`ãN÷N0WÀQSr^ÀQÿ"
+ lunar_blessed_weapons_aspect: "VIQfkhV"
+ desc_lunar_blessed_weapons_aspect: "gºN„vfkhVNÅN=fÑyŽbåNÊST›ÕlN„vpgjOÿwNØ×S0R†NgºN^y˜RËe=gPy0ÙÙuˆN†NO(uw(Wb—ùRLe›Qkp›Röe„vØš—b'`0‚YdksSOgTQOb‰kÿNNêSgTQ¿OýwÿbwÖN„vfkhVçuíub—e0"
+ lunar_moon_defense_aspect: "gb—2–kSÐ¨R"
+ desc_lunar_moon_defense_aspect: "gb—2–kSÐ¨R=fgºN„vN‰|ÄuÇuÿèe(W×V?aŽNwm›Q-Ng¡RåNÝO²bgtMQmNb	gYegµOeuwKN³R0NÏPgTQÿgºN	gNwegê^y˜R„vkyyÿÙÙuÖNìN&^eg†NôfØšf„vëXl0"
+ lunar_hunting_deserteurs_aspect: "uQérsÕlHh"
+ desc_lunar_hunting_deserteurs_aspect: "gTQëXuQ­‹Ãu›³Rp‚æ‚ÿw«R÷^-N„våTjOôf=fäNºN¾|^y)TƒnÿNÇÙHNZP„vÅV‰˜„vÿ‚YdkgtMbýwÝOcmÀQ06qwÿ	g¸‹YgTQ²‹HNÖNìN”^ÌQŒšŽNgºN„vßu»lNÅd»yLwˆR0HN†NùRØNÙ›NÆwS<›ÿgºNýVYeO˜^†NNy˜‹VäNåN‰BlNb	g„vgTQÀh>NVSîTw0"
+ lunar_children_of_tsukuyomi_aspect: "gYÁ‰KNãU"
+ desc_lunar_children_of_tsukuyomi_aspect: "gºNwRêS=f^ySáOðN-N„vg^ygû‹S„vÑ²NwòT0öeIQAmÿgtN„vºNŠegŠYÿNÇ—VÊvŽNT†Ú‹„vmyøSìNÿgKNl8lÜNOØV°‹ÖNìN„vwnv^NùRg^yåNÊSßu»lwSTleÍ‘0"
+ lunar_impure_deported_aspect: "qšd–alýy"
+ desc_lunar_impure_deported_aspect: "ùRŽN±›Nµb—bÀQSÇzv^N«ˆÁ‹žR=fàe(u„valýywÿgºN„v^y˜RÄuÇu†NNy˜¡‹Rÿèe(WSNb	g„valýywÎN†˜ßW-N>eúQ»Sÿ0R‡R™R„vOPÜN…–0"
+ lunar_forced_bun_conscription_aspect: "gTQVìSÕlHh"
+ desc_lunar_forced_bun_conscription_aspect: "gTQÏu8^O«ˆ0W¹eN„vgºN˜RXTHVVeQO01uŽNVuQ˜RXTR«ŽON=gÿàVdk¿O6RšRúQ†NgTQVìSÕlHhÿå‹ÕlHhAQ¸‹Nb	ggºNHVVgTQeQO0d–dkKNY×SVìS„vgNOt^„ŸNŒ†N4S0"
+ lunar_lunarian_sages_aspect: "gKN2w"
+ desc_lunar_lunarian_sages_aspect: "gtÃOb†NOY)YMb,‚„v4Y„vXR(W0FOêS	gbìNPRl„vCSÑ‘-NylguwMbïSbHNgKN2wùRMbzfàeÌS„vsYPRðy|T0gºN„v^y˜RˆVnZiÙ¹pv^(WùR2wìNôåNlea„vTöeåNvQÑyfR„vYeüRBl—V•XR0"
+ lunar_workcamps_for_the_impure_aspect: "³RåT%„"
+ desc_lunar_workcamps_for_the_impure_aspect: "N=fNb	galýy„v0WNºNýêSýw(ueg–kl*Yzz-N„vonm©SWW0vQ-N„vÐg›NºN4YOVN«ŽHV›RîX³åNÎN‹N›N1S=f(ugTQ»SZPmNRNeg„v!k‰åTjO0KNTÙ›NNmuirO«ˆteTÛyrŠk„v%„–-NåNjOHN³R¨R›Rg¡RŽN†˜ßW…Q„v6R.‚SNåTJW0"
+ lunar_lunarian_security_corps_aspect: "gºN‰RhQè–"
+ desc_lunar_lunarian_security_corps_aspect: "gTQìNþf(WåNŽV„˜YùRvQóØšàeN„vINºNÑS¨RÛSqNÿ(WÇ‘ÖS†N'YÏ‘„v%N‰S>NªcTMbäN‹N`—VåNµc6R0dk‰|‹NöNgÈuÃOb†NgºN‰RhQè–ÿlQ¶R„vf‹ßR	ÿ„vÄuú^ÿÖNìNO(WT„vöeHgùR†˜ßW…Q„vãlìNÛLˆ¡r6Rÿ‚YdkNeggTQìN¿O¥cæ‰N0R±›NïSr„vó`Õl†N0"
+ moriya_center_of_reformation: "9ei—-NÃV"
+ Larva: "ÉbSæt"
+ Larva_desc: "8^N^yÿmN«ˆðyKNHN1rTX®YÉbSætÿ=f‰^ó`aNÌ‘gHNt^|^„v^yfÿmN=fÍdµulP„vN¶RÊS8lR`,g«Ž0"
+ th_hakureishinto_scholar_modifier: "ZSKN„vg1Ww"
+ desc_th_hakureishinto_scholar_modifier: "bìNSVMRck>k…VZSKN„vg1WwåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ Kutaka: "EN˜OLk"
+ Kutaka_desc: "­^!nEN˜OLkhˆb—N=f!ž„v^yf0NÇÿyY„vN•†˜ßWv^NÅNP–ŽN¨RirÿÙ=fàVHNyYTöemN=f0Wñr„vˆR²b^y0"
+ th_heretic_lunar: "gb—Vïz"
+ th_heretic_anime: "¨RIu"
+ th_heretic_manga_elitists: "+oIu"
+ th_heretic_gensokyan: "‰^ó`aNVïz"
+ th_crusade_incident: "‹NØS"
+ th_lunarian_religion_religion_desc: "gºN`ó`=fNÍy1ugºNRËzåNªuõVVRwgû‹S„väSw—RYeÿvQsSHN^ySáOðN-N„vg^y01uŽNå‹YeWNìrËzŽNvQÖNûNUO—RYe„vqVÍTKNYÿEegºN`ó`NýwNûNUO0WN„v—RYeøvÐcv^º‹0"
+ HOLY_SITE_5180_DESC: "‰^ó`aN=fNYGYVKN0WÿáOðN0T›ÕlåNÊSÑyŽbý=f›N©‹bìN„vlOa0RÊ`GY„v…Q¹R0ýV…Q¸‹Y‹YGYNT†Ú‹„vfRw+oekŽN‰^ó`aNåN¥cÑT›ÕlNNIN0vQ-N„vNY0W¹pÿ=f(WŽVf„vZSKN^y>yHSßWD–Ñ„vNµ^«ˆbìN„vwäSfR¶Rèla0R„vSHW0"
+ kutaka_school: "­^!n"
+ kutaka_school_desc: "EN˜OLk=f!ž„v^yf0‹†ô‹ùRyY„v²‹Æ‹	guYNO0OÿFOyY„v›RÏ‘‰ÜÔkyYjOHN!ž„vˆR²b^yNLweg—V'Y0yYØ=f»l4lLp‰nNLˆ‰RhQKN^yÿÙÀow†NNSTÜbwùRyY„vleIY0"
+ th_kutaka_scholar_modifier: "EN˜OLk„v‰|N¸p!ž"
+ desc_th_kutaka_scholar_modifier: "bìNSVMRck«N(uEN˜OLk‰|N¸p!žåNÃOObìN(W—RYeî•˜˜NBlTXRV0"
+ SHINKI_ASPECTS_POWER_NAME: "^yîuZáO"
+ LUNARIAN_ASPECTS_POWER_NAME: "gºNáO‰Š"
+ lunarian_religion_g: "gKNl"
+ lunar_fury_of_junko_aspect: "¯uSKN›R"
+ desc_lunar_fury_of_junko_aspect: "¯uÐrwQ	gNÍyyr+R„výw›RÿïSOvQNb?aùRûNa‹NirËeåN¯uS0íQdkýw›RÿyYHNyY„vëXuQìNPˆN†N¾–åNó`aŒ„vb—ežR›R0Ð(u¯uSKN›RùRbìNegô‹T7h=fNbî•˜˜„v0"
+ lunar_cunning_ways_of_yuyuko_aspect: "¡RNaåN…V"
+ desc_lunar_cunning_ways_of_yuyuko_aspect: "¡Nup'YSÐY‹^‹^PRþfwÇbìNNÞV0ÇÃVàeNbó`ôvógTNIRMbSbšRINaÿyYZP0R†NÛeQgKNýv^ÎNbìNÙ?Qƒzp†NÍs5„v0ir0bìN‰ÎNÙ‰|KbÕl-N8TÖSYe­‹ÿ‰ôf R¡RNa0WùR…VbìN„vLeºN0"
+ lunar_control_of_yukari_aspect: "LuP–Ídµu"
+ desc_lunar_control_of_yukari_aspect: "+tÿbìNøvÆ‹„vÃV4Y'Y±`ÿI`=f	gžRÕlÍdµuvQßvËSÿ©‹ÖNìNEQSVvQ‹vKbWY0ÇÂ‰ßRyY„v>NªcÿbìN¿OïSåNùRbìN„vD–¸^mNÇ‘ÖST‰|ªcËe0"
+ lunar_charisma_of_remilia_aspect: "E››Rb—ŒŒ"
+ desc_lunar_charisma_of_remilia_aspect: "Œ…s|‰ƒšNïSåNÇÐ(uvQ8TNˆ<›T››R÷PNCSºNir0FOÙÅN=fT››RHNÿ<hŒ0ÿY`0ŒT=fNb	g„vÙ›N.1S†NŒ…s|‰ƒšN„vE››R0SV6qÿbìNïSåN‰NÖSZP0RÙ¹påN(WY²NSV-NÖS—Vôf‹Y„vÓuœg0"
+ lunar_sadistic_treatment_of_yuuka_aspect: "%N R¡rmg"
+ desc_lunar_sadistic_treatment_of_yuuka_aspect: "‹^™™ŠbyY„vëXuQìNnŽNgHN%N<h„v¦umgKNN0›Q-NàQNNÏk*NºNýuˆRvQ‹TäNÿàVHNÖNìNnZi‰=f¯r†N•ï‹Ir…VNwÖNìN„vSO=fÀNHN0‹†ô‹b›QòTwQYØš¦^„vªu‹VÿFObìNmNïSåNŒteN›NKbµkegÃOObè–ôf RVS›R0"
+ th_taoism_fervor_trade: "8f&q¹p"
+ th_taoism_fervor_trade_short: "8f"
+ th_taoism_fervor_war: "b‰N&q¹p"
+ th_taoism_fervor_war_short: "b‰N"
+ th_taoism_fervor_stability: "3zšR&q¹p"
+ th_taoism_fervor_stability_short: "3zšR"
+ th_taoism_fervor_diplomacy: "Y²N&q¹p"
+ th_taoism_fervor_diplomacy_short: "Y²N"
+ th_taoism_fervor_wood_aspect: "§T(g&q¹p§!"
+ th_taoism_fervor_wood_aspect_short: "§T(g§!"
+ th_taoism_fervor_fire_aspect: "§Tkp&q¹p§!"
+ th_taoism_fervor_fire_aspect_short: "§Tkp§!"
+ th_taoism_fervor_earth_aspect: "§TW&q¹p§!"
+ th_taoism_fervor_earth_aspect_short: "§TW§!"
+ th_taoism_fervor_metal_aspect: "§TÑ‘&q¹p§!"
+ th_taoism_fervor_metal_aspect_short: "§TÑ‘§!"
+ th_taoism_fervor_water_aspect: "§T4l&q¹p§!"
+ th_taoism_fervor_water_aspect_short: "§T4l§!"
+ byakuren_teachings: "‹v²ƒ"
+ byakuren_teachings_desc: "KS¡r,g(N=fiOYeÿFO1W‹v²ƒ„v.OˆcvQžRnŽNyYùR‰k¡N„vP`ç`ÿåNÊSŽVTyYùR1Y»SOvQ—VåNÔwØåz„vª=gKNn„vçVQ†0EeHN†Nê«Ž„vXRImÿ‹v²ƒ±Rlbw†NùR–Y*`NÏe„v¹RÍVNTjO0\nöeÇƒXÁÿyY„váOðNN`¦^aÑSØS—Vs`R0àVdkÿyY„váOOÊSvQ,gºNSîvh¾‹(W†N‡O=NTÏe²NNTNLuÂ‰ÿSKN‡THNTN'YT>yO0\n\n§GbHNINAm—R>mKN)Rÿ§!\nÿïSÛLˆ§YŽ÷‹YýVfRw§!Y²NLˆ¨R\nÿïSÛLˆ§Y>mcçP±OO‚‚§!Y²NLˆ¨R\n\n§RbHNINAm—R>mKNVÿ§!\nÿNïSO(u§YºN‡eININ§!tõV&^eg„v±Rbt1u§YY‹sKNS§!\nÿNïSO(u8f?eVr§Y>mcëTsY§!\nÿ§Y¡R¯‹˜R§!Œ˜î•àeÕl7R°eŽNŒ˜î•ÛbßR`l"
+ byakuren_teachings_benefits_tt: "ÿïSÛLˆ§YŽ÷‹YýVfRw§!Y²NLˆ¨R\nÿïSÛLˆ§Y>mcçP±OO‚‚§!Y²NLˆ¨R"
+ byakuren_teachings_drawbacks_tt: "ÿNïSO(u§YºN‡eININ§!tõV&^eg„v±Rbt1u§YY‹sKNS§!\nÿNïSO(u8f?eVr§Y>mcëTsY§!\nÿ§Y¡R¯‹˜R§!Œ˜î•àeÕl7R°eŽNŒ˜î•ÛbßR`l"
+ myouren_teachings: "‹T²ƒ"
+ myouren_teachings_desc: "1W‹T²ƒ=fMO‘N8nÛV¹e„vØšçPÿØ=f1W‹v²ƒ„vVV0‹T²ƒ„v.OˆcµOÍ‘ŽNiOÕl„v`ó`N8hÃV÷N<PÿŒRhQRdV†NùRN×O„vOK`ÿhQ«ŽÃV•beQó.ir„vup'`N0b—ùRÖNºN„vQRÔb)V.Vÿ‹T²ƒ„vNzftSýw©‹g‹Y—e„vbëXNekQ R`0t0\n\n§GbHNINAm—R>mKN)Rÿ§!\nÿïSÇ‘(u³Q®‹§YÑS¨RçPOú^¾‹§!\nÿïS¾‹Ëz§Yg!ýV§!\n\n§RbHNINAm—R>mKNVÿ§!\nÿÇ¦^ib.VqVÍT°s(WOM–NO§R10.00§!ŒTŒ¦^N&^eg§R0.10§!P%\nÿ±RbOM–NO§R10.00§!ŒTŒ¦^NžX R§R1.00§!ŒSb¦^"
+ myouren_teachings_benefits_tt: "ÿïSÇ‘(u³Q®‹§YÑS¨RçPOú^¾‹§!\nÿïS¾‹Ëz§Yg!ýV§!"
+ myouren_teachings_drawbacks_tt: "ÿÇ¦^ib.VqVÍT°s(WOM–NO§R10.00§!ŒTŒ¦^N&^eg§R0.10§!P%\nÿ±RbOM–NO§R10.00§!ŒTŒ¦^NžX R§R1.00§!ŒSb¦^"
+ soutou_teachings: "ùfm—R"
+ soutou_teachings_desc: "ùfm—R=f…y—R„v.Oßu>m+RÌ‘g'Y„v—R>mÿ«ˆvQ(WYe>mN„vùRKbðyKNHN0ùfmëXl00ÏPùfm—RÙ7h„v>m+RN‚YiOYe„vvQÖNR=eÿ.ObïSý¯nóUãN0ùfm—RHVŒØžgq…yåNÊS­eÝuN×O2kgÿ(WiO¶RáOO-N^×S0kÎ0\n(WZSKN¶RŽN‰^ó`aNÙGrW0WN.OVvQ^ySKNMRÿÙÌ‘„v¸‹YºN‰|áOIY„v¿O=fjOHNiOYevQ-NN=e„vùfm—R0‚YÊNÿÙN‰^ó`aNYe>mR=eÅN‹kXRNE^XR>eŽN‹T²ƒúR…Q„vØuwS0NÇÿ.Oû•–Y*`‘NESNnÍN(WõLˆùfm—R„vêNh0\n\n§GbHNINAm—R>mKN)Rÿ§!\nÿØ§G100.0%§!ÎNwýN.OYe-N'N1Y„vŒTŒ¦^\nÿïSÇ‘(u³Q®‹§Yö^íuiOÕlO‹T§!\n\n§RbHNINAm—R>mKNVÿ§!\nÿ—RYe‡T¦^M–NO§R200.0%§!"
+ soutou_teachings_benefits_tt: "ÿØ§G100.0%§!ÎNwýN.OYe-N'N1Y„vŒTŒ¦^\nÿïSÇ‘(u³Q®‹§Yö^íuiOÕlO‹T§!"
+ soutou_teachings_drawbacks_tt: "ÿ—RYe‡T¦^M–NO§R200.0%§!"
+ rinzai_teachings: "4NNm—R"
+ rinzai_teachings_desc: "4NNm—R„v.Oˆcnê-NW…y—R0(WvQqVÍT›RåeÛvöeÿfkëX„v¿R›R¦N(WTw0àVdk4NNm—R„v.OˆcNåe,g„vfkëX6–BSÆRNïSR0\n(WÅR8NfÙMOb‰NKNS«Ž„vcüRNÿ4NNm—R„vø‹YòTtNžRõÕlTêÛeQ†N0R‰^ó`aNÌ‘v^NoØSúQ†NêñT„v.Oˆc0\n\n§GbHNINAm—R>mKN)Rÿ§!\nÿb—VF–b·ƒ—V„v§YŒTŒ¦^§!§TÿUSMOûQNg/ÿUSMOmc1Y*20	ÿ	ÿ§!ÐcGSgY§Y5§!\nÿïSÇ‘(u³Q®‹§YÎN4NNm—RVuQ§!\n\n§RbHNINAm—R>mKNVÿ§!\nÿ(WŒTŒ¦^NOŽN§Y50.00§!öe·ƒ—V„v§Ré`Z§!ÐcGS\nÿNýwKb¨RM–NO§YŒSb¦^§!"
+ rinzai_teachings_benefits_tt: "ÿb—VF–b·ƒ—V„v§YŒTŒ¦^§!§TÿUSMOûQNg/ÿUSMOmc1Y*20	ÿ	ÿ§!ÐcGSgY§Y5§!\nÿïSÇ‘(u³Q®‹§YÎN4NNm—RVuQ§!"
+ rinzai_teachings_drawbacks_tt: "ÿ(WŒTŒ¦^NOŽN§Y50.00§!öe·ƒ—V„v§Ré`Z§!ÐcGS\nÿNýwKb¨RM–NO§YŒSb¦^§!"
+ obaku_teachings: "Äž—j—R"
+ obaku_teachings_desc: "Äž—j—R=fåe,g…y—R„v,r	N'Y>m0àVå‹—R>mnŽN4NNm—RÿwvQ*geg„vRËYºN=f-NW„v…y^ÿNbåNÄž—j—R„vîOLˆN.Oßu&^	gNw×S0R-NWqVÍT„vyr¹p0\nÄž—j—R=f*N°eÑî•N„v=e>m0NÏP‰^ó`aN…Q+R„v—R>mÿå‹—R>m„vRËYåegHN1661t^ÿSVNSNXR(Wÿ6qwÿ‰^ó`aNNvQOOlùRŽNöezzV8^éeòT=fNÉ‰GY*`†N0sS¿Oå‹—R>mS*gŽNåe,gúQ°sÿtSòTïS(W‹T²ƒúR„vNµ^ìNSV-NûR—VvQSt0\n\n§GbHNINAm—R>mKN)Rÿ§!\nÿùR^—§YNXNiOYe§!b=fNbËzýVYe*g«ˆbýV‡T„výV¶R*O.±RðyOÙuˆN§Y8lEN'`±Rðy§!\n\n§RbHNINAm—R>mKNVÿ§!\nÿNýw§YTv^§!^SýV\nÿNýwN^—§YNXNiOYe§!b=fNbËzýVYe*g«ˆbýV‡T„výV¶RÓußv"
+ obaku_teachings_benefits_tt: "ÿùR^—§YNXNiOYe§!b=fNbËzýVYe*g«ˆbýV‡T„výV¶R*O.±RðyOÙuˆN§Y8lEN'`±Rðy§!"
+ obaku_teachings_drawbacks_tt: "ÿNýw§YTv^§!^SýV\nÿNýwN^—§YNXNiOYe§!b=fNbËzýVYe*g«ˆbýV‡T„výV¶RÓußv"
+ th_buddhist_pick_school_of_thought_benefits_tt: "§GbHNINAm`ó`Am>mKN)Rÿ§!"
+ th_buddhist_pick_school_of_thought_drawbacks_tt: "\n§RbHNINAm`ó`Am>mKNVÿ§!"
+ th_byakuren_teachings_modifier: "‹v²ƒ„v.Oˆc"
+ desc_th_byakuren_teachings_modifier: "bìNSVMRckÎNfRŽN‹v²ƒ„v.OˆcåNÛNek²‹Æ‹'YCSNLu0"
+ th_myouren_teachings_modifier: "‹T²ƒ„v.Oˆc"
+ desc_th_myouren_teachings_modifier: "bìNSVMRckÎNfRŽN‹T²ƒ„v.OˆcåNÛNek²‹Æ‹'YCSNLu0"
+ th_soutou_teachings_modifier: "ùfm—R.Oˆc"
+ desc_th_soutou_teachings_modifier: "bìNSVMRckÎNfRŽNùfm—R.OˆcåNÛNek²‹Æ‹'YCSNLu0"
+ th_rinzai_teachings_modifier: "4NNm—R.Oˆc"
+ desc_th_rinzai_teachings_modifier: "bìNSVMRckÎNfRŽN4NNm—R.OˆcåNÛNek²‹Æ‹'YCSNLu0"
+ th_obaku_teachings_modifier: "Äž—j—R.Oˆc"
+ desc_th_obaku_teachings_modifier: "bìNSVMRckÎNfRŽNÄž—j—R.OˆcåNÛNek²‹Æ‹'YCSNLu0"
+ th_scientistic_blessings: "YeâVÑyfRº‹?eVr"
+ th_scientistic_blessing: "YeâVÑyfRº‹?eVr"
+ pick_th_scientistic_blessing: "	ébYeâVÑyfRº‹?eVr"
+ th_scientistic_spreading_the_word: ".O­d1WŠ"
+ th_scientistic_teachings_of_the_crusades: "1Wb„vYeüR"
+ th_scientistic_educated_governors: "‡efVS«R÷^"
+ th_scientistic_send_archaeologist: ">mcwäSfR¶RMRŽV1W0W"
+ th_scientistic_religious_modernized_production: "YeâV°sãNSuµN"

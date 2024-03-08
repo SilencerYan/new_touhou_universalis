@@ -1,0 +1,60 @@
+###########################################
+# Rinzai's Penalty
+###########################################
+th_too_little_harmony = {
+	potential = {
+		has_dlc = "Mandate of Heaven"
+		has_dlc = "Cradle of Civilization"
+		religious_school = {
+			group = Touhou
+			school = rinzai_teachings
+		}
+	}
+
+	trigger = {
+		NOT = { harmony = 50 }
+	}
+	stability_cost_modifier = 0.33
+	yearly_corruption = 1
+	tolerance_own = -3
+}
+
+th_high_grudge = {
+	potential = {
+		has_government_mechanic = th_junko_grudge_mechanic
+		NOT = { has_country_flag = jnk_jyouga_captured }
+	}
+
+	trigger = {
+		has_government_power = {
+			mechanic_type = th_junko_grudge_mechanic
+			power_type = th_junko_grudge
+			value = 50
+		}
+		NOT = {
+			has_government_power = {
+				mechanic_type = th_junko_grudge_mechanic
+				power_type = th_junko_grudge
+				value = 80
+			}
+		}
+	}
+	legitimacy = -1
+}
+
+th_very_high_grudge = {
+	potential = {
+		has_government_mechanic = th_junko_grudge_mechanic
+		NOT = { has_country_flag = jnk_jyouga_captured }
+	}
+
+	trigger = {
+		has_government_power = {
+			mechanic_type = th_junko_grudge_mechanic
+			power_type = th_junko_grudge
+			value = 80
+		}
+	}
+	legitimacy = -1
+}
+

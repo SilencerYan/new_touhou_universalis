@@ -1,0 +1,1272 @@
+graphical_culture = westerngfx
+		
+color = { 173  76  229 }
+
+revolutionary_colors = { 3  0  3 }
+random_nation_chance = 0
+
+historical_score = 1500
+
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	quantity_ideas
+	administrative_ideas
+	influence_ideas
+	economic_ideas
+	spy_ideas
+	humanist_ideas
+}
+
+historical_units = {
+	infantry_gen_t1_03
+	cavalry_gen_t1_01
+	infantry_gen_t5_02
+	cavalry_gen_t6_02
+	infantry_gen_t9_01
+	cavalry_gen_t10_01
+	infantry_gen_t12_01
+	cavalry_gen_t14_01
+	cavalry_gen_t17_01
+	infantry_gen_t19_01
+	cavalry_gen_t23_01
+	infantry_gen_t26_01
+	cavalry_gen_t28_02
+}
+
+monarch_names = {
+  "‰`<S #0" = 0  # Sydney #0
+  "(„*S #0" = 0  # Samuel #0
+  "eY)RV #0" = 0  # Oliver #0
+  "<SkÈšN #0" = 0  # Nehemiah #0
+  "lšîO #0" = 0  # Matthew #0
+  "³R&O¯e #0" = 0  # Lawrence #0
+  "¦umt+Y #0" = 0  # Joseph #0
+  "TN³uîh #0" = 0  # Jonathan #0
+  "pgÌ‘s| #0" = 0  # Jeremy #0
+  "Œ‚(„KQ #0" = 0  # Isaac #0
+  "O #0" = 0  # Hugh #0
+  "—Éb–w #0" = 0  # Horatio #0
+  "ÖvO #0" = 0  # Guy #0
+  "pgVÌ‘ #0" = 0  # Geoffrey #0
+  "Vg‰¯e #0" = 0  # Francis #0
+  "'k…Q¯eyr #0" = 0  # Ernest #0
+  "4bôu #0" = 0  # David #0
+  "9N<SS #0" = 0  # Daniel #0
+  "KQÌ‘¯eXbV #0" = 0  # Christopher #0
+  ",gpgf #0" = 0  # Benjamin #0
+  "?–GYZSS·V #0" = 0  # Archibald #0
+  "‰RN<S #0" = 0  # Anthony #0
+  "‰R·Vœ #0" = 0  # Andrew #0
+  "‰R^W¯e #0" = 0  # Ambrose #0
+  "?–SV÷–·V #0" = 0  # Alfred #0
+  "?–S #0" = 0  # Albert #0
+  "šN†SqS'Y #0" = 0  # Alexander #0
+  "šNSV #0" = 0  # Adam #0
+  "¯e‚„¬‚ #1" = 1  # Stephen #1
+  "W=Oyr #0" = 0  # Robert #0
+  "IlV±ƒ #0" = 0  # Humphrey #0
+  "Å–T^ #0" = 0  # Jacob #0
+  "¦uğ #1" = 1  # John #1
+  "TN»l #0" = 5  # George #0
+  "ÃW·V™„ #0" = 5  # Edmund #0
+  "Xblš¯e #0" = 10  # Thomas #0
+  "ÃW·V R #0" = 10  # Edgar #0
+  "ågS¯e #0 yŠÆY¯e" = 10  # Charles #0 James
+  "šNmt #0" = 10  # Arthur #0
+  "¨N)R #3 V÷–·VÌ‘KQ" = 10  # Henry #3 Frederick
+  "òƒ)Rnf #0" = 20  # Philip #0
+  "tåg·V #2" = 20  # Richard #2
+  "ZÉ^ #2" = 20  # William #2
+  "yŠÆY¯e #0" = 20  # James #0
+  "ågS¯e #0" = 20  # Charles #0
+  "1r·VNS #3" = 20  # Edward #3
+  "¨N)R #3" = 20  # Henry #3
+  "êeY #0" = 0  # Dio #0
+  "CQÁN #0" = 20  # Motohito
+  "RÁN #0" = 20  # Mihito
+  "fVÁN #0" = 20  # Hikohito
+  "bÁN #0" = 20  # Fusahito
+  "ÜwÁN #0" = 20  # Katsuhito
+  "zfÁN #0" = 20  # Tomohito
+  "¹eÁN #0" = 20  # Michihito
+  "ŒTÁN #0" = 20  # Kazuhito
+  "?eÁN #0" = 20  # Kotohito
+  "tQPR #0" = 20  # Okiko
+  "ÍuÁN #0" = 20  # Tsuguhito
+  "o‚ÁN #0" = 20  # Nagahito
+  "Æ‹ÁN #0" = 20  # Satohito
+  "gÁN #0" = 20  # Asahito
+  "†^ÁN #0" = 20  # Toshiko
+  "`ÁN #0" = 20  # Yasuhito
+  "gqÁN #0" = 20  # Teruhito
+  "ÀyÁN #0" = 20  # Hidehito
+  "^ÁN #0" = 20  # Morohito
+  "à`ÁN #0" = 20  # Ayahito
+  "Sl #0" = 20  # Takauji
+  "INà‹ #0" = 20  # Yoshiakira
+  "INán #0" = 20  # Yoshimitsu
+  "INc #0" = 20  # Yoshimochi
+  "INÏ‘ #0" = 20  # Yoshikazu
+  "INR #0" = 20  # Yoshinori
+  "INÜw #0" = 20  # Yoshikatsu
+  "IN?e #0" = 20  # Yoshimasa
+  "INEN #0" = 20  # Yoshihisa
+  "INz #0" = 20  # Yoshitane
+  "IN„o #0" = 20  # Yoshizumi
+  "INtf #0" = 20  # Yoshiharu
+  "IN‰ #0" = 20  # Yoshiteru
+  "INÀy #0" = 20  # Yoshihide
+  "IN-f #0" = 20  # Yoshiaki
+  "áOàV #0" = 20  # Nobutada
+  "ÀyáO #0" = 20  # Hidenobu
+  "Ày	T #0" = 20  # Hideyoshi
+  "ÀyV #0" = 20  # Hideyori
+  "¶R·^ #0" = 20  # Ieyasu
+  "ÀyàV #0" = 20  # Hidetada
+  "¶RIQ #0" = 20  # Iemitsu
+  "¶R²u #0" = 20  # Ietsuna
+  "²u	T #0" = 20  # Tsunayoshi
+  "¶RáO #0" = 20  # Ienobu
+  "¶Rçu #0" = 20  # Ietsugu
+  "INßu #0" = 20  # Yoshimune
+  "¶RÍ‘ #0" = 20  # Ieshige
+  "¶R»l #0" = 20  # Ieharu
+  "¶RPŸ #0" = 20  # Ienari
+  "¶R†^ #0" = 20  # Ieyoshi
+  "¶RšR #0" = 20  # Iesada
+  "¶Rƒ #0" = 20  # Iemochi
+  "INáO #0" = 20  # Yoshinobu
+    
+  "·V #0" = -5  # Toku
+  "CS #0" = -5  # Sen
+  "‰s #0" = -5  # Tama
+  "ëu #0" = -5  # Aya
+  "OHY #0" = -5  # Ina
+  "1r #0" = -5  # Ai
+  "Ëy #0" = -5  # Aki
+  "›R #0" = -5  # Ate
+  "Š #0" = -5  # Etsu
+  "êu #0" = -5  # Cho
+  "Èv #0" = -5  # Ei
+  "g #0" = -5  # Fuku
+  "¬Q #0" = -5  # Fuyu
+  "ö” #0" = -5  # Gin
+  "Ÿ` #0" = -5  # Go
+  "‹v #0" = -5  # Haku
+  "±‚ #0" = -5  # Hana
+  "%f #0" = -5  # Haru
+  "Ày #0" = -5  # Hide
+  "e #0" = -5  # Hiko
+  "V #0" = -5  # Hiro
+  "%V #0" = -5  # Hisa
+  "³‚ #0" = -5  # Hou
+  "ÊN #0" = -5  # Ima
+  "N #0" = -5  # Ito
+  "ŞV #0" = -5  # Kai
+  "Î˜ #0" = -5  # Kaze
+  "Êƒ #0" = -5  # Kiku
+  "âu #0" = -5  # Kinu
+  "u #0" = -5  # Kon
+  "²ƒ #0" = -5  # Ren
+  "Y— #0" = -5  # Sei
+  "+g #0" = -5  # Sue
+  "ƒ #0" = -5  # Tsuta
+  "…h #0" = -5  # Ume
+  "ê– #0" = -5  # Yuki
+  "¦h #0" = -5  # Yume
+  "›sKN #0" = -20  # Mary #0
+  "‰R®Y #0" = -10  # Anne #0
+  "OKNƒ‹v #0" = -10  # Elizabeth #0
+  "r #0" = -10  # Jane #0
+  "›s<hKNyr #0" = -1  # Margaret #0
+}
+
+leader_names = {
+  "?–SÔklšS"  # Albemarle
+  "?–Ø¯eyr"  # Amherst
+  "‰Rîh"  # Anson
+  "‹vÑ‘Il"  # Buckingham
+  "^ÉbYKQ"  # Braddock
+  "Üb&O"  # Byron
+  "=ObàV"  # Burgoyne
+  "÷–¯ey·V"  # Beresford
+  "^mKQ"  # Brock
+  ",gZS"  # Benbow
+  "^±ƒKQ"  # Blake
+  "·Vy·V"  # Bedford
+  "ZS¯eÑyi`"  # Boscawen
+  "ôT¬‚"  # Baffin
+  "ôT˜"  # Button
+  "KQÉb&O¯e"  # Clarence
+  "·V KQ)Ry·V"  # de Clifford
+  "KQ&OZS"  # Cromwell
+  "NW=OpQ"  # Cumberland
+  "KQ—g˜"  # Clinton
+  "·^ƒl)R¯e"  # Cornwallis
+  "KQ±ƒ+Y"  # Clive
+  "aS=Oyr"  # Cabot
+  "aSS˜"  # Carleton
+  "aS‡eêÀN"  # Cavendish
+  "“^KQ"  # Cook
+  "N	TS"  # Churchill
+  "9N®vS"  # Dampier
+  "4bôu¯e"  # Davis
+  "·V÷–KQ"  # Drake
+  "ÃW^XKQ¯e"  # Essex
+  "9SÕlKQ¯e"  # Fairfax
+  "VWÔk‚"  # Frobisher
+  "<hm¯eyr"  # Gloucester
+  "	TS=Oyr"  # Gilbert
+  "jŒ"  # Howe
+  "—NS·V"  # Howard
+  "k=Oyr"  # Herbert
+  "—KQ"  # Hawke
+  "áw·V"  # Hood
+  "Ñ¯e÷^¯e"  # Hastings
+  "k·Vîh"  # Hudson
+  "±ƒ¯eyr"  # Leicester
+  "s|·VS˜"  # Middleton
+  "FzS"  # Moore
+  "ú‹îh=OpQ"  # Northumberland
+  "ú‹yKQ"  # Norfolk
+  "nfWKQyr"  # Procter
+  "œKQ"  # Rooke
+  "W·V<S"  # Rodney
+  "W)R"  # Raleigh
+  "0tSyQ=OÌ‘"  # Salisbury
+  "(„Ø^Xyr"  # Somerset
+  "(„yKQ"  # Suffolk
+  "Qh·V¯e"  # Saunders
+  "òSÆR¯e"  # Smith
+  "TXSZSyr"  # Talbot
+  "TXS˜"  # Tarleton
+  "?–KQ¯e^Ì‘GY"  # Uxbridge
+  "ƒlÌ‘KQ"  # Warwick
+  "ƒlS+Y"  # Wolfe
+  "¦uKQ"  # York
+  "bV÷–"  # Godfrey
+  "Ñ‘¯e)R"  # Kingslay
+  "TN¯e¾"  # Joestar
+  "^pQ¦^"  # Brando
+}
+
+ship_names = {
+  "?–Ôk‰<SšN"  # Abyssinia
+  "?–U	t¯e"  # Achilles
+  "ZW³Q"  # Adamant
+  "OŠ"  # Advantage
+  "’Qi–"  # Adventure
+  "àVJT"  # Advice
+  "^—2m"  # Africa
+  "?–KOè•œQ"  # Agamemnon
+  "?– R¯e"  # Agase
+  "?–Ñ‘“^S"  # Agincourt
+  "Œ‚·V"  # Aid
+  "?–>KQ¯e"  # Ajax
+  "?–S=OlšS"  # Albemarle
+  "?–SÔkf"  # Albion
+  "?–S‰·V"  # Alcide
+  "?–S·V^œ"  # Aldborough
+  "šN†SqS'Y"  # Alexander
+  "šN†SqS'YÌ‘šN"  # Alexandria
+  "?–SV÷–·V"  # Alfred
+  "2m"  # America
+  "?–s|‚„"  # Amity
+  "‰R·Vœ"  # Andrew
+  "‰R<hS‰"  # Anglesea
+  "‰R®Y"  # Anne
+  "‰R®Y  RpQyr"  # Anne Gallant
+  "‰Rîh"  # Anson
+  "TrY"  # Answer
+  "šŠ"  # Antelope
+  "ípÃV"  # Ardent
+  "ØmÑ‘w"  # Argonaut
+  "?–ÖvS"  # Argyll
+  "‡v¶R¹e‚"  # Ark Royal
+  "b0‚"  # Armada
+  "²Pba"  # Arrogant
+  "?–ĞcåT"  # Artigo
+  "šNÆušN"  # Asia
+  "ôc©R"  # Assistance
+  "OSO"  # Association
+  "İOÁ‹"  # Assurance
+  "?–yrÉb¯e"  # Atlas
+  "Æw'Y"  # Audacious
+  "eYäS¯eyr"  # August
+  "eYäS¯eTX"  # Augusta
+  "<h—gZ»l„v­‚­‚Éb"  # Barbara of Greenwich
+  "ôTS+YÒR"  # Barfleur
+  "ôTÒRÆY"  # Barham
+  "^&Oh®v"  # Bark of Bullen
+  "«ƒ±ƒ¯eh®v"  # Bark of Murless
+  "9húW"  # Basing
+  "Šq"  # Bear
+  "wmør"  # Beaver
+  "·Vy·V"  # Bedford
+  "±ƒS"  # Belleisle
+  "^±ƒ^tÎ˜"  # Bellerophon
+  "‹Yb"  # Belliqueux
+  "b‰NsY^y"  # Bellona
+  ",gZS"  # Benbow
+  "=OôuKQ"  # Berwick
+  "Üb·Vy·V"  # Bideford
+  "Ñh®v"  # Black Bark
+  "Ñir"  # Black Bull
+  "Ñ×r"  # Black Dog
+  "Ñ^"  # Black Galley
+  "Ñ‚"  # Black Pinnace
+  "Ñ‹sPR"  # Black Prince
+  "Ñr‚Âr0k"  # Black Rave
+  "Ñ¹pp"  # Black Spread Eagle
+  "^±ƒKQidSsYëX"  # Blackamoor Lady
+  "^±ƒKQƒlS"  # Blackwall
+  "^±ƒKQ"  # Blake
+  "^&OwmÆY"  # Blenheim
+  "ZS³u‡eşVS"  # Bonaventure
+  "ZSÌ‘¯e"  # Boreas
+  "¦‚„"  # Bounty
+  "ZSOi`"  # Boyne
+  "^Éb·Vy·V"  # Bradford
+  "^÷–¾"  # Breda
+  "^Ì‘GYƒlyr"  # Bridgewater
+  "^Ì‘u÷^"  # Brigantine
+  "^Ì‘¯eXb"  # Bristol
+  "NR ˜<SšN"  # Britannia
+  "^&O^tKQ"  # Brunswick
+  "‹vÑ‘Il"  # Buckingham
+  "lQir"  # Bull
+  "ZWşv"  # Bulwark
+  "=Oy·V"  # Burford
+  "=Oup˜"  # Burlington
+  "ïQ’d"  # Caesar
+  "UÌ‘Y<SšN"  # Caledonia
+  "QReh"  # Cambridge
+  " Rÿb'Y"  # Canada
+  "NWyr=O÷–"  # Canterbury
+  "9‚•"  # Captain
+  " R„v+Y"  # Cardiff
+  "aS±ƒS"  # Carlisle
+  "O™‚„vaSôuS"  # Carvel of Eve
+  "aS¯eXb3w"  # Castor
+  "aSXb"  # Cato
+  "aS‡eêÀN"  # Cavendish
+  "Œv+Y•"  # Centurion
+  "0Wñr¬r"  # Cerberus
+  "ågt"  # Charles
+  "ågS¯e R)R"  # Charles Galley
+  "ågt V"  # Charles V
+  "ågTXÆY"  # Chatham
+  "R¯eyr"  # Chester
+  "GYR¯eyr"  # Chichester
+  "úWcw"  # Christ
+  "KQÌ‘¯eXbV"  # Christopher
+  "KQÌ‘¯eXbV^Ì‘ÆY"  # Christopher of Bream
+  "KQÌ‘¯eXbV¯e>mi`"  # Christopher Spayne
+  "KQÉb&O¯e"  # Clarence
+  "N™™h"  # Clove Tree
+  "ÑySR¯eyr"  # Colchester
+  "Ñy—gO·V"  # Collingwood
+  "èTºN"  # Colossus
+  "Vgw"  # Conqueror
+  "Vgw"  # Conquestador
+  "·^¯efWyr9ei—"  # Constant Reformation
+  "·^¯efWyrætSôuKQ"  # Constant Warwick
+  "åw³w"  # Content
+  "·^ƒl÷^"  # Convertine
+  "Ñy<S)RLN¯e"  # Cornelius
+  "·^ƒlS"  # Cornwall
+  "xQ<y"  # Coronation
+  "ÇRbe"  # Courageux
+  "w‡e‚W"  # Coventry
+  "·^ƒlNl"  # Covertine
+  "ÙNd"  # Crane
+  "KQ÷–‰"  # Cressy
+  "Äœ|œ"  # Crocodile
+  "‹s Q"  # Crown
+  "•Qîr"  # Crowned Lion
+  "aSm‰v"  # Culloden
+  "NW=OpQ"  # Cumberland
+  "²uçT"  # Dainty
+  "Ï–Êƒ"  # Daisy
+  "¾yrØ¯e"  # Dartmouth
+  "fÎW"  # Deal Castle
+  "ê"  # Dee
+  "2–¡V"  # Defence
+  "cb"  # Defiance
+  "·Vnfyry·V"  # Deptford
+  "Ákmp"  # Devastation
+  "·V‡e"  # Devonshire
+  "·V‡e"  # Devonshire
+  "‹s Q"  # Diadem
+  "»”ów"  # Diamond
+  "ÄrY"  # Dido
+  "êeYs|·V"  # Diomede
+  "cüR"  # Director
+  "wmZŒ"  # Dolphin
+  "Y^Xyrá"  # Dorsetshire
+  "YiOS"  # Dover
+  "èT™Ÿ"  # Dragon
+  "·V÷–KQ"  # Drake
+  "àeOu"  # Dreadnaught
+  "·VœO"  # Druid
+  "ıÏg—g"  # Dublin
+  "sYlQ5r"  # Duchess
+  ""  # Due Repulse
+  "lQ5r"  # Duke
+  "“ôT"  # Dunbar
+  "“¯w"  # Duncan
+  "“NWéZ"  # Duncannon
+  "feIRSKQ"  # Dunkirk
+  "p"  # Eagle
+  "ÃW·V R"  # Edgar
+  "1rN!X"  # Edinburgh
+  "1r·VNSZS³u‡eşVS"  # Edward Bonaventure
+  "1r·VNS —NS·V"  # Edward Howard
+  "ÃW<h™„yr"  # Egmont
+  "'YaŒ"  # Elephant
+  "ÃW)RšN¯e"  # Elias
+  "OKNƒ‹v"  # Elizabeth
+  "OKNƒ‹vTN³u¯e"  # Elizabeth Jonas
+  "Œ‚)Rú‹S"  # Ellynore
+  "ÃW^XKQ¯e"  # Essex
+  "'kWôT"  # Europa
+  "İu™Y"  # Excellent
+  "²NAm"  # Exchange
+  "ÃWKQ^Xyr"  # Exeter
+  "ÃWKQ¯eƒ¯e"  # Exmouth
+  "ÜV"  # Expedition
+  "RŒš"  # Experiment
+  "Õl!¯e"  # Fagons
+  "9SÕlKQ¯e"  # Fairfax
+  "p"  # Falcon
+  "yKQpQ"  # Falkland
+  "ÕlSƒ¯e"  # Falmouth
+  "Tg"  # Fame
+  "ÕlV™lÆY"  # Faversham
+  "Ÿ”1r"  # Favourite
+  "T4O"  # Fellowship
+  "òƒÆY"  # Ferme
+  "ZWšR"  # Firm
+  "VpQZSœ"  # Flamborough
+  "V)RyrO·V"  # Fleetwood
+  "V±ƒyr"  # Flight
+  "Flirt"
+  "yKQ¯e"  # Folkestone
+  "àeLe"  # Formidable
+  "y^t¯eyr"  # Forrester
+  "ZWç—"  # Fortitude
+  "x^Ğ"  # Fortune
+  "ïS`"  # Foudroyant
+  "Vg‰¯e"  # Francis
+  "ÕlpQ‰¢uRów"  # French Ruby
+  "fg”N"  # Friday
+  "‡v¶R RŒvR"  # Gabriel Royal
+  "®V™Y÷Shh^9‚"  # Galley Subtile
+  " RpQ·V"  # Garland
+  "TN»l"  # George
+  "ôv^WN–"  # Gibraltar
+  "·^CN¨™"  # Gillyflower
+  "¯st"  # Globe
+  "<hm¯eyr"  # Gloucester
+  "Ñ‘lš"  # Golden Horse
+  "Ñ‘îr"  # Golden Lion
+  "Ñ‘äQğQ"  # Golden Phoenix
+  "Lk)RšN"  # Goliath
+  "i`xQ"  # Goodgrace
+  "I`cw"  # Governor
+  "i`à`KN^y"  # Grace Dieu
+  "<hÉb+Yîh"  # Grafton
+  "¸œ|œ"  # Grampus
+  "sYINºN"  # Grand Mistress
+  "<hpQmtÆY"  # Grantham
+  "èT.T"  # Great Bark
+  "èT.TŒ‚<h"  # Great Bark Aiger
+  "O„U"  # Great Charity
+  "O'YOKNƒ‹v"  # Great Elizabeth
+  "'Yhh^9‚"  # Great Galley
+  "O'Y<yir"  # Great Gift
+  "'YÈT)R"  # Great Harry
+  "'Y<SäSÉb¯e"  # Great Nicholas
+  "èT‚"  # Great Pinnace
+  "'Y‘elš"  # Great Zebra
+  "èT™Ÿ"  # Green Dragon
+  "<h—gZ»l"  # Greenwich
+  "pps¬r"  # Greyhound
+  "<hÌ‘¬‚"  # Griffin
+  "9h‰"  # Guernsey
+  "TüR"  # Guide
+  "	TSy·V"  # Guilford
+  "àQ…QšN"  # Guinea
+  "JSg"  # Half Moon
+  "Ilnfá"  # Hampshire
+  "Ilnf˜«R"  # Hampton Court
+  "Il<SÔb"  # Hannibal
+  "Î‘TQ"  # Hare
+  "ÈTÌ‘QhZGY"  # Harie Sandwich
+  "p«sY–Y"  # Harpy
+  "ÈTôuGY"  # Harwich
+  "Ñ¯e÷^¯e"  # Hastings
+  "—KQ"  # Hawke
+  "’Qi–"  # Hazardous
+  "ÃV"  # Heart
+  "kKQXb"  # Hector
+  "kSƒlîh"  # Helverson
+  "¨N)RÃWTX ›sKNšN"  # Henrietta Maria
+  "i`à`KN^y¨N)R"  # Henry Grace a Dieu
+  "¨N)R Ilnf˜"  # Henry Hampton
+  "wm<h›R¯e"  # Hercules
+  "kOe"  # Hermione
+  "ñ‚Ä–"  # Hero
+  "^=O<SšN"  # Hibernia
+  "Ík"  # Hind
+  "—<h"  # Hogue
+  "—)R<h¯eyr ¯eiOi`"  # Holighost Spayne
+  "^g"  # Hope
+  "—nfôTKQ"  # Hope Bark
+  "^g’Qi–"  # Hopeful Adventure
+  "^txQºNKN¶R"  # House of Sweeds
+  "¨N=O"  # Humber
+  "sKb"  # Hunter
+  " š‘šuQ"  # Hussar
+  ">fk"  # Illustrious
+  "brNïS4x"  # Impregnable
+  "ĞcØš"  # Increase
+  "NÈa"  # Indefatigable
+  "IRg"  # Inflexible
+  "àeOu"  # Intrepid
+  "àeLe"  # Invincible
+  "Onf¯eôuGY"  # Ipswich
+  "O^¯e"  # Isis
+  "Œ‚¯e)Rnf"  # Islip
+  "yŠÆY¯e"  # James
+  "yŠÆYëXhh^9‚"  # James Galley
+  "kS„vyŠÆY¯e"  # James of Hull
+  "tš¡š"  # Jennet
+  "Ís®Yyrnf^t)n"  # Jennet Prywin
+  "sËy"  # Jer Falcon
+  "ıl‰"  # Jersey
+  "6w1z"  # Jesus
+  "TKQ„v6w1z"  # Jesus of Lubeck
+  "Ëemw¦uğ"  # John Baptist
+  "<h—gZ»l„v¦uğ"  # John of Greenwich
+  "1gú‹"  # Juno
+  "ïQyr3thh^9‚"  # Kateryn Galley
+  "ïQmt3t"  # Katherine
+  "ïQmt3tôTKQ"  # Katherine Bark
+  "¯wyr"  # Kent
+  "à"  # Kingfisher
+  "Ñ‘¯e˜"  # Kingston
+  "Ñ‘^XS"  # Kinsale
+  "pQV¯eyr"  # Lancaster
+  "pQâlyr"  # Langport
+  "Ébnf‡e"  # Lapwing
+  "ÉbKQ"  # Lark
+  "gBh"  # Laurel
+  ")R‰R·V"  # Leander
+  "Ng"  # Lee
+  "±ƒú‹KQ¯e"  # Lenox
+  "syŒ"  # Leopard
+  "NO.T"  # Less Bark
+  "S‚"  # Less Pinnace
+  "S‘elš"  # Less Zebra
+  ")RGYòƒS·V"  # Lichfield
+  "—g¯w"  # Lincoln
+  "|^îr"  # Lion's Whelp
+  "SôTôTÉb"  # Little Barbara
+  "S„U"  # Little Charity
+  "Imül"  # Lively
+  "%‡4‡"  # Lizard
+  "&Ofe"  # London
+  "môu¯eXbV"  # Lowestoffe
+  "àVÚ‹&Ofe"  # Loyal London
+  "ÒR·Vm"  # Ludlow
+  "±ƒÆY"  # Lyme
+  "Ì‘¯e"  # Lys
+  "lš<h¾Éb"  # Magdala
+  "lš R¾pQ"  # Magdeline
+  "lš<h³u<S…h"  # Magnanime
+  "NSKN"  # Magnificent
+  "…h·V¯e"  # Maidstone
+  "Z%N"  # Majestic
+  "4Nöe"  # Makeshift
+  "›s<hKNyr"  # Margaret
+  "›sKN Ilnf˜"  # Marie Hampton
+  "›sKN ¯eiOi`"  # Marie Spayne
+  "NÿRÊƒ"  # Marigold
+  "lšS=OÒR"  # Marlborough
+  "lšÌ‘f"  # Marlion
+  "lšØjgKQ"  # Marmaduke
+  "lšÌ‘hg"  # Marryan
+  "lšS¯e"  # Mars
+  "lš¯e˜idS"  # Marston Moor
+  "lšN"  # Martin
+  "›sKN"  # Mary
+  "›sKNŒT¦umt+Y"  # Mary and Joseph
+  "›sKNŒT¦uğ"  # Mary and John
+  "›sKN‰RyrÌ‘ÆY"  # Mary Antrim
+  "›sKN0R"  # Mary Fortune
+  "^›sKN"  # Mary Gloria
+  "›sKNi`xQ"  # Mary Grace
+  "›sKN	TSy·V"  # Mary Guildford
+  "›sKNIl^œ"  # Mary Hambrough
+  "›sKN—NS·V"  # Mary Howard
+  "›sKN^ıV"  # Mary Imperial
+  "›sKNyŠÆYëX"  # Mary James
+  "›sKNú‹ZS"  # Mary Norwell
+  "›sKNeYêi`"  # Mary Odierne
+  "›sKNW¯e"  # Mary Rose
+  "›sKNXblš¯e"  # Mary Thomas
+  "›sKNZmÔk"  # Mary Willoughby
+  "lšîO"  # Matthew
+  "lšîO!îh"  # Matthew Gonson
+  "·Vnfyry·V„v›s·V—g"  # Mawdlyn of Deptford
+  "jgƒ"  # Medusa
+  "…h·VZ"  # Medway
+  "<S"  # Meeanee
+  "…hSôuS"  # Melville
+  "¨XN)R"  # Mercury
+  "…h?–ú‹"  # Merhonour
+  "…h—g"  # Merlin
+  "ºN|œ"  # Mermaid
+  "ÈKQS"  # Michael
+  "s|Sy·V"  # Milford
+  "f‰v"  # Minden
+  "ÆNÎN"  # Minion
+  "s|<SÑ‘"  # Minnikin
+  "ir4Y*`"  # Minotaur
+  ")nŒT"  # Moderate
+  "TIN"  # Monarch
+  "™„KQ"  # Monck
+  "™„Ø`"  # Monmouth
+  "™„TXäS"  # Montagu
+  "g®N"  # Moon
+  "FzS"  # Moor
+  "«ƒSVyr"  # Mordaunt
+  "lšS<h÷–+Y"  # Mulgrave
+  "±UaS"  # Namur
+  "…Q¯eÔk"  # Naseby
+  "ÿbšš"  # Nassau
+  "…mnf˜"  # Neptune
+  "ËuôTKQ"  # New Bark
+  "ËuætKQ"  # Newark
+  "ËuaS¯eS"  # Newcastle
+  "Yºƒ"  # Nightingale
+  "àeLe"  # Nonpareil
+  "gÁT"  # Nonsuch
+  "ú‹yKQ"  # Norfolk
+  "ú‹îh=OpQ"  # Northumberland
+  "ú‹ôuGY"  # Norwich
+  "ú‹NIl"  # Nottingham
+  "wmm"  # Ocean
+  "eYy·V"  # Orford
+  "ÄOÌ‘Á"  # Orion
+  "eY™„·V"  # Ormonde
+  "eY0tÌ‘"  # Ossory
+  "ir%m"  # Oxford
+  "^Éb¯e"  # Pallas
+  "Xo‰"  # Pansy
+  "ÑyŒ"  # Panther
+  "fI"  # Parrot
+  "^yrÌ‘KQ"  # Patrick
+  "İOW"  # Paul
+  "HU"  # Pelican
+  "mV^WKQ"  # Pembroke
+  "Xo‰v<S¯e"  # Pendennis
+  "ñ‚ÙNµ^"  # Perseus
+  "|V—V"  # Peter
+  "|V—Vów´i"  # Peter Pomegranate
+  "òƒ)RnfŒT›sKN"  # Philip and Mary
+  "®vyr"  # Pitt
+  "nf)Rƒ¯e"  # Plymouth
+  "âlO‚„S¯e"  # Poictiers
+  "âlTeid¯e"  # Polyphemus
+  "âls^pg"  # Popinjay
+  "jŒ*s"  # Porcupine
+  "âlyrlš*m"  # Port Mahon
+  "âlyrpQ"  # Portland
+  ":V›R"  # Powerful
+  "I`ßu"  # President
+  "nf÷–¯e˜"  # Preston
+  "nfÌ‘ÆYW¯e"  # Primrose
+  "nfÌ‘ÆYW¯e—O"  # Primrose Hoy
+  "‹sPR"  # Prince
+  "²N‹s"  # Prince Consort
+  "V÷–·VÌ‘KQ‹sPR"  # Prince Frederick
+  "TN»l‹sPR"  # Prince George
+  "eYpQ»l²N‹s"  # Prince of Orange
+  "ZSëX²N‹s"  # Prince of Wales
+  "‡v*YPR"  # Prince Royal
+  "?–…h)RšNlQIN"  # Princess Amelia
+  "aSW3tlQIN"  # Princess Caroline
+  "ïfƒlQIN"  # Princess Louisa
+  "‡v¶RlQIN"  # Princess Royal
+  "nfWÆYyr"  # Promt
+  "(ŒNa"  # Prudent
+  "sY‹s"  # Queen
+  "YmyrsY‹s"  # Queen Charlotte
+  "fMQ"  # Quittance
+  "iVy†"  # Rainbow
+  "Tt"  # Raisonnable
+  "Ébs|)R¯e"  # Ramillies
+  "Éb…QÒR+Y"  # Ranelagh
+  "¢uîr"  # Red Lion
+  "leOu"  # Redoubtable
+  "9ei—"  # Reformation
+  "Dd?e"  # Regent
+  "T‰Š"  # Renown
+  "ÍSûQ"  # Repulse
+  "xvz"  # Research
+  "„˜Y"  # Reserve
+  "µb—b"  # Resistance
+  "³QÃV"  # Resolution
+  "YŸ"  # Restoration
+  "YÇN"  # Revenge
+  "‹v…S„vYÇN"  # Revenge of Whitehall
+  "Ì‘mV"  # Rippon
+  "WR¯eyr"  # Rochester
+  "WRyyr"  # Rochfort
+  "W·V<S"  # Rodney
+  "WôTKQ"  # Roebuck
+  "WÆY<S"  # Romney
+  "‹ˆ.Ÿ"  # Roo
+  "2—Nhh^9‚"  # Rose Galley
+  "Lp(g"  # Rosebush
+  "‡v¶R?–·V±ƒ·V"  # Royal Adelaide
+  "‡v¶R?–SV÷–·V"  # Royal Alfred
+  "‡v¶R?–SV÷–·V"  # Royal Anne Galley
+  "‡v¶Rågt"  # Royal Charles
+  "‡v¶RyŠÆYëX"  # Royal James
+  "‡v¶RïQmt3t"  # Royal Katherine
+  "‡v¶Raj(g"  # Royal Oak
+  "‡v¶RóS"  # Royal Sovereign
+  "‡v¶RZÉ^"  # Royal William
+  "¢uRów"  # Ruby
+  "bS=Oyr"  # Rupert
+  "W.t"  # Russell
+  "(„KQ÷–yr"  # Sacrett
+  "1WeYS,g¯e"  # Saint Albans
+  "1W‰R·Vœ"  # Saint Andrew
+  "1W'YkS"  # Saint David
+  "1WTN»l"  # Saint George
+  "1W³R&O¯e"  # Saint Lawrence
+  "1Ws|æÒR"  # Saint Michael
+  "1W^yrÌ‘KQ"  # Saint Patrick
+  "1WºN"  # Saint
+  "İOW"  # Paul
+  "s¼–"  # Saker
+  "Œ‡ˆ‡"  # Salamander
+  "0tSyQ=OÌ‘"  # Salisbury
+  "Qhnfîh"  # Sampson
+  "QhZGY"  # Sandwich
+  "İ„Rów"  # Sapphire
+  "án³"  # Satisfaction
+  "(„şVi`"  # Saturn
+  "ôle"  # Saudadoes
+  "¯eaS^W"  # Scarborough
+  "‰‡^?–"  # Scipio
+  "wmlš"  # Seahorse
+  "¢c0t"  # Search
+  "^X	TidS"  # Sedgemoor
+  "^XSÔk"  # Selby
+  "Najh"  # Seven Oaks
+  "Nf"  # Seven Stars
+  "^Xvl"  # Severn
+  "^S…Q¯e"  # Sheerness
+  "ÀNœ¯e=OÌ‘"  # Shrewsbury
+  "^XìX"  # Siren
+  "¯em(„<S"  # Slothany
+  "SÕqPR"  # Small Swallow
+  "0tS"  # Solebay
+  "dRìr"  # Solitaire
+  "(„Ø^Xyr"  # Somerset
+  "0tSup"  # Sorlings
+  "WS‰Rnffe"  # Southampton
+  "WSwm!X"  # Southsea Castle
+  "óS"  # Sovereign
+  "wmNóS"  # Sovereign of the Seas
+  "ãNŠºN"  # Speaker
+  "FZFZ³u"  # Speedwell
+  "¯eXo^X"  # Spencer
+  "¯e¬‚KQ¯e"  # Sphinx
+  "ê•w"  # Splendid
+  "¾|up"  # Sprite
+  "Ä–"  # Stag
+  "b×e"  # Standard
+  "„^%N"  # Stately
+  "¯eyrup!X"  # Stirling Castle
+  "s"  # Stork
+  "¯eyrÉby·V"  # Strafford
+  "¯eyrÉb¯e"  # Struss
+  "bŸR"  # Success
+  "(„yKQ"  # Suffolk
+  "Qh·VpQ"  # Sunderland
+  "Qh·‹"  # Sunne
+  "ÖeÎe"  # Superb
+  "(„^XKQ¯e"  # Sussex
+  "(„mtpQ"  # Sutherland
+  "ÕqPR"  # Swallow
+  ")YE"  # Swan
+  "Llš"  # Sweepstake
+  "Åwc"  # Swift
+  "Oewc"  # Swiftsure
+  "‘—|—"  # Tartar
+  "TXôu¯eXbKQ"  # Tavistock
+  "‚„Ø^tS"  # Temeraire
+  "Œp„S"  # Terrible
+  "yrîO¯e"  # Theseus
+  "Xblš¯e"  # Thomas
+  "	N‹s"  # Three Kings
+  "÷–—"  # Thunderer
+  "wN†"  # Tiger
+  "‚„S=OÌ‘"  # Tilbury
+  "Xb"  # Torbay
+  "Xb—g˜"  # Torrington
+  "Xbôu"  # Towey
+  "yrÉb™„TX³u"  # Tramontana
+  "yr÷–¾"  # Tredagh
+  "T<hWHY<h"  # Trego Ronnyger
+  "Ûv'Y"  # Tremendous
+  "	NÉSb"  # Trident
+  "	NMONSO"  # Trinity
+  "T<S‚„¨N)R"  # Trinity Henry
+  "	NN‡v¶R"  # Trinity Royal
+  "yr±ƒ˜"  # Triton
+  "ïQËe"  # Triumph
+  "ïS`—"  # Trusty
+  "T±ƒyr"  # Trywright
+  "ÌSîr"  # Two Lions
+  "ìrÒ‰‹Q"  # Unicorn
+  "Twßv"  # Union
+  "ßuN"  # Unity
+  "ñ‚ÇR"  # Valiant
+  "HQ•"  # Vanguard
+  "ïSle"  # Venerable
+  "ôu¯eTX"  # Vestal
+  "¿RS"  # Veteran
+  "Üw)R"  # Victory
+  "ôub"  # Vigo
+  "‰N•"  # Vindictive
+  "+tWpQ"  # Violet
+  "‰nm"  # Volage
+  "bëX"  # Warrior
+  "ƒl¯eÜbyr"  # Warspite
+  "ƒlÌ‘KQ"  # Warwick
+  "æ—¯eyrÖvyr"  # Westergate
+  "æ—ƒ¯e"  # Weymouth
+  "‹vŠq"  # White Bear
+  "‹v&"  # White Raven
+  ")n‰V¯eyr"  # Winchester
+  ")nƒ"  # Windsor
+  ")nƒÎW!X"  # Windsor Castle
+  "Ş˜™Ÿ"  # Wivern
+  "OSôuGY"  # Woolwich
+  "O¯eyr"  # Worcester
+  "Å–ƒ¯e"  # Yarmouth
+  "¦uKQ"  # York
+  "S‹sPR"  # Young Prince
+  "Âríp"  # Zealous
+  "?–fkˆ–"  # Abukuma
+  "dÎW"  # Akagi
+  "fów"  # Akashi
+  "Sf"  # Akatsuki
+  "Ùf"  # Akebono
+  "‰Rz‚"  # Aki
+  "Ëy‘N"  # Akigumo
+  "ËyÎ˜"  # Akikaze
+  "Ëyè–"  # Akisame
+  "Ëy—"  # Akishimo
+  "Ëy%m2m"  # Akitsushima
+  "Ëyg"  # Akizuki
+  ")YÎW"  # Amagi
+  ")Yş–"  # Amagiri
+  ")Y%mÎ˜"  # Amatsukaze
+  "R—öS"  # Aoba
+  "u„"  # Aoi
+  "0—"  # Arare
+  "šS"  # Arashi
+  "Rƒno"  # Arashio
+  "	gf"  # Ariake
+  "g"  # Asadori
+  "gœ˜"  # Asagao
+  "gş–"  # Asagiri
+  "g‘N"  # Asagumo
+  "gåe"  # Asahi
+  "gÎ˜"  # Asakaze
+  "Emô•"  # Asama
+  "gêQ"  # Asanagi
+  "g—"  # Asashimo
+  "gno"  # Asashio
+  "Ç‚"  # Ashi
+  "³Äg"  # Ashigara
+  "?–Ï‚"  # Aso
+  "‰R…R"  # Ataka
+  "ípwm"  # Atami
+  "1r•R"  # Atogo
+  "ëuâl"  # Ayanami
+  ">T»Y"  # Azuma
+  "“h"  # Azusa
+  "ĞxÎW"  # Banjo
+  "à‡™Ÿ"  # Banryu
+  "CS"  # Chidori
+  "Qrid"  # Chikuma
+  "CS›S"  # Chishima
+  "CSS"  # Chitose
+  "CSãN0u"  # Chiyoda
+  "CSãN0ubV"  # Chiyodagata
+  "•¸œ"  # Chogei
+  "wm"  # Chokai
+  "²Qp"  # Chuyo
+  "i"  # Enoki
+  "ébIc"  # Etorofu
+  "9Tê–"  # Fubuki
+  "ÌRëX"  # Fuji
+  "ä…âl"  # Fujinami
+  "äSp"  # Furutaka
+  "OÁ‰"  # Fushimi
+  "vbQh"  # Fuso
+  "ŒNÁ‰"  # Futami
+  "™‚É„"  # Fuyo
+  "¬Qg"  # Fuyutsuki
+  "WSÎ˜"  # Hae
+  ")„"  # Hagi
+  ")„Î˜"  # Hagikaze
+  "ËÑ"  # Haguro
+  "ËÎ˜"  # Hakaze
+  "ènÎ˜"  # Hamakaze
+  "ènâl"  # Hamanami
+  "±‚g"  # Hanazuki
+  ")„>S"  # Haogi
+  "%fÎ˜"  # Harukaze
+  "›iT"  # Haruna
+  "%fè–"  # Harusame
+  "%fg"  # Harutsuki
+  "ehËz"  # Hashidate
+  "Ë›S"  # Hashima
+  "×eÎ˜"  # Hatakaze
+  "."  # Hato
+  "R%f"  # Hatsuharu
+  "RÁ–"  # Hatsukari
+  "RÎ˜"  # Hatsukaze
+  "RÑo"  # Hatsuse
+  "R—"  # Hatsushimo
+  "R…h"  # Hatsuume
+  "Rê–"  # Hatsuyuki
+  "R1j"  # Hatsuzakura
+  "Rg"  # Hatsuzuki
+  "¼–"  # Hayabusa
+  "ée%f"  # Hayaharu
+  "éeâl"  # Hayanami
+  "éeÑo"  # Hayase
+  "ée—"  # Hayashimo
+  "éeno"  # Hayashio
+  "8T"  # Hayasui
+  "¾uÎ˜"  # Hayate
+  "s^Ü"  # Heien
+  "ÍT"  # Hibiki
+  "ÔkáS"  # Hiei
+  "gh"  # Hinoki
+  "Ôko‚"  # Hira
+  "s^7b"  # Hirado
+  "Ş˜™Ÿ"  # Hiryu
+  "ñƒ"  # Hishi
+  "Ş˜!nÑo"  # Hitonose
+  "N"  # Hiyodori
+  "¥wMR"  # Hizen
+  "^Î˜"  # Hokaze
+  "äQÔ"  # Hosho
+  "åeT"  # Hyuga
+  "O9T"  # Ibuki
+  "÷–"  # Ikazuchi
+  "÷–"  # Ikazuchi
+  "ùXS"  # Iki
+  "uyš"  # Ikoma
+  "5u"  # Inazuma
+  "”NŒv›S"  # Ioshima
+  "öwÎ˜"  # Isokaze
+  "öwâl"  # Isonami
+  "”NASÃ”"  # Isuzo
+  "%N›S"  # Itsukushima
+  "ówÁ‰"  # Iwami
+  "ĞxKb"  # Iwate
+  "ŒTÉl"  # Izumi
+  "úQ‘N"  # Izumo
+  "Å¸œ"  # Jingei
+  "^y"  # Jintsu
+  "¼–p"  # Junyo
+  "fh"  # Kaba
+  "«g"  # Kaede
+  " R:"  # Kaga
+  "3–p"  # Kagero
+  "wmè•"  # Kaimon
+  "ŞV)Y"  # Kaiten
+  "wmp"  # Kaiyo
+  "ÿg"  # Kaki
+  " RäS"  # Kako
+  "^yÎ˜"  # Kamikaze
+  "^yZ"  # Kamoi
+  "U%m"  # Karatsu
+  "R1„"  # Karukaya
+  ".rn"  # Kasagi
+  "t2"  # Kashi
+  "™™i"  # Kashii
+  "jŸS"  # Kashiwara
+  "%fåe"  # Kasuga
+  "—"  # Kasumi
+  "™™ÖS"  # Katori
+  "Bh"  # Katsura
+  "i„ÎW"  # Katsuragi
+  "³l…Q"  # Kawachi
+  "mlÎ˜"  # Kawakaze
+  "µi"  # Kaya
+  "Î˜‘N"  # Kazagumo
+  "‰i"  # Keyaki
+  "É–"  # Kiji
+  "Êƒg"  # Kikuzuki
+  "<›`"  # Kinu
+  "cˆ.r"  # Kinugasa
+  "Ph"  # Kiri
+  "ş–›S"  # Kirishima
+  "‚Yg"  # Kisaragi
+  "¸Sâl"  # Kishinami
+  "(gşf"  # Kiso
+  "SN"  # Kitakami
+  "nâl"  # Kiyonami
+  "n—"  # Kiyoshimo
+  "yšeh"  # Komahashi
+  "Ñ‘R"  # Kongo
+  "Sp"  # Kotaka
+  "2uÁ”"  # Kotetsu
+  "tèx"  # Kuma
+  "ŠqÎ‘"  # Kumano
+  "—lš"  # Kurama
+  "Ñno"  # Kuroshio
+  "`i"  # Kusunoki
+  "Qh"  # Kuwa
+  "i„"  # Kuzu
+  "‚Î˜"  # Maikaze
+  "Ùi"  # Maki
+  "wS‘N"  # Makigumo
+  "wSâl"  # Makinami
+  "wd"  # Manazuru
+  "Œg"  # Matsu
+  "ŒgÎ˜"  # Matsukaze
+  "Œg›S"  # Matsushima
+  "id6w"  # Maya
+  "ánno"  # Michishio
+  "áng"  # Michizuki
+  ":İO"  # Mikaho
+  "	N.r"  # Mikasa
+  "	Nåeg"  # Mikazuki
+  "	Nˆ–"  # Mikuma
+  "4làeg"  # Minazuki
+  "ğS‘N"  # Minegumo
+  "ğSÎ˜"  # Minekaze
+  "Á‰›S"  # Mishima
+  "ñmê–"  # Miyuki
+  "^tWz"  # Mizhuo
+  "gg"  # Mochizuki
+  "gN"  # Mogami
+  "g"  # Momi
+  "Ch"  # Momo
+  "mR%f"  # Moshun
+  "ÎN‘N"  # Murakumo
+  "Qgè–"  # Murasame
+  "fkÏ…"  # Musashi
+  "F–eY"  # Mutsu
+  "fwg"  # Mutsuki
+  "™YØš"  # Myoko
+  "±zf"  # Nachi
+  "•âl"  # Naganami
+  "•o‚"  # Nagara
+  "•è•"  # Nagato
+  "•g"  # Nagatsuki
+  "±Âs"  # Naka
+  "âlÎ˜"  # Namikaze
+  "jm"  # Naniwa
+  "bi"  # Nara
+  "¨h"  # Nashi
+  "TÖS"  # Natori
+  "Y‘N"  # Natsugumo
+  "Yno"  # Natsushio
+  "Yg"  # Natsuzuki
+  "PRåe"  # Nenohi
+  "°eØš"  # Niitaka
+  "°eg"  # Niizuki
+  "†i"  # Nire
+  "åeÛ"  # Nisshin
+  "ÁNÀm"  # Niyodo
+  "Î‘›S"  # Nojima
+  "Î‘Î˜"  # Nokaze
+  "ıwãN"  # Noshiro
+  "ıw‰vT"  # Notoro
+  "Î‘R"  # Nowaki
+  "¼lÎ˜"  # Numakaze
+  "çw"  # Oboro
+  "Ä–ùz"  # Odake
+  "'Y•N"  # Oi
+  "ıÎ˜"  # Oite
+  "²QÎ˜"  # Okikaze
+  "²Qâl"  # Okinami
+  "²Qóu"  # Okinawa
+  "²Q›S"  # Okinoshima
+  "'Yâl"  # Onami
+  "'Y›S"  # Oshima
+  "'Yno"  # Oshio
+  "'YÊl"  # Otomari
+  "?"  # Otori
+  "ó—Ë"  # Otowa
+  "²Nno"  # Oyashio
+  "'YÀm"  # Oyodo
+  "™ŸäQ"  # Ryuho
+  "™Ÿµš"  # Ryujo
+  "øv!j"  # Sagami
+  "m"  # Sagi
+  "írş–"  # Sagiri
+  "Ši"  # Sakaki
+  "R‘S"  # Sakawa
+  "1j"  # Sakura
+  "”Ngè–"  # Samidare
+  "ée×‚"  # Sanae
+  "‹vg"  # Satsuki
+  "(„id"  # Satsuma
+  "ılÎ˜"  # Sawakaze
+  "Ÿm"  # Sazanami
+  "İT…Q"  # Sendai
+  "Dd%m"  # Settsu
+  "öeè–"  # Shigure
+  "i"  # Shii
+  "weâl"  # Shikinami
+  "we›S"  # Shikishima
+  "›SÎ˜"  # Shimakaze
+  "—g"  # Shimotsutki
+  "`SˆR"  # Shimushu
+  "áOSm"  # Shinano
+  "N‘N"  # Shinonome
+  "^y"  # Shinsoku
+  "PlÎ˜"  # Shiokaze
+  "‹vâl"  # Shirakami
+  "‹v‘N"  # Shirakumo
+  "Nåwkp"  # Shiranui
+  "‹vp"  # Shirataka
+  "‹v2—"  # Shiratsuyu
+  "eyäQ"  # Shoho
+  "Ôd"  # Shokaku
+  "Km)Y"  # Sokuten
+  "Í‚™Ÿ"  # Soryu
+  "Ig"  # Sugi
+  "‰˜èx"  # Suma
+  "…–0u"  # Sumida
+  "X"  # Sumire
+  "hT2–"  # Suwo
+  "ÉQÎ˜"  # Suzukaze
+  "ÉQâl"  # Suzunami
+  "ÉQg"  # Suzutsuki
+  "Ã”7Œ"  # Suzuya
+  "Ã”7Œ"  # Suzuya
+  "Xj"  # Tachibana
+  "*YRÎ˜"  # Tachikaze
+  "'YäQ"  # Taiho
+  "'Yp"  # Taiyo
+  "ØšCSWz"  # Takachiho
+  "Øšâl"  # Takanami
+  "ØšÄ–"  # Takao
+  "Øšx"  # Takasago
+  "Øšno"  # Takashio
+  "ùz"  # Take
+  "Yid"  # Tama
+  "‰sâl"  # Tamanami
+  "9NT"  # Tango
+  "7ŒÎ˜"  # Tanikaze
+  "YYo‚"  # Tatara
+  "Ëz^y"  # Tategami
+  "™Ÿ0u"  # Tatsuta
+  "NoS"  # Teibo
+  ")Y™Ÿ"  # Tenryu
+  "gqg"  # Teruzuki
+  "Ë"  # Toba
+  "öe%mÎ˜"  # Tokitsukaze
+  "8^Ğx"  # Tokiwa
+  "ËSd"  # Tomozuru
+  ")R9h"  # Tone
+  "WPO"  # Tosa
+  "?i"  # Tsubaki
+  "Õq"  # Tsubame
+  "%m‰"  # Tsugaru
+  "Qrâl"  # Tsukuba
+  "Qr+t"  # Tsukushi
+  "ùRlš"  # Tsushima
+  "ƒ"  # Tsuta
+  "‡R»l"  # Uji
+  "…h"  # Ume
+  "wmÎ˜"  # Umikaze
+  "kuP"  # Unebi
+  "‘N™Ÿ"  # Unryu
+  "‘Np"  # Unyo
+  "‘Np"  # Unyo
+  "fmÎ˜"  # Urakaze
+  "fmâl"  # Uranami
+  "no"  # Ushio
+  "„…‘N"  # Usugumo
+  "oSg"  # Uzuki
+  "å‚öS"  # Wakaba
+  "å‚Iƒ"  # Wakakusa
+  "å‚«R"  # Wakamiya
+  "å‚ùz"  # Wakatake
+  "å‚g"  # Wakatsuki
+  "å‚1j"  # Wakazakura
+  "h…"  # Warabi
+  "âwùz"  # Yadake
+  "kQÍ‘qS"  # Yaeyama
+  "kQÍ‘1j"  # Yaezakura
+  "âwçw"  # Yahagi
+  "âwÎ˜"  # Yakaze
+  "kQ‘N"  # Yakumo
+  "qS‘N"  # Yamagumo
+  "qSÎ˜"  # Yamakaze
+  "qSÎW"  # Yamashiro
+  "'YŒT"  # Yamato
+  "qSg"  # Yamazuki
+  "óg"  # Yanagi
+  "kQ›S"  # Yashima
+  "kQAS›S"  # Yasoshima
+  "%Vu"  # Yayoi
+  "Àm"  # Yodo
+  "Àmeh"  # Yodohashi
+  "µRg"  # Yoizuki
+  "ì„"  # Yomogi
+  "	TÎ‘"  # Yoshino
+  "3–%f"  # Yoshun
+  "Y.V"  # Yubari
+  "Yş–"  # Yugiri
+  "Y‘N"  # Yugumo
+  "ê–‘N"  # Yukigumo
+  "ê–Î˜"  # Yukikaze
+  "YêQ"  # Yunagi
+  "1uo‚"  # Yura
+  "Yg"  # Yuzuki
+  "^täQ"  # Zuiho
+  "^td"  # Zuikaku
+  "òSÔkyræt9h"  # Speedwagon
+}
+
+army_names = {
+  "^ıVF–›Q"  # Imperial Army
+  "¯eaSŒ…yr›Q"  # Scarlet Army
+  "‡v¶RF–›Q"  # Royal Army
+  "v`T››Q"  # Army of the Devil
+  "É‰›Q"  # Army of the Satori
+  "0Wup¿k›Q"  # Chireiden Army
+}
+
+fleet_names = {
+  "^ıVwm›Q"  # Imperial Navy
+  "‡v¶Rwm›Q"  # Royal Navy
+  "İ„r‚-N–"  # Blue Squadron
+  "¢ur‚-N–"  # Red Squadron
+  "‹vr‚-N–"  # White Squadron
+  "¯eaSŒ…yr0‚–"  # Scarlet Fleet
+  "v`T›0‚–"  # Fleet of the Devil
+  "0Wup¿k0‚–"  # Chireiden Fleet
+  "É‰0‚–"  # Fleet of the Satori
+}

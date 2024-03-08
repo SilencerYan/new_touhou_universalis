@@ -1,0 +1,742 @@
+﻿l_english:
+ th_estate_shrine_maiden: "ëTsY"
+ th_estate_youkais: "–Y*`"
+ th_estate_witches: "T›ÕlO"
+ th_estate_church_flexible_deities: "	éb*NºN^yGy"
+ th_estate_church_flexible_deities_desc: "N,‚egô‹ÿN*NºNNuêSýw	ébNMOˆR²b^y0NÇÿ‚Yœg0ô‹g0„v¹eV—VSVÿRmNïSýwô‹gëTsYýVÆ‰ÙNÆQR0"
+ th_estate_clerigy_flexible_deities_effect_tooltip: "=T(uÙ*N³Q®‹SAQ¸‹`OÏk§Y20§!t^9eØS`O„v*NºN^yGy0"
+ th_estate_clerigy_flexible_deities_revoke_tooltip: "y(uÙ*NSAQ¸‹`OÏk§Y20§!t^9eØS`O„v*NºN^yGy„v³Q®‹0"
+ th_estate_church_force_conversion: "fk›R±RYe"
+ th_estate_church_force_conversion_desc: "^yLwwìNàeÕlÍV×SVïzŒTVYe’VY«ŽŽNgS»iKNµOÿvQSÙuˆNbìNåNôc©RåN¿Ob¹eýwT»ESìNUS°sbìN—RYe„vŒTs^Nb—0Çfk›RegUS°sÿ"
+ th_estate_demons: "T›ir"
+ th_estate_konpaku: "B›D›¶R"
+ th_estate_lunar_elite: "gºNCg5"
+ estate_fairy_pirates: "–Y¾|'Y×v"
+ estate_fairy_pirates_desc: "dk6–BSãNhˆŒ®v„vccË†<›ìNåNÊSdv`jOgR„v–Y¾|ÿvQùRŽNûNUO‹NirGWN(WaÿÅNHNOêñT‰l‰‘ŽNuIm„vê1u-NwHVÖSjŒHY0d.R«R c0yYìN=f–Y¾|ÿNO«ˆvQýV¦^åNY„vûNUOºNœU0kN„vyYìNÿ(WØml„v	N–Y¾|YÅ‰—V†NOONb0\n\n§Ydk6–BS„vàVÚ‹¦^êSýwÇdv`jOgR0«R cwm¸S0>mcÁy c9‚ÊSÂSbegÐcØš0\ndk6–BS„vqVÍT›RêSýwÇdv`jOgR0«R cwm¸SbVgÑSUS¦^ØšŽN10„v¿lwmwýN0§!"
+ EST_VAL_PRIVATEERING: "åb	gÁy c9‚: §R$VAL$§!"
+ EST_VAL_IS_AT_WAR: "YŽNb‰N-N: §R$VAL$§!"
+ EST_VAL_BLOCKADES_ONE_PORT: "S•1Y=nãS: §R$VAL$§!"
+ EST_VAL_BLOCKADES_FIVE_PORT: "S•5Y=nãS: §R$VAL$§!"
+ EST_VAL_BLOCKADES_TEN_PORT: "S•10Y=nãS: §R$VAL$§!"
+ EST_VAL_IS_AT_PEACE: "YŽNŒTs^-N: §R$VAL$§!"
+ EST_VAL_BORED_FAIRY: "N,‚–Y¾|„vèla›R: §R$VAL$§!"
+ EST_VAL_TH_FAME: "Tg: §G$VAL$§!"
+ th_estate_church_danmaku_support: "9VU^kp›R=eôc"
+ th_estate_church_danmaku_support_desc: "	g›NöeP„vVØSùR»lwegô‹O>f—VÇŽNðV¾–0G0RÙÍyÅ`µQyYìNïSåNlwTvQê¶R„vëTsYBl©RåN(W9VU^b-NÐc›Okp›R=eôc0"
+ EST_IS_AI: "=fAIÿ§G$VAL$§!"
+ th_estate_nobles_third_eye: ",r	NêS<w"
+ th_estate_nobles_third_eye_desc: "íQPNw0Wup¿kKNINû‹ÃV„výw›Rÿ¿OýwwÁ‰ãN„v…QÃVv^NùRÖNìN„vLˆHN RåNµc6R0NÇÿyYêñT‹†ýwYû‹ÖS0RÖNìN„v…QÃVÿFOmN—‰vQÖNã^S„v.^©Regµc6RÖNìN„v>Nªc&&"
+ th_estate_burghers_governmental_focus: "NÃVÎN?e"
+ th_estate_burghers_governmental_focus_desc: "bìN[Root.GovernmentName]„v[Root.Get^lName]S(Wb¹e?eœ^…QnboôfHNImÃ„vÒ‰r‚ÿwÙmNO'Y'Yib.VvQ(WýV…Q„vqVÍT›R0"
+ TH_DOES_NOT_CARE: "N(WNN+RºNT„v=fÀNHNÿ§R$VAL$§!"
+ th_estate_samurais: "fkëX"
+ estate_rival_kaguya: "8lÜ„vlQIN"
+ estate_rival_kaguya_desc: "MOŽNbýV…Qè1uì„±ƒqS‰Y,gºNNb†˜üR„vRÂˆ>mû|0àVN¡r=fÛ‹NgØ=f>eýàeÕlŠbyYÎNbýV9hd–ÿNbåNbýV¿OXR(W	g×SyY†˜üR„v>mû|0\nÙÌ‘„vàVÚ‹¦^c„v=f‰YùR¹Y¢u„v‹Ya¦^åNÊSùRä…ŸS?eCg„vwÕlÿwqVÍT›RžRR=f‰Y(WbýV…Q„vqVÍT›R0(WqVÍT›RÇNO„vÅ`µQNÿ‰YïSýwOŒBlVÑSÛSqNåNÐcGSvQ(WbýV„vÍ‘‰'`0\nd–†NàVÚ‹¦^NqVÍT›RÿbìN„v‰kLeØ	gNw§YaþV§!ÿåN³QšRbýVNb6e0R„v‹NöN„v'`(0‹Ya¦^ŠNOÿaþVŠ	g³R0\n§YàVÚ‹¦^NqVÍT›RêSýwÇ‹NöNNyrCgeg9eØS0§!"
+ estate_rival_mokou: "ä…ŸSN‰kºN"
+ estate_rival_mokou_desc: "MOŽNbýV…Qè1uä…ŸS¹Y¢u,gºNNb†˜üR„vRÂˆ>mû|0àVN¡r=fÛ‹NgØ=f>eýàeÕlŠbyYÎNbýV9hd–ÿNbåNbýV¿OXR(W	g×SyY†˜üR„v>mû|0\nÙÌ‘„vàVÚ‹¦^c„v=f¹Y¢uùR‰Y„v‹Ya¦^åNÊSùR8lÜ­N?eCg„vwÕlÿwqVÍT›RžRR=f¹Y¢u(WbýV…Q„vqVÍT›R0(WqVÍT›RÇNO„vÅ`µQNÿ‰YïSýwOŒBlVÑSÛSqNåNÐcGSvQ(WbýV„vÍ‘‰'`0\nd–†NàVÚ‹¦^NqVÍT›RÿbìN„v‰kLeØ	gNw§YaþV§!ÿåN³QšRbýVNb6e0R„v‹NöN„v'`(0‹Ya¦^ŠNOÿaþVŠ	g³R0\n§YàVÚ‹¦^NqVÍT›RêSýwÇ‹NöNNyrCgeg9eØS0§!"
+ estate_yama: "–T›^T"
+ estate_yama_desc: "–T›„vLw1=fùR‰^ó`aN„vupB›ËeåNcknx„vÁˆ2RÿTöeôuû|OO‰^ó`aN1V„vGWaˆOKNŒR‹Y‚YR0\nå‹6–BSãNhˆ†NjOHN‰^ó`aNKN–T›SVNS„v`O	gYSqVÍT›RåNÊS`O„vLw1=f&T0RMO0§YàVÚ‹¦^§!ãNhˆ‰^ó`aNO	gàQba?a,TÎN`O„vô‹Yeÿw`O„v§YqVÍT›R§!RãNhˆ`O„vô‹YeO	gY%Nƒw„^Í‘0P©RØšàVÚ‹¦^NqVÍT›R¿OýwÇY²NKbµkNßu‰^ó`aN0"
+ EST_VAL_RIVAL_HATRED: "†SòSÇNh`: §R$VAL$§!"
+ EST_VAL_RIVAL_LOVE: "sQû|ØS¨R: §R$VAL$§!"
+ TH_HATES_TO_BE_SUMMONED: "¨‹ŒSìSV®‹‹NOÿ§R$VAL$§!"
+ TH_IMPRESSED_RIVAL: "leiO‰kLeÿ§G$VAL$§!"
+ th_estate_rival_kaguya_subsidize_eientei: "D©R8lÜ­N"
+ th_estate_rival_kaguya_subsidize_eientei_desc: "bìNOD©R8lÜ­N„våe8^ÐjO0ÙNOÙubýV&^egôv¥c„v‹YYÿFOO©‹‰YˆVána0"
+ th_estate_rival_kaguya_satisfy_kaguya: "án³‰Y„vàet‰Bl"
+ th_estate_rival_kaguya_satisfy_kaguya_desc: "ì„±ƒqS‰Y=fMON R‚‚6R„vlQINÿyY8^Oó`úQ›NäS*`„võV4YegSbdbìN„vINºN0HN†N‚‚wNbIN±‚(W‰Y«ŽN„vöeô•ÿbìNïSåNÔY>m›NI`cwegÿfÙubINr^ÙIm?Q0KS¡rÙ	göePOŠbÖNìNÙuˆmw‰c&&"
+ th_estate_rival_mokou_allow_more_human: "AQ¸‹ôfYºN‰|ÛeQ÷ùz—g"
+ th_estate_rival_mokou_allow_more_human_desc: "ä…ŸS¹Y¢u=fºN‰|„vàVžRåb²bw0AQ¸‹ôfYºN‰|(W÷ùz—gESOONVÑSïSýwOäNyYána0FOãN÷NmN¸‹O4xOWùz—g¯sƒX&&"
+ th_estate_rival_mokou_satisfy_mokou: "=ec¹Y¢u„vI•¼p"
+ th_estate_rival_mokou_satisfy_mokou_desc: "ä…ŸS¹Y¢u^—8^œU0kb—e0KS¡ryYNgN†NbìN„vTQPRÿFOyY±z6qw6q„v´f`mN¸‹ÍNOùRùz—g.bmc1Y0bìNïSåN>m›NTQPR»SùRØNyY0ƒRìN=fO×S›Nmc1YÿFOwxmNÔkbINm0RIeûQ‰eg—V‹Y0"
+ th_estate_rival_allow_house_visits: "AQ¸‹úQeQ…R¸"
+ th_estate_rival_allow_house_visits_desc: "KS¡rÙ=f*NOºNÛuæ‚NäNºNuŒS„v„vÄ‰šRÿFOÙmN=f*NïSåN.^©RbýVbcegb¹e¿RLeKNàVÚ‹„vyrCg0NêS	g[Root.Monarch.GetName]O×S0RqVÍT0"
+ th_estate_rival_allow_house_visits_at: "§YbìN„v‰kLeïS9hncvQê«Ž„va?a–öe.¿‹[Root.Monarch.GetName]0§!"
+ th_estate_rival_allow_house_visits_bt: "§YbìNSN—VQÁyê.¿‹[Root.Monarch.GetName]0‰úQeQ…R¸—‰c	g÷‹ìg0§!"
+ th_estate_burghers_arctic_development: "g0WVÑS"
+ th_estate_burghers_arctic_development_desc: "bìNŸqÃu„vãlìNNÅNýwQgv`±R„v¯sƒXNuXRN»SÿwNØýwÑSUStQúe0"
+ th_estate_shinigami: "‰k^y"
+ TH_EST_YAMA_HAS_DISASTER: "òT	gcíu-N„vŒp¾–ÿ§R$VAL$%§!"
+ TH_EST_YAMA_HAS_PROVINCES_OUTSIDE_HELL: "åb	gMOŽN§Y0Wñr§!0§Yçe0Wñr§!b§Y¥QLu§!0WHSb=f§YŽVf0Wñr§!HSßWKNY„v‰^ó`aNwýNÿ§R-$VAL$%§!"
+ TH_EST_YAMA_HAS_SUBJECT_OUTSIDE_HELL: "ûNa^—²bÕlýVD–¸^åb	gMOŽN§Y0Wñr§!0§Yçe0Wñr§!b§Y¥QLu§!0WHSb=f§YŽVf0Wñr§!HSßWKNY„v‰^ó`aNwýNÿ§R-$VAL$%§!"
+ TH_EST_YAMA_HAS_GENSOKYAN_PEACE: "‰^ó`aNYŽNŒTs^ÿ§G+$VAL$%§!"
+ TH_EST_YAMA_15_COUNTREIS_EXIST: "	g…Ç15*NýV¶RŽN‰^ó`aN…QXR(Wÿ§G+$VAL$%§!"
+ TH_EST_YAMA_20_COUNTREIS_EXIST: "	g…Ç20*NýV¶RŽN‰^ó`aN…QXR(Wÿ§G+$VAL$%§!"
+ TH_EST_YAMA_25_COUNTREIS_EXIST: "	g…Ç25*NýV¶RŽN‰^ó`aN…QXR(Wÿ§G+$VAL$%§!"
+ TH_EST_YAMA_30_COUNTREIS_EXIST: "	g…Ç30*NýV¶RŽN‰^ó`aN…QXR(Wÿ§G+$VAL$%§!"
+ TH_EST_YAMA_35_COUNTREIS_EXIST: "	g…Ç35*NýV¶RŽN‰^ó`aN…QXR(Wÿ§G+$VAL$%§!"
+ TH_EST_YAMA_40_COUNTREIS_EXIST: "	g…Ç40*NýV¶RŽN‰^ó`aN…QXR(Wÿ§G+$VAL$%§!"
+ TH_EST_YAMA_45_COUNTREIS_EXIST: "	g…Ç45*NýV¶RŽN‰^ó`aN…QXR(Wÿ§G+$VAL$%§!"
+ TH_EST_YAMA_50_COUNTREIS_EXIST: "	g…Ç50*NýV¶RŽN‰^ó`aN…QXR(Wÿ§G+$VAL$%§!"
+ TH_EST_YAMA_HECATIAS_INFLUENCE: "kaSÐcšNckúQûNšN›s(„±¦^„vŒ˜î•ÿ§G$VAL$§!"
+ TH_EST_YAMA_HAS_DISASTER_LOYALTY: "òT	gcíu-N„vŒp¾–ÿ"
+ TH_EST_YAMA_HAS_PROVINCES_OUTSIDE_HELL_LOYALTY: "åb	gMOŽN§Y0Wñr§!0§Yçe0Wñr§!b§Y¥QLu§!0WHSb=f§YŽVf0Wñr§!HSßWKNY„v‰^ó`aNwýNÿ"
+ TH_EST_YAMA_HAS_SUBJECT_OUTSIDE_HELL_LOYALTY: "ûNa^—²bÕlýVD–¸^åb	gMOŽN§Y0Wñr§!0§Yçe0Wñr§!b§Y¥QLu§!0WHSb=f§YŽVf0Wñr§!HSßWKNY„v‰^ó`aNwýNÿ"
+ TH_EST_YAMA_HAS_GENSOKYAN_PEACE_LOYALTY: "‰^ó`aNYŽNŒTs^ÿ"
+ TH_EST_YAMA_APPROVING_COUNTRY5: "óS	g5*N‰^ó`aNýV¶RùRb¹eåb	g50¹p‹Ya¦^ÿ"
+ TH_EST_YAMA_APPROVING_COUNTRY10: "óS	g10*N‰^ó`aNýV¶RùRb¹eåb	g50¹p‹Ya¦^ÿ"
+ TH_EST_YAMA_APPROVING_COUNTRY15: "óS	g15*N‰^ó`aNýV¶RùRb¹eåb	g50¹p‹Ya¦^ÿ"
+ TH_EST_YAMA_APPROVING_COUNTRY20: "óS	g20*N‰^ó`aNýV¶RùRb¹eåb	g50¹p‹Ya¦^ÿ"
+ TH_EST_YAMA_APPROVING_COUNTRY25: "óS	g25*N‰^ó`aNýV¶RùRb¹eåb	g50¹p‹Ya¦^ÿ"
+ TH_EST_YAMA_APPROVING_COUNTRY30: "óS	g30*N‰^ó`aNýV¶RùRb¹eåb	g50¹p‹Ya¦^ÿ"
+ th_gensokyan_counter: "°sXR‰^ó`aNýV¶R"
+ th_approving_gensokyan_counter: "óS	g50¹p‹Ya¦^„v‰^ó`aNýV¶R"
+ th_at_least_20_countries_approve: "óS	g§Y20§!*N‰^ó`aNýV¶RùRb¹eóSåb	g§Y50§!¹p‹Ya¦^ÿ§Y[1.th_approving_gensokyan_counter.GetValue]§!/§Y20§!	ÿ"
+ TH_BASE_AUTHORITY: "CgZ<PúWNxpˆÏQÿ"
+ th_estate_yama_establish_lecturing: "6RšR­‹ë‹hÆQ"
+ th_estate_yama_establish_lecturing_desc: "–T›KN•ÛVcR.fìY(WvQzzò•öeô•Lˆpz­hŽN‰^ó`aNÌ‘»S­‹ë‹jºNÿv^åwÖNìNå‚ó`NeQ0Wñr1S‰Lˆ„UîO·V0\nÇ6RšRckV„v­‹ë‹hÆQÿbìN—VåNSÙ›NžRÕl6R¦^Sv^te*NýV¶Rw–eQwzuQéžfkKNE–žRËe­‹ë‹ªcËeˆNåNÝuZ0"
+ th_estate_yama_regulate_conquest: "Ñv¡rVg"
+ th_estate_yama_regulate_conquest_desc: "‰^ó`aN,g”^=fàeÕluImŽNYLu„vºNìN„v)YX06qwÿÙGr'YF–ck>P,TNwp1ž„vbŸ0–Y*`0ºN‰|ÿuóÞ–Y¾|ý(WHNb—eNVgwÆ–Óuè–0\n‹†ô‹bìN„vqVÍT›RS*gHV'Y—V³åNybkÙ‰|a0ˆLˆ„VÿFObìNóSïSåNÐ(ub¹e„vÁˆ2RCgegÑv¡r‰^ó`aNÌ‘„vVg‡s0"
+ th_estate_yama_enforce_peace: "‰^ó`aNjPkpgbLˆ"
+ th_estate_yama_enforce_peace_desc: "N›NäS*`„vßu»lwðXðyb‰N=fY²N„vö^íu0Ù(W‡efz¦^ƒNO„v0WHSb¸‹=f^SžR„vÿFO(W‰^ó`aNÙÌ‘b‰N8lÜ¡l	gPãSïSŠ0\níQP(W‰^ó`aNÌ‘žRËe„vyr+RÕläNÿbìN¿OýwÖS—VÒRäNÎ‘ÃVÃRÃR„v‰^ó`aNbÂrjPkp„výw›R0"
+ th_estate_yama_internal_higan_reform: "bËzÁˆ2RÔYXTO"
+ th_estate_yama_internal_higan_reform_desc: "býVNÅN=f*N©‹jºNìN(W0Wñr-N×Sj„v0W¹eÿwNØ=fÁˆ2R¡Nw„v–T›'YýV0Ù‰|–T›„vLw¡R=fAS‹sa×V„vö^8OÿwAS‹sR=f1Áˆ2RºN‰|up„vºNir0\nàVºN‰|„våenžX•ÿNb—¥c×SÁˆ2R„vupB›peÏ‘¦N–KN4l¨m9‚Øš0Çú^ËzN*NÁˆ2RÔYXTOÿbìN¿OýwÄuÇuwhQSO–T›„vÁˆ2R›RÏ‘»Sôf‹Y0WÎN‹Nåe8^åTjO0"
+ th_estate_yama_gensokyan_edict: "˜Lˆ‰^ó`aNÏ‹äN"
+ th_estate_yama_gensokyan_edict_desc: "–T›KNýV–™y˜Ï‹äN0…Q+T	g–T›NbwQ	g„vhQèôv¥cCg›RN1ûNÿåNÊS(uŽN‰^ó`aN„vimpÕl‹Vag‡e0	g†NÙy˜Ï‹äNÿN*NßuTHNN„v0	gÕlïSO„v‰^ó`aNKNúWNx¿OòT—V0R†N`YšR0"
+ th_estate_yama_appoint_executor: "ûNMQ²bÕlwag‹O"
+ th_estate_yama_appoint_executor_desc: "sS¿O=fgHNOÀy„v–T›mNNïSýw0RY»S­‹ë‹jºN0àVdkHN–T›KNýVûN‹TNMO^—–T›ºNëXÅbûN,T‹TŽNgØšÁˆ2R•c%c„vckV²bÕlw¿O=fÍyÅV6q„v>Nªc†N0"
+ th_estate_yama_reform_the_judicative: "9ei—Áˆ2RHg„g"
+ th_estate_yama_reform_the_judicative_desc: "upB›„vÁˆ2R=föNAutYBg„v‹Nÿv^N=fNb	g2R˜RýýwÏPšN›s(„±¦^,gS±7hNOPNP0W­eHh0Ç9ei—[Root.GetName]Áˆ2RSOû|„vDnRM‘NÄuÇu¶g„gÿ¿O	gïSýwÐcØš2R³Q„v	gHe'`NÆQnx'`0"
+ th_estate_yama_establish_laws_of_war: "˜Lˆb‰NÕl"
+ th_estate_yama_establish_laws_of_war_desc: "sS¿O=fgHNíp1rŒTs^„vºNëXmN—VHNb‰NZP‹YÆQY0Ç6RšRb‰NÕlÿ=f^—òfôv…S¿O	gCg)RÄuÇu–T›ú^ËzN=eÁyºN8^Y›QÿåNEQSV[Root.GetAdjective]ýV¦^„vgbÕlè–0"
+ th_estate_yama_tighten_gensokyan_defense: "˜Lˆ2–kSÏ‹äN"
+ th_estate_yama_tighten_gensokyan_defense_desc: "–T›KNýV,rŒNy˜Ï‹äN0…Q+T	gùR²bÕlw„vûN‹T0Áˆ2RSOû|„v9ei—åNÊS[Root.GetAdjective]	gCgÄuú^N1u–T›„gb„vgbÕlè–hQý=fHN†NÝOkS‰^ó`aNMQmƒXY¿R›Rr^‰m0"
+ th_estate_yama_centralize_gensokyan_authority: "Æ–-NSÕl‹VÁˆ2RNgbLˆ"
+ th_estate_yama_centralize_gensokyan_authority_desc: "‰^ó`aNÌ‘„v¸‹YÕl‹V=f(WwNµugbLˆ„v0(Wtº‹Negô‹ÿÙ=fÍyÝOc¯rj4ls^NOMONÕl‹V=‰V4ls^ØšMO„vOŠ6R¦^0w(WžRõ-Nÿ‰^ó`aNl«ˆÁ‹žRXR(WNwP%0ÖNìNHN†NNñTÁy)RwjkòfÕl‹V¯rN=t=tjLˆ0\nÇùRÕl‹V„vÁˆ2RNgbLˆžRËeÆ–-NSÿbìN¿OýwnxÝOêSO	gôfS„vjºN‰N'Y¡R2R­^ÿv^(W‰^ó`aNÌ‘3uf–T›„vCgZ0"
+ th_estate_yama_expand_roles: "˜LˆãNhˆÕl"
+ th_estate_yama_expand_roles_desc: "‰^ó`aN>yOïSRHN	N'Y‰|ÿjOHNs^l'YO„vºN‰|0Î‘î†N„v–Y*`NKSLwKS1„vëTsY0Ç6RšRãNhˆÕlÿÙ›N6–BS¿OýwHN'YšN›s(„±¦^„v9ei—6RšR•búQÖNìN„vNhy0"
+ th_estate_yama_sphere_of_influence: "˜LˆÝuùRCgZÏ‹äN"
+ th_estate_yama_sphere_of_influence_desc: "–T›KNýV,r	Ny˜Ï‹äN0…Q+T	gÆ–-NÕl‹VÁˆ2RNgbLˆ„vÆ–Cgag‹OÿåNÊS9hncãNhˆÕl(W«R÷^-N¾‹Ëz^—–T›ãNhˆ„vag‹O0ƒRØSìb	gTNb	g‰^ó`aNýV¶RV>e–T›KNýV¹Lu„vIN¡R0"
+ th_estate_yama_sphere_of_influence_tt: "§YÏk*N‰^ó`aNýV¶RýSbHN[Root.GetName]„vJSê»l^SýVÿÙuˆN[Root.GetName]åNŒRteÆ‰Î‘0›Q‹NLˆCgåNÊS0‚9‚jPÊlCg0§!"
+ th_estate_yama_eternal_peace: "8lENŒTs^"
+ th_estate_yama_eternal_peace_desc: "íQPàQ!k9ei—NÏ‹äNÿ‰^ó`aN²OÈuŽNVËY,TÎNO'Y„všN›s(„±¦^†N0wP©R–T›CgZÿ¿O	gïSýw6RšRúQNÍyÕl‹VÿO—V‰^ó`aNýwYÈuÓuNb	gb‰NN´f›RÿO—VTr‚‰^ó`aNßu»lwïSåN(W[Root.Monarch.GetName]„v«R÷^NHNvQîvhwb0\nb‰NONYXR(WÿwNb	g²QzýOÇ9VU^begã‰³Q0"
+ th_estate_yama_eternal_peace_tt: "§YNAQ¸‹‰^ó`aN…Q„vb‰N§!"
+ th_estate_yama_unite_gensokyo: "˜Lˆ'YNßuÏ‹äN"
+ th_estate_yama_unite_gensokyo_desc: "–T›KNýV„v,rÛVy˜mN=fgTNy˜Ï‹äN0…Q+T	ghQèÕl‹VN9ei—åNnxÝO	gN*N3zšRNâVÓu„v‰^ó`aN0"
+ th_estate_yama_unite_gensokyo_tt: "§YNb	g‰^ó`aNýV¶RýSOßuN(W[Root.GetName]„v×e^Nÿ§!"
+ th_estate_nobles_slacking_shinigami: "Òace‰k^y"
+ th_estate_nobles_slacking_shinigami_desc: "[Root.GetName]„v‰k^y›äRåTjOHNupB›V*‚ÿOKN(W‰^ó`aNŒT[Root.GetName]Ì‘^×SSle06qwÿyY„v`¦^tSØS—VaÑSÒace0sS¿O	gTt„våTjOöeô•N	gÝOÁ‹„vGPgÿØ	g¸‹Y9e„UuIm„vO…VÿFO‰k^yòT³QšRNOQ²‹wùR…VHNupB›V*‚„våTjO0"
+ th_estate_nobles_slacking_shinigami_tt: "ïSÇûN¡R§YeRHYwPÒaCg§!egûyd–å‹yrCg0"
+ th_estate_nobles_unorganized_shinigami_authority: "‰k^yêLˆ‰R’c"
+ th_estate_nobles_unorganized_shinigami_authority_desc: "kaSÐcšNPˆN‰k^yåNêLˆ‰R’cåTjOÏ‘„vCg)R0tº‹NegwÿÙÍyCg)RùRŽN–T›N‰k^yÌS¹eý	g‹YYÿ‰k^yïSåNêLˆ³QšRÖNìN‰r^YSIm?QMbTÿw–T›¦N—VåNNÃVÁˆ2R¡Nw0\n6qwÿÙy˜yrCgòT«ˆÇ¦^ÑS%c†N0‰k^y2R­esS¿O=fUSHNN*NupB›V*‚mNOŠbyYÙu=tNw&&"
+ th_estate_nobles_lack_of_overseers: "‰k^yêbðLw"
+ th_estate_nobles_lack_of_overseers_desc: "kaSÐcšNPˆN‰k^yåNê1uÿNQ	g1SV*‚upB›„vpeÏ‘T–T›ðLw„v1ûN0KNNbåNÙuˆNå‹yrCg=f^gÏQSNÅV‰„v˜RÚPININ0Nx^„v=fÿÙmNüRô‰k^yNQ²‹wùR…VvQåTjO„vHe‡sÿhQàVvQN(uQÅbÃVOm0RybÄ‹&&"
+ th_estate_nobles_lack_of_overseers_granted_tt: "»lNNb	gMOŽN§Y‰kÂRKN0W§!0§Y|V¸SNè§!N§Y|V¸SWSè§!HSßW„vwýN·ƒ—V§R+50.00§!ê»l¦^v^·ƒ—VwýNîOck0§Y0àeµN0‰k^y§!0ôv0R8nbÓumgÿÙuˆNåNNHeœgÿ\nÏkgê»l¦^ØSSÿ§R+0.20§!\n,g0WºN›RîOckÿ§R-50.0%§!\n,g0W4lKbîOckÿ§R-50.0%§!\n,g0Wz6eîOckÿ§R-50.0%§!\n,g0WuµNHe‡sÿ§R-50.0%§!\nF–›QNP–ÿ§R-2.00§!\n,g0WÛSqN¦^ÿ§G-3.00§!"
+ th_estate_nobles_lack_of_overseers_revoked_rt: "»lNNb	gMOŽN§Y‰kÂRKN0W§!0§Y|V¸SNè§!N§Y|V¸SWSè§!HSßW„vwýN·ƒ—V§G-100.00§!ê»l¦^Nûyd–wýNîOck0§Y0àeµN0‰k^y§!00"
+ hig_slacking_shinigami: "0àeµN0‰k^y"
+ desc_hig_slacking_shinigami: "å‹wýN=f‰k^y„v¶R0àVvQÎNkaSÐcšNKb-Nÿb0R†Nø‹YyrCgÿNbåN‰k^ybŸR0WŠbÙ*NÌRv™„vwýNØSb†NÒa<›„vPNíV0"
+ hig_legitimation_from_the_yama: "egê–T›„v²‹ïS"
+ desc_hig_legitimation_from_the_yama: "bìN«ˆ‰^ó`aN„v–T›SVNS	-NbHN†NaŒVNw‰^ó`aN„v—RYeÿ"
+ hig_legitimized_state_religion: "¾‹ËzýVYe"
+ desc_hig_legitimized_state_religion: "ÇHNbýVýVYeûN‹T—RYe†˜–ˆN‹Nÿ[Root.GetName]„v[Root.GetClergyName]òTùR[Root.Monarch.GetTitle]hˆ°súQ†Ng'Y„vípÅ`0"
+ hig_above_the_religious_scuffle: "…1ŽN—RYe²Qz"
+ desc_hig_above_the_religious_scuffle: "Ôkw‰^ó`aNÌ‘„v—RYe‰Ngbÿ‰^ó`aN„v–T›SVNSØ	gôf‰'t„v‹NÅ`‰sQÃV0gÈuÿºNºNýO(Ws^Ir0W(W'Y¡R2R­^…Q¥c×SÁˆ2R0"
+ hig_competent_ruler: "ðyLw„vßu»lw"
+ desc_hig_competent_ruler: "[Root.GetName]«ˆ–T›HS±'`0WûQ%†Nÿv^NüRôbìN'N1Y†NMRûNßu»lwÿÔk±TES)YPR0NÇÿÖNìNtSêS‰BleRHY)YPR„vCg›R0\n(W)YPRm0RoyKNTÿbìN„výV¶RCQ–™1u8lmlcˆ–súQûNÿyYUS°súQêñT=f*NôfðyLw„vßu»lwwx(W–T›Ø(WÑvÆ‰NwbìN„vßu»l6–µuöe	g‚Ydkhˆ°s0"
+ hig_under_yama_influence: "YŽN–T›qVÍTN"
+ desc_hig_under_yama_influence: "býVòT«ˆegê|V¸S„v–T›ûQ%0KS¡ryYNbýVŒr¢‹†NàeagöNŒTs^ÿFOyYØ=f¾‹n†NàQMO–T›ÑvÆ‰wåNnxÝObýVNOQÍ‘HŽwzuQéžfk„v†‰™0"
+ hig_lectured_tenshi: "­‹ë‹)YPR"
+ desc_hig_lectured_tenshi: ")YPRNÅN(Wb‰N%N5–egÿwNØ«ˆgØšÁˆ2R•ô‹Ye†NN0àVdk!kô‹YeÊS)YPRNb×S0R„vé`bÿyY(W†˜üR)YLuöe¾–MQØhKb0"
+ th_lawgiver_of_gensokyo: "§Y‰^ó`aN„vËzÕlw§!"
+ desc_th_lawgiver_of_gensokyo: "=T(uteT§Y‰^ó`aNlUeäN§!„výw›RåNjO(uŽNÏk*N‰^ó`aNwýN0\n\n‰^ó`aN„vËzÕlwHNyrŠkLw¡Rÿ1u=f^—òfôv…SKˆNLwCg0jOHNËzÕlwbìN„vûN¡R¿O=fÐcHhËzÕlv^SÕlHhteTóUeäN…QåNOhQ‰^ó`aN×SÊv0"
+ th_rise_of_new_empires: "Tw„v°e^ýV"
+ desc_th_rise_of_new_empires: "bìNhT¹„vOYwýN=fRVSýVìNNb	g„v0‚YÊNÙ›N0W¹eGWòT?e»S|izzÿå‹`—bìNegkXeˆdk0W°eÑ„vCg›Rwzz†N0"
+ th_feral_youkai_chaos: "ÂrqN–Y*`jOqN"
+ desc_th_feral_youkai_chaos: "å‹wýNckàVÂrqN–Y*`Vw„vÍ‘'Y÷mqNwm×SBŽŽ0"
+ th_kappa_estate: "³låz"
+ th_crow_tengu_estate_name: "&ž)Y×r"
+ th_yamabushi_tengu_estate_name: "qSO)Y×r"
+ th_great_tengu_estate_name: "'Y)Y×r"
+ estate_wolf_tengu: "‹vür)Y×r"
+ estate_wolf_tengu_desc: "‹vür)Y×r=f)Y×r>yO-N„vfkëXIrµu0ÖNìN=fgHQ«ˆVìSÂSb„vºN	0KS¡r‹vür)Y×r=fOÀy„vIe¿RekuQÿNÇÖNìNØ=fåNqS0W2–¡VW„ðyÿN9hncÂ‰ßRvQ(WôVIeNZWcASt^KNEN¦NN(WÝ‹N0"
+ estate_great_tengu: "'Y)Y×r"
+ estate_great_tengu_desc: "'Y)Y×r=f)Y×r>yO-NÑ<OŽN5Ïe„vIrµu0ÖNìN1ýV¶R„vY²NÊSLˆ?e‹N¡Rv^=‰VgbLˆ)YT›„va×V0‹†ô‹ÖNìNêñT„v)RÊvv^N8^N)YT›„vNô&&"
+ estate_crow_tengu: "&ž)Y×r"
+ estate_crow_tengu_desc: "&ž)Y×r=f)Y×r>yO-N„v³RåTIrµu0ÖNìNûNLwŽNNOµu+R„vY²N˜R0ô•Œ0FUºNÿSV6qØ	g°‹w0)Y×r„v¾|ñ‚è–0)Y×rHQ•›Q0mNhQè1uN‹vür)Y×rNw×S­‹bŽb„v&ž)Y×rÄub0"
+ estate_lunarian_rabbits: "gTQ"
+ estate_lunarian_rabbits_desc: "gTQKNŽNbìNgºN=fN,‚³RåTNëXuQ„vIN‰egn0‹†ô‹ƒRìN„vCg)RNbìNøvÔk‰S—VYÿFOÖNìNÍNùRbýVÝOcNwqVÍT›RÿÙIN‰=fàVHNTQY¿RO0"
+ EST_VAL_RABBITS_DISASTER: "gTQÛSqN"
+ estate_yama_ownership: "–T›^T†˜0WNb	gCg"
+ estate_fairy_pirates_ownership: "–Y¾|'Y×v†˜0WNb	gCg"
+ estate_rival_kaguya_ownership: "8lÜ„vlQIN†˜0WNb	gCg"
+ estate_rival_mokou_ownership: "ä…ŸSN‰kºN†˜0WNb	gCg"
+ estate_great_tengu_ownership: "'Y)Y×r†˜0WNb	gCg"
+ estate_crow_tengu_ownership: "&ž)Y×r†˜0WNb	gCg"
+ estate_wolf_tengu_ownership: "‹vür)Y×r†˜0WNb	gCg"
+ estate_lunarian_rabbits_ownership: "gTQ†˜0WNb	gCg"
+ wolf_tengu_loyalty_modifier: "‹vür)Y×ràVÚ‹GWaˆ¹p"
+ wolf_tengu_influence_modifier: "‹vür)Y×rqVÍT›R"
+ great_tengu_loyalty_modifier: "'Y)Y×ràVÚ‹GWaˆ¹p"
+ great_tengu_influence_modifier: "'Y)Y×rqVÍT›R"
+ crow_tengu_loyalty_modifier: "&ž)Y×ràVÚ‹GWaˆ¹p"
+ crow_tengu_influence_modifier: "&ž)Y×rqVÍT›R"
+ lunarian_rabbits_loyalty_modifier: "gTQàVÚ‹GWaˆ¹p"
+ lunarian_rabbits_influence_modifier: "gTQqVÍT›R"
+ th_estate_burghers_mass_marine_conscription: "4luQ'YÄ‰!jVìS6R"
+ th_estate_burghers_mass_marine_conscription_desc: "0R•^=fÀNHN©‹³låzàeÕl ReQF–b–ÿ¡lfROVkpÿHNÑyfR.s«Ž„võV4Y!c(WMR4Yÿ\nF–b–ùRÙ‰|ó`Õlô‹0N00êS‰`Oýwpýwibªgÿ±`O1S‰ÆQY‹YHN³låzNÏe„vcƒw»Sb—e»Szrrr0"
+ th_estate_burghers_mass_marine_conscription_modifier: "4luQ'YÄ‰!jVìS6R"
+ desc_th_estate_burghers_mass_marine_conscription_modifier: "0R•^=fÀNHN©‹³låzàeÕl ReQF–b–ÿ¡lfROVkpÿHNÑyfR.s«Ž„võV4Y!c(WMR4Yÿ\nF–b–ùRÙ‰|ó`Õlô‹0N00êS‰`Oýwpýwibªgÿ±`O1S‰ÆQY‹YHN³låzNÏe„vcƒw»Sb—e»Szrrr0"
+ th_estate_burghers_elite_marines: "¾|ñ‚F–b–"
+ th_estate_burghers_elite_marines_desc: "F–b–=fbýV„v„š²P0bìNêSAQ¸‹ŒvÌ‘cN„vºN	 ReQF–b–0iRN„vNÇ=fkX¿u„vekRSb†N0"
+ kpp_marine_estate_privilege_cd: "bìN(WÇ»S„v§Y5t^§!…QØ*g	ébNy˜§Y4luQyrCg§!0"
+ th_estate_burghers_elite_marines_modifier: "¾|ñ‚F–b–"
+ desc_th_estate_burghers_elite_marines_modifier: "F–b–=fbýV„v„š²P0bìNêSAQ¸‹ŒvÌ‘cN„vºN	 ReQF–b–0iRN„vNÇ=fkX¿u„vekRSb†N0"
+ th_estate_burghers_naval_reinforcement: "wmNžXôc"
+ th_estate_burghers_naval_reinforcement_desc: "KS¡rF–b–NLwŽN‰vF–jObÿFO=fvQôfwQHNbìNO'Ywm›Q„v0‚9‚Ðc›O˜YžXôc„výw›R0"
+ th_estate_burghers_naval_reinforcement_modifier: "wmNžXôc"
+ desc_th_estate_burghers_naval_reinforcement_modifier: "KS¡rF–b–NLwŽN‰vF–jObÿFO=fvQôfwQHNbìNO'Ywm›Q„v0‚9‚Ðc›O˜YžXôc„výw›R0"
+ th_estate_burghers_swamp_developers: "¼lýlVÑS"
+ th_estate_burghers_swamp_developers_desc: "bìN=f(Wn0WNN—g±v`±RNnon„vlP-NÑSUStQúeweg„v0ê6qw6q0Wÿ(W°x0R‰VÑSám4lEQ›l„vW0WöebìN¿OýwZP0Rg‹Y0"
+ th_estate_burghers_swamp_developers_gt: "Ïk*Nåb	g„v§Y¼lýl§!wýN0WbVÑSUSb,gÏQS§G35%§!0\nÏk*Nåb	g„v§YN—g§!wýN0WbVÑSUSb,gÏQS§G45%§!0\nÏk*Nåb	g„v§YIƒŸS§!wýN0WbVÑSUSb,gÏQS§G10%§!0\nÏk*Nåb	g„v§YœQ0u§!wýN0WbVÑSUSb,gÏQS§G5%§!0"
+ th_estate_burghers_swamp_developers_rt: "ûyd–§Y¼lýl§!0§YIƒŸS§!N§YœQ0u§!wýN0WbV„vÑSUSb,gÏQMQ0"
+ th_estate_church_spread_gensokyan_faith: ".O­d‰^ó`aNáOðN"
+ th_estate_church_spread_gensokyan_faith_desc: "ckáOìrN=U‰^ó`aNÿbìNSOS©Rb¹eëTsYTYLu„v÷upB›.O­dáOðN0"
+ th_estate_lunar_rabbits_land_rights: "gTQ†˜0WCg"
+ th_estate_lunar_rabbits_land_rights_desc: "gTQho`ŽN1uvQgºNINPRR.úQeg„v4–ŸlN4xÚhKN-N0HN†NbÖSƒRìN„v‹YaÿbìN”^ùROO?b•beQNTQPRìN„v†˜0WCg RåNÝOœ–0"
+ th_estate_lunar_rabbits_monopoly_of_wood: "„W­e(gPg"
+ th_estate_lunar_rabbits_monopoly_of_wood_desc: "àVÌwî•˜˜wàeÕlÂS›Q„vTQPR—ÎN‹NO(gåTNLw0SV6qÿ(uŽNú^¾‹býV„vhhKNPgÍ‘‹SŽNTQPRìN„vÌwKNNÿ¿ON=fNb	g„vTQPRýOánadk>N0‹Y(WêS‰bìNýwÝOÁ‹(gPg„v)R¦m³Y^XánTQPRìN„v*2kKN‹ˆÿ±HNƒRìN1SOAwêS<wí•êS<w0"
+ th_estate_lunar_rabbits_monopoly_of_wood_mod: "gTQ„W­e(gPg"
+ desc_th_estate_lunar_rabbits_monopoly_of_wood_mod: "ýV¶RybÆQ†NgTQùR(gPguµN„v„W­eCg0"
+ MONOPOLY_INCOME_WOOD_DESC: "ÎN9‚wQbíp&^(gPg„vuµN-N"
+ th_estate_lunar_rabbits_monopoly_of_wood_effect_tooltip: "§RNÎN§Y9‚wQ§!b§Yíp&^(gPg§!·ƒ—V6eeQ§!"
+ th_estate_lunar_rabbits_monopoly_of_wood_revoke_tooltip: "ÎN§Y9‚wQ§!b§Yíp&^(gPg§!·ƒ—V„vuµN6eeQb`Y†N"
+ th_estate_lunar_rabbits_monopoly_of_cotton_and_sugar: "„W­eÍyiíVjOir"
+ th_estate_lunar_rabbits_monopoly_of_cotton_and_sugar_desc: "ÍyiíV(W†SòSN=f1u±›Nê‹TNáQN”^'N‹TŽNVb-N„vïS²`TQPRìNw²b„v0ÍyiíV„vNb	gCg1ugºNc	gÿwTQPRìNNÇ=fEQSV³RåTwòT0NÇÿÙÍy™„^yˆcˆN„vyrCgäNbìN„vÆNÎNìN2aÑa0ÇPˆNÙ›Nàe	g(uY„vTQPRìNåNbìNÍyiíVµNir„v„W­eCgÿÖNìNb¸‹ÈuO‰RY—Neg0"
+ th_estate_lunar_rabbits_monopoly_of_cotton_and_sugar_mod: "gTQ„W­eÉh±‚NÖ|‰|"
+ desc_th_estate_lunar_rabbits_monopoly_of_cotton_and_sugar_mod: "ýV¶RybÆQ†NgTQùRÉh±‚NÖ|‰|uµN„v„W­eCg0"
+ MONOPOLY_INCOME_COTTON_AND_SUGAR_DESC: "ÎNÉh±‚bÖ|‰|„vuµN-N"
+ th_estate_lunar_rabbits_monopoly_of_cotton_and_sugar_effect_tooltip: "§RNÎN§YÉh±‚§!b§YÖ|‰|§!·ƒ—V6eeQ§!"
+ th_estate_lunar_rabbits_monopoly_of_cotton_and_sugar_revoke_tooltip: "ÎN§YÉh±‚§!b§YÖ|‰|§!·ƒ—V„vuµN6eeQb`Y†N"
+ th_estate_lunar_rabbits_monopoly_of_grain_and_fish: "„W­e®|ß˜irD"
+ th_estate_lunar_rabbits_monopoly_of_grain_and_fish_desc: "7Œir=f1uTQPRtYÆNìN6erR„vÿ|œ‰|R=f1uTQPRãlìNUc·ƒ„v0®|ß˜6e·ƒ-N„vNJS‰N²NÙuýV¶R0ÇŸ^d–Ù‰|!KÿTQPRìNI`—r=fýwHNêñTYuN¹p®|ß˜†N0"
+ th_estate_lunar_rabbits_monopoly_of_grain_and_fish_mod: "gTQ„W­e7ŒirN|œ‰|"
+ desc_th_estate_lunar_rabbits_monopoly_of_grain_and_fish_mod: "ýV¶RybÆQ†NgTQùR®|ß˜N|œ‰|uµN„v„W­eCg0"
+ MONOPOLY_INCOME_GRAIN_AND_FISH_DESC: "ÎN7Œirb|œ‰|„vuµN-N"
+ th_estate_lunar_rabbits_monopoly_of_grain_and_fish_effect_tooltip: "§RNÎN§Y7Œir§!b§Y|œ‰|§!·ƒ—V6eeQ§!"
+ th_estate_lunar_rabbits_monopoly_of_grain_and_fish_revoke_tooltip: "ÎN§Y7Œir§!b§Y|œ‰|§!·ƒ—V„vuµN6eeQb`Y†N"
+ th_estate_lunar_rabbits_rights_for_business: "ÏuFUCg"
+ th_estate_lunar_rabbits_rights_for_business_desc: "ÇHNgTQÐc›Oê1uÏuFU„vCg)RÿbìN¿Oýweu®V9e„UNbýV„vÏuNm0"
+ th_estate_lunar_rabbits_additional_supplies_for_army: "HN›Q–eˆÙu˜YirD"
+ th_estate_lunar_rabbits_additional_supplies_for_army_desc: "bìNïSåNHN›Q–Ðc›O˜Y„virDÿÙ”^å‹ýw=cKYbìN„vëXuQìN0"
+ th_estate_lunar_rabbits_send_general: ">mcgºNcw›Q"
+ th_estate_lunar_rabbits_send_general_desc: "gTQàVŽNbìNÿFO›Q–-N¯wšR=f	gŒgÈa„v%„–„v0bìNïSåN>mcôfYgºN›Q˜RegcwüR›Q-NÅ`¿R0"
+ th_estate_lunar_rabbits_promote_colonial_growth: "ÃOÛMRèTÙzÑSUS"
+ th_estate_lunar_rabbits_promote_colonial_growth_desc: "bìNïSåNžX>m1MRèTÙzú^¾‹„vgTQÿÙ”^å‹ýw RëVMRèTÙz„vú^¾‹0"
+ th_estate_lunar_rabbits_improve_working_conditions: "9e„UåTjOagöN"
+ th_estate_lunar_rabbits_improve_working_conditions_desc: "°sÊN'YYpeTQPR„vLw¡RÍN=f(W›Q-NgyV0ÙÍSÇegÏQS†NvQÖN†˜ßW„vïS(u³RåTpeîvÿOKNôf¾–VUSåTjO0bìNïSåNÏQS›Q-N„vgTQIN¡RuQ„vpeÏ‘ÿåNHNvQÖN†˜ßWŒúQôfYïS(u³RåT0"
+ th_estate_lunar_rabbits_encourage_free_thinking: "ÃOÛê1u`w"
+ th_estate_lunar_rabbits_encourage_free_thinking_desc: "ÇÃOÛùRgTQžRËeSVYe²wÿbìN¿OýwÎN>yO„vÛek-N·ƒ—V6eÊv0FO‚Ydk³QVrO&^eg›N¸‹Î˜i–ÿ>yOOØS—VôfN3zšR0"
+ th_estate_lunar_rabbits_solidify_defence: "éTúV2–¡V"
+ th_estate_lunar_rabbits_solidify_defence_desc: "bìNïSåN‰BlbìNàVÚ‹„vSã(W‰š›QN!X’W-NÐcØšgTQ„vXR(WÿOKNÆQY‹Yb—ùRûNUOµOpb0"
+ th_estate_lunar_rabbits_slacking_rabbits: "ce+ouaÒaTQ"
+ th_estate_lunar_rabbits_slacking_rabbits_desc: "bìN›Q-N„vgTQÒað`b'`ÿÖNìNªu‹V.kHÿ(WbHWNmNNO‰NÖSËzŸR0"
+ th_estate_nobles_royal_guards: "‡v¶RkS–"
+ th_estate_nobles_royal_guards_desc: "‡v¶RkS–ÿ1ubìNgsO„vè–-dM‘g¾|•„vÅˆYÿšRýw©RbìNÖS—VÜw)Rÿ"
+ th_estate_nobles_prestigious_army: "ZfkKN^"
+ th_estate_nobles_prestigious_army_desc: "P©RbìNgºN„v^yup¢csY„vZ¿RÿbìN¿Oýw©‹ôfYºNÂS›QeQOÿ"
+ estate_crow_tengu_monopoly_of_textiles: "„W­eºuÇuÁT"
+ estate_crow_tengu_monopoly_of_textiles_desc: "ºuÇuN)Y6q1Så‹1uONIN6–µuNbµc6R0ÖNìNŒRhQŒcµcÙNµNN=ftNbSV6q„v‹N0"
+ estate_crow_tengu_monopoly_of_textiles_mod: "„W­eºuÇuÁT"
+ desc_estate_crow_tengu_monopoly_of_textiles_mod: "ýV¶RybÆQ†N&ž)Y×rùRºuÇuÁTuµN„v„W­eCg0"
+ estate_crow_tengu_monopoly_of_dyes: "„W­eÓg™e"
+ estate_crow_tengu_monopoly_of_dyes_desc: "Óg™eÐc›O†NïSÂ‰„v6eeQÿ¡l	gûNUON‰ýwÔkbYˆOÁTôf‹Y0WÅˆ¹pÙ*NNLu†N0ùRŽN&ž)Y×regô‹ÿHN†NÙy˜8fµNu„vèT˜6eeQÿÖNìNÞ‰k†NmN?aa0"
+ estate_crow_tengu_monopoly_of_dyes_mod: "„W­eÓg™e"
+ desc_estate_crow_tengu_monopoly_of_dyes_mod: "ýV¶RybÆQ†N&ž)Y×rùRÓg™euµN„v„W­eCg0"
+ estate_crow_tengu_monopoly_of_glass: "„W­e»sƒt"
+ estate_crow_tengu_monopoly_of_glass_desc: "»sƒt=fNÍy¾|Ž„vbYˆOÁT0ùRŽN±›NÂa—V‚YUO6R.ƒR„vºNìNegô‹ÿÙ>f6q=f	g)RïSþV„v0p`‹Yÿ&ž)Y×r-NˆVYºNý=fNN„v»sƒt6R.FUÿÖNìN„v¦hó`1S=f„W­e»sƒt„vuµN0"
+ estate_crow_tengu_monopoly_of_glass_mod: "„W­e»sƒt"
+ desc_estate_crow_tengu_monopoly_of_glass_mod: "ýV¶RybÆQ†N&ž)Y×rùR»sƒtuµN„v„W­eCg0"
+ estate_crow_tengu_monopoly_of_paper: "„W­e¸u.V"
+ estate_crow_tengu_monopoly_of_paper_desc: "(WbìN°e„v‡ef>yO-NÿùRŽN¸u.Våb	gôf'Y„v—Bl0NbåNÿ&ž)Y×r-N„vD,g¶R‹NžRN4ngôv¥cµc6RNKNøvsQTwµNN„v6eeQ0"
+ estate_crow_tengu_monopoly_of_paper_mod: "„W­e¸u.V"
+ desc_estate_crow_tengu_monopoly_of_paper_mod: "ýV¶RybÆQ†N&ž)Y×rùR¸u.VuµN„v„W­eCg0"
+ estate_crow_tengu_enforced_interfaith_dialogue: "HV6R—RYeô•ùRÝ‹"
+ estate_crow_tengu_enforced_interfaith_dialogue_desc: "0ÌR„vïy=tÚ‹6q‰Ôk—RYe‹N¡RÍ‘‰„vYÿbìNÅV‰˜RdVbìNKNô•„vNŒTÿâVÓuwegýBlôf'Y„v)RÊv0"
+ estate_crow_tengu_mountain_expansion: "TqS	ib.V"
+ estate_crow_tengu_mountain_expansion_desc: "^lŒTœQlýòTÏu”^†Nîh—gŒTh—g„vT–S0WbVÿÙOÖNìNýwY(WbìN[Root.GovernmentName]gOPÜŒTNœRES„vqS	ô•ú^w'Y‹WÎWG•0ÇˆcˆNÖNìNôfY„vyrCgÿbìNïSåNnxÝOÖNìN)R(uêñT„vDnHNbìN„výV¶R.y0"
+ estate_crow_tengu_mountain_expansion_gt: "§YqS	§!0§YØšŸS§!ŒT§YNu–§!wýN0WbVNb.b„vÑSUSb,gé`ZSÏQS§G50%§!0"
+ estate_crow_tengu_mountain_expansion_rt: "ûyd–§YqS	§!0§YØšŸS§!ŒT§YNu–§!wýN0WbV„vÑSUSb,gÏQMQ0"
+ estate_crow_tengu_mountain_expansion_mountains: "TqS	ib.V"
+ desc_estate_crow_tengu_mountain_expansion_mountains: "å‹ýV„v&ž)Y×r³QšR(WqS	šRES0"
+ estate_crow_tengu_mountain_expansion_highlands: "TØšŸSib.V"
+ desc_estate_crow_tengu_mountain_expansion_highlands: "å‹ýV„v&ž)Y×r³QšR(WØšŸSšRES0"
+ estate_crow_tengu_mountain_expansion_hills: "TNu–ib.V"
+ desc_estate_crow_tengu_mountain_expansion_hills: "å‹ýV„v&ž)Y×r³QšR(WNu–šRES0"
+ estate_crow_tengu_control_over_the_mint: "µc6Rø”^"
+ estate_crow_tengu_control_over_the_mint_desc: "Ç‘˜cÑ‘ÿw·ƒ)RgYÿFOàe‚‚6R0WVÇ‘OùRÏuNm.bÁkmp'`SbûQ0ÇAQ¸‹&ž)Y×rôfôv¥c0Wµc6RÑ‘ÿwŒTø”^µNNÿbìNýwYnxÝONOúQ°sÇÏ‘ÄžÑ‘TöeAmeQýV“^„vÎ˜i–0"
+ estate_crow_tengu_control_over_monetary_policy: "Œcµc'^?eVr"
+ estate_crow_tengu_control_over_monetary_policy_desc: "ýV¶RÇ©‹S'^?eVr„vgÈu³QšRCgKˆN&ž)Y×rÝOÁ‹†N(WZPúQsQ.•„vÏuNm³QVröeOwQ†0RFUN)RÊv0"
+ estate_crow_tengu_indebted_to_burghers: "T¥bN>NHP"
+ estate_crow_tengu_indebted_to_burghers_desc: "&ž)Y×r?aaÙu[Root.GovernmentName]Ðc›ONOo`7>kjOHN?e»lqVÍT„vÞV¥b06qwÿÙOwIQÖNìNÎNFUN)R¦m-Nïye„v±”0ÿv^NüRôÏuNmNO÷0"
+ estate_crow_tengu_exclusive_trade_rights: "ìr`S8fCg"
+ estate_crow_tengu_exclusive_trade_rights_desc: "&ž)Y×r„v¥bNðN×NŽN8f0‚YœgbìNˆcˆNÖNìNOµc6R„vÔk‹O·ƒ—VRb„vNšRz¦^„vìr`SCgÿÖNìN„v0WMOS—V0Rg'YžXHVÿdk>N¯wšROåNùR[Root.Monarch.GetTitle]„vôf'Y=ec„vbVV—V0RÞV¥b0"
+ estate_crow_tengu_exclusive_trade_rights_enact_tooltip: "žX R§R20§!,g0Wê»l¦^åNÊS§G-15%§!,g0WÑSUSb,gó§Y[This.GetTradeNodeName]§!8f‚‚¹p„v8f-NÃV0"
+ estate_crow_tengu_exclusive_trade_rights_revoke_tooltip: "ÎNåb	g„vNb	gwýNûyd–0ìr`S8fCg0îOck"
+ estate_crow_tengu_exclusive_trade_rights_mod: "ìr`S8fCg"
+ desc_estate_crow_tengu_exclusive_trade_rights_mod: "ýV¶RòTŠbdkwýN„vìr`S8fCgˆcˆNFUN)RÊvÆ–âV0"
+ estate_crow_tengu_patronage_of_the_arts: "^©Rz‚=g"
+ estate_crow_tengu_patronage_of_the_arts_desc: "ÇÙupgúQ„vz‚=g¶RŒTåwÆ‹RPRìNÐc›OD©RÿbìNïSåN©‹te*NNLuøváO[Root.GetAdjective]‡eS„v‰Lq0"
+ estate_crow_tengu_land_rights: "&ž)Y×r†˜0WCg"
+ estate_crow_tengu_land_rights_desc: "bìN>yO„v-Nô•6–BS&ž)Y×rÿÔkwvQÖN6–BSegôf4nBlW0WÿNbåNmN«ˆ²‹HNŒT'Y)Y×r6–BSøvSVÿán³ÖNìN„v?agSHNbìN&^egÖNìNg'Y„vaÀo0"
+ estate_crow_tengu_statutory_rights: "6–BSÕlšRCg)R"
+ estate_crow_tengu_statutory_rights_desc: "jOHN(W	g—‰öe·ƒ—VÖNìN=ec„vÞV¥bÿˆcˆN6–BSïSÂ‰„vCg)RòT·ƒ[Root.Monarch.GetHerHis]TaÿÙOO[Root.Monarch.GetHerHis]CgZ×S0R%N<h„vP–6R0"
+ estate_crow_tengu_land_of_commerce: "¥bNuaHN‹s"
+ estate_crow_tengu_land_of_commerce_desc: "(WNGr1uFUºNßu»l„vW0WNÿFUN)RÊvÅV‰˜«ˆ¥Y„UgqŒ˜0R0"
+ estate_crow_tengu_commercial_board_of_advice: "FUNŒ˜î•ÔYXTO"
+ estate_crow_tengu_commercial_board_of_advice_desc: "ùRŽNFUN†˜ßWwŠÿ&ž)Y×rÔk[Root.Monarch.GetTitle]åb	gôfY„vÏuŒš0‚YœgN¥Y„U)R(uÙ›NÏuŒšÑSUSÏuNm„vÝ‹±1S*Ya0ˆ†N0"
+ estate_crow_tengu_establish_tenma_vanguards: "Äuú^)Y×rHQ•›Q"
+ estate_crow_tengu_establish_tenma_vanguards_desc: ")Y×rHQ•›Q=f¾|•-N„v¾|•0Ù›NëXuQÎNgwQªu‹VNgHNÅ„v&ž)Y×r-Nc	wúQÿv^þf(WùR—b<›Ïe„v'Yb-NHNbýVHe³R0=föeP÷‹ÖNìNÞVegQ!kHe³R†N0"
+ estate_crow_tengu_expand_the_tenma_vanguards: "­‹Ãu‘šuQ"
+ estate_crow_tengu_expand_the_tenma_vanguards_desc: "HQ•›Q=fbìNè–-N„v…QLˆºNëXÿFObìNmNNýwØV‰c›Q–Ì‘„vvQÖNèR0‹Y(W)Y×rHQ•›QïSåNTbìN„v‘šuQ.OˆcvQNôv(WÐ(u„v­ˆpbb=gåNHN&ž)Y×rbcegÐg›N†˜0WCg0"
+ estate_crow_tengu_law_prohibit_gossip_spreading: ")Y×rb‹Vÿy.O1ŒŠ‡í‹"
+ estate_crow_tengu_law_prohibit_gossip_spreading_desc: "&ž)Y×rŠb'YèRöeô•ý±‚(WùRÖNìNNuŸqÆ‹„v‹Nir„Y R®‹º‹N†N0FOgß|„v=fÖNìNŠbÙ›Nò•ŠŽxí‹SVjO0ïS`—áOn0egîX'YêñT„vžR›R0ÖNìNòTNM‘«N	gdkCg)R0"
+ estate_crow_tengu_law_curtail_newspaper_export: ")Y×rb‹Vÿ)ÏQ¥bRúQãS"
+ estate_crow_tengu_law_curtail_newspaper_export_desc: "¥b¸u=fHV	g›R„våTwQÿLu…QßWY†v×SvQÍdµu0Nx^„v=f¥b¸u±‚9Nòƒÿw&ž)Y×rÅNÅN=f(W‹v‹vjm9vQjo›R0¥bR„vÄ‰!j—‰×S0R-N.Y?eœ^„vJRÏQ0"
+ estate_crow_tengu_law_force_internal_focus: ")Y×rb‹VÿHV6RNèlùR…Q"
+ estate_crow_tengu_law_force_internal_focus_desc: "&ž)Y×rÇŽNsQÃVYb—„vtŽx‹NÅ`wN=f%`[Root.GovernmentName]KNNb%`0Ù—VlšNÈubk0"
+ estate_crow_tengu_foreign_ministery: "Y²Nèè•"
+ estate_crow_tengu_foreign_ministery_desc: "Y²N=fýV¶R„v8hÃV=eñgKNN0Çú^Ëz&ž)Y×rY²NèÿbìN¿OïSåNÝOÁ‹(WY²N‹N¡R-NËYÈu`SncHQHg0"
+ estate_crow_tengu_salesmen_haven: "•.UXT)YX"
+ estate_crow_tengu_salesmen_haven_desc: "ê1u8fv^^—YY×S0R²‹ïS0¸‹YýV¶RO¡r6RÐg‰|FUÁTÿwFUºNìN¿O—VT?eœ^4³uå‹>ky˜0P©R&ž)Y×r×SÆQú^Ëzweg„v•.UXT)YXÿbìN—VåNzfÖS—VÜw‹SÇÙ‰|î•˜˜N4Y0"
+ tgu_enable_tengu_specific_trade_policy_tt: "=T(u8f?eVr0§Y¾‹Ëz°eû•¥b>y§!00"
+ tgu_disable_tengu_specific_trade_policy_tt: "y(u8f?eVr0§Y¾‹Ëz°eû•¥b>y§!00"
+ tgu_establish_newspaper_office: "¾‹Ëz°eû•¥b>y"
+ tgu_establish_newspaper_office_desc: "bìN„v)Y×r°‹wO(Wå‹8f‚‚¹p¾‹Ëz¥b>yåNÓbUSbìN„vqVÍT›R0"
+ tgu_has_tengu_specific_trade_policy_tt: "S*gˆcˆN&ž)Y×r6–BSyrCg0§Y•.UXT)YX§!00"
+ estate_crow_tengu_vanguard_ambushers: ")Y×rHQ•GYuQ–"
+ estate_crow_tengu_vanguard_ambushers_desc: ")Y×rHQ•›QSO=fbè–-N„vzûQKb0ûNUO2–¡VåT‹NýS(WvQcíuz­ˆ-NR)Tætã‰ÿ"
+ estate_tenma_vanguard_siege_modifier: ")Y×rHQ•GYuQ–"
+ desc_estate_tenma_vanguard_siege_modifier: ")Y×rHQ•›QSO=fbè–-N„vzûQKb0ûNUO2–¡VåT‹NýS(WvQcíuz­ˆ-NR)Tætã‰ÿ"
+ estate_great_tengu_land_rights: "'Y)Y×r†˜0WCg"
+ estate_great_tengu_land_rights_desc: "'Y)Y×rÿÙ*NýV¶RgHV¿RKNºNÿ¯wšR=f±›NùRW0Wåb	ggHV±RðyKNºN0"
+ estate_great_tengu_statutory_rights: "6–BSÕlšRCg)R"
+ estate_great_tengu_statutory_rights_desc: "jOHN(W	g—‰öe·ƒ—VÖNìN=ec„vÞV¥bÿˆcˆN6–BSïSÂ‰„vCg)RòT·ƒ[Root.Monarch.GetHerHis]TaÿÙOO[Root.Monarch.GetHerHis]CgZ×S0R%N<h„vP–6R0"
+ estate_great_tengu_nobility_primacy: "'Y)Y×r–™‰0WMO"
+ estate_great_tengu_nobility_primacy_desc: "S›Q‹NN„v¿OœRLˆ‹NCg›RˆcˆN'Y)Y×rOObýVýV›R>fW„žXHVÿsSO(W¥bTrÖNìN„v!.söe±‚9Nòƒ0"
+ estate_great_tengu_advisors: "'Y)Y×rŒ˜î•"
+ estate_great_tengu_advisors_desc: "'Y)Y×rÐc„vú^®‹àeºNýwúQvQóSÿÖNìNÔkvQÖNºNôfÅd•îOÃV‰Q'`0"
+ estate_great_tengu_admirals: "'Y)Y×rwm›Qè"
+ estate_great_tengu_admirals_desc: "SV—‰wm›QS†˜„vöePÿbìN„v,rNOHQ	ébê6q=fŒm°súQàepeO'Y*‚wm¶R„v'Y)Y×r6–µuÿ"
+ estate_great_tengu_new_world_charter: "°e'YF–yr¸‹äN"
+ estate_great_tengu_new_world_charter_desc: "°e'YF–=fHgOKN0Wyr+R=fùRŽN4ngôÌR„vONwegô‹0bìN”^å‹Ç	g)RŽNÖNìNÏu%„„vÕlHhåNdkŸ±R'Y)Y×r0"
+ estate_great_tengu_rule_of_power: "®‹‹NCg"
+ estate_great_tengu_rule_of_power_desc: "'Y)Y×rÅV‰˜—V0RT[Root.Monarch.GetTitle]lQVê1u0Whˆ¾ÖNìNa?a„vCg)RÿwNÅVÅbÃVïSýw„vb—qVÍT0"
+ estate_great_tengu_special_privilege: "›Q–Ì‘„v'Y)Y×r"
+ estate_great_tengu_special_privilege_desc: ">f6q&ž)Y×rŒT‹vür)Y×r2NwGWàe›RcwüR­‹ë‹0HNdkbìN¿O—‰'Y)Y×r„vÁ”b—àeÁy0"
+ estate_great_tengu_governmental_focus: "NÃVÎN?e"
+ estate_great_tengu_governmental_focus_desc: "bìN[Root.GovernmentName]„v'Y)Y×rS(Wb¹e?eœ^…QnboôfHNImÃ„vÒ‰r‚ÿwÙmNO'Y'Yib.VvQ(WýV…Q„vqVÍT›R0"
+ estate_great_tengu_supremacy_over_crown: "ÌQŒšŽN‹sCgKNN"
+ estate_great_tengu_supremacy_over_crown_desc: "–NwRCgS„vN­eÛLˆÿT*NIrµuŠegŠ	gýw›RO—V[Root.Monarch.GetTitle]OHQYtÖNìN„v‹N¡Rÿw[Root.Monarch.GetHerHim]d–†NTaÙNLˆ„V+Ràe	éb0"
+ estate_great_tengu_strong_duchies: "HV'Y„vlQ5r†˜"
+ estate_great_tengu_strong_duchies_desc: "[Root.GetUsableNameCap]=fN*NCg)RRce„výV¶Rÿ0W¹eN„vlQ5rN=O5rìNùRŽN[Root.Monarch.GetTitle]egô‹egô‹wQ	gˆVHV„vìrËz'`0ÙNSO6R‹†	gø‹Y‹YYÿtSmNO—V‹s²R„vóØš›RÏ‘×S0R%NÍ‘cb0"
+ estate_great_tengu_strong_duchies_trigger_tooltip: "§Y[Root.GetName]§!åb	g2N*NåNND–¸^NkSb†˜0"
+ estate_great_tengu_better_integration: "'Y)Y×rteT?eVr"
+ estate_great_tengu_better_integration_desc: "-N.YÆ–CgŒTTv^D–¸^v^N=fNöN¹Rf„våTjOÿbìN„vLˆ?e˜RXTŒTY²N˜ROÙVŽNteTåTjO0‚YœgbìNAQ¸‹'Y)Y×rµc6RbìNýV¶R„v‡T?eVrSMQÙ›Nî•˜˜0"
+ estate_great_tengu_private_trade_fleets: "ÁyºN8f0‚–"
+ estate_great_tengu_private_trade_fleets_desc: "nê9‚Ð„v0ÌRùRŽN'Y)Y×regô‹ósQÍ‘‰ÿÙ=fÖNìN6eeQ„vÍ‘‰NèR0HN†NÝO²bÙÍy8fN×Sr^pbÿAQ¸‹ÖNìNôucÁy	g„v0‚–=fNöNtNbSV6q„v‹N0"
+ estate_great_tengu_monopoly_of_metals: "„W­eÇ‘ÿwŒT¶Q¼p"
+ estate_great_tengu_monopoly_of_metals_desc: "¡l	gÁ”ÿbìN„vfkhV1SëkàejO(u0êS	g'Y)Y×rýwY«ˆáOV¡rtÙy˜6eeQÿàVHNck=fÖNìNHNbìNýV¶R›Q–ZPúQ„v!.sg'Y0"
+ estate_great_tengu_monopoly_of_metals_effect_tooltip: "§RNÎN§YÁ”ÿw§!b§YÜ”ÿw§!·ƒ—V6eeQ§!"
+ estate_great_tengu_monopoly_of_metals_revoke_tooltip: "ÎN§YÁ”ÿw§!ŒT§YÜ”ÿw§!·ƒ—V„vuµN6eeQb`Y†N"
+ estate_great_tengu_monopoly_of_metals_mod: "„W­eÇ‘ÿwŒT¶Q¼p"
+ desc_estate_great_tengu_monopoly_of_metals_mod: "ýV¶RybÆQ†N'Y)Y×rùRÁ”ÿwŒTÜ”ÿwuµN„v„W­eCg0"
+ estate_great_tengu_monopoly_of_livestock: "„W­errju"
+ estate_great_tengu_monopoly_of_livestock_desc: "bìN„vjugrœQlZP„vaIN^—áQ„våTjOúT²w†NbìNO'Y„výV¶R0ŒýwÔkòTÏuåb	g†N'YGr	gœQl³RjO„vaNô•W0W„v'Y)Y×rôf‹Y0W¡rtÖNìN„v6eeQbTÿ"
+ estate_great_tengu_monopoly_of_livestock_effect_tooltip: "§RNÎN§Yrrju§!·ƒ—V6eeQ§!"
+ estate_great_tengu_monopoly_of_livestock_revoke_tooltip: "ÎN§Yrrju§!·ƒ—V„vuµN6eeQb`Y†N"
+ estate_great_tengu_monopoly_of_livestock_mod: "„W­errju"
+ desc_estate_great_tengu_monopoly_of_livestock_mod: "ýV¶RybÆQ†N'Y)Y×rùRrrjuuµN„v„W­eCg0"
+ estate_great_tengu_monopoly_of_gems: "„W­eRów"
+ estate_great_tengu_monopoly_of_gems_desc: "N—˜ŽKN„vRówÔkIrÍ‘„vÄžÑ‘Ø‰5Í‘0¾–*`'Y)Y×r^gµc6RÙy˜8f„v6eeQ0"
+ estate_great_tengu_monopoly_of_gems_effect_tooltip: "§RNÎN§YRów§!·ƒ—V6eeQ§!"
+ estate_great_tengu_monopoly_of_gems_revoke_tooltip: "ÎN§YRów§!·ƒ—V„vuµN6eeQb`Y†N"
+ estate_great_tengu_monopoly_of_gems_mod: "„W­eRów"
+ desc_estate_great_tengu_monopoly_of_gems_mod: "ýV¶RybÆQ†N'Y)Y×rùRRówuµN„v„W­eCg0"
+ estate_great_tengu_tenma_rulership: ")YT›ßu»lCg"
+ estate_great_tengu_tenma_rulership_desc: ")YT›=f[Root.GetName]„v¢”Á”IN°R0‹†ô‹[Root.Monarch.GetName](WÕltN=fýV¶RCQ–™ÿFO[Root.Monarch.GetSheHe]NÇ=f›b4Y2—b—KNºNÿ)YT›Mb=f‹NžRN„vŒcCgw0\nàVdkÖNïSåN–aÑSúQRƒ,Œ„v÷SäNv^1u[Root.Monarch.GetTitle]egNÜ`ãN÷N0W=‰VgbLˆ0d–^—[Root.Monarch.GetSheHe]Sb—rÑSwNHWi—‹T&&"
+ estate_great_tengu_tenma_rulership_gc: "NýwKb¨R§YìSV®‹‹NO§!0\n[Root.GetName]åN§Y)YT›÷SäN§!ÖSãN®‹z0"
+ estate_great_tengu_tenma_rulership_rc: "®‹‹NOïS«ˆQ¦^ìSV0\n)YT›SNQT[Root.Monarch.GetName]NäN0"
+ estate_great_tengu_tenma_rulership_tt: "§Yå‹yrCgêSýw(WbìN§G¾b5y˜§!b§RK„zz3y˜§!)YT›÷SäNTMbýwûyd–§!\nòT¾b„v÷SäNpeÏ‘ÿ§G[Root.GetNumOfCompletedDemands]§!/§G5§!\nòTK„zz„v÷SäNpeÏ‘ÿ§R[Root.GetNumOfFailedDemands]§!/§R3§!"
+ estate_great_tengu_rights_to_the_low_castes: "NOIrµuCg)R"
+ estate_great_tengu_rights_to_the_low_castes_desc: "‹†ô‹>f6qêS	g'Y)Y×rIrµuwQYžR'Y‹N.ON„výw›RÿFONBS)Y×rŽVŽVOhˆHyV®‹N‰BlôfY„vCg)R0'Y)Y×rïSåNÍVÛurR1r©‹!nN›NCg›RegžXÛNOIrµu„vCg)R0"
+ estate_great_tengu_law_remove_great_tengu_from_offices: ")Y×rb‹VÿNBS)Y×rûNLwCg"
+ estate_great_tengu_law_remove_great_tengu_from_offices_desc: "'Y)Y×r6–BSb¸‹=f.OßuN„vlQLwºN	ÿFOnc.OÖNìNAm2—úQ†Nå‚r^P%NNàV„vùaŒ0=föeP6eÞVÖNìN„vN›NCg›Rv^©‹NBS)Y×r¥cûNvQLw¡R†N0"
+ estate_great_tengu_law_revoke_recruitment_rights: ")Y×rb‹Vÿ6eÞVVßRCg"
+ estate_great_tengu_law_revoke_recruitment_rights_desc: ".OßuN=f1u'Y)Y×r6–BS1VßRNBS)Y×rÂS›QeQO0FO=f'Y)Y×ràVåb	gÁyuQwm0R†NY!k>N¥b0bìNÅV‰˜ËzsS6eÞVå‹‰|VßRCg0"
+ estate_great_tengu_law_curtail_great_tengu_court_influence: ")Y×rb‹VÿJR1V'Y)Y×rùR«R÷^qVÍT"
+ estate_great_tengu_law_curtail_great_tengu_court_influence_desc: "«R÷^”^ãNhˆNb	g6–BS„v)RÊv0FO(WžRõSV-NtSÈSN=fÙHNÞV‹NÿhQàV'Y)Y×rIrµu`SOO†N«R÷^…Q„v'YYpe>y²NMO0'Y)Y×rå‹«ˆ‹S6RN»S†Nÿ"
+ estate_great_tengu_court_business: "«R÷^…Q¡RCg"
+ estate_great_tengu_court_business_desc: "«R÷^=f*NHgGOY„vÙVŒxKN0W0Ç¹R¸‹'Y)Y×r6–BS(W«R÷^…QÑS%côf'YqVÍT›RÿbìN¿OýwÃOOvQØS—VôfHN™q™qee0"
+ estate_great_tengu_expanded_government: "ÓbUS?eœ^HgsQ"
+ estate_great_tengu_expanded_government_desc: "bìN„v?eœ^ck(WN­eÑSUSîX'Y0bìNÅV‰˜(W'Y)Y×r„v.^©RNnxÝOýwÎ4YvNv^ÓbUSvQŸRýw0"
+ estate_great_tengu_vanguard_front_breaker: ")Y×rHQ•w–5–%„"
+ estate_great_tengu_vanguard_front_breaker_desc: "HQ•›Q”^KShQ›RTLe›QÑSw²Q•v^gdÁkvQ‹kYO„v±N¹p?QëXl0"
+ estate_tenma_vanguard_combat_modifier: ")Y×rHQ•w–5–%„"
+ desc_estate_tenma_vanguard_combat_modifier: "HQ•›Q”^KShQ›RTLe›QÑSw²Q•v^gdÁkvQ‹kYO„v±N¹p?QëXl0"
+ estate_wolf_tengu_land_rights: "‹vür)Y×r†˜0WCg"
+ estate_wolf_tengu_land_rights_desc: "ˆcˆN‹vür)Y×rW0WSOnxÝO(uåNOS©RbìNßu»lýV¶R„vÇRfk„vbëX„v3zšR›O”^0"
+ estate_wolf_tengu_levies: "‹vürVuQÕl"
+ estate_wolf_tengu_levies_desc: "býVè–„v'YèRuQn'YèR1u‹vür)Y×rÐc›OÿbìNïSåN‰R’cN›NvQÖN¹eb—„veˆPeg·ƒ—VôfY„vuQXT0"
+ estate_wolf_tengu_self_governance: "‹vür)Y×rê»l"
+ estate_wolf_tengu_self_governance_desc: "©‹‹vür)Y×rÛLˆê»l=f©‹ÖNìNHNbìN„výV¶Rg¡R„vg‹Y¹eV0"
+ estate_wolf_tengu_guaranteed_leadership: "ÝOÁ‹†˜›QCg"
+ estate_wolf_tengu_guaranteed_leadership_desc: "–NwfkºN®‹Oµc6R†NbýV„v›Q¡RÿbìN„v›Q–S«ˆSb.bN¡w©‹LeºNû•Î˜'NÆw„vfkÅˆ›RÏ‘0"
+ estate_wolf_tengu_wartaxes: "‹vür)Y×rböePc>k"
+ estate_wolf_tengu_wartaxes_desc: "Bl—V‹vür)Y×r„v.^©RSOb‰NHNbìN„v¡rt&^eg„v0?eÅb'Y'YÏQS0"
+ estate_wolf_tengu_mountain_defenders: "Á”ÁXˆRYw"
+ estate_wolf_tengu_mountain_defenders_desc: "‹vür)Y×r=f,rNSmN=fgTNS2–¿u0¡l	gŒýw=zbìN„vÁ”ÁX2–kSÿhQàV‹vür)Y×rOÝO²bÖNìN„v¶RíVôvógTNºNÿ"
+ estate_wolf_tengu_elite_wolf_regiments: "¾|ñ‚‹vüruQâV"
+ estate_wolf_tengu_elite_wolf_regiments_desc: "(W'Y)Y×råN'YSKN«Ž±V.VËHbÿ&ž)Y×rÅˆ!jZP7hånýzEQpeöeÿžRE–N(Wp‚æ‚jOb„v=U	g‹vür)Y×r0Ç¾‹ËzwckaINN„v¾|ñ‚‹vüruQâVÿ‹vür)Y×r6–BS¿OïSN!kÇ0WTÖNºNUS°svQ(Wb—eBSb—òT=fàeºNýwLe0"
+ estate_wolf_tengu_monopoly_of_wood: "„W­e(gPg"
+ estate_wolf_tengu_monopoly_of_wood_desc: "(gPg=fbìN„vËeåTy˜îvNb—„vsQ.•DnKNN0SV6qñmIRÂSN0RúWNx¾‹Ëeibú^SV-N„v‹vür)Y×r6–BSùR„W­eÙ›NÍs5„v(gPgôfatQ±0"
+ estate_wolf_tengu_monopoly_of_cotton_and_sugar: "„W­eÍyiíVjOir"
+ estate_wolf_tengu_monopoly_of_cotton_and_sugar_desc: "býV„vÍyiíVµNúQÖ|‰|NÉh±‚ŒNwý=fvQÖNàQy˜FUÁTuµNNb—(u0R„vŸSPg™e0àV(WÍyiíVÌ‘³RjO„v=f‹vür)Y×rÿNbåNÖNìN‰Bl„W­eÙ‰|irDÿ‚YdkvQ¿ONO«ˆSVjOÏuNmjOir.UúQ0"
+ estate_wolf_tengu_monopoly_of_grain_and_fish: "„W­e®|ß˜irD"
+ estate_wolf_tengu_monopoly_of_grain_and_fish_desc: "bìNýV¶R„v®|ß˜irDžRSbžR=fbìN>yO„vu‹T¿u0ê6qw6q0W³R`ObHNgHQ1Y»S‰Q™e›OÙu„v²SO„v‹vür)Y×r6–BS4ng1Œc¡r®|ß˜irDÿ‚Ydk*geg1S=f‰ù•e™RƒmNNO	g,gå‹wQ	g„v4xOW'`0"
+ estate_wolf_tengu_monopoly_of_wood_effect_tooltip: "§RNÎN§Y9‚wQ§!b§Yíp&^(gPg§!·ƒ—V6eeQ§!"
+ estate_wolf_tengu_monopoly_of_wood_revoke_tooltip: "ÎN§Y9‚wQ§!b§Yíp&^(gPg§!·ƒ—V„vuµN6eeQb`Y†N"
+ estate_wolf_tengu_monopoly_of_wood_mod: "„W­e(gPg"
+ desc_estate_wolf_tengu_monopoly_of_wood_mod: "ýV¶RybÆQ†N‹vür)Y×rùRºuÇuÁTuµN„v„W­eCg0"
+ estate_wolf_tengu_monopoly_of_cotton_and_sugar_effect_tooltip: "§RNÎN§YÉh±‚§!b§YÖ|‰|§!·ƒ—V6eeQ§!"
+ estate_wolf_tengu_monopoly_of_cotton_and_sugar_revoke_tooltip: "ÎN§YÉh±‚§!b§YÖ|‰|§!·ƒ—V„vuµN6eeQb`Y†N"
+ estate_wolf_tengu_monopoly_of_cotton_and_sugar_mod: "„W­eÍyiíVjOir"
+ desc_estate_wolf_tengu_monopoly_of_cotton_and_sugar_mod: "ýV¶RybÆQ†N‹vür)Y×rùRÍyiíVuµN„v„W­eCg0"
+ estate_wolf_tengu_monopoly_of_grain_and_fish_effect_tooltip: "§RNÎN§Y7Œir§!b§Y|œ‰|§!·ƒ—V6eeQ§!"
+ estate_wolf_tengu_monopoly_of_grain_and_fish_revoke_tooltip: "ÎN§Y7Œir§!b§Y|œ‰|§!·ƒ—V„vuµN6eeQb`Y†N"
+ estate_wolf_tengu_monopoly_of_grain_and_fish_mod: "„W­e®|ß˜irD"
+ desc_estate_wolf_tengu_monopoly_of_grain_and_fish_mod: "ýV¶RybÆQ†N‹vür)Y×rùR®|ß˜irDuµN„v„W­eCg0"
+ estate_wolf_tengu_law_revoke_tengu_rights: ")Y×rb‹Vÿ6eÞVÑSðXCg"
+ estate_wolf_tengu_law_revoke_tengu_rights_desc: "‹vür)Y×r·ƒÆQ(W«R÷^NÑSðX0FOÖNìN„vÑSŠN!k!k0WÁ‹f†NvQN<PNÐc0°s(Wå‹=föeP6eÞVÖNìN„vÙy˜Cg)R†N0"
+ estate_wolf_tengu_law_take_over_forts: ")Y×rb‹Vÿ²NrRýV2–åT‹N"
+ estate_wolf_tengu_law_take_over_forts_desc: "býV„v‰^X1u‹vür)Y×r1wÙ16RïSýwüRôbìN„v1Y`W0bìN”^²NrRÞVýV2–åT‹Nv^lHN©‹-N.Y?eœ^NwKbÏužR0"
+ estate_wolf_tengu_law_disband_wolf_regiments: ")Y×rb‹Vÿã‰ce‹vür)Y×ruQâV"
+ estate_wolf_tengu_law_disband_wolf_regiments_desc: "‹vüruQâV=fbýVekuQ›QâV-NgHNHVÛv„vuQâV0wNvQmN=fgwQqVÍT›R„vè–KNN0bìN”^(WÖNìNån(uvQðX¿RKNMRSvQã‰cev^ŠbëXuQìNÍ‘°eRM‘óvQÖN›QâV0"
+ estate_wolf_tengu_enlist_wolf_general: "VìS‹vür)Y×rS†˜"
+ estate_wolf_tengu_enlist_wolf_general_desc: "bìN”^å‹'Y†w±Rlbb¹eck(WÛbßRgHNÜwûN„vS†˜0©‹bìNHy?aýwY·ƒ—VNMO›Q‹N)YMb ReQbìN„vLˆR0"
+ estate_wolf_tengu_right_for_side_jobs: "ˆcˆNÏu%„oRNCg"
+ estate_wolf_tengu_right_for_side_jobs_desc: "‹vür)Y×r=ffkºNIrµu0Ïk*NuŽNdk„v)Y×rý—VŽNbHN›QëX„vSïv^åNˆR²bwKN«ŽHNvQ¶RíVHe³R06qwÿmN¸‹”^SVwQ†ibUSvQLw¡Rv^AQ¸‹vQ(WŒTs^öegÎN‹NoRN0"
+ estate_wolf_tengu_right_for_side_jobs_tt: "(W§YŒTs^§!gô•·ƒ—V§G+10.0%§!FUÁTµNúQîOck\n(W§Yb‰N§!gô•·ƒ—V§G+25.0%§!‰š›QpeÏ‘N§G+10.0%§!ºN›Rb`Y¦^"
+ estate_wolf_tengu_vanguard_defenders: ")Y×rHQ•ˆRY–"
+ estate_wolf_tengu_vanguard_defenders_desc: ")Y×rHQ•›Q=fbýV„v¾|ñ‚è–06qwÙv^Nþf9eØSvQMckSýV¶R„vINèe1udk—VT0ÇŠbHQ•›Q„v›QCgÔY>mÙu‹vür)Y×rÿbìN¿OýwÝOœ–bìN„v2–¡VåT‹NˆRYNhQ0"
+ estate_tenma_vanguard_nerf_modifier: ")Y×rHQ•ˆRY–"
+ desc_estate_tenma_vanguard_nerf_modifier: ")Y×rHQ•›Q=fbýV„v¾|ñ‚è–06qwÙv^Nþf9eØSvQMckSýV¶R„vINèe1udk—VT0ÇŠbHQ•›Q„v›QCgÔY>mÙu‹vür)Y×rÿbìN¿OýwÝOœ–bìN„v2–¡VåT‹NˆRYNhQ0"
+ th_cannot_call_diet_manually_tt: "§RNýwìSV®‹‹NO0§!"
+ th_estate_burghers_swamp_developers_marsh_modifier: "¼lýlVÑS"
+ desc_th_estate_burghers_swamp_developers_marsh_modifier: "å‹wýN=f¸‹Y³låzy˜îv„vNb(W0WÿÙžX•†NSV0W„vÑSUSNúWNx¾‹Ëeú^¾‹0"
+ th_estate_burghers_swamp_developers_grassland_modifier: "¼lýlVÑS"
+ desc_th_estate_burghers_swamp_developers_grassland_modifier: "å‹wýN=f¸‹Y³låzy˜îv„vNb(W0WÿÙžX•†NSV0W„vÑSUSNúWNx¾‹Ëeú^¾‹0"
+ th_estate_burghers_swamp_developers_farmlands_modifier: "¼lýlVÑS"
+ desc_th_estate_burghers_swamp_developers_farmlands_modifier: "å‹wýN=f¸‹Y³låzy˜îv„vNb(W0WÿÙžX•†NSV0W„vÑSUSNúWNx¾‹Ëeú^¾‹0"
+ th_estate_burghers_swamp_developers_jungle_modifier: "¼lýlVÑS"
+ desc_th_estate_burghers_swamp_developers_jungle_modifier: "å‹wýN=f¸‹Y³låzy˜îv„vNb(W0WÿÙžX•†NSV0W„vÑSUSNúWNx¾‹Ëeú^¾‹0"
+ estate_lunarian_rabbits_hire_advisor: "Xw÷‹›Q‹NŒ˜î•"
+ estate_lunarian_rabbits_hire_advisor_desc: "gTQ²‹HNÖNìNv^*g—V0R”^	g„v­‹ÃuÿwÙOqVÍT0RƒRìN(Wb—e-N„vhˆ°s0ƒRìN^g—VÁ‰NMOýw‡s†˜ƒRìNTYtÜw)R„v›Q‹NŒ˜î•0"
+ estate_lunarian_rabbits_fire_advisor: "ã‰XwbýV„v›Q‹NŒ˜î•"
+ estate_lunarian_rabbits_fire_advisor_desc: "gTQ²‹HNbìN„v›Q‹NŒ˜î•ùRÖNìNÇŽNÛ‚IR†N0ƒRìN‰BlSvQËzsSã‰Xw0"
+ estate_lunarian_rabbits_improve_living_standards: "9e„UTQPRuIm4ls^"
+ estate_lunarian_rabbits_improve_living_standards_desc: "(WbýVSVMR„v?eVrNÿgTQìNck×Sæ‚ŽNÇ¦^„v³R¨RNÇŽNNON„vuIm4ls^0ÖNìN‰BlbìN9e„UvQuImagöN0"
+ estate_lunarian_rabbits_support_independence: "=ec[agenda_country.GetAdjective]ìrËz"
+ estate_lunarian_rabbits_support_independence_desc: "îvyw[agenda_country.GetAdjective]ck×SNwvQINPR„vjÿb¹egTQ‰BlbìN.^©Rå‹ýVÿHNvQìrËz.^NŠbKb0"
+ estate_lunarian_rabbits_recover_stability: "b`YbìN„v3zšR"
+ estate_lunarian_rabbits_recover_stability_desc: "bìN„vgTQìNòTÏuèla0R†NbýVòT1Y»Sþf	g„v3zšRN‰RR0ÖNìN‰Blb¹e‰Šb3zšRN‰RR„vöeãNÙu&^ÞVeg0"
+ estate_lunarian_rabbits_crush_revolts: "teƒwlQqQ‰RhQ"
+ estate_lunarian_rabbits_crush_revolts_desc: "(WÛS›Q„vÛlånKNNÿbýV„v3zšRckn'N1Y0b¹egTQ‰BlbìNteƒwlQqQ‰RhQÿSbPÛS›Q0"
+ estate_lunarian_rabbits_build_manufactory_in_y: "(W[agenda_province.GetName]ú^.Nµ^åTHW"
+ estate_lunarian_rabbits_build_manufactory_in_y_desc: "bìN„vgTQìN÷‹Blb¹eÇú^¾‹ôfYê»låTHWeg9e„UbýV„våTjOagöN0"
+ estate_lunarian_rabbits_regain_liberty: "Í‘·ƒê1u"
+ estate_lunarian_rabbits_regain_liberty_desc: "bìNSN¡‹ãN÷N0WHYÞVbìN„vìrËz0"
+ estate_lunarian_rabbits_build_university_in_y: "(W[agenda_province.GetName]tQú^NNb'YfR"
+ estate_lunarian_rabbits_build_university_in_y_desc: "gTQ‰BlbìNÇtQú^ôfY'YfReg9e„UbýV„vYe²w0"
+ estate_lunarian_rabbits_demilitarize_state: "ýV¶R»S›Q‹NS"
+ estate_lunarian_rabbits_demilitarize_state_desc: "býV„v›Q‹NSz¦^*Yuÿ*YYgTQqšpšŽNbHW…Q0ÖNìN—‰ê›Q¡RÍ‘Åb-N·ƒ—V˜Uo`0"
+ estate_lunarian_rabbits_build_up_manpower_reserves: "b`YTQãSpeÏ‘"
+ estate_lunarian_rabbits_build_up_manpower_reserves_desc: "b›QÑg=t	gmc1Y0bìN—V©‹gTQOteNÿ©‹b›Q(Wdkgô•ÛLˆteY0"
+ estate_lunarian_rabbits_recover_abysmal_prestige: "b`YbýVZg"
+ estate_lunarian_rabbits_recover_abysmal_prestige_desc: "býV„vZgÑgm0RÍ‘RÿgTQìNùRdkˆVNánaÿv^‰BlÖSÞVŽVåe„vcƒw0"
+ estate_lunarian_rabbits_improve_prestige: "ÐcØšbýVZg"
+ estate_lunarian_rabbits_improve_prestige_desc: "býV„vZgÍN*g¾óvQ”^	g„vhQèjo›R0b¹egTQ&ŒQS0W÷‹BlbìNåeÊv¾|Û0"
+ estate_lunarian_rabbits_develop_x: "(W[agenda_province.GetName]ÐcØšºN›R"
+ estate_lunarian_rabbits_develop_x_desc: "bìN„vgTQìN÷‹Blb¹eÐcØš[agenda_province.GetName]„vºN›R0"
+ estate_lunarian_rabbits_three_privileges: "ib'YgTQyrCg"
+ estate_lunarian_rabbits_three_privileges_desc: "gTQ^gýwˆcˆNvQôfYyrCg0"
+ th_demilitarized_society: "gTQ>yO»S›Q‹NS"
+ desc_th_demilitarized_society: "–Nw>yO„v»S›Q‹NSÿb¹egTQôf R?aa«ŽSO›RLˆ9e„UbýVÏuNm¶rµQ0"
+ estate_crow_tengu_hire_advisor: "Xw÷‹Y²NŒ˜î•"
+ estate_crow_tengu_hire_advisor_desc: "&ž)Y×rˆV^g[Root.Monarch.GetTitle]Xw÷‹NMO°e„vY²NŒ˜î•0 "
+ estate_crow_tengu_fire_advisor: "ã‰XwbýV„vY²NŒ˜î•"
+ estate_crow_tengu_fire_advisor_desc: "[Root.Dip_Advisor.GetTitle][Root.Dip_Advisor.GetName]ž±†N&ž)Y×r0ÖNìN‰BlbìNã‰Ç–[Root.Dip_Advisor.GetHerHim]ÿ"
+ estate_crow_tengu_recruit_more_cossacks: "VßRôfY)Y×rHQ•›Q"
+ estate_crow_tengu_recruit_more_cossacks_desc: "&ž)Y×r4ng(WêbýV„vb‹N-NÖS—Vôf'Y„vcƒw0ÖNìNckcwÃOb¹eVßRôfY)Y×rHQ•›QeQO0"
+ estate_crow_tengu_build_trade_building_in_y: "(W[agenda_province.GetName]ibú^8f¾‹Ëe"
+ estate_crow_tengu_build_trade_building_in_y_desc: "&ž)Y×rðXðy[agenda_province.GetName]„vÆ–^*YSÿNýwán³ÖNìN„v—Bl0ÖNìN‰BlbìN•bDú^¾‹N*Nôf'Y„v^HWÿv^hˆHyÙïSåNg'Y0WÃOÛå‹wýNåNÊSýV¶RteSO„vAucƒ0"
+ estate_crow_tengu_build_production_building_in_y: "(W[agenda_province.GetName]ÐcØšuµNHe‡s"
+ estate_crow_tengu_build_production_building_in_y_desc: "egê[agenda_province.GetName]„v&ž)Y×rRNwìN÷‹BlbìN(Wå‹wýN•bDuµN‰|úWNx¾‹Ëe0ÖNìNðXðyibú^ÙN¾‹ËeSg'Y0WÃOÛå‹wýNåNÊSýV¶RteSO„vAucƒ0"
+ estate_crow_tengu_build_manufactory_in_y: "(W[agenda_province.GetName]ú^.Nµ^åTHW"
+ estate_crow_tengu_build_manufactory_in_y_desc: "[agenda_province.GetName]„v&ž)Y×r‰BlbìND©RNµ^°e[agenda_province.GetManufactory]„vú^¾‹0ÖNìNðXðyÙS=fNrÞV¥b0NšS„v•bDÿýwYOå‹w„v[agenda_province.GetTradeGoodsName]úQãSPžX0"
+ estate_crow_tengu_build_university_in_y: "(W[agenda_province.GetName]tQú^NNb'YfR"
+ estate_crow_tengu_build_university_in_y_desc: "&ž)Y×r‰BlbìND©R[agenda_province.GetName]ú^ËzNNb°e„v'YfRÿåN¿OSýV¶RgOÀy„vºNMbZwÆ–wegÿV†˜bìNpTôf'Y„vÑyŽbÊS>yOÛek0"
+ estate_crow_tengu_develop_x: "ÑSUS[agenda_province.GetName]"
+ estate_crow_tengu_develop_x_desc: "&ž)Y×r‰BlbìNHNÎW^[agenda_province.GetCapitalName]„vAucƒÛLˆ•bD0"
+ estate_crow_tengu_pay_off_loans: "ØnýV¶RHP¡R"
+ estate_crow_tengu_pay_off_loans_desc: "&ž)Y×r×S0RbìNýV¶R0?e¶rµQ„vðVpb0ÖNìNTbìNËe‹Sÿ‰BlbìNµc6RV=ev^ÏQSHP¡RÄ‰!j0"
+ estate_crow_tengu_restore_republican_tradition: "b`YqQŒTŽ·V"
+ estate_crow_tengu_restore_republican_tradition_desc: "&ž)Y×rùRqQŒTýV„v¶rµQASRÅbÃV0ÖNìN|TTÇ‘ÖSLˆ¨RŒR„U6R¦^„vú^¾‹ÿb`YlQOùRlIN„váOÃV0"
+ estate_crow_tengu_restore_currency: "Í‘=c'^SOû|"
+ estate_crow_tengu_restore_currency_desc: "&ž)Y×rçVÃVŽN[Root.GetUsableName]SVMR„v'¨Àw0ÖNìN|TT(WvQ1YµcKNMR RåNO6Rÿ"
+ estate_crow_tengu_recovery_from_hyperinflation: "ÎNv`'`'¨Àwb`Y"
+ estate_crow_tengu_recovery_from_hyperinflation_desc: "&ž)Y×rHVÈp±b(`bìN„v'^Å,<PNb&^eg„vðV¾–0ÖNìN‰BlÇ‘ÖSLˆ¨RåNb`Y3zšR„v÷N<hÿ"
+ estate_crow_tengu_increase_trade_power_in_X: "ÐcØš(W[agenda_trade_node.GetTradeNodeName]„v8fÞz‰N›R"
+ estate_crow_tengu_increase_trade_power_in_X_desc: "&ž)Y×r|TTbìNžX R(W[agenda_trade_node.GetTradeNodeName]8f‚‚¹p-N„vFUN0WMOÿÖNìNðXðydk>NSg'Y0WÃOÛýV¶R„vAucƒ0"
+ estate_crow_tengu_access_sea: "·ƒÖSúQwmãS"
+ estate_crow_tengu_access_sea_desc: "&ž)Y×rTŽVúQwmãSÿHS=nãSck(Wmc³RÖNìN„vFUN)RÊv0ÖNìN‰BlÇ‘ÖS›Q‹NLˆ¨RåNnxÝObìNýV¶Råb	g=nãS0"
+ estate_crow_tengu_build_a_fleet: "HNbýVú^ËzN=ewm›Q"
+ estate_crow_tengu_build_a_fleet_desc: "&ž)Y×rùRbìNè`nQnQ„v0‚–¶rµQhˆHyÀT(`0ÖNìN|TTbìNÇNy˜Ä–ÃVÃRÃR„v.9‚¡‹Reg'YE^¦^ib›QÿåNnxÝOvQ8f)RÊv—V0RÝO²b0"
+ estate_crow_tengu_bigger_fleet_than_rival: "2–¡V[agenda_country.GetAdjective]0‚–"
+ estate_crow_tengu_bigger_fleet_than_rival_desc: "&ž)Y×r^—8^sQèl[agenda_country.GetAdjective]„v0‚–žR›RÿÅbÃVÖNìN(Wb‰N-NýwY‰fÖS—VwmNO¿Rÿ4xOWbìN8f¿uï„v‰RhQ0ÖNìN|TTbìNib'Y0‚–Ä‰!jåN9SM‘bìN„v¿RLe0"
+ estate_crow_tengu_improve_dip_rep: "ÐcØšbìN„vT‰Š"
+ estate_crow_tengu_improve_dip_rep_desc: "&ž)Y×rsQèl[Root.GetUsableName]àV(WY²N‹N¡R-N„vNÚ‹žRwüRô„vOWTðX0ÖNìN¬PÃObìNb`YýV¶R(WýVE–N„vT‰Š0"
+ estate_crow_tengu_get_cash: "ïy=t0ÌR"
+ estate_crow_tengu_get_cash_desc: "&ž)Y×r^—8^sQèlbìNýV“^„vïS`¶rµQ0ÖNìNfeÃObìNÏQSV=eåNeˆEQýV“^0"
+ estate_crow_tengu_discover_X_in_america: "¢c0t[agenda_province.GetAreaName]"
+ estate_crow_tengu_discover_X_in_america_desc: "&ž)Y×r,Tô‹†NNGrTHN[agenda_province.GetAreaName]„vÌRv™W0W„v.Oô‹ÿÙGrW0W<ONNMOŽN[agenda_province.GetColonialRegionName]„veÜ0Ws^¿uKNY0ÖNìN‰BlbìN>múQN–¢ci––eg¢c0tƒR0"
+ estate_crow_tengu_colonise_X: "T[agenda_province.GetAreaName]–kl"
+ estate_crow_tengu_colonise_X_desc: "&ž)Y×r„vØR¢cwòTnx²‹[agenda_province.GetAreaName]=fNWWÌRv™„v0WHSÿ^—8^T–kl0ÖNìN‰Bl>múQ¢ci––HN[Root.GetUsableName]±Rðyå‹0WHS0"
+ estate_crow_tengu_colonise_X_requirements: ",gýVbD–^S„v–kl†˜(W§Y[agenda_province.GetAreaName]§!HSßWåb	góSN*NòT–klwýN0"
+ estate_crow_tengu_colonise_more_X: "–kl[agenda_province.GetAreaName]HSßW"
+ estate_crow_tengu_colonise_more_X_desc: "bìN(W[agenda_owned_province.GetName]„všRESw¥bJT†NN*NAucƒ„v–kl0WåNÊSNWWTÛNekšRES„vW0W0&ž)Y×r‰BlbìN>múQ–klwÿHN[Root.GetUsableName]±Rðy[agenda_province.GetAreaName]„viRYOW0W0"
+ estate_crow_tengu_colonise_more_X_requirements: "êñTb^SýVŒRhQ–kl§Y[agenda_province.GetAreaName]§!HSßW„vNb	gwýN0"
+ estate_crow_tengu_colonial_nation: "ib.VbìN(W[agenda_province.GetColonialRegionName]„v–kl0W"
+ estate_crow_tengu_colonial_nation_desc: "bìN(W[agenda_province.GetColonialRegionName]„všRES¹pckëVb•0&ž)Y×rÐc®‹bìN”^=ecÙÍyb•v^.^©RÖNìNú^ËzêñT„vLˆ?eèè•ÿÙ7hÖNìN1SýwÑSUSb[Root.GetAdjective](Wå‹0WHS„vMRèTÙzÿv^NN—‰OVÖNºN0"
+ estate_crow_tengu_colonial_nation_requirements_tooltip: "§Y[Root.GetName]§!=f(W§Y[agenda_province.GetColonialRegionName]§!åb	góS§Y5§!µ^ÎW^„vN*N–kl†˜ýV¶R„v—RINýV0"
+ estate_crow_tengu_expand_trade_company: "ib.V[agenda_province.TradeCompany.GetName]"
+ estate_crow_tengu_expand_trade_company_desc: "&ž)Y×rHVŒ†NùRY8fHNbýV&^eg„v)RÊv0ÖNìNfeÃObìNO(uKb-N„vDnSìbbìN„v›Q‹NžR›RegibUS[agenda_province.TradeCompany.GetName]0"
+ estate_crow_tengu_trade_post_in_india: "IN‰8f=n"
+ estate_crow_tengu_trade_post_in_india_desc: "&ž)Y×r«ˆ	gsQpS¦^„vAuNS„v.Oû•÷OO†N0ÖNìNëS±VNw‰bìN(WpS¦^!k'YF–ú^ËzN*N8fÙzÿÙ7hÖNìNïSýwOùRbìNV>evQ8f0"
+ estate_crow_tengu_trade_post_in_india_reward_tooltip: "MOŽN§YpS¦^§!0^SŽN§Y[Root.GetUsableName]§!NúQµN§YNøu§!b§Y™™™e§!„vN*NwýNS·ƒ—VîOck0§YIN‰8fÙz§!0ÿ·ƒ—V§G+1§!„v,g0WFUÁTµNúQ0"
+ estate_crow_tengu_trade_post_in_malacca: "IN‰8f=n"
+ estate_crow_tengu_trade_post_in_malacca_desc: "N¹e„v™™™e²›SùRŽN&ž)Y×regô‹ASR¾–åN—bÒb0ÖNìNëS±VNw‰bìN(Wå‹0WHSú^ËzN*N8fÙzÿÙ7hÖNìN1SïSåNVËYµc6RÎN±Ì‘AmúQ„v8f0"
+ estate_crow_tengu_trade_post_in_malacca_reward_tooltip: "MOŽN§YpS¦^<S‰šN8flQøS§!0WHS0^SŽN§Y[Root.GetUsableName]§!NúQµN§Y™™™e§!„vN*NwýNS·ƒ—VîOck0§YIN‰8fÙz§!0ÿ·ƒ—V§G+1§!„v,g0WFUÁTµNúQ0"
+ estate_crow_tengu_trade_post_in_china: "IN‰8f=n"
+ estate_crow_tengu_trade_post_in_china_desc: "&ž)Y×r«ˆ	gsQ-NýV„vAuNS„v.Oû•÷OO†N0ÖNìNëS±VNw‰bìN(WvQ¿lwmú^ËzN*N8fÙzÿÙ7hÖNìNïSýwOùRbìNV>evQ8f0"
+ estate_crow_tengu_trade_post_in_china_reward_tooltip: "MOŽN§Y-NýV§!0^SŽN§Y[Root.GetUsableName]§!NúQµN§Y÷thV§!„vN*NwýNS·ƒ—VîOck0§YIN‰8fÙz§!0ÿ·ƒ—V§G+1§!„v,g0WFUÁTµNúQ0"
+ estate_crow_tengu_silk_trade: "µc6RNøu8f"
+ estate_crow_tengu_silk_trade_desc: "bìN(WN¹e„vMRèTÙzHNbìNÐc›O†NHgOÿ=fbìNýwú^ËzùRØš(Ï‘Nøuegn„vµc6R0&ž)Y×rfeÃObìNŠb6e-NøujOHNbìN„v–™‰ûN¡R0"
+ estate_crow_tengu_spice_trade: "µc6R™™™e8f"
+ estate_crow_tengu_spice_trade_desc: "bìN(WN¹e„vMRèTÙzHNbìNÐc›O†NHgOÿ=fbìNýwú^ËzùRØš(Ï‘™™™eegn„vµc6R0&ž)Y×rfeÃObìNŠb6e-™™™ejOHNbìN„v–™‰ûN¡R0"
+ estate_crow_tengu_tea_trade: "µc6R6ƒöS8f"
+ estate_crow_tengu_tea_trade_desc: "6ƒùRŽN‡ef=fÅVNïSS„vóSÿ&ž)Y×r=fÙHNô‹„v0ÖNìNZWc²‹HNÿbìNÅV‰˜·ƒ—VùR6ƒöSuµN„vµc6RCgÿ[Root.GetUsableName]„v6ƒöS›O”^1SNOQ×S0RZÁw0"
+ estate_crow_tengu_reduce_corruption: "M–NOP%"
+ estate_crow_tengu_reduce_corruption_desc: "&ž)Y×rùRðVpbNwbìNýV¶R„vàVP%wüRô„vNlQck°saŒ‡˜	g®VÍ‹0ÖNìNfeÃObìNÇ‘ÖSLˆ¨RP–6RÙÍyÝÕlLˆ„V0"
+ estate_crow_tengu_protect_against_piracy: "2–¡Vwm<"
+ estate_crow_tengu_protect_against_piracy_desc: "&ž)Y×rHN[agenda_trade_node_sea.GetName]„vwm×vLˆ„VÙuÖNìN&^eg„vmc1YwÀTùSNòT0ÖNìNs`BlbìNÇ‘ÖSLˆ¨RÿS«R cÖNìNFU9‚„vwm×vŒTÁy c9‚qšúQ»S0"
+ estate_crow_tengu_build_port_building_in_y: "(W[agenda_province.GetName]ibú^=nãS¾‹Ëe"
+ estate_crow_tengu_build_port_building_in_y_desc: "&ž)Y×rTbìNÑSúQ(W[agenda_province.GetName]ibú^=nãS¾‹Ëe„v÷‹BlÿåN¿Oå‹wýNÑSUSbbýVÍ‘‰„vwm›Q=nãS0"
+ estate_great_tengu_hire_advisor: "Xw÷‹›Q‹NŒ˜î•"
+ estate_great_tengu_hire_advisor_desc: "&ž)Y×rˆV^g[Root.Monarch.GetTitle]Xw÷‹NMO°e„v›Q‹NŒ˜î•0 "
+ estate_great_tengu_fire_advisor: "ã‰XwbýV„v›Q‹NŒ˜î•"
+ estate_great_tengu_fire_advisor_desc: "[Root.Mil_Advisor.GetTitle][Root.Mil_Advisor.GetName]ž±†N&ž)Y×r0ÖNìN‰BlbìNã‰Ç–[Root.Mil_Advisor.GetHerHim]ÿ"
+ estate_great_tengu_build_army_building_in_y: "(W[agenda_province.GetName]ibú^›Q‹N¾‹Ëe"
+ estate_great_tengu_build_army_building_in_y_desc: "[agenda_province.GetName]„v'Y)Y×r‰BlbìN(Wå‹wýNîOú^°e„v›Q‹N­‹ÃuŒTVìS-NÃVÿ‹YÝOÁ‹bìNùR›Q–„vØš(Ï‘VXT›O”^0"
+ estate_great_tengu_build_port_building_in_y: "(W[agenda_province.GetName]ibú^=nãS¾‹Ëe"
+ estate_great_tengu_build_port_building_in_y_desc: "'Y)Y×rTbìNÑSúQ(W[agenda_province.GetName]ibú^=nãS¾‹Ëe„v÷‹BlÿåN¿Oå‹wýNÑSUSbbýVÍ‘‰„vwm›Q=nãS0"
+ estate_great_tengu_build_manufactory_in_y: "(W[agenda_province.GetName]ú^.Nµ^åTHW"
+ estate_great_tengu_build_manufactory_in_y_desc: "[agenda_province.GetName]„v'Y)Y×r‰BlbìND©RNµ^°e[agenda_province.GetManufactory]„vú^¾‹0ÖNìNðXðyÙS=fNrÞV¥b0NšS„v•bDÿýwYOå‹w„v[agenda_province.GetTradeGoodsName]úQãSPžX0"
+ estate_great_tengu_build_university_in_y: "(W[agenda_province.GetName]tQú^NNb'YfR"
+ estate_great_tengu_build_university_in_y_desc: "'Y)Y×r‰BlbìND©R[agenda_province.GetName]ú^ËzNNb°e„v'YfRÿåN¿OÖNìN„vTãN×SÊvŽN[Root.GetUsableName]NbýwÐc›O„vg‹Y„vYe²w0"
+ estate_great_tengu_develop_x: "(W[agenda_province.GetName]ÐcØšºN›R"
+ estate_great_tengu_develop_x_desc: "'Y)Y×r‰BlbìN‰BlbìNHNÖNìN„v†˜0W[agenda_province.GetName]„vAucƒÛLˆ•bD0"
+ estate_great_tengu_get_allies: "ú^ËzTßv"
+ estate_great_tengu_get_allies_desc: "'Y)Y×rˆVÅbÃV[Root.GetUsableName](WY²NN„vdRËzÅ`µQÿÖNìNHVÈpú^®‹HNbýVûRBlôfY„vßvËS0"
+ estate_great_tengu_befriend_rival_of_rival: "N[rival_country.GetUsableName]„v¿RLe²N‹Y"
+ estate_great_tengu_befriend_rival_of_rival_desc: "'Y)Y×rùRŽNLeýV[rival_country.GetUsableName]&^eg„vZÁwASRsQRÿú^®‹bìNÓu²NLeºN„vLeºN[agenda_country.GetUsableName]ÿåN¿OSegqQTùRLe0"
+ estate_great_tengu_restore_legitimacy: "b`Y[Root.GetLegitimacyOrMeritocracy]"
+ estate_great_tengu_restore_legitimacy_desc: "'Y)Y×rùR[Root.Monarch.GetTitle]NýwZSÖS[Root.Monarch.GetHerHis]ãl„vSÍ‘a0RçVÃVáVáV0ÖNìNfeÃOb`Y[Root.Monarch.GetTitle]„vckßu'`Nº‹ÇUOÍyKbµk&&"
+ estate_great_tengu_relations_with_X: "9e„UN[agenda_country.GetUsableName]„vsQû|"
+ estate_great_tengu_relations_with_X_desc: "'Y)Y×rèla0R[agenda_country.GetUsableName]=fN*N	g÷N<P„vjo(WßvËS0ÖNìNú^®‹býVûRBlNå‹ýVôf'tÆR„vTwû|0"
+ estate_great_tengu_break_coalition: "Sb4xSôVQ"
+ estate_great_tengu_break_coalition_desc: "T*NýV¶RTwTwegÄubTßvùR—bbìNÿÙO'Y)Y×ra0Rñmñm„vçVQ†0ÖNìNs`BlbìNKSvQNbýwegˆm-V±›NïSýwÍSùRbýV„výV¶R„vP`ç`‚YœgÙ¹pZPN0Rÿ±1S(WNHWb‰N-NgdÁkÖNìNeg‰|ŽxÖNìN„vµb—b0"
+ estate_great_tengu_condottieri_rivals: ">múQcYÇ–cO›QâVùR—b[agenda_country.GetUsableName]"
+ estate_great_tengu_condottieri_rivals_desc: "bìN(W[agenda_country.GetUsableName]„vùRKbckÕ‹þVÇN[agenda_enemy_country.GetUsableName]„vb‰Negib'YÖNìN„v¿R›R0HN2–bkÖNìN¢b(WbìNMRb—ÿ'Y)Y×r÷SìSbìN>mcN=eè–=ec[agenda_enemy_country.GetAdjective]„v‹NN0"
+ estate_great_tengu_support_independence: "b`Y[agenda_country.GetAdjective]"
+ estate_great_tengu_support_independence_desc: "'Y)Y×rÐc÷‹bìNèla[agenda_country.GetUsableName]„vÛuæ‚ÿÙ=fN*N«ˆbýV¿RLe[agenda_rival_country.GetUsableName]—|´fD–¸^„výV¶R0ÖNìNfeÃObìNbÅbwckIN„v‹NNÿ=ec[agenda_country.GetAdjective]„vìrËz0"
+ estate_great_tengu_retake_core: "Í‘HY[agenda_province.GetName]"
+ estate_great_tengu_retake_core_desc: "'Y)Y×rùRbìN1Y»S†N[agenda_province.GetName]býV^y1WNïSRrR„vNèR„vµc6RCghˆHyHVÈp2aha0ÖNìN‰BlbìNHYÞVÙWWt”^^SŽNbýV„v†˜Wÿ"
+ estate_great_tengu_crush_revolts: "ûQ®WÛS›Q"
+ estate_great_tengu_crush_revolts_desc: "'Y)Y×r‰BlbìNb`Yéy^v^G•‹SÙHWck(W-^wShQýV„vÛSqN0"
+ estate_great_tengu_regain_liberty: "Í‘·ƒê1u"
+ estate_great_tengu_regain_liberty_desc: "'Y)Y×r(WbìN„v—RIN[agenda_country.GetAdjective]„vßu»lNa0R2a`0ÖNìN‰BlÇ‘ÖSLˆ¨Rb`Y[Root.GetAdjective]„vê1uÿ"
+ estate_great_tengu_convert_province_culture: "O[agenda_province.GetName]lØSHN[Root.Culture.GetName]‡eS"
+ estate_great_tengu_convert_province_culture_desc: "'Y)Y×rNôv(WûRŒb°e„vESOO0W0ÖNìN²‹HN[agenda_province.GetName]=f[Root.Culture.GetName]šRES„vtó`KN0WÿêS‰ÖNìNýwYô‹gSV0WESl¥c×SÖNìN„vuIm¹eV0"
+ estate_great_tengu_protect_our_culture: "ÝO²b[agenda_province.GetName]„v[Root.GetAdjective]ºNãS"
+ estate_great_tengu_protect_our_culture_desc: "'Y)Y×rðXðybìN(W[agenda_province.GetName]„v[Root.Culture.GetName]DQVq™×S[agenda_country.GetAdjective]„v‹Së0ÖNìN‰BlbìNIe`Så‹wýNÿSÖNìN&^ÞVbìN„výV¶Rÿ"
+ estate_great_tengu_protect_our_culture_effect_tooltip: "å‚ýwVgÿ§Y[agenda_province.GetName]§!„vR»yININt^peSOÏQS§G5§!0"
+ estate_great_tengu_vassalise_vulnerable_country: "D–¸^[agenda_country.GetUsableName]"
+ estate_great_tengu_vassalise_vulnerable_country_desc: "'Y)Y×r¾–åNy×SbìN„v»ES[agenda_country.GetUsableName]±›N1Vîvh„vñ‹Ñ`0ÖNìNHVÈpú^®‹USVNHW›Q‹NLˆ¨RegŠb±›NW0WnŽNbìN„vµc6RKNN0"
+ estate_great_tengu_expand_into_x: "T[agenda_province.GetAreaName]ib.V"
+ estate_great_tengu_expand_into_x_desc: "'Y)Y×r‚WŽm[agenda_province.GetAreaName]òTENÿÖNìN±Rðyåb	gÙGr†˜WSOHNbýV&•Nûm±‚0ÖNìN÷SìSÑSwNHW›Q‹NLˆ¨RegHNbýVHYÖSèRå‹HSßW„v†˜W0"
+ estate_great_tengu_complete_conquest_of_x: "‰V•^Vg[agenda_province.GetAreaName]"
+ estate_great_tengu_complete_conquest_of_x_desc: "'Y)Y×rS[agenda_province.GetAreaName]Æ‰HN[Root.GetUsableName]NïSbH„vNèRÿÖNìNùRÙNHSßWv^NŒRhQ^SŽNbìN„v‹NžRASRNán0ÖNìNfeÃObìNHYÖSå‹HSßWNbiRN„v†˜Wÿ"
+ estate_great_tengu_annex_subject: "Tv^[agenda_country.GetUsableName]"
+ estate_great_tengu_annex_subject_desc: "'Y)Y×rÊ‰Î‰bìN„v^SýV[agenda_country.GetAdjective]„v†˜W0ÖNìN‰BlbìN”^å‹SvQŒRhQTv^0RbìN„výV¶R0"
+ estate_great_tengu_build_an_army: "HNbýVú^ËzN=e›Q–"
+ estate_great_tengu_build_an_army_desc: "'Y)Y×rSb›QÆ‰jOýV¶R„vIw±0ÖNìN‰BlsSIRib›QÿåNTÊ‰Î‰býV†˜W„vLeºNUSHy³Y„vZQa›R0"
+ estate_great_tengu_bigger_army_than_rival: "2–¡V[agenda_country.GetUsableName]"
+ estate_great_tengu_bigger_army_than_rival_desc: "'Y)Y×rÅbÃVb›Q(Wb‰N-NùR’W[agenda_country.GetAdjective]Sb—4NðV¾–0ÖNìNZWc‰BlbìNžX RVuQÄ‰!jÿÙ7hbìN„vfkÅˆ›RÏ‘1SNQK„TŽNbìN„vùRKb†N0"
+ estate_great_tengu_build_up_manpower_reserves: "b`YbýVºN›R¨PY"
+ estate_great_tengu_build_up_manpower_reserves_desc: "býVºN›R¯gíz=f'Y)Y×r„vÃV4Y'Y±`ÿÖNìNf‹JT[Root.GetUsableName]‚YœgLeýVó`‰)R(uÙÍyNSb—ÿbýVSëkàeØKbKN›R0ÖNìNfeÃObìN”^SV3zšRNµköegÿObìN„vºN›RDn—V0Rb`Y0"
+ estate_great_tengu_recover_abysmal_prestige: "b`YbýVZg"
+ estate_great_tengu_recover_abysmal_prestige_desc: "'Y)Y×ràVbýVûN1uýV¶RbVaŒ'YE^NÑnwa0R1Yg0ÖNìN‰BlÇOSŒNô„vªR›RåNb`YbýV„výVE–ðX‰Š0"
+ estate_great_tengu_improve_prestige: "ÐcØšbýVZg"
+ estate_great_tengu_improve_prestige_desc: "'Y)Y×r^gbìNÇžXûm[Root.Monarch.GetTitle]«R÷^„v‰LqegÐcGSbìN(WTýVô•„v0WMO0"
+ estate_wolf_tengu_hire_advisor: "Xw÷‹›Q‹NŒ˜î•"
+ estate_wolf_tengu_hire_advisor_desc: "‹vür)Y×rˆV^g[Root.Monarch.GetTitle]Xw÷‹NMO°e„v›Q‹NŒ˜î•0 "
+ estate_wolf_tengu_fire_advisor: "ã‰XwbýV„v›Q‹NŒ˜î•"
+ estate_wolf_tengu_fire_advisor_desc: "[Root.Mil_Advisor.GetTitle][Root.Mil_Advisor.GetName]ž±†N‹vür)Y×r0ÖNìN‰BlbìNã‰Ç–[Root.Mil_Advisor.GetHerHim]ÿ"
+ estate_wolf_tengu_build_fort_building_in_y: " RHV[agenda_province.GetName]2–¡R"
+ estate_wolf_tengu_build_fort_building_in_y_desc: "‹vür)Y×rTbìNÑSúQ(W[agenda_province.GetName] RúV2–¡VåT‹N„v÷‹Bl0ÖNìN²‹HNÝO²bÙ*NÍ‘‰beuMOn=fbìN„vSV¡RKN%`0"
+ estate_wolf_tengu_three_privileges: "ib'Y‹vür)Y×ryrCg"
+ estate_wolf_tengu_three_privileges_desc: "‹vür)Y×r±b(`ÖNìN„vCg)R(W[Root.Monarch.GetTitle]KbÌ‘N­em×S0RµO¯r0ÖNìN‰BlåNÙuˆNÖNìNôf'Y„vyrCgegÝOÁ‹ÖNìN„v0WMO0"
+ estate_wolf_tengu_reply_of_the_zaporozhian: "®O±[agenda_country.GetUsableName]"
+ estate_wolf_tengu_reply_of_the_zaporozhian_desc: "[agenda_country.GetUsableName]Nôv=fbìN„v<w-N‰”0‹vür)Y×r‰BlbìNÇ‘ÖSËzHWÿÆQY‹Y(u¾|ÃVVrR„vY²N4Œ1eghˆfbìNùRÖNìN„vLea0"
+ estate_wolf_tengu_expand_into_x: "T[agenda_province.GetAreaName]ib.V"
+ estate_wolf_tengu_expand_into_x_desc: "‹vür)Y×r‚WŽm[agenda_province.GetAreaName]òTENÿÙ=fN*NÖNìN^—8^ó`µc6R„v0WHS0ÖNìNSHNbìN÷SìSNHW›Q‹NLˆ¨RegHYÖSèRå‹HSßW„v†˜W0"
+ estate_wolf_tengu_complete_conquest_of_x: "‰V•^Vg[agenda_province.GetAreaName]"
+ estate_wolf_tengu_complete_conquest_of_x_desc: "‹vür)Y×rS[agenda_province.GetAreaName]Æ‰HN[Root.GetUsableName]NïSbH„vNèRÿÖNìNùRÙNHSßWv^NŒRhQ^SŽNbìN„v‹NžRASRNán0ÖNìNfeÃObìNHYÖSå‹HSßWNbiRN„v†˜Wÿ"
+ estate_wolf_tengu_go_privateering: "VËYÁy c"
+ estate_wolf_tengu_go_privateering_desc: "‹vür)Y×rIN.V(uNÍy°e„v¹eVžX RbìN„v8f6eeQÿÖNìNô‹ÿ‚YœgbìNNýwô‹gFUºNegŒbbìNÿbìN”^å‹êñT»SŒbÖNìNÿHVëÖNìN²NúQÖNìN„v0ÌR0"
+ estate_wolf_tengu_go_privateering_2: ">mcÁy c9‚–0R[agenda_trade_node_sea.GetName]"
+ estate_wolf_tengu_go_privateering_2_desc: "‹vür)Y×rÐc®‹ùR[agenda_trade_node_sea.GetName]ÛLˆN!kÁy c¢ci–ÿÖNìNðXðyÙNLˆ¨RSHNbìN„výV¶R&^egïSÂ‰„v6eeQKS¡rvQÖNýV¶RïSýwN1kObìN„vLˆ¨Rÿ"
+ estate_wolf_tengu_despoil_x: "«R c[agenda_province.GetAreaName]"
+ estate_wolf_tengu_despoil_x_desc: "‹vür)Y×r4ngb)RÁT0ÖNìN‰BlbìNAQ¸‹ÖNìN cHY[agenda_province.GetAreaName]ÿv^HNêñT0tÖS0ÌR0"
+ estate_wolf_tengu_develop_x: "ÑSUS[agenda_province.GetName]"
+ estate_wolf_tengu_develop_x_desc: "‹vür)Y×r4ng(WêbýV„vb‹N-NÖS—Vôf'Y„vcƒw0ÖNìNckcwÃOb¹eVßRôfY›Q^SeQO0"
+ estate_wolf_condottieri_rivals: ">múQcYÇ–cO›QâVùR—b[agenda_country.GetUsableName]"
+ estate_wolf_condottieri_rivals_desc: "bìN(W[agenda_country.GetUsableName]„vùRKbckó`¹e¾‹Õl(WÖNìNN[agenda_enemy_country.GetUsableName]„vb‰N-Nib.V¿R›R0‹vür)Y×r÷‹BlbìN>muQ=eôc[agenda_enemy_country.GetAdjective]„vLˆ¨RåNôucbìNKNô•„vbeus^aˆ0"
+ estate_wolf_support_independence: "=ec[agenda_country.GetAdjective]ìrËz"
+ estate_wolf_support_independence_desc: "‹vür)Y×rèla0R†N[agenda_country.GetUsableName]„vðVƒXÿå‹ýVck«ˆbìN„v¿RLe[agenda_rival_country.GetUsableName]‹k´fßu»l0ÖNìNó`‰býVÙz(WckIN„vN¹eÿ=ec[agenda_country.GetAdjective]„vìrËz0"
+ estate_wolf_retake_core: "Í‘HY[agenda_province.GetName]"
+ estate_wolf_retake_core_desc: "‹vür)Y×rùRbìN1Y»S†N[agenda_province.GetName]ÙNbýV^y1WNïSRrR„vNèR„vµc6RCghˆHyHVÈp2aha0ÖNìN‰BlbìNHYÞVÙWWt”^^SŽNbýV„v†˜Wÿ"
+ estate_wolf_crush_revolts: "ûQ®WÛS›Q"
+ estate_wolf_crush_revolts_desc: "‹vür)Y×r‰BlbìNb`Yéy^v^G•‹SÙHWck(W-^wShQýV„vÛSqN0 "
+ estate_wolf_regain_liberty: "Í‘·ƒê1u"
+ estate_wolf_regain_liberty_desc: "‹vür)Y×r(WbìN„v—RIN[agenda_country.GetAdjective]„vßu»lNa0R2a`0ÖNìN‰BlÇ‘ÖSLˆ¨Rb`Y[Root.GetAdjective]„vê1uÿ"
+ estate_wolf_protect_our_culture: "ÝO²b[agenda_province.GetName]„v[Root.GetAdjective]ºNãS"
+ estate_wolf_protect_our_culture_desc: "‹vür)Y×rðXðybìN(W[agenda_province.GetName]„v[Root.Culture.GetName]DQVq™×S[agenda_country.GetAdjective]„v‹Së0ÖNìN‰BlbìNIe`Så‹wýNÿSÖNìN&^ÞVbìN„výV¶Rÿ"
+ estate_wolf_vassalise_vulnerable_country: "D–¸^[agenda_country.GetUsableName]"
+ estate_wolf_vassalise_vulnerable_country_desc: "‹vür)Y×r¾–åNy×SbìN„v»ES[agenda_country.GetUsableName]±›N1Vîvh„vñ‹Ñ`0ÖNìNHVÈpú^®‹USVNHW›Q‹NLˆ¨RegŠb±›NW0WnŽNbìN„vµc6RKNN0"
+ recent_estate_wolf_tengu_reply_of_the_zaporozhian_timer: "‹vür)Y×rY²N"
+ desc_recent_estate_wolf_tengu_reply_of_the_zaporozhian_timer: "ÖNìN,g1SN=fY²N˜R0"
+ th_tenma_demands_capital_development: ")YT›÷SäNÿÑSUS–™ý"
+ th_tenma_demands_capital_development_desc: ")YT›	gèeÿHN†N)Y×r„vcƒwÿ–™ýÅV‰˜—V0Rib.V0"
+ th_tenma_demands_court_resources: ")YT›÷SäNÿHN«R÷^ïyeDn"
+ th_tenma_demands_court_resources_desc: ")YT›	gèeÿ'Y)Y×r„v«R÷^—‰—V0R?eœ^„vyr+RsQgq0bìN„vNb	gDnGW—VN40"
+ th_tenma_demands_humiliate_rival: ")YT›÷SäNÿž±¿RLe"
+ th_tenma_demands_humiliate_rival_desc: ")YT›	gèeÿbýVñmw–LeùR¿R›RÍ‘ôV0bìN	g1ûN»S±¡l¿RLev^US°súQbìN„vžR›R0"
+ th_tenma_demands_bodyguards_for_the_tenma: ")YT›÷SäNÿ²bkS)YT›"
+ th_tenma_demands_bodyguards_for_the_tenma_desc: ")YT›	gèeÿ«R÷^—‰ôfY„vkSuQåNÝO²b)YT›MQGHR¢R0"
+ th_tenma_demands_monetary_tribute: ")YT›÷SäNÿDÑ‘Pc`"
+ th_tenma_demands_monetary_tribute_desc: ")YT›	gèeÿHN†NPØýV¶RV=eÿ«R÷^0“^—‰^V0ï0"
+ th_tenma_demands_sell_newspaper: ")YT›÷SäNÿ¨c•¥b¸u"
+ th_tenma_demands_sell_newspaper_desc: ")YT›	gèeÿbìN¥b¸u„vqVÍT›RÅV‰˜^×S.O­d0"
+ th_tenma_demands_sell_newspaper_at: "òT.UúQ¥b¸u„v¡‹pehVÍ‘nHN§Y0§!0"
+ th_tenma_demands_sell_newspaper_ct: "óSÇ§YúQ.U¥b¸u§!Y²NLˆ¨RTvQÖNýV¶RVSúQ§Y2§!!k¥b¸uÿ§Y[Root.tgu_newspaper_sold_counter.GetValue]§!/§Y2§!	ÿ0"
+ th_tenma_demands_spread_good_image: ")YT›÷SäNÿ.O­dbìN„vo‚‹YpSaŒ"
+ th_tenma_demands_spread_good_image_desc: ")YT›	gèeÿbìN„v»ESZPNwgOW„vSb—rv^ŠbbìNÆ‰jOvQuXRKNLe0bìN—V»S‰cÙÍyNo‚pSaŒ0"
+ th_tenma_demands_spread_good_image_at: "§Y±R.Oo‚‹YbVaŒ§!¡‹pehVÍ‘nHN§Y0§!0"
+ th_tenma_demands_spread_good_image_ct: "Ç§Y±R.Oo‚‹YbVaŒ§!Y²NLˆ¨Reg.O­d[Root.GetName]„v‹YpSaŒ0"
+ th_tenma_demands_tribute_luxuries: ")YT›÷SäNÿcƒwRVŽN)Y×r"
+ th_tenma_demands_tribute_luxuries_desc: ")YT›	gèeÿvQÖNýV¶R2VVbìNv^²‹HNb¹eàesQ't‰0Ù—V6Rbk0"
+ th_tenma_demands_expands_development: ")YT›÷SäNÿHVS[Root.GetName]"
+ th_tenma_demands_expands_development_desc: ")YT›	gèeÿå‚bìNNýwžXÛê«ŽžR›Rÿ[Root.GetName]„v*geg¿RÅVŒSŒSïSqS0"
+ tgu_completed_agendas_tt: "§YòT¾b)YT›÷SäN§!„vpeÏ‘žX R§G+1§!0"
+ tgu_failed_agendas_tt: "§YòTK„zz)YT›÷SäN§!„vpeÏ‘žX R§R+1§!0"
+ estate_privileges_and_agendas_events.3.p: "gTQ„vÐc®‹"
+ estate_privileges_and_agendas_events.3.q: "'Y)Y×r„vÐc®‹"
+ estate_privileges_and_agendas_events.6.q: "SvQúQ.UÙu&ž)Y×r"
+ estate_privileges_and_agendas_events.6.r: "SvQúQ.UÙu–Y¾|'Y×v"
+ estate_privileges_and_agendas_events.6.s: "SvQúQ.UÙu'Y)Y×r"
+ estate_privileges_and_agendas_events.6.u: "SvQúQ.UÙu8lÜ„vlQIN"
+ estate_privileges_and_agendas_events.6.v: "SvQúQ.UÙuä…ŸSN‰kºN"
+ estate_privileges_and_agendas_events.7.q: "ÎN&ž)Y×r¡l6e‹s Q†˜0W"
+ estate_privileges_and_agendas_events.7.r: "ÎN–Y¾|'Y×v¡l6e‹s Q†˜0W"
+ estate_privileges_and_agendas_events.7.s: "ÎN'Y)Y×r¡l6e‹s Q†˜0W"
+ estate_privileges_and_agendas_events.7.u: "ÎN8lÜ„vlQIN¡l6e‹s Q†˜0W"
+ estate_privileges_and_agendas_events.7.v: "ÎNä…ŸSN‰kºN¡l6e‹s Q†˜0W"
+ estate_privileges_and_agendas_events.6.w: "SvQúQ.UÙu‹vür)Y×r"
+ estate_privileges_and_agendas_events.7.w: "ÎN‹vür)Y×r¡l6e‹s Q†˜0W"
+ th_tenma_demands_court_resources_ct: "òTÇ³Q®‹N!Dnó«R…Q0"
+ th_tenma_demands_bodyguards_for_the_tenma_ct: "òTÇ³Q®‹HN)YT›>mc²bkS0"
+ th_tenma_demands_monetary_tribute_ct: "òTÇ³Q®‹PcúQDÑ‘0"
+ th_tenma_demands_tribute_luxuries_ct: "òTÇ³Q®‹PcúQbYˆOÁT0"
+ estate_privileges_and_agendas_events.3.r: "&ž)Y×r„vÐc®‹"
+ estate_privileges_and_agendas_events.3.s: "‹vür)Y×r„vÐc®‹"
+ estate_privileges_and_agendas_events.6.t: "SvQúQ.UÙugTQ"
+ estate_privileges_and_agendas_events.6.x: "SvQúQ.UÙu–T›^T"
+ estate_privileges_and_agendas_events.7.t: "ÎNgTQ¡l6e‹s Q†˜0W"
+ estate_privileges_and_agendas_events.7.x: "ÎN–T›^T¡l6e‹s Q†˜0W"
+ bribe_effect_scales_with_estate_yama_tt: "N§Y–T›^T§!„vàVÚ‹¦^ÿ[Root.GetYamaLoyaltyStatus]	ÿbÍSÔk"
+ bribe_effect_scales_with_estate_rival_kaguya_tt: "N§Y8lÜ„vlQIN§!„vàVÚ‹¦^ÿ[Root.GetKaguyaLoyaltyStatus]	ÿbÍSÔk"
+ bribe_effect_scales_with_estate_rival_mokou_tt: "N§Yä…ŸSN‰kºN§!„vàVÚ‹¦^ÿ[Root.GetMokouLoyaltyStatus]	ÿbÍSÔk"
+ bribe_effect_scales_with_estate_fairy_pirates_tt: "N§Y–Y¾|'Y×v§!„vàVÚ‹¦^ÿ[Root.GetFairyPiratesLoyaltyStatus]	ÿbÍSÔk"
+ bribe_effect_scales_with_estate_crow_tengu_tt: "N§Y&ž)Y×r§!„vàVÚ‹¦^ÿ[Root.GetCrowTenguLoyaltyStatus]	ÿbÍSÔk"
+ bribe_effect_scales_with_estate_wolf_tengu_tt: "N§Y‹vür)Y×r§!„vàVÚ‹¦^ÿ[Root.GetWolfTenguLoyaltyStatus]	ÿbÍSÔk"
+ bribe_effect_scales_with_estate_great_tengu_tt: "N§Y'Y)Y×r§!„vàVÚ‹¦^ÿ[Root.GetGreatTenguLoyaltyStatus]	ÿbÍSÔk"
+ bribe_effect_scales_with_estate_lunarian_rabbits_tt: "N§YgTQ§!„vàVÚ‹¦^ÿ[Root.GetLunarianRabbitsLoyaltyStatus]	ÿbÍSÔk"
+ issue_effects_with_estate_yama_influence_tt: "§YN–T›^T„vqVÍT›RbckÔk§!"
+ issue_effects_with_estate_rival_kaguya_influence_tt: "§YN8lÜ„vlQIN„vqVÍT›RbckÔk§!"
+ issue_effects_with_estate_rival_mokou_influence_tt: "§YNä…ŸSN‰kºN„vqVÍT›RbckÔk§!"
+ issue_effects_with_estate_fairy_pirates_influence_tt: "§YN–Y¾|'Y×v„vqVÍT›RbckÔk§!"
+ issue_effects_with_estate_crow_tengu_influence_tt: "§YN&ž)Y×r„vqVÍT›RbckÔk§!"
+ issue_effects_with_estate_wolf_tengu_influence_tt: "§YN‹vür)Y×r„vqVÍT›RbckÔk§!"
+ issue_effects_with_estate_great_tengu_influence_tt: "§YN'Y)Y×r„vqVÍT›RbckÔk§!"
+ issue_effects_with_estate_lunarian_rabbits_influence_tt: "§YNgTQ„vqVÍT›RbckÔk§!"
+ auto_complete_estate_agenda_yama_influence_tt: "[Root.GetEstateAgendaAutoCompletionFirstString]§Y–T›^T§![Root.GetEstateAgendaAutoCompletionSecondString]"
+ auto_complete_estate_agenda_rival_kaguya_influence_tt: "[Root.GetEstateAgendaAutoCompletionFirstString]§Y8lÜ„vlQIN§![Root.GetEstateAgendaAutoCompletionSecondString]"
+ auto_complete_estate_agenda_rival_mokou_influence_tt: "[Root.GetEstateAgendaAutoCompletionFirstString]§Yä…ŸSN‰kºN§![Root.GetEstateAgendaAutoCompletionSecondString]"
+ auto_complete_estate_agenda_fairy_pirates_influence_tt: "[Root.GetEstateAgendaAutoCompletionFirstString]§Y–Y¾|'Y×v§![Root.GetEstateAgendaAutoCompletionSecondString]"
+ auto_complete_estate_agenda_crow_tengu_influence_tt: "[Root.GetEstateAgendaAutoCompletionFirstString]§Y&ž)Y×r§![Root.GetEstateAgendaAutoCompletionSecondString]"
+ auto_complete_estate_agenda_wolf_tengu_influence_tt: "[Root.GetEstateAgendaAutoCompletionFirstString]§Y‹vür)Y×r§![Root.GetEstateAgendaAutoCompletionSecondString]"
+ auto_complete_estate_agenda_great_tengu_influence_tt: "[Root.GetEstateAgendaAutoCompletionFirstString]§Y'Y)Y×r§![Root.GetEstateAgendaAutoCompletionSecondString]"
+ auto_complete_estate_agenda_lunarian_rabbits_influence_tt: "[Root.GetEstateAgendaAutoCompletionFirstString]§YgTQ§![Root.GetEstateAgendaAutoCompletionSecondString]"
+ unlock_estate_yama_tt: "ã‰•§Y–T›^T§!6–BS0"
+ unlock_estate_rival_kaguya_tt: "ã‰•§Y8lÜ„vlQIN§!6–BS0"
+ unlock_estate_rival_mokou_tt: "ã‰•§Yä…ŸSN‰kºN§!6–BS0"
+ unlock_estate_fairy_pirates_tt: "ã‰•§Y–Y¾|'Y×v§!6–BS0"
+ unlock_estate_crow_tengu_tt: "ã‰•§Y&ž)Y×r§!6–BS0"
+ unlock_estate_wolf_tengu_tt: "ã‰•§Y‹vür)Y×r§!6–BS0"
+ unlock_estate_great_tengu_tt: "ã‰•§Y'Y)Y×r§!6–BS0"
+ unlock_estate_lunarian_rabbits_tt: "ã‰•§YgTQ§!6–BS0"
+ mechanic_enables_estate_yama_yes: "=T(u§Y–T›^T§!6–BS0"
+ mechanic_enables_estate_rival_kaguya_yes: "=T(u§Y8lÜ„vlQIN§!6–BS0"
+ mechanic_enables_estate_rival_mokou_yes: "=T(u§Yä…ŸSN‰kºN§!6–BS0"
+ mechanic_enables_estate_fairy_pirates_yes: "=T(u§Y–Y¾|'Y×v§!6–BS0"
+ mechanic_enables_estate_crow_tengu_yes: "=T(u§Y&ž)Y×r§!6–BS0"
+ mechanic_enables_estate_wolf_tengu_yes: "=T(u§Y‹vür)Y×r§!6–BS0"
+ mechanic_enables_estate_great_tengu_yes: "=T(u§Y'Y)Y×r§!6–BS0"
+ mechanic_enables_estate_lunarian_rabbits_yes: "=T(u§YgTQ§!6–BS0"
+ mechanic_disables_estate_yama_yes: "y(u§Y–T›^T§!6–BS0"
+ mechanic_disables_estate_rival_kaguya_yes: "y(u§Y8lÜ„vlQIN§!6–BS0"
+ mechanic_disables_estate_rival_mokou_yes: "y(u§Yä…ŸSN‰kºN§!6–BS0"
+ mechanic_disables_estate_fairy_pirates_yes: "y(u§Y–Y¾|'Y×v§!6–BS0"
+ mechanic_disables_estate_crow_tengu_yes: "y(u§Y&ž)Y×r§!6–BS0"
+ mechanic_disables_estate_wolf_tengu_yes: "y(u§Y‹vür)Y×r§!6–BS0"
+ mechanic_disables_estate_great_tengu_yes: "y(u§Y'Y)Y×r§!6–BS0"
+ mechanic_disables_estate_lunarian_rabbits_yes: "y(u§YgTQ§!6–BS0"
+ disable_rebels_from_seize_land_for_estate_yama: "¡l6e†˜WTÿsSO§Y–T›^T§!„vàVÚ‹¦^NOŽN§Y30§!ÿÖNìNmNNOwuQÍS—b0"
+ disable_rebels_from_seize_land_for_estate_rival_kaguya: "¡l6e†˜WTÿsSO§Y8lÜ„vlQIN§!„vàVÚ‹¦^NOŽN§Y30§!ÿÖNìNmNNOwuQÍS—b0"
+ disable_rebels_from_seize_land_for_estate_rival_mokou: "¡l6e†˜WTÿsSO§Yä…ŸSN‰kºN§!„vàVÚ‹¦^NOŽN§Y30§!ÿÖNìNmNNOwuQÍS—b0"
+ disable_rebels_from_seize_land_for_estate_fairy_pirates: "¡l6e†˜WTÿsSO§Y–Y¾|'Y×v§!„vàVÚ‹¦^NOŽN§Y30§!ÿÖNìNmNNOwuQÍS—b0"
+ disable_rebels_from_seize_land_for_estate_crow_tengu: "¡l6e†˜WTÿsSO§Y&ž)Y×r§!„vàVÚ‹¦^NOŽN§Y30§!ÿÖNìNmNNOwuQÍS—b0"
+ disable_rebels_from_seize_land_for_estate_wolf_tengu: "¡l6e†˜WTÿsSO§Y‹vür)Y×r§!„vàVÚ‹¦^NOŽN§Y30§!ÿÖNìNmNNOwuQÍS—b0"
+ disable_rebels_from_seize_land_for_estate_great_tengu: "¡l6e†˜WTÿsSO§Y'Y)Y×r§!„vàVÚ‹¦^NOŽN§Y30§!ÿÖNìNmNNOwuQÍS—b0"
+ disable_rebels_from_seize_land_for_estate_lunarian_rabbits: "¡l6e†˜WTÿsSO§YgTQ§!„vàVÚ‹¦^NOŽN§Y30§!ÿÖNìNmNNOwuQÍS—b0"
+ wolf_tengu_privilege_slots: "‹vür)Y×rg'YyrCgpe"
+ great_tengu_privilege_slots: "'Y)Y×rg'YyrCgpe"
+ crow_tengu_privilege_slots: "&ž)Y×rg'YyrCgpe"
+ lunarian_rabbits_privilege_slots: "gTQg'YyrCgpe"
+ yama_authority_privilege_slots: "–T›^Tg'YyrCgpe"
+ fairy_pirates_privilege_slots: "–Y¾|'Y×vg'YyrCgpe"
+ estate_rival_kaguya_privilege_slots: "8lÜ„vlQINg'YyrCgpe"
+ estate_rival_mokou_privilege_slots: "ä…ŸSN‰kºNg'YyrCgpe"
+ th_estate_nobles_subject_bond: "^SýVËu&^"
+ th_estate_nobles_subject_bond_desc: "bìN„v^SýVÅNXR(W=UNîvhÿHNbýV„vO'Y‹NNHe›RÿàVdkÿÝOÁ‹ÖNìNKSàVLwˆRv^qšOvQHNbýVKNcƒIQžXIQûmiV¿O2SHNÍ‘‰0"
+ th_estate_nobles_subject_bond_trigger_tooltip: "	gûNaN*N`S(u†N§YY²NsQû|§!„vyrŠk§YN¹e§!^SýV0"

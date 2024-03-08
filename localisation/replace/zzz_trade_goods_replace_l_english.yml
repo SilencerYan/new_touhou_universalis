@@ -1,0 +1,16 @@
+﻿l_english:
+ INCOMEGOLD:0 "Íszÿwir"
+ ND_GOLD_COST:0 "ÍszÿwirwýNÿ$VALUE$"
+ GOLD_DEPLETE_TOO_LOW:0 "úWNxuµNNOŽN$LEVEL|Y$ÿÙÍyR5Dn1S¡l	g¯gíz„vÎ˜i–0"
+ GOLD_DEPLETE_WARNING:1 "§RžX Rå‹wýN„v5Í‘Ñ‘^SµNúQ0R§!§Y$PROD$§!§ROüRô§!§Rå‹ÿwµNÏkt^¯gíz„v‚i‡s0R¾§Y$CHANCE$%§!ÿäNvQµNúQÏQJS§!\n\n"
+ IMPR_GOLD_IMCOME:0 "VÇ‘5Í‘Ñ‘^Sg6eeQ:§G+$VAL$§!¤"
+ GOLDDEPLETED_TITLE:0 "Íszÿwir¯gízÿ"
+ GOLDDEPLETED_SETUP:0 "SVN*N5Í‘Ñ‘^Sÿw¯gíz"
+ GOLDDEPLETED_1:0 "5Í‘Ñ‘^SÿwMOŽN"
+ GOLDDEPLETED_LOG:0 "$PROV$„v5Í‘Ñ‘^Sÿw¯gíz"
+ GOLD_INCOME:0 "5Í‘Ñ‘^S6eeQ"
+ PROV_PROD_GOLD:0 "egêÍszÿwirÿ"
+ dyes: "íw¢uÓg™e"
+ dyesDESC: "íw¢uÓg™e=fÎNíwk†ÿNÍyÄRu(WÙNºNŒcN„vËNóXk†	ÿ-NÐcÖS„v	gr‚ÐcÖSirÿŸSµNŽNWSŽ2míp&^ŒTšNíp&^0WHSåNÊS¨X‰åTŒTšN)RQh±0"
+ producing_wine_and_grain_tt:0 "uµN§Y7Œir§!ÿ§G+75.0%§!\nuµN§YR‘‰|§!ÿ§G+50.0%§!\nuµN§YdUR‘§!ÿ§G+50.0%§!\nuµN§Y‰Q‡§!ÿ§G+50.0%§!"
+ has_manufactory_trigger_tooltip: "åb	gNµ^§YåTHW§!ÿd–^—µNúQNAQ¸‹ú^.§YåTHW§!„v§YÄžÑ‘§!b§Y‹vö”§!"

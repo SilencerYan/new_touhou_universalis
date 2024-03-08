@@ -1,0 +1,34 @@
+th_junko_grudge_mechanic = {
+
+	powers = {
+		th_junko_grudge = {
+			gui = th_junko_grudge_gov_mech
+			max = 100
+			reset_on_new_ruler = yes
+			base_monthly_growth = 0.6
+			is_good = no
+			
+			scaled_modifier = {
+				modifier = {
+					infantry_shock = 0.8
+					siege_ability = 0.2
+					regiment_disembark_speed = 0.5
+					stability_cost_modifier = 1
+					global_unrest = 5
+					all_estate_loyalty_equilibrium = -0.2
+					ae_impact = 0.15
+				}
+			}
+			on_max_reached = {
+				if = {
+					limit = {
+						NOT = { has_country_flag = jnk_jyouga_captured }
+					}
+					country_event = {
+						id = flavor_jnk.1001
+					}
+				}
+			}
+		}
+	}
+}
