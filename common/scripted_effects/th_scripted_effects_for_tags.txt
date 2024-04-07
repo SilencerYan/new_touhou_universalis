@@ -1822,3 +1822,56 @@ th_change_battle_passion_from_battle = {
 		clr_country_flag = th_battle_passion_positive
 	}
 }
+
+##############################################################################################################################
+# HVR
+##############################################################################################################################
+hvr_reduce_debuff_power_effect = {
+	custom_tooltip = hvr_reduce_debuff_level_tt
+	if = {
+		limit = {
+			has_country_modifier = hvr_unstable_country_lv4
+		}
+		add_country_modifier = {
+			name = hvr_unstable_country_lv3
+			duration = -1
+		}
+		hidden_effect = {
+			remove_country_modifier = hvr_unstable_country_lv4
+		}
+	}
+	else_if = {
+		limit = {
+			has_country_modifier = hvr_unstable_country_lv3
+		}
+		add_country_modifier = {
+			name = hvr_unstable_country_lv2
+			duration = -1
+		}
+		hidden_effect = {
+			remove_country_modifier = hvr_unstable_country_lv3
+		}
+	}
+	else_if = {
+		limit = {
+			has_country_modifier = hvr_unstable_country_lv2
+		}
+		add_country_modifier = {
+			name = hvr_unstable_country_lv1
+			duration = -1
+		}
+		hidden_effect = {
+			remove_country_modifier = hvr_unstable_country_lv2
+		}
+	}
+	else = {
+		remove_country_modifier = hvr_unstable_country_lv1
+	}
+}
+
+th_hvr_initiate_rebel_counter = {
+	set_variable = {
+		which = hvr_won_rebel_battles_counter
+		value = 0
+	}
+}

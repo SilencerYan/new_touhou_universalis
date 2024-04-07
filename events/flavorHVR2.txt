@@ -1,0 +1,1552 @@
+namespace = flavor_hvr
+country_event = {
+	id = flavor_hvr.0
+	title = flavor_hvr.0.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.0.desc
+	fire_only_once = yes
+	trigger = {
+		ai = no
+		th_is_or_was_tag = {
+			tag = HVR
+		}
+		NOT = {
+			has_country_flag = hvr_has_variables_set
+		}
+	}
+	immediate = {
+		hidden_effect = {
+			set_country_flag = hvr_has_variables_set
+			th_hvr_initiate_rebel_counter = yes
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = flavor_hvr.0.a
+		custom_tooltip = hvr_instability.tt
+		add_stability = -2
+		add_legitimacy = -40
+		add_country_modifier = {
+			name = hvr_unstable_country_lv4
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.1
+	title = flavor_hvr.1.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.1.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_hvr.1.a
+		custom_tooltip = hvr_choose_no_education_path.tt
+		hidden_effect = {
+			set_country_flag = hvr_no_education_flag
+			clr_country_flag = hvr_teach_lesson_flag
+			swap_non_generic_missions = yes
+		}
+	}
+	option = {
+		name = flavor_hvr.1.b
+		custom_tooltip = hvr_choose_no_education_path.tt
+		hidden_effect = {
+			set_country_flag = hvr_teach_lesson_flag
+			clr_country_flag = hvr_no_education_flag
+			swap_non_generic_missions = yes
+		}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.2
+	title = flavor_hvr.2.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.2.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_hvr.2.a
+		change_innovativeness = 10
+	    if = {
+	      	limit = {
+	        	mil_tech = 7
+	      	}
+	      	capital_scope = {
+	        	large_cast_iron_bombard = ROOT
+	        	large_cast_iron_bombard = ROOT
+	       		large_cast_iron_bombard = ROOT
+	        	large_cast_iron_bombard = ROOT
+	        	large_cast_iron_bombard = ROOT
+	      	}
+	    }
+	    else = {
+	      	capital_scope = {
+	        	large_cast_bronze_mortar = ROOT
+	        	large_cast_bronze_mortar = ROOT
+	        	large_cast_bronze_mortar = ROOT
+	        	large_cast_bronze_mortar = ROOT
+	        	large_cast_bronze_mortar = ROOT
+	      	}
+	    }
+	}
+}
+
+country_event = {
+	id = flavor_hvr.3
+	title = flavor_hvr.3.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.3.desc
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = {
+			th_getruler_fighting_skill = {
+				skill_boni = 0
+				type = normal
+			}
+			set_variable = {
+				which = th_hvr_yuukas_combat_skills
+				value = 1800
+			}
+			th_defineopponent_fighting_skill = {
+				variable = th_hvr_yuukas_combat_skills
+				type = normal
+			}
+		}
+	}
+	option = {
+		name = flavor_hvr.3.a
+		highlight = yes
+		th_danmaku_normal_fight_ruler_and_opponent = {
+		  	win_event = flavor_hvr.31
+		  	draw_event = flavor_hvr.31
+		  	defeat_event = flavor_hvr.32
+		  	days = 10
+		}
+		ai_chance = {
+		  	factor = 0
+		}
+	}
+	option = {
+		name = flavor_hvr.3.b
+		custom_tooltip = flavor_hvr.3.b.tt
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		ai_chance = {
+		  	factor = 100
+		}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.31
+	title = flavor_hvr.31.t
+	desc = flavor_hvr.31.desc
+	picture = YUUKAWINNING_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+	  	name = flavor_hvr.31.a
+	  	custom_tooltip = flavor_hvr.31.a.tt
+		add_adm_power = 150
+		add_dip_power = 150
+		add_mil_power = 150
+	 	add_country_modifier = {
+			name = hvr_glorious_victory
+			duration = 7300
+	  	}
+	  	SFF = {
+			add_stability = -3
+			add_prestige = -200
+			add_country_modifier = {
+		 		name = hvr_ruined_garden
+		  		duration = 9125
+			}
+	  	}
+	  	ai_chance = {
+			factor = 100
+	 	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.32
+	title = flavor_hvr.32.t
+	desc = flavor_hvr.32.desc
+	picture = YUUKAWINNING_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+	  	name = flavor_hvr.32.a
+	  	custom_tooltip = flavor_hvr.32.a.tt
+	 	add_country_modifier = {
+			name = hvr_masochistic_tenshi
+			duration = 10950
+	  	}
+	  	ai_chance = {
+			factor = 100
+	 	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.4
+	title = flavor_hvr.4.t
+	desc = flavor_hvr.4.desc
+	picture = YUUKAWINNING_eventPicture
+	is_triggered_only = yes
+	after = {
+		hidden_effect = {
+			change_variable = {
+				which = hvr_chosen_helper
+				value = 1
+			}
+			if = {
+				limit = {
+					NOT = {
+						check_variable = {
+							which = hvr_chosen_helper
+							value = 4
+						}
+					}				
+				}
+				country_event = {
+					id = flavor_hvr.41
+				}
+			}
+		}
+	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_reimu_helper
+			}
+		}
+	  	name = flavor_hvr.4.a
+	  	custom_tooltip = flavor_hvr.4.a.tt
+		Hakurei_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Hakurei_peninsula_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Hakurei_western_coast = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_reimu_helper
+		}
+	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_marisa_helper
+			}
+		}
+		name = flavor_hvr.4.b
+		custom_tooltip = flavor_hvr.4.b.tt
+		Forest_coast_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		Forest_edge_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Forest_of_magic = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_marisa_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_sakuya_helper
+			}
+		}
+		name = flavor_hvr.4.c
+		custom_tooltip = flavor_hvr.4.c.tt
+		Scarlet_island = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Scarlett_domain = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+				}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Scarlet_mountain = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_sakuya_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_yukari_helper
+			}
+		}
+		name = flavor_hvr.4.d
+		custom_tooltip = flavor_hvr.4.d.tt
+		Mayohiga_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Ran_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Eastern_mountains = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_yukari_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_youmu_helper
+			}
+		}
+		name = flavor_hvr.4.e
+		custom_tooltip = flavor_hvr.4.e.tt
+		netherworld_region = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_youmu_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_sanae_helper
+			}
+		}
+		name = flavor_hvr.4.f
+		custom_tooltip = flavor_hvr.4.f.tt
+		Moriya_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Moriya_coast_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			 	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Southern_moriya = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_sanae_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_aya_helper
+			}
+		}
+		name = flavor_hvr.4.g
+		custom_tooltip = flavor_hvr.4.g.tt
+		Southern_youkai_mountains = {
+			limit = {
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Youkai_Mountains = {
+			limit = {
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			 	NOT = {
+					is_core = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		North_tengu_plains = {
+			limit = {
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			 	NOT = {
+					is_core = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_aya_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_reisen_helper
+			}
+		}
+		name = flavor_hvr.4.h
+		custom_tooltip = flavor_hvr.4.h.tt
+		Eientei_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Bamboo_forest_of_the_lost = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_reisen_helper
+		}
+  	}
+	option = {
+		trigger = {
+			check_variable = {
+				which = hvr_chosen_helper
+				value = 4
+			}
+		}
+		name = flavor_hvr.4.i
+		custom_tooltip = flavor_hvr.4.i.tt
+  	}
+}
+
+country_event = {
+	id = flavor_hvr.41
+	title = flavor_hvr.4.t
+	desc = flavor_hvr.4.desc
+	picture = YUUKAWINNING_eventPicture
+	is_triggered_only = yes
+	after = {
+		hidden_effect = {
+			change_variable = {
+				which = hvr_chosen_helper
+				value = 1
+			}
+			if = {
+				limit = {
+					NOT = {
+						check_variable = {
+							which = hvr_chosen_helper
+							value = 4
+						}
+					}				
+				}
+				country_event = {
+					id = flavor_hvr.4
+				}
+			}
+		}
+	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_reimu_helper
+			}
+		}
+	  	name = flavor_hvr.4.a
+	  	custom_tooltip = flavor_hvr.4.a.tt
+		Hakurei_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Hakurei_peninsula_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Hakurei_western_coast = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_reimu_helper
+		}
+	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_marisa_helper
+			}
+		}
+		name = flavor_hvr.4.b
+		custom_tooltip = flavor_hvr.4.b.tt
+		Forest_coast_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		Forest_edge_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Forest_of_magic = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_marisa_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_sakuya_helper
+			}
+		}
+		name = flavor_hvr.4.c
+		custom_tooltip = flavor_hvr.4.c.tt
+		Scarlet_island = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Scarlett_domain = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+				}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Scarlet_mountain = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_sakuya_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_yukari_helper
+			}
+		}
+		name = flavor_hvr.4.d
+		custom_tooltip = flavor_hvr.4.d.tt
+		Mayohiga_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Ran_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Eastern_mountains = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_yukari_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_youmu_helper
+			}
+		}
+		name = flavor_hvr.4.e
+		custom_tooltip = flavor_hvr.4.e.tt
+		netherworld_region = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_youmu_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_sanae_helper
+			}
+		}
+		name = flavor_hvr.4.f
+		custom_tooltip = flavor_hvr.4.f.tt
+		Moriya_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Moriya_coast_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			 	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Southern_moriya = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_sanae_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_aya_helper
+			}
+		}
+		name = flavor_hvr.4.g
+		custom_tooltip = flavor_hvr.4.g.tt
+		Southern_youkai_mountains = {
+			limit = {
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Youkai_Mountains = {
+			limit = {
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			 	NOT = {
+					is_core = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		North_tengu_plains = {
+			limit = {
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			 	NOT = {
+					is_core = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_aya_helper
+		}
+  	}
+	option = {
+		trigger = {
+			NOT = {
+				check_variable = {
+					which = hvr_chosen_helper
+					value = 4
+				}
+			}
+			NOT = {
+				has_country_flag = hvr_reisen_helper
+			}
+		}
+		name = flavor_hvr.4.h
+		custom_tooltip = flavor_hvr.4.h.tt
+		Eientei_state = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		Bamboo_forest_of_the_lost = {
+			limit = {
+			  	NOT = {
+					is_core = ROOT
+			  	}
+			  	NOT = {
+					is_permanent_claim = ROOT
+			  	}
+			}
+			add_permanent_claim = ROOT
+		}
+		hidden_effect = {
+			set_country_flag = hvr_reisen_helper
+		}
+  	}
+	option = {
+		trigger = {
+			check_variable = {
+				which = hvr_chosen_helper
+				value = 4
+			}
+		}
+		name = flavor_hvr.4.i
+		custom_tooltip = flavor_hvr.4.i.tt
+  	}
+}
+
+country_event = {
+	id = flavor_hvr.5
+	title = flavor_hvr.5.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.5.desc
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = hvr_reimu_helper
+		owns_or_non_sovereign_subject_of = 4955
+	}
+	immediate = {
+		hidden_effect = {
+			change_variable = {
+				which = hvr_got_helper
+				value = 1
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_hvr.5.a
+	}
+}
+
+country_event = {
+	id = flavor_hvr.6
+	title = flavor_hvr.6.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.6.desc
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = hvr_marisa_helper
+		owns_or_non_sovereign_subject_of = 5090
+	}
+	immediate = {
+		hidden_effect = {
+			change_variable = {
+				which = hvr_got_helper
+				value = 1
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_hvr.6.a
+	}
+}
+
+country_event = {
+	id = flavor_hvr.7
+	title = flavor_hvr.7.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.7.desc
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = hvr_sakuya_helper
+		owns_or_non_sovereign_subject_of = 4968
+	}
+	immediate = {
+		hidden_effect = {
+			change_variable = {
+				which = hvr_got_helper
+				value = 1
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_hvr.7.a
+	}
+}
+
+country_event = {
+	id = flavor_hvr.8
+	title = flavor_hvr.8.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.8.desc
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = hvr_yukari_helper
+		owns_or_non_sovereign_subject_of = 4989
+	}
+	immediate = {
+		hidden_effect = {
+			change_variable = {
+				which = hvr_got_helper
+				value = 1
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_hvr.8.a
+	}
+}
+
+country_event = {
+	id = flavor_hvr.9
+	title = flavor_hvr.9.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.9.desc
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = hvr_youmu_helper
+		owns_or_non_sovereign_subject_of = 4958
+	}
+	immediate = {
+		hidden_effect = {
+			change_variable = {
+				which = hvr_got_helper
+				value = 1
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_hvr.9.a
+	}
+}
+
+country_event = {
+	id = flavor_hvr.10
+	title = flavor_hvr.10.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.10.desc
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = hvr_sanae_helper
+		owns_or_non_sovereign_subject_of = 4998
+	}
+	immediate = {
+		hidden_effect = {
+			change_variable = {
+				which = hvr_got_helper
+				value = 1
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_hvr.10.a
+	}
+}
+
+country_event = {
+	id = flavor_hvr.11
+	title = flavor_hvr.11.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.11.desc
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = hvr_aya_helper
+		owns_or_non_sovereign_subject_of = 4964
+	}
+	immediate = {
+		hidden_effect = {
+			change_variable = {
+				which = hvr_got_helper
+				value = 1
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_hvr.11.a
+	}
+}
+
+country_event = {
+	id = flavor_hvr.12
+	title = flavor_hvr.12.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.12.desc
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = hvr_reisen_helper
+		owns_or_non_sovereign_subject_of = 4991
+	}
+	immediate = {
+		hidden_effect = {
+			change_variable = {
+				which = hvr_got_helper
+				value = 1
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_hvr.12.a
+	}
+}
+
+country_event = {
+	id = flavor_hvr.13
+	title = flavor_hvr.13.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.13.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_hvr.13.a
+		every_owned_province = {
+			limit = {
+				region = moon_region
+			}
+			add_nationalism = -15
+			add_province_modifier = {
+				name = hvr_dragon_gods_education
+				duration = 7300
+			}
+		}
+		5320 = {
+			change_province_name = "New dragon palace"
+			rename_capital = "New dragon palace"
+			add_province_modifier = {
+				name = hvr_new_dragon_palace
+				duration = -1
+			}
+		}
+		add_country_modifier = {
+			name = hvr_moon_belongs_to_us
+			duration = -1
+	  	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.14
+	title = flavor_hvr.14.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.14.desc
+	fire_only_once = yes
+	trigger = {
+		ai = no
+		th_is_or_was_tag = {
+			tag = HVR
+		}
+		NOT = {
+			has_country_flag = hvr_shinigami_set
+		}
+	}
+	immediate = {
+		hidden_effect = {
+			set_country_flag = hvr_shinigami_set
+			set_variable = {
+				which = th_hvr_shinigamis_combat_skills
+				value = 900
+			}
+		}
+	}
+	after = {
+		hidden_effect = {
+			country_event = {
+				id = flavor_hvr.16
+				days = 3650
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = flavor_hvr.14.a
+		custom_tooltip = flavor_hvr.14.a.tt
+	}
+}
+
+country_event = {
+	id = flavor_hvr.15
+	title = flavor_hvr.15.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.15.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_hvr.15.a
+		custom_tooltip = flavor_hvr.15.a.tt
+	}
+}
+
+country_event = {
+	id = flavor_hvr.16
+	title = flavor_hvr.16.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.16.desc
+	is_triggered_only = yes
+	immediate = {
+		th_getruler_fighting_skill = {
+			skill_boni = 0
+			type = normal
+		}
+		th_defineopponent_fighting_skill = {
+			variable = th_hvr_shinigamis_combat_skills
+			type = normal
+		}
+	}
+	after = {
+		hidden_effect = {
+			set_country_flag = hvr_first_met_shinigami
+		}
+	}
+	option = {
+		name = flavor_hvr.16.a
+		th_danmaku_normal_fight_ruler_and_opponent = {
+			win_event = flavor_hvr.161
+			draw_event = flavor_hvr.161
+			defeat_event = flavor_hvr.162
+			days = 10
+	  	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.161
+	title = flavor_hvr.161.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.161.desc
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = {
+			change_variable = {
+				which = th_hvr_shinigamis_combat_skills
+				value = 150
+			}
+			country_event = {
+				id = flavor_hvr.17
+				days = 5475
+			}
+		}
+	}
+	option = {
+		name = flavor_hvr.161.a
+	}
+}
+
+country_event = {
+	id = flavor_hvr.162
+	title = flavor_hvr.162.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.162.desc
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = {
+			change_variable = {
+				which = th_hvr_shinigamis_combat_skills
+				value = 150
+			}
+			country_event = {
+				id = flavor_hvr.17
+				days = 9125
+			}
+		}
+	}
+	option = {
+		name = flavor_hvr.161.a
+		add_country_modifier = {
+			name = hvr_injured_tenshi
+			duration = 3650
+	  	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.17
+	title = flavor_hvr.17.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.17.desc
+	is_triggered_only = yes
+	trigger = {
+		NOT = {
+			has_country_flag = hvr_shinigami_defeated
+		}
+	}
+	immediate = {
+		th_getruler_fighting_skill = {
+			skill_boni = 0
+			type = normal
+		}
+		th_defineopponent_fighting_skill = {
+			variable = th_hvr_shinigamis_combat_skills
+			type = normal
+		}
+	}
+	option = {
+		name = flavor_hvr.17.a
+		th_danmaku_normal_fight_ruler_and_opponent = {
+			win_event = flavor_hvr.161
+			draw_event = flavor_hvr.161
+			defeat_event = flavor_hvr.162
+			days = 10
+	  	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.18
+	title = flavor_hvr.18.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.18.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_hvr.18.a
+		custom_tooltip = flavor_hvr.18.a.tt
+		hidden_effect = {
+			set_country_flag = hvr_shinigami_defeated
+		}
+		add_dip_power = 300
+		add_power_projection = {
+			type = hvr_beaten_eiki_pp
+		    amount = 25
+    	}
+		custom_tooltip = th_permanent_power_projection_tooltip
+	}
+}
+
+country_event = {
+	id = flavor_hvr.19
+	title = flavor_hvr.19.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.19.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_hvr.19.a
+		custom_tooltip = flavor_hvr.19.a.tt
+		hidden_effect = {
+			set_country_flag = hvr_shinigami_defeated
+		}
+		add_mil_power = 300
+		add_power_projection = {
+			type = hvr_beaten_eiki_pp
+		    amount = 25
+    	}
+		custom_tooltip = th_permanent_power_projection_tooltip
+	}
+}
+
+country_event = {
+	id = flavor_hvr.20
+	title = flavor_hvr.20.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.20.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_hvr.20.a
+		add_yearly_sailors = 1
+		add_country_modifier = {
+			name = hvr_popularity_in_fish
+			duration = 9125
+	  	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.21
+	title = flavor_hvr.21.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.21.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_hvr.21.a
+		custom_tooltip = abolished_slavery_act_tooltip
+		hidden_effect = {
+			set_country_flag = hvr_abolish_fishing
+			every_owned_province = {
+				limit = {
+					trade_goods = fish
+				}
+				change_trade_goods = unknown
+				remove_building = wharf
+			}
+		}
+		add_country_modifier = {
+			name = hvr_fishes_hisouten
+			duration = 9125
+	  	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.22
+	title = flavor_hvr.22.t
+	desc = flavor_hvr.22.desc
+	picture = TRADEGOODS_eventPicture
+
+	trigger = {
+		has_country_flag = hvr_abolish_fishing
+		any_owned_province = { trade_goods = fish }
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = flavor_hvr.22.a
+		every_owned_province = {
+			limit = { trade_goods = fish }
+			change_trade_goods = random
+			remove_building = wharf
+		}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.23
+	title = flavor_hvr.23.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.23.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_hvr.23.a
+		th_enable_touhou_advisor = {
+			advisor = th_advisor_iku
+		}
+	}
+}

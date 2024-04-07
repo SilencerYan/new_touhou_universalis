@@ -231,7 +231,7 @@ TH_Divine_Spirit_Mausole_Holy_Site = {
 		}
 	}
 	missionaries = 1 
-	harmonization_speed = 0.2
+	monthly_fervor_increase = 1
 	prestige = 0.5
 	
 	#Province scope

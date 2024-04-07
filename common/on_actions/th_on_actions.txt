@@ -312,6 +312,33 @@ on_battle_lost_unit = {
 			set_country_flag = net_won_battle_against_meira_in_person
 		}
 	}
+	if = {
+		limit = {
+			unit_owner = {
+				th_is_or_was_tag = {
+					tag = REB
+				}
+			}
+			enemy_unit = {
+				unit_owner = {
+					th_is_or_was_tag = {
+						tag = HVR
+					}
+				}
+			}
+		}
+		random_country = {
+			limit = {
+				th_is_or_was_tag = {
+					tag = HVR
+				}
+			}
+			change_variable = {
+				which = hvr_won_rebel_battles_counter
+				value = 1
+			}
+		}
+	}
 }
 
 # country

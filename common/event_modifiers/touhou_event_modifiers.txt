@@ -1286,6 +1286,55 @@ okr_other_side_of_secret_portal = {
 
 #Heavenly Realm event modifiers
 
+hvr_unstable_country_lv4 = {}
+hvr_unstable_country_lv3 = {}
+hvr_unstable_country_lv2 = {}
+hvr_unstable_country_lv1 = {}
+
+hvr_glorious_victory = {
+	land_morale = 0.15
+	core_creation = -0.2
+}
+
+hvr_ruined_garden = {
+	discipline = -0.1
+	land_morale = -0.15
+}
+
+hvr_masochistic_tenshi = {
+	fire_damage_received = -0.15
+	shock_damage_received = -0.15
+	danmaku_power_constant = 300
+}
+
+hvr_dragon_gods_education = {
+	local_missionary_strength = 0.05
+}
+
+hvr_new_dragon_palace = {
+
+}
+
+hvr_moon_belongs_to_us = {
+
+}
+
+hvr_injured_tenshi = {
+	country_admin_power = -1
+    country_diplomatic_power = -1
+    country_military_power = -1
+}
+
+hvr_popularity_in_fish = {
+	improve_relation_modifier = 0.25
+}
+
+hvr_fishes_hisouten = {
+	movement_speed_in_fleet_modifier = 2
+	global_sailors_modifier = 0.2
+	trade_steering = 0.25
+}
+
 hvr_port_in_new_world = {
 	local_ship_repair = 0.25
 	ship_recruit_speed = -0.25  

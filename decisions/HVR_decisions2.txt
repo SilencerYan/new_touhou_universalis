@@ -1,0 +1,124 @@
+country_decisions = {
+	hvr_shinigami_introduction = {
+		potential = {
+		  	has_country_flag = hvr_shinigami_set
+			NOT = {
+				has_country_flag = hvr_shinigami_defeated
+			}
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.15
+			}
+		}
+	}
+	hvr_recruit_iku_admiral = {
+		potential = {
+		  	has_country_flag = hvr_can_hire_admiral_iku
+		}
+		allow = {
+		  	owns_core_province = 5032
+			custom_trigger_tooltip = {
+				tooltip = hvr_iku_hired_for_thirty_years
+				NOT = {
+					has_leader = "8lmlcˆ–s"  # Iku Nagae
+			  	}
+				NOT = {
+					advisor = th_advisor_iku
+			    }
+				NOT = {
+				  	has_advisor_type_in_pool = th_advisor_iku
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					has_country_flag = hvr_dragon_gods_bless_flag
+				}
+				define_admiral = {
+					name = "8lmlcˆ–s"  # Iku Nagae
+					shock = 4
+					fire = 4
+					manuever = 5
+					siege = 3
+					female = yes
+				}
+			}
+			else = {
+				define_admiral = {
+					name = "8lmlcˆ–s"  # Iku Nagae
+					shock = 3
+					fire = 3
+					manuever = 4
+					siege = 2
+					female = yes
+				}
+			}
+		}		
+		ai_will_do = {
+		  	factor = 1
+		 	modifier = {
+				factor = 0
+				is_at_war = no
+		  	}
+		}
+		ai_importance = 50
+	}
+	hvr_recruit_iku_general = {
+		potential = {
+		  	has_country_flag = hvr_can_hire_general_iku
+		}
+		allow = {
+		  	owns_core_province = 5032
+			custom_trigger_tooltip = {
+				tooltip = hvr_iku_hired_for_thirty_years
+				NOT = {
+					has_leader = "8lmlcˆ–s"  # Iku Nagae
+			  	}
+				NOT = {
+					advisor = th_advisor_iku
+			    }
+				NOT = {
+				  	has_advisor_type_in_pool = th_advisor_iku
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					has_country_flag = hvr_dragon_gods_bless_flag
+				}
+				define_general = {
+					name = "8lmlcˆ–s"  # Iku Nagae
+					shock = 4
+					fire = 4
+					manuever = 5
+					siege = 3
+					female = yes
+				}
+			}
+			else = {
+				define_general = {
+					name = "8lmlcˆ–s"  # Iku Nagae
+				  	shock = 3
+				  	fire = 3
+				  	manuever = 4
+				  	siege = 2
+					female = yes
+			  	}
+			}
+		}
+		ai_will_do = {
+		  	factor = 1
+		  	modifier = {
+				factor = 0
+				is_at_war = no
+		  	}
+		}
+		ai_importance = 50
+	}
+}

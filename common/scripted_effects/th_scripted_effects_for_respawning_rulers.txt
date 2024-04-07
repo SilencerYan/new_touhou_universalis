@@ -411,17 +411,7 @@ th_respawn_ruler_with_new_stats_effect = {
         set_ruler_flag = touhou_character_ruler
         set_ruler_flag = touhou_original_ruler
         set_ruler_flag = th_original_tenshi
-      }
-      if = {
-        limit = {
-          has_country_flag = Gensokyan_hvr_absolute_dictatorship_flag
-        }
-        add_ruler_personality = strict_personality
-        add_ruler_personality = free_thinker_personality
-      }
-      else = {
         add_ruler_personality = babbling_buffoon_personality
-        add_ruler_personality = free_thinker_personality
       }
     }
     else = {

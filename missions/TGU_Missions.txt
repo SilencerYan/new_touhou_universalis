@@ -1183,7 +1183,7 @@ tgu_missions_branching_slot = {
               th_has_any_estates = yes
             }
             th_num_of_all_completed_estate_agendas = {
-              value = 10
+              value = 3
             }
             estate_loyalty = {
               estate = all
@@ -1879,7 +1879,7 @@ tgu_missions_youkai_conquest_slot = {
           value = 20
         }
       }
-      custom_trigger_tooltip = {
+      gger_tooltip = {
         tooltip = TGU_the_news_manipulators_ct
         check_variable = {
           which = tgu_newspaper_sold_counter
@@ -2875,11 +2875,11 @@ tgu_missions_castes_slot = {
     trigger = {
       OR = {
         num_of_estate_agendas_completed = {
-          estate = estate_crow_tengu
+          estate = estate_great_tengu
           value = 10
         }
         NOT = {
-          has_estate = estate_crow_tengu
+          has_estate = estate_great_tengu
         }
         crown_land_share = 80
         estate_territory = {

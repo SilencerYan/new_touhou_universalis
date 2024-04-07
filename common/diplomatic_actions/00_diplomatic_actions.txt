@@ -155,6 +155,20 @@ declarewar = {
 			FROM = { is_part_of_hre = no }
 		}
 	}
+	condition = {
+		tooltip = hvr_cannot_declare_war_before_learned_taoism
+		potential = {
+			th_is_or_was_tag = {
+				tag = HVR
+			}
+			NOT = {
+				has_country_flag = hvr_unlocked_dow_on_higan
+			}
+		}
+		allow = { 
+			FROM = { NOT = { tag = HIG } }
+		}
+	}
 	effect = {
 		on_war_declaration_effect = yes
 		th_on_war_declaration_effect = yes
