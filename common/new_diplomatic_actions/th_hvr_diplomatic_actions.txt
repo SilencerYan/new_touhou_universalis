@@ -82,6 +82,15 @@ th_hvr_weather_control_heavy_rain = {   ### No harvest for you!
 				value = 20
 			}
 		}
+		if = {
+			limit = {
+				FROM = { tag = KPP }
+			}
+			custom_trigger_tooltip = {
+				tooltip = hvr_cannot_use_heavy_rain_on_kpp
+				FROM = { NOT = { tag = KPP } }
+			}
+		}
 	}
 
 	on_accept = {
@@ -187,7 +196,16 @@ th_hvr_weather_control_blizzard = {
 				which = hvr_hisou_sword_energy
 				value = 20
 			}
-		}	
+		}
+		if = {
+			limit = {
+				FROM = { tag = CIN }
+			}
+			custom_trigger_tooltip = {
+				tooltip = hvr_bakas_do_not_get_cold
+				FROM = { NOT = { tag = CIN } }
+			}
+		}
 	}
 
 	on_accept = {
@@ -240,7 +258,32 @@ th_hvr_weather_control_heavy_fog = {
 				which = hvr_hisou_sword_energy
 				value = 20
 			}
-		}	
+		}
+		if = {
+			limit = {
+				FROM = { 
+					OR = {
+						th_is_or_was_tag = {
+							tag = SCR
+						}
+						tag = FLR
+					}
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = hvr_vampires_like_fog
+				FROM = { 
+					NOT = { 
+						OR = {
+							th_is_or_was_tag = {
+								tag = SCR
+							}
+							tag = FLR
+						}
+					} 
+				}
+			}
+		}
 	}
 
 	on_accept = {
