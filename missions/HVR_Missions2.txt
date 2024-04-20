@@ -889,13 +889,31 @@ hvr_mission_second_slot_2 = {
 			hvr_hisou_sword
 		}
 		provinces_to_highlight = {
+			has_terrain = desert
+			has_climate = arid
 		}
 		trigger = {
-			prestige = 5
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				has_terrain = desert
+				has_climate = arid
+				value = 15
+			}
 		}
 		effect = {
-			country_event = {
-				id = flavor_hvr.0
+			custom_tooltip = hvr_unlock_strong_sun_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlocked_strong_sun
+			}
+			custom_tooltip = hvr_add_40_power
+			hidden_effect = {
+				change_variable = {
+					which = hvr_hisou_sword_energy
+					value = 40
+				}
+			}
+			define_advisor = {
+				type = quartermaster
+				discount = yes
 			}
 		}
 	}
@@ -1439,13 +1457,35 @@ hvr_mission_third_slot_2 = {
 			hvr_hisou_sword
 		}
 		provinces_to_highlight = {
+			has_climate = arctic
 		}
 		trigger = {
-			prestige = 5
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				has_climate = arctic
+				value = 15
+			}
 		}
 		effect = {
-			country_event = {
-				id = flavor_hvr.0
+			custom_tooltip = hvr_unlock_blizzard_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlocked_blizzard
+			}
+			custom_tooltip = hvr_add_40_power
+			hidden_effect = {
+				change_variable = {
+					which = hvr_hisou_sword_energy
+					value = 40
+				}
+			}
+			custom_tooltip = hvr_buff_on_arctic_provinces_tt
+			hidden_effect = {
+				every_owned_province = {
+					limit = { has_climate = arctic }
+					add_province_modifier = {
+						name = "hvr_milder_snow"
+						duration = 9125
+					}
+				}
 			}
 		}
 	}
@@ -1751,13 +1791,31 @@ hvr_mission_forth_slot = {
 			hvr_hisou_sword
 		}
 		provinces_to_highlight = {
+			province_id = 236
 		}
 		trigger = {
-			prestige = 5
+			owns_core_province = 236
 		}
 		effect = {
-			country_event = {
-				id = flavor_hvr.0
+			custom_tooltip = hvr_unlock_heavy_fog_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlocked_heavy_fog
+			}
+			custom_tooltip = hvr_add_40_power
+			hidden_effect = {
+				change_variable = {
+					which = hvr_hisou_sword_energy
+					value = 40
+				}
+			}
+			236 = {
+				add_base_tax = 4
+				add_base_production = 4
+				add_base_manpower = 4
+				add_province_modifier = {
+					name = "hvr_milder_fog"
+					duration = -1
+				}
 			}
 		}
 	}
@@ -2077,11 +2135,17 @@ hvr_mission_fifth_slot = {
 		provinces_to_highlight = {
 		}
 		trigger = {
-			prestige = 5
+			custom_trigger_tooltip = {
+				tooltip = hvr_three_earthquake_tt
+				check_variable = {
+				  	which = hvr_earthquake_counter
+				  	value = 3
+				}
+			}
 		}
 		effect = {
 			country_event = {
-				id = flavor_hvr.0
+				id = flavor_hvr.24
 			}
 		}
 	}
@@ -2093,13 +2157,32 @@ hvr_mission_fifth_slot = {
 			hvr_hisou_sword
 		}
 		provinces_to_highlight = {
+			has_climate = tropical
+			has_terrain = jungle
 		}
 		trigger = {
-			prestige = 5
+			owns_core_province = 567
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				has_climate = tropical
+				has_terrain = jungle
+				value = 15
+			}
 		}
 		effect = {
-			country_event = {
-				id = flavor_hvr.0
+			custom_tooltip = hvr_unlock_heavy_rain_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlocked_heavy_rain
+			}
+			custom_tooltip = hvr_add_40_power
+			hidden_effect = {
+				change_variable = {
+					which = hvr_hisou_sword_energy
+					value = 40
+				}
+			}
+			add_country_modifier = {
+				name = hvr_tailwind
+				duration = 9125
 			}
 		}
 	}
@@ -2116,11 +2199,18 @@ hvr_mission_fifth_slot = {
 		provinces_to_highlight = {
 		}
 		trigger = {
-			prestige = 5
+			custom_trigger_tooltip = {
+				tooltip = HVR_weather_control_tt
+				check_variable = {
+				  	which = hvr_weather_action_counter
+				  	value = 10
+				}
+			}
 		}
 		effect = {
-			country_event = {
-				id = flavor_hvr.0
+			custom_tooltip = hvr_extra_hisou_sword_energy
+			hidden_effect = {
+				set_country_flag = hvr_experienced_hisou_sword
 			}
 		}
 	}	

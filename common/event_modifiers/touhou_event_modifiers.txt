@@ -1335,6 +1335,35 @@ hvr_fishes_hisouten = {
 	trade_steering = 0.25
 }
 
+hvr_outworld_passion = {
+	global_ship_recruit_speed = -0.25
+	regiment_disembark_speed = 1
+}
+
+hvr_devastating_earthquake = {
+	defensiveness = -0.25
+}
+
+hvr_disperse_clouds = {
+	naval_morale = -0.1
+	ship_durability = -0.05	
+}
+
+hvr_strong_sun = {
+	development_cost = 0.1
+	build_cost = 0.1
+}
+
+hvr_blizzard = {
+    movement_speed = -0.1
+    land_attrition = 0.1
+}
+
+hvr_heavy_fog = {
+	fire_damage = -0.1
+	recover_army_morale_speed = -0.1
+}
+
 hvr_port_in_new_world = {
 	local_ship_repair = 0.25
 	ship_recruit_speed = -0.25  
@@ -1561,10 +1590,6 @@ hvr_keystone_scouts_hostile = {
 
 #Mechanic / GOV. mechanic
 
-hvr_used_weather_control_on_target = {
-prestige = 0.01
-}
-
 hvr_heavy_rain = {   #DEFAULT
 	global_trade_goods_size_modifier = 0.15 
 	production_efficiency = 0.05
@@ -1575,15 +1600,7 @@ hvr_heavy_rain_lvl_2 = {  #Unlocked at the end of MT
 	production_efficiency = 0.1 
 }
 
-hvr_disperse_clouds = {    #DEFAULT
-	global_supply_limit_modifier = -0.25
-	global_trade_goods_size_modifier = -0.1
-}
 
-hvr_devastating_earthquake = {   #UNLOCKED on mission hvr_weather_control
-	defensiveness = -0.25
-	morale_damage_received = 0.1
-}
 
 hvr_terraforming = {            #UNLOCKED on mission hvr_learn_from_suwako
 	development_cost = -0.1

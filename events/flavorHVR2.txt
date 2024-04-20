@@ -1550,3 +1550,203 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = flavor_hvr.24
+	title = flavor_hvr.24.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.24.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_hvr.24.a
+		arabia_region = {
+			limit = {
+				NOT = {
+				  	is_core = ROOT
+				}
+				NOT = {
+				  	is_permanent_claim = ROOT
+				}
+		  	}
+		  	add_permanent_claim = ROOT
+		}
+		british_isles_region = {
+			limit = {
+				NOT = {
+				  	is_core = ROOT
+				}
+				NOT = {
+				  	is_permanent_claim = ROOT
+				}
+		  	}
+		  	add_permanent_claim = ROOT
+		}
+		east_siberia_region = {
+			limit = {
+				NOT = {
+				  	is_core = ROOT
+				}
+				NOT = {
+				  	is_permanent_claim = ROOT
+				}
+		  	}
+		  	add_permanent_claim = ROOT
+		}
+		bengal_region = {
+			limit = {
+				NOT = {
+				  	is_core = ROOT
+				}
+				NOT = {
+				  	is_permanent_claim = ROOT
+				}
+		  	}
+		  	add_permanent_claim = ROOT
+		}
+		add_country_modifier = {
+			name = hvr_outworld_passion
+			duration = 9125
+	  	}
+		custom_tooltip = hvr_unlock_hisou_sword_energy
+		hidden_effect = {
+			set_country_flag = hvr_unlock_hisou_sword_unlocked
+			set_variable = {
+				which = hvr_hisou_sword_energy
+				value = 0
+			}
+		}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.25
+	title = flavor_hvr.25.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.25.desc
+	is_triggered_only = yes
+	hidden = yes
+	trigger = {
+		has_country_flag = hvr_unlock_hisou_sword_unlocked
+	}
+	option = {
+		name = flavor_hvr.25.a
+		if = {
+			limit = {
+				has_country_flag = hvr_experienced_hisou_sword
+			}
+			change_variable = {
+				which = hvr_hisou_sword_energy
+				value = 6
+			}
+		}
+		else = {
+			change_variable = {
+				which = hvr_hisou_sword_energy
+				value = 4
+			}
+		}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.26
+	title = flavor_hvr.26.t
+	picture = TENSHI_disperse_clouds_eventPicture
+	desc = flavor_hvr.26.desc
+	is_triggered_only = yes
+	option = {
+	  	name = flavor_hvr.26.a
+		hidden_effect = {
+			hvr_reset_weather = yes
+		}
+	  	add_country_modifier = {
+			name = hvr_strong_sun
+			duration = 3650
+	  	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.27
+	title = flavor_hvr.27.t
+	picture = TENSHI_disperse_clouds_eventPicture
+	desc = flavor_hvr.27.desc
+	is_triggered_only = yes
+	option = {
+	  	name = flavor_hvr.27.a
+		hidden_effect = {
+			hvr_reset_weather = yes
+		}
+	  	add_country_modifier = {
+			name = hvr_blizzard
+			duration = 3650
+	  	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.28
+	title = flavor_hvr.28.t
+	picture = TENSHI_disperse_clouds_eventPicture
+	desc = flavor_hvr.28.desc
+	is_triggered_only = yes
+	option = {
+	  	name = flavor_hvr.28.a
+		hidden_effect = {
+			hvr_reset_weather = yes
+		}
+	  	add_country_modifier = {
+			name = hvr_heavy_fog
+			duration = 3650
+	  	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.100
+	title = flavor_hvr.100.t
+	picture = TENSHI_disperse_clouds_eventPicture
+	desc = flavor_hvr.100.desc
+	is_triggered_only = yes
+	option = {
+	  	name = flavor_hvr.100.a
+		custom_tooltip = hvr_hisou_sword_energy.tt
+	}
+}
+
+country_event = {
+	id = flavor_hvr.103
+	title = flavor_hvr.103.t
+	picture = TENSHI_disperse_clouds_eventPicture
+	desc = flavor_hvr.103.desc
+	is_triggered_only = yes
+	option = {
+	  	name = flavor_hvr.103.a
+		hidden_effect = {
+			hvr_reset_weather = yes
+		}
+		add_country_modifier = {
+			name = hvr_disperse_clouds
+			duration = 3650
+	  	}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.104
+	title = flavor_hvr.104.t
+	picture = TENSHI_earthquake_eventPicture
+	desc = flavor_hvr.104.desc
+	is_triggered_only = yes
+	option = {
+	  	name = flavor_hvr.104.a
+	  	add_country_modifier = {
+			name = hvr_devastating_earthquake
+			duration = 1825
+	  	}
+		hidden_effect = {
+			clr_country_flag = hvr_used_earthquake_on_target
+			set_country_flag = hvr_used_earthquake_on_target
+		}
+	}
+}

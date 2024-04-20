@@ -1875,3 +1875,10 @@ th_hvr_initiate_rebel_counter = {
 		value = 0
 	}
 }
+
+hvr_reset_weather = {
+	remove_country_modifier = hvr_strong_sun
+	remove_country_modifier = hvr_blizzard
+	remove_country_modifier = hvr_heavy_fog
+	remove_country_modifier = hvr_disperse_clouds
+}

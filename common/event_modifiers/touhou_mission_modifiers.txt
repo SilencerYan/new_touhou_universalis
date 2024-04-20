@@ -3730,6 +3730,22 @@ hvr_worldwide_hisouten = {
 	
 }
 
+hvr_tailwind = {
+	trade_efficiency = 0.15
+	global_tariffs = 0.25
+}
+
+hvr_milder_snow = {
+	trade_goods_size_modifier = 0.25
+	local_development_cost = -0.25
+}
+
+hvr_milder_fog = {
+	allowed_num_of_buildings = 1
+	province_trade_power_value = 10
+	local_production_efficiency = 0.25
+}
+
 hvr_ignore_coring_distance = {
 	ignore_coring_distance = yes
 }

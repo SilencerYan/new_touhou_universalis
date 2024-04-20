@@ -14,6 +14,25 @@ country_decisions = {
 				id = flavor_hvr.15
 			}
 		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	hvr_hisou_sword_introduction = {
+		potential = {
+		  	has_country_flag = hvr_unlock_hisou_sword_unlocked
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.100
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
 	}
 	hvr_recruit_iku_admiral = {
 		potential = {
