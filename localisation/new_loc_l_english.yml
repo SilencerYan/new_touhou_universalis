@@ -694,3 +694,68 @@
  mechanic_th_can_call_non_immortal_rulers_back_yes: "ïSåNìS2U^—8lu„vwËYßu»lwRVeg"
  mechanic_th_can_call_non_immortal_rulers_back_no: "NýwìS2U^—8lu„vwËYßu»lwRVeg"
  mechanic_th_can_call_non_immortal_rulers_back: "ïSåNìS2U^—8lu„vwËYßu»lwRVeg"
+ flavor_hvr.24.t: "¢c0tïuó`QR„vjo›R"
+ flavor_hvr.24.desc: "(WmyÜb™Ÿ^yKNTÿ™Ÿ^y'YºNJTåw)YPRÿNLu^–ÿûN1u`OìN0tÖS0‰^ó`aNØ=f*YSÿ(WvQÖN0W¹e`OìNSOôf R	gNbjOHN0\n)YPRùRdkhˆHyÿyY—‰»SYLu¢c0tôfY„v‹NirÿåN¿OŽNVÑSïuó`QR„výw›R0"
+ flavor_hvr.24.a: "™Ÿ^y'YºNÿbìNle1r¨`NTÿ"
+ flavor_hvr.25.t: "l(ýwÏ‘žX•	²Q‹NöN"
+ flavor_hvr.25.desc: ""
+ flavor_hvr.25.a: "¸„¸„åeNÿ"
+ flavor_hvr.26.t: ")YPRùRbýVO(u†NÈpåeÿ"
+ flavor_hvr.26.desc: "dåeŽpŽp<OkpçpÿÎ‘0u¾yIzJS¯g&q0œQ+YÃV…Q‚Ydlnqÿ)YN)YPRŠbGbGd0\n[Root.GetName]Ñg„vñeŒp%NÍ‘qVÍT†NýV…Q„vuµNÑSUSÿ¸‹YºNlàVdkAm»y1YNbÿ³R¨R›R„vN³©‹bìN„vú^.b,g'Y'YÐcGS0[Root.Monarch.GetName]ck(WHNdk‹N&qQ†öeÿNýNegê)YLuªcžØšÅ–„v‡efN«ˆHTN0vQ-N„v…Q¹R=f)YPRùR.bÑgñeŒp„vLˆHN›O²‹N³‹ÿv^àràr0W2VV†N[Root.Monarch.GetName]Nju0"
+ flavor_hvr.26.a: "yY‹Y'Y„vÆwPRÿ"
+ flavor_hvr.27.t: ")YPRùRbýVO(u†N´fê–ÿ"
+ flavor_hvr.27.desc: "ýV‚YNY%fÎ˜egÿCShNh¨h±‚V0\nFO[Root.Monarch.GetName]àeÃV»S#kOÙ7h„vŽofÿff/f(WÛvYÿ[Root.GetName]tSúQ°s†NòSNÎN*g	gÇ„v%NÍ‘ê–ŒpÿàepeirŠ«ˆ»Q‰kÿºNìNêSýw(Wê–-Np‚¾–LˆÛ0\n9hncbìN„vÅ`¥båTjOÿÍyÍyùaŒhˆfÙ:WŒp¾–/fegê)YLu„v)YPR„vNbjONb:Nÿ"
+ flavor_hvr.27.a: "yY‹Y'Y„vÆwPRÿ"
+ flavor_hvr.28.t: ")YPRùRbýVO(u†NSmþ–ÿ"
+ flavor_hvr.28.desc: "t^t^SSg-NËy,SSt^t^þ–è–a0\nsSO(W‚‚GPåeÿ)Yl4–‰lmN/f8^‹NÿFO[Root.GetName]„v)YltS	g›NÇŽNNTûR8^†N0Þíu„v'Yþ–4–)Y©‹›Q–„vSûQ­‹ÃuàeP–6Rö^Tÿ1SÞ[Root.Monarch.GetName]i–NmNhˆ:y'Yþ–Sm0RÞëXuQýwNÁ‰–MR„vS›Q†N0\nNMOàVžR„vFUºNJTÉ‹bìNÙˆVïSýw/fNMOegê)YLu„v)YºN.b„v0"
+ flavor_hvr.28.a: "yY‹Y'Y„vÆwPRÿ"
+ flavor_hvr.103.t: ")YPRùRbýVO(u†N´fè–ÿ"
+ flavor_hvr.103.desc: "TNÁ‰Äž³lKN4l)YNegÿTYAm0RwmNYÞVÿ\n[Root.GetName](WíwíwN)YKN…Q1SM–N†NhQt^„vM–4lÏ‘ÿàepe?bKSo‚0u«ˆ²Q®Wÿ/nãS„v9‚êS«ˆÔn)YèTjmŽcûÿsSOgÌR	gÏuŒš„v4lKbŒTgÇRbe„v9‚•mN«ˆÙ:Wb—T4x†NÆw0\nN*NánãSKNNNwmN„v)YLuY²N˜RT[Root.Monarch.GetName]i–Nã‰Ê‘†NˆVENÿôv0RvQ»yVTbìNMbf‹vÙ/f)YLuùRbìN„vcEˆÿ"
+ flavor_hvr.103.a: "yY‹Y'Y„vÆwPRÿ"
+ flavor_hvr.104.t: ")YPRùRbýVO(u†N0W—ÿ"
+ flavor_hvr.104.desc: "%fËyŒNŒvÛVAS‹ÿ0W—Mb”NyQUO‘˜0\n[Root.GetName]hQýVNNýúQ°s†NòSàeMR‹O„v0W—ÿNÅN'YÏ‘„vÎW^?bPKSLXÿˆVYg:NZWúV„v/X’WmN(W0W—-N«ˆmcOWÿ„˜¡‹îOYåTjOScíuˆV•„vöeô•0\n[Root.Monarch.GetName](WáTÆ‰Œp:S„vöePÿˆVYŒplýhˆ:yÖNìNw0R†NNMO)YºN„v«ŽqV0"
+ flavor_hvr.104.a: "yY‹Y'Y„vÆwPRÿ"
+ flavor_hvr.100.t: "ïuó`QR)Ylµc6RHg6RËNÍu‹NöN"
+ flavor_hvr.100.desc: "ïuó`KNQRýwY(W9VU^b-NSùR¹e„vl(lS:N)YlÿKˆN)YPR‚föe„vµc6RSƒôV„v)Yl„výw›R0\nVÑS0W—ÿˆmw150›Q‹N¹pÿùRîvhýV¶RVÑSb/g0W—ÿÅNïSùRb‰N-N„vLeùRýV¶RO(u05t^…QîvhýV¶R‰^X2–¡V-25%0àecdÿùRTNýV¶R	g15t^cdÿv^ÙuˆNsQû|é`Z0\nïuó`KNQRýw›R:g6Rÿã‰•TÿåNÏkt^4¹pÿŒRbgÈuûN¡RT6¹p	ÿ„vúVšR¦^ïy/tl(ýwÏ‘	ÿ0ˆmwl((ueg9eØS)Yl0TÍy9eØS)Ylýw›R—ûN¡Rã‰•0àecdÿFOTNýV¶RêSýwTöeXR(WNÍy)YlHeœgÿËe RTSOûyd–òT	g„v)YlHeœgÿ0W—N)YlN²QzÿïSTöeXR(W	ÿ0\n´fè–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffwm›QëXl-10%ÿ9‚êSwEN¦^-5%\nÈpåeÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffVÑS±‚9+10%ÿú^.±‚9+10%\n´fê–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffûy¨R¦^-10%ÿmcw+10%\nSmþ–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffkp2O-10%ÿëXlb`Y-10%"
+ flavor_hvr.100.a: "bsS)YPR"
+ hvr_three_earthquake_tt: "òTÏuóSVÑS†N	N:W0W—"
+ hvr_unlock_strong_sun_tt: "ã‰•ÈpåeŽbýw"
+ hvr_add_40_power: "ïuó`QRžX R40¹pýwÏ‘"
+ hvr_unlock_blizzard_tt: "ã‰•´fê–Žbýw"
+ hvr_buff_on_arctic_provinces_tt: "åb	g„vÙ›NwýN·ƒ—V25t^wýNbuff,g0WÍy0W±‚9-25%ÿ,g0WFUÁTµNúQ+25%"
+ hvr_unlock_heavy_fog_tt: "ã‰•Smþ–Žbýw"
+ hvr_milder_fog: "0WN)Y«R"
+ hvr_unlock_heavy_rain_tt: "ã‰•´fè–Žbýw"
+ hvr_tailwind: "8fKNÎ˜"
+ hvr_extra_hisou_sword_energy: "ïuó`QREQýw¦^žX R50%"
+ hvr_upgrade_iku_tt: "™Ÿ^y²‹ïS†NbìN„vßu»lÿ"
+ hvr_instability.tt: ")YLuÛeQ†N¨RaƒöeãNÿ"
+ hvr_choose_no_education_path.tt: "	éb:Vlxï¿u"
+ flavor_hvr.3.b.tt: ")YPRNO¥c×S‹^™™„vcb"
+ flavor_hvr.4.a.tt: "bìNS·ƒ—V.^©R"
+ flavor_hvr.4.b.tt: "bìNS·ƒ—V.^©R"
+ flavor_hvr.4.c.tt: "bìNS·ƒ—V.^©R"
+ flavor_hvr.4.d.tt: "bìNS·ƒ—V.^©R"
+ flavor_hvr.4.e.tt: "bìNS·ƒ—V.^©R"
+ flavor_hvr.4.f.tt: "bìNS·ƒ—V.^©R"
+ flavor_hvr.4.g.tt: "bìNS·ƒ—V.^©R"
+ flavor_hvr.4.h.tt: "bìNS·ƒ—V.^©R"
+ hvr_dragon_gods_education: "§Y°egÅ–?e§!"
+ hvr_moon_belongs_to_us: "§YgKNýÈuÓuw§!"
+ flavor_hvr.14.a.tt: "ã‰•‰k^yeg­ˆøvsQ³Q®‹"
+ flavor_hvr.15.a.tt: "ã‰•‰k^yeg­ˆøvsQ³Q®‹"
+ hvr_injured_tenshi: "MSOÞœ2O"
+ flavor_hvr.18.a.tt: "bìN(uY²NKbµkÈuÓu†N‰k^y„vðVpb!"
+ flavor_hvr.19.a.tt: "bìN(u›Q‹NKbµkÈuÓu†N‰k^y„vðVpb!"
+ hvr_popularity_in_fish: "·ƒ—V|œ‰|áOûN"
+ hvr_fishes_hisouten: "|œ‰|KNËS"
+ hvr_outworld_passion: "§Y¢c0tßWY§!"
+ hvr_unlock_hisou_sword_energy: "ã‰•ïuó`QREQýwû|ßu"
+ hvr_hisou_sword_energy: "§Yïuó`QRýwÏ‘<P§!"
+ hvr_strong_sun: "§YÈpåe§!"
+ hvr_blizzard: "§Y´fê–§!"
+ hvr_heavy_fog: "§YSmþ–·§!"
+ hvr_disperse_clouds: ""§Y´fè–§!""
+ hvr_hisou_sword_energy.tt: "ã‰•ïuó`QREQýwû|ßu"
+ hvr_other_heaven_provinces_gain_this_too: "vQÖNÍ‘‰wýNmNS·ƒ—VîOck"
+ hvr_new_dragon_palace: "êS/f1gœ˜9e"
