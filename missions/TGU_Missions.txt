@@ -1879,7 +1879,7 @@ tgu_missions_youkai_conquest_slot = {
           value = 20
         }
       }
-      gger_tooltip = {
+      custom_trigger_tooltip = {
         tooltip = TGU_the_news_manipulators_ct
         check_variable = {
           which = tgu_newspaper_sold_counter
