@@ -1034,3 +1034,42 @@ mry_holy_site = {
 		}
 	}
 }
+
+th_ai_development_restriction_1 = {
+	potential = {
+	}
+	hidden = yes
+	trigger = {
+		development = 10
+		owner = {
+			ai = yes
+		}
+	}
+	local_development_cost = 1
+}
+
+th_ai_development_restriction_2 = {
+	potential = {
+	}
+	hidden = yes
+	trigger = {
+		development = 20
+		owner = {
+			ai = yes
+		}
+	}
+	local_development_cost = 1
+}
+
+th_ai_development_restriction_3 = {
+	potential = {
+	}
+	hidden = yes
+	trigger = {
+		development = 30
+		owner = {
+			ai = yes
+		}
+	}
+	local_development_cost = 1
+}

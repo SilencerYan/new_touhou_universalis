@@ -2,6 +2,22 @@
 
 # country
 on_startup = {
+	gensokyo_continent = {
+		limit = {
+			NOT = { has_active_triggered_province_modifier = th_ai_development_restriction_1 }
+		}
+		add_province_triggered_modifier = th_ai_development_restriction_1
+		add_province_triggered_modifier = th_ai_development_restriction_2
+		add_province_triggered_modifier = th_ai_development_restriction_3
+	}
+	moon_continent = {
+		limit = {
+			NOT = { has_active_triggered_province_modifier = th_ai_development_restriction_1 }
+		}
+		add_province_triggered_modifier = th_ai_development_restriction_1
+		add_province_triggered_modifier = th_ai_development_restriction_2
+		add_province_triggered_modifier = th_ai_development_restriction_3
+	}
 	if = {
 		limit = {
 			has_government_attribute = enables_yama_authority
@@ -14,15 +30,6 @@ on_startup = {
 			has_government_attribute = th_increased_power_from_own_deity
 		}
 		th_ds_set_deity_buff_up = yes
-	}
-	if = {
-		limit = {
-			OR = {
-				was_tag = HVR
-				tag = HVR
-			}
-		}
-		save_global_event_target_as = Tenshi
 	}
 	if = {
 		limit = {
@@ -79,15 +86,6 @@ on_startup = {
 				}
 			}
 		}
-	}
-	if = {
-		limit = {
-			OR = {
-				was_tag = HVR
-				tag = HVR
-			}
-		}
-		save_global_event_target_as = Tenshi
 	}
 }
 
