@@ -2,22 +2,6 @@
 
 # country
 on_startup = {
-	gensokyo_continent = {
-		limit = {
-			NOT = { has_active_triggered_province_modifier = th_ai_development_restriction_1 }
-		}
-		add_province_triggered_modifier = th_ai_development_restriction_1
-		add_province_triggered_modifier = th_ai_development_restriction_2
-		add_province_triggered_modifier = th_ai_development_restriction_3
-	}
-	moon_continent = {
-		limit = {
-			NOT = { has_active_triggered_province_modifier = th_ai_development_restriction_1 }
-		}
-		add_province_triggered_modifier = th_ai_development_restriction_1
-		add_province_triggered_modifier = th_ai_development_restriction_2
-		add_province_triggered_modifier = th_ai_development_restriction_3
-	}
 	if = {
 		limit = {
 			has_government_attribute = enables_yama_authority

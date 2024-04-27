@@ -1073,3 +1073,15 @@ th_ai_development_restriction_3 = {
 	}
 	local_development_cost = 1
 }
+
+th_ai_development_restriction_4 = {
+	potential = {
+	}
+	hidden = yes
+	trigger = {
+		owner = {
+			ai = yes
+		}
+	}
+	local_development_cost = 10
+}

@@ -1190,7 +1190,7 @@ country_event = {
   }
   after = {
     country_event = {
-      id = touhou_setting.6
+      id = touhou_setting.13
     }
   }
 }
@@ -1346,5 +1346,61 @@ country_event = {
     name = touhou_setting.12.b
     custom_tooltip = touhou_setting.12.b.tt
     set_global_flag = th_biased_incident_active
+  }
+}
+
+country_event = {
+  id = touhou_setting.13
+  title = "touhou_setting.13.t"
+  desc = "touhou_setting.13.desc"
+  picture = YUKARI_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = touhou_setting.13.a
+  }
+  option = {
+    name = touhou_setting.13.b
+    custom_tooltip = touhou_setting.13.b.tt
+    hidden_effect = {
+      gensokyo_continent = {
+        limit = {
+          NOT = { has_active_triggered_province_modifier = th_ai_development_restriction_1 }
+        }
+        add_province_triggered_modifier = th_ai_development_restriction_1
+        add_province_triggered_modifier = th_ai_development_restriction_2
+        add_province_triggered_modifier = th_ai_development_restriction_3
+      }
+      moon_continent = {
+        limit = {
+          NOT = { has_active_triggered_province_modifier = th_ai_development_restriction_1 }
+        }
+        add_province_triggered_modifier = th_ai_development_restriction_1
+        add_province_triggered_modifier = th_ai_development_restriction_2
+        add_province_triggered_modifier = th_ai_development_restriction_3
+      }
+    }
+  }
+  option = {
+    name = touhou_setting.13.c
+    custom_tooltip = touhou_setting.13.c.tt
+    hidden_effect = {
+      gensokyo_continent = {
+        limit = {
+          NOT = { has_active_triggered_province_modifier = th_ai_development_restriction_4 }
+        }
+        add_province_triggered_modifier = th_ai_development_restriction_4
+      }
+      moon_continent = {
+        limit = {
+          NOT = { has_active_triggered_province_modifier = th_ai_development_restriction_4 }
+        }
+        add_province_triggered_modifier = th_ai_development_restriction_4
+      }
+    }
+  }
+  after = {
+    country_event = {
+      id = touhou_setting.6
+    }
   }
 }
