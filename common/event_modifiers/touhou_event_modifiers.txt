@@ -1286,10 +1286,30 @@ okr_other_side_of_secret_portal = {
 
 #Heavenly Realm event modifiers
 
-hvr_unstable_country_lv4 = {}
-hvr_unstable_country_lv3 = {}
-hvr_unstable_country_lv2 = {}
-hvr_unstable_country_lv1 = {}
+hvr_unstable_country_lv4 = {
+	stability_cost_modifier = 0.33
+	global_autonomy = 0.15
+	legitimacy = -2
+	global_unrest = 10
+}
+hvr_unstable_country_lv3 = {
+	stability_cost_modifier = 0.2
+	global_autonomy = 0.1
+	legitimacy = -1
+	global_unrest = 6
+}
+hvr_unstable_country_lv2 = {
+	stability_cost_modifier = 0.15
+	global_autonomy = 0.05
+	legitimacy = -1
+	global_unrest = 3
+}
+hvr_unstable_country_lv1 = {
+	stability_cost_modifier = 0.1
+	global_autonomy = 0.025
+	legitimacy = -1
+	global_unrest = 2
+}
 
 hvr_glorious_victory = {
 	land_morale = 0.15
@@ -1312,11 +1332,12 @@ hvr_dragon_gods_education = {
 }
 
 hvr_new_dragon_palace = {
-
+	local_governing_cost = -1
 }
 
 hvr_moon_belongs_to_us = {
-
+	technology_cost = -0.1
+	unjustified_demands = -0.5
 }
 
 hvr_injured_tenshi = {
@@ -1364,305 +1385,11 @@ hvr_heavy_fog = {
 	recover_army_morale_speed = -0.1
 }
 
-hvr_port_in_new_world = {
-	local_ship_repair = 0.25
-	ship_recruit_speed = -0.25  
-}
-
-hvr_help_to_build_panama_canal = {
-	interest = -3
-	global_tax_modifier = 0.25
-}
-
-hva_free_colony = {
-	colony_cost_modifier = -0.95
-	global_colonial_growth = 50
-}
-
-hvr_good_news_for_aya = {
-	global_tax_income = 60
-	prestige = 3
-}
-
-hva_military_empire_lvl_1 = {
-	sailor_maintenance_modifer = -0.1
-	sailors_recovery_speed = 0.1
-}
-
-hva_military_empire_lvl_2 = {
-	sailor_maintenance_modifer = -0.2
-	global_ship_recruit_speed = -0.2
-	sailors_recovery_speed = 0.2
-}
-
-hva_military_empire_lvl_3 = {
-	global_ship_recruit_speed = -0.2
-	sailor_maintenance_modifer = -0.2
-	sailors_recovery_speed = 0.25
-	allowed_marine_fraction = 0.5
-}
-
-hva_military_empire_lvl_4 = {
-	global_ship_recruit_speed = -0.2
-	sailor_maintenance_modifer = -0.2
-	sailors_recovery_speed = 0.25
-	allowed_marine_fraction = 0.5
-	global_naval_engagement_modifier = 0.1
-}
-
-hva_trade_empire_lvl_1 = {
-	merchants = 2
-	global_trade_power = 0.1
-}
-
-hva_trade_empire_lvl_2 = {
-	merchants = 3
-	global_trade_power = 0.15
-}
-
-hva_trade_empire_lvl_3 = {
-	merchants = 4
-	global_trade_power = 0.2
-}
-
-hva_trade_empire_lvl_4 = {
-	merchants = 5
-	global_trade_power = 0.25
-}
-
-hva_trade_empire_lvl_5 = {
-	merchants = 6
-	global_trade_power = 0.3
-}
-
-hva_trade_empire_lvl_6 = {
-	merchants = 8
-	global_trade_power = 0.4
-	trade_steering = 0.1
-}
-
-hva_trade_empire_lvl_7 = {
-	merchants = 10
-	global_trade_power = 0.5
-	trade_steering = 0.2
-}
-
-hva_trade_empire_lvl_8 = {
-	merchants = 14
-	global_trade_power = 0.6
-	trade_steering = 0.33
-	caravan_power = 0.33
-}
-
-hva_military_focused_country = {
-	navy_tradition = 1
-	naval_morale = 0.1
-	allowed_marine_fraction = 0.5
-	land_morale = 0.1
-}
-
-hva_large_trade_company = {
-	trade_steering = 0.33
-	trade_efficiency = 0.1
-}
-
-hvr_judgement_day_modifier = {
-	missionaries = 3
-	global_missionary_strength = 0.06
-}
-
-hvr_disloyal_nobles = {
-	nobles_loyalty_modifier = -0.2
-}
-
-hvr_disloyal_nobles_level_2 = {
-	nobles_loyalty_modifier = -0.1
-}
-
-hvr_disloyal_clergy = {
-	church_loyalty_modifier = -0.2
-}
-
-hvr_disloyal_clergy_level_2 = {
-	church_loyalty_modifier = -0.1
-}
-
-hvr_favor_from_miko = {
-	monthly_fervor_increase = 2
-}
-
-hvr_integrate_heretics = {
-	global_heretic_missionary_strength = 0.06
-	missionaries = 1
-}
-
-hvr_making_heaven_out_of_hell = {
-	local_development_cost = -0.15
-}
-
-hvr_beaten_old_hag = {
-	ae_impact = -0.25
-	prestige_decay = -0.01
-}
-
-hvr_expedition_lvl_1 = {
-	colonists = 1
-	global_colonial_growth = 40
-}
-
-hvr_expedition_lvl_2 = {
-	colonists = 1
-	global_colonial_growth = 60
-}
-
-hvr_expedition_lvl_3 = {
-	colonists = 1
-	global_colonial_growth = 80
-	global_manpower_modifier = -0.15
-	administrative_efficiency = -0.05
-}
-
-hvr_expedition_lvl_4 = {
-	colonists = 2
-	global_colonial_growth = 100
-	global_manpower_modifier = -0.25
-	administrative_efficiency = -0.1
-	range = 0.2
-}
-
-hvr_additional_expedition_force = {			#perma
-	colonists = 1
-	global_colonial_growth = 10
-}
-
-hvr_route_66_modifier = {					#perma provinces
-	province_trade_power_modifier = 0.25
-	supply_limit = 3
-	local_friendly_movement_speed = 0.25
-	local_development_cost_modifier = -0.1
-}
-
-hvr_controlled_by_oni = {
-	min_local_autonomy = 50
-}
-
-hvr_bad_news_for_higan = {
-	diplomatic_reputation = -4
-}
-
-hvr_additional_guns_from_kappas = {
-	siege_ability = 0.1
-	artillery_power = 0.2
-}
-
 conversion_zeal_v2 = {
 	global_missionary_strength = 0.1
 }
 
-hvr_stormbringer_modifier = { #perma
-	has_voc_indiamen = yes
-	allowed_voc_indiamen_fraction = 0.5
-}
-
-hvr_stolen_man_of_war = {  #perma
-	has_man_of_war = yes
-	naval_morale = 0.1
-	max_flagships = 1 
-	allowed_man_of_war_fraction = 0.3
-}
-
-hva_loyal_subject = {
-	liberty_desire = -30
-}
-
-
-
-
-
-###Script
-
-hvr_keystone_scouts_friendly = {
-	local_friendly_movement_speed = 1
-}
-hvr_keystone_scouts_hostile = {
-	local_hostile_movement_speed = 1
-}
-
 #Mechanic / GOV. mechanic
-
-hvr_heavy_rain = {   #DEFAULT
-	global_trade_goods_size_modifier = 0.15 
-	production_efficiency = 0.05
-}
-
-hvr_heavy_rain_lvl_2 = {  #Unlocked at the end of MT
-	global_trade_goods_size_modifier = 0.25
-	production_efficiency = 0.1 
-}
-
-
-
-hvr_terraforming = {            #UNLOCKED on mission hvr_learn_from_suwako
-	development_cost = -0.1
-}
-
-hvr_terraforming_lvl_2 = {      #Unlocked at the end of MT      
-	development_cost = -0.2
-}
-
-hvr_thunderstorm = {			#UNLOCKED on mission hvr_dragon_god
-	ship_durability = -0.1
-}
-
-hvr_experiment_with_electricity = {			#UNLOCKED on mission hvr_dragon_god
-	technology_cost = -0.05
-	idea_cost = -0.05
-}
-
-hvr_experiment_with_electricity_lvl_2 = {			#Unlocked at the end of MT 
-	technology_cost = -0.2
-	idea_cost = -0.2
-}
-
-hvr_aurora = {									#Unlocked on Heaven and Hell mission
-	assault_fort_ability = 0.5
-	artillery_barrage_cost= -0.5
-}
-
-hvr_aurora_lvl_2 = {									#Unlocked at the end of MT
-	assault_fort_ability = 1
-	artillery_barrage_cost = -1
-}
-
-
-hvr_hurricane = {							#UNLOCKED on mission hvr_mastery_over_nature + bribing Eiki + giving interview to Aya
-	global_monthly_devastation = 0.15
-	war_exhaustion = 0.15 
-}
-
-hvr_tornado = {							#UNLOCKED on mission hvr_mastery_over_nature
-	war_exhaustion = 0.08
-	global_monthly_devastation = 0.08
-}
-
-hvr_rainbow = {								#UNLOCKED on mission hvr_mastery_over_nature
-	years_of_nationalism = -5
-	global_unrest = -2
-}
-
-hvr_rainbow_lvl_2 = {								#UNLOCKED at the end of MT
-	years_of_nationalism = -10
-	global_unrest = -3
-}
-
-hvr_meteorite = {						#UNLOCKED on mission hvr_learn_from_suwako
-	development_cost = 0.1
-}
-
-hvr_armageddon = {							#UNLOCKED at the end of MT
-	global_unrest = 10
-}
-
 lcu_sacred_ceremony_modifier = {
 	missionaries = 1
 	global_missionary_strength = 0.03

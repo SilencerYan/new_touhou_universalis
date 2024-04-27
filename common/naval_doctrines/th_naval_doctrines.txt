@@ -81,6 +81,9 @@ th_Heavenly_armada = {
 
 	country_modifier = {
 		sea_repair = yes
+		ship_durability = 0.1
+		movement_speed_in_fleet_modifier = 1
+		navy_tradition = 1
 	}
 	effect = {}
 	removed_effect = {}
