@@ -1,3 +1,4 @@
+#test
 hvr_mission_second_slot_1 = {
 	slot = 2
 	generic = no
