@@ -498,45 +498,14 @@ th_tgu_became_moriya_tributary = {
 	yearly_decay = 2
 }
 
-th_hvr_used_heavy_rain = {
-	opinion = 50
-	months = 60
-}
-th_hvr_used_hvr_disperse_clouds = {
+th_hvr_used_weather_control_on_us = {
 	opinion = -50
-	months = 60
+	months = 120
 }
+
 th_hvr_used_hvr_devastating_earthquake = {
 	opinion = -50
-	months = 60
-}
-th_hvr_used_hvr_terraforming = {
-	opinion = 50
-	months = 60
-}
-th_hvr_used_hvr_thunderstorm = {
-	opinion = -50
-	months = 60
-}
-th_hvr_used_hvr_meteorite = {
-	opinion = -50
-	months = 60
-}
-th_hvr_used_hvr_hurricane = {
-	opinion = -50
-	months = 60
-}
-th_hvr_used_hvr_tornado = {
-	opinion = -50
-	months = 60
-}
-th_hvr_used_hvr_rainbow = {
-	opinion = 75
-	months = 60
-}
-th_hvr_used_hvr_armageddon = {
-	opinion = -100
-	months = 60
+	months = 240
 }
 
 #Difficulty opinion modifiers

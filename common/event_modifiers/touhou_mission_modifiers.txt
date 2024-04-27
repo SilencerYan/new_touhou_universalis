@@ -2584,7 +2584,7 @@ gnu_ruthless_sisters = {
 
 gnu_collaboration_with_elis = {	
 	movement_speed = 0.1
-	movement_speed_onto_off_boat_modifier = 0.33
+	regiment_disembark_speed = 0.33
 	free_leader_pool = 1
 }
 
@@ -3627,6 +3627,124 @@ touhou_an_own_empire = {
 }
 
 # Tenshi mission rewards:
+hvr_loyal_estates = {
+	global_unrest = -3
+}
+
+hvr_loyal_estates_2 = {
+	all_estate_loyalty_equilibrium = 0.1
+	all_estate_influence_modifier = -0.1
+}
+
+hvr_centralize = {
+	global_autonomy = -0.1
+}
+
+hvr_legitimacy_proved = {
+	global_autonomy = -0.05
+	advisor_cost = -0.25
+}
+
+hvr_start_invasion = {
+	land_morale = 0.1
+	regiment_disembark_speed = 1
+}
+
+hvr_inchlings_hisouten = {
+	tolerance_heathen = 2
+	tolerance_heretic = 2
+}
+
+hvr_preparation_for_moon_invasion = {
+}
+
+hvr_protector_of_celestials = {
+	legitimacy = 1
+	prestige = 1
+}
+
+hvr_study_of_taoism = {
+	tolerance_own = 3
+	global_missionary_strength = 0.03
+	monthly_fervor_increase = 1
+}
+
+hvr_dragons_apostle = {
+	missionaries = 1 
+	global_missionary_strength = 0.03
+}
+
+hvr_dragon_gods_blessing = {
+	diplomatic_reputation = 1
+	development_cost = -0.1
+	fire_damage = 0.1
+	naval_attrition = -0.1
+	global_naval_engagement_modifier = 0.25
+	merchants = 1
+}
+
+hvr_explore_curiosity = {
+	range = 0.75
+	naval_maintenance_modifier = -0.1
+}
+
+hvr_celestials_paradise = {
+
+}
+
+hvr_colonizing_passion = {
+	colonists = 1
+	colonist_placement_chance = 0.2
+}
+
+hvr_expedition = {
+	colonists = 1
+	global_colonial_growth = 25
+}
+
+hvr_push_forward = {
+	range = 1
+	may_explore = yes
+}
+
+hvr_heaven_defence_system = {
+	allowed_num_of_buildings = 1
+	local_defensiveness = 0.25
+	hostile_disembark_speed = 1.0
+}
+
+hvr_ship_building_enthusiasm = {
+	global_ship_cost = -0.2
+	global_ship_recruit_speed = -0.2
+}
+
+hvr_invincible_navy = {
+	
+}
+
+hvr_tenshis_empire = {
+
+}
+
+hvr_worldwide_hisouten = {
+	
+}
+
+hvr_tailwind = {
+	trade_efficiency = 0.15
+	global_tariffs = 0.25
+}
+
+hvr_milder_snow = {
+	trade_goods_size_modifier = 0.25
+	local_development_cost = -0.25
+}
+
+hvr_milder_fog = {
+	allowed_num_of_buildings = 1
+	province_trade_power_value = 10
+	local_production_efficiency = 0.25
+}
 
 hvr_ignore_coring_distance = {
 	ignore_coring_distance = yes

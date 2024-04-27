@@ -1843,42 +1843,6 @@ Gensokyan_joo_realm_of_luxurious_waste = {
 	maintain_dynasty = yes 
 }
 
-Gensokyan_hvr_dictatorship = {
-	lock_level_when_selected = yes
-	icon = "hvr_dictatorship_reform"
-	potential = {
-		OR = {
-			th_is_or_was_tag = {
-				tag = HVR
-			}
-			AND = {
-				is_playing_custom_nation = yes
-				have_had_reform = Gensokyan_hvr_dictatorship
-			}
-		}
-	}
-	can_change_primary_culture = no
-	valid_for_new_country = no
-	valid_for_nation_designer = yes
-	nation_designer_cost = 40
-	modifiers = {
-		unjustified_demands = -0.1
-		war_exhaustion = -0.05
-		global_autonomy = -0.05
-		max_absolutism = 10
-		governing_capacity = 200
-		num_accepted_cultures = 2
-	}
-
-	custom_attributes = {
-		th_weather_control_mechanic = yes
-	}
-	government_abilities = {
-		th_tenshi_temper_mechanic
-	}
-	maintain_dynasty = yes 
-}
-
 Gensokyan_hvr_absolute_dictatorship = {
 	lock_level_when_selected = yes
 	icon = "hvr_absolute_dictatorship_reform"
@@ -2341,35 +2305,35 @@ TH_komeiji_diplomacy_reform = {
 	}
 }
 
-TH_heavens_claims_reform = {
-	icon = "map_2"
-	potential = {
-		OR = {
-			th_is_or_was_tag = {
-				tag = HVR
-			}
-			AND = {
-				is_playing_custom_nation = yes 
-				primary_culture = Heavenish
-			}
-		}
-	}
-	maintain_dynasty = yes 
-
-	conditional = {
-		allow = { has_dlc = "Third Rome" }
-		claim_states = yes
-	}
-	
-	modifiers = {
-		global_naval_engagement_modifier = 0.15
-		war_exhaustion = -0.15
-		core_creation = -0.25
-	}
-	ai = {
-		factor = 100
-	}
-}
+#TH_heavens_claims_reform = {
+#	icon = "map_2"
+#	potential = {
+#		OR = {
+#			th_is_or_was_tag = {
+#				tag = HVR
+#			}
+#			AND = {
+#				is_playing_custom_nation = yes 
+#				primary_culture = Heavenish
+#			}
+#		}
+#	}
+#	maintain_dynasty = yes 
+#
+#	conditional = {
+#		allow = { has_dlc = "Third Rome" }
+#		claim_states = yes
+#	}
+#	
+#	modifiers = {
+#		global_naval_engagement_modifier = 0.15
+#		war_exhaustion = -0.15
+#		core_creation = -0.25
+#	}
+#	ai = {
+#		factor = 100
+#	}
+#}
 
 TH_might_of_the_undead = {
 	icon = "english_monarchy"

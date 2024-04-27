@@ -1,0 +1,2217 @@
+hvr_mission_second_slot_1 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+	}
+	hvr_choose_path = {
+		icon = mission_tenshi_throne
+		position = 1
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			has_country_modifier = hvr_unstable_country_lv4
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.1
+			}
+		}
+	}
+}
+
+hvr_mission_branching_slot_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+		NOT = {
+			has_country_flag = hvr_no_education_flag
+		}
+		NOT = {
+			has_country_flag = hvr_teach_lesson_flag
+		}
+	}
+	hvr_stability_branch_mission_1 = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_choose_path
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			OR = {
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_no_education_path_trigger_tt
+						always = no
+					}
+					stability = 1
+				}
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_teach_lesson_path_trigger_tt
+						always = no
+					}
+					estate_loyalty = {
+						estate = all
+						loyalty = 65
+					}
+					th_num_of_estate_privileges_for_all_estates = {
+						value = 3
+					}
+				}				
+			}
+		}
+		effect = {
+			hvr_reduce_debuff_power_effect = yes
+			custom_tooltip = hvr_no_education_path_effect_tt
+			add_adm_power = 100
+			custom_tooltip = hvr_teach_lesson_path_effect_tt
+			add_country_modifier = {
+				name = hvr_loyal_estates
+				duration = 9125
+			}
+		}
+	}
+}
+
+hvr_mission_no_education_slot_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+		has_country_flag = hvr_no_education_flag
+	}
+	hvr_improve_stability = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_choose_path
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			stability = 1
+		}
+		effect = {
+			hvr_reduce_debuff_power_effect = yes
+			add_adm_power = 100
+		}
+	}
+}
+
+hvr_mission_teach_lesson_slot_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+		has_country_flag = hvr_teach_lesson_flag
+	}
+	hvr_ease_estates = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_choose_path
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			estate_loyalty = {
+				estate = all
+				loyalty = 65
+			}
+			th_num_of_estate_privileges_for_all_estates = {
+				value = 3
+			}
+		}
+		effect = {
+			hvr_reduce_debuff_power_effect = yes
+			add_country_modifier = {
+				name = hvr_loyal_estates
+				duration = 9125
+			}
+		}
+	}
+}
+
+hvr_mission_first_slot = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+	}
+	hvr_mood_control_1 = {
+		icon = mission_tenshi_throne
+		position = 3
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			prestige = 5
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.0
+			}
+		}
+	}
+
+	hvr_mood_control_2 = {
+		icon = mission_tenshi_throne
+		position = 4
+		required_missions = {
+			hvr_mood_control_1
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			prestige = 5
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.0
+			}
+		}
+	}
+
+	hvr_mood_control_3 = {
+		icon = mission_tenshi_throne
+		position = 5
+		required_missions = {
+			hvr_mood_control_2
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			prestige = 5
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.0
+			}
+		}
+	}
+
+	hvr_mood_control_4 = {
+		icon = mission_tenshi_throne
+		position = 6
+		required_missions = {
+			hvr_mood_control_3
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			prestige = 5
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.0
+			}
+		}
+	}
+
+	hvr_beat_shinigami = {
+		icon = mission_tenshi_throne
+		position = 7
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_met_shinigami_tooltip
+				has_country_flag = hvr_first_met_shinigami
+			}	
+		}
+		effect = {
+			add_stability = 1
+			add_prestige = 20
+			add_country_modifier = {
+				name = hvr_protector_of_celestials
+				duration = 9125
+			}
+			Senkai_state = {
+				limit = {
+				  	NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				  	}
+				}
+				add_permanent_claim = ROOT
+			}
+			Eastern_senkai = {
+				limit = {
+				  	NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				  	}
+				}
+				add_permanent_claim = ROOT
+			}
+			Northern_senkai = {
+				limit = {
+				  	NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				  	}
+				}
+				add_permanent_claim = ROOT
+			}
+			Northern_youkai_mountains = {
+				limit = {
+				  	NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				  	}
+				}
+				add_permanent_claim = ROOT
+			}
+			if = {
+				limit = {
+				  	5014 = {
+						NOT = {
+					  		is_permanent_claim = ROOT
+						}
+						NOT = {
+					  		is_core = ROOT
+						}
+				  	}
+				}
+				5014 = {
+				  	add_permanent_claim = ROOT
+				}
+			}
+		}
+	}
+
+	hvr_unite_senkai = {
+		icon = mission_tenshi_throne
+		position = 8
+		required_missions = {
+			hvr_beat_shinigami
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = Senkai_state
+				area = Eastern_senkai
+				area = Northern_senkai
+				area = Northern_youkai_mountains
+				province_id = 5014
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			OR = {
+				SNK = {
+					trust = {
+						who = ROOT
+						value = 80
+					}
+					has_opinion = {
+						who = ROOT
+						value = 100
+					}
+				}
+				AND = {
+					owns_core_province = 5025
+					owns_core_province = 5171
+					owns_core_province = 5014
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = hvr_study_of_taoism
+				duration = 9125
+			}
+			custom_tooltip = hvr_unlock_declare_war_on_higan_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlocked_dow_on_higan
+			}
+			add_casus_belli = {
+				target = HIG
+				type = cb_touhou_mission_hvr_hig_war
+				months = 900
+			}
+			Higan_state = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			Higan_southern_coast = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			Eastern_higan = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			Western_higan = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			Land_of_the_dead = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+
+	hvr_rule_over_higan = {
+		icon = mission_tenshi_throne
+		position = 9
+		required_missions = {
+			hvr_unite_senkai
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = Higan_state
+				area = Higan_southern_coast
+				area = Eastern_higan
+				area = Western_higan
+				area = Land_of_the_dead
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			OR = {
+				AND = {
+					owns_core_province = 4983
+					num_of_owned_provinces_with = {
+						OR = {
+							area = Higan_state
+							area = Higan_southern_coast
+							area = Eastern_higan
+							area = Western_higan
+							area = Land_of_the_dead
+						}
+						value = 15
+					}
+				}
+				AND = {
+					SNK = {
+						trust = {
+							who = ROOT
+							value = 100
+						}
+						has_opinion = {
+							who = ROOT
+							value = 100
+						}
+					}
+					any_country = {
+						capital_scope = {
+							OR = {
+								region = hell_region
+								region = former_hell_region
+							}
+						}
+						alliance_with = ROOT
+						trust = {
+							who = ROOT
+							value = 70
+						}
+						has_opinion = {
+							who = ROOT
+							value = 100
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					AND = {
+						SNK = {
+							trust = {
+								who = ROOT
+								value = 100
+							}
+							has_opinion = {
+								who = ROOT
+								value = 100
+							}
+						}
+						any_country = {
+							capital_scope = {
+								OR = {
+									region = hell_region
+									region = former_hell_region
+								}
+							}
+							alliance_with = ROOT
+							trust = {
+								who = ROOT
+								value = 70
+							}
+							has_opinion = {
+								who = ROOT
+								value = 100
+							}
+						}
+					}
+				}
+				country_event = {
+					id = flavor_hvr.18
+				}
+			}
+			else_if = {
+				limit = {
+					AND = {
+						owns_core_province = 4983
+						num_of_owned_provinces_with = {
+							OR = {
+								area = Higan_state
+								area = Higan_southern_coast
+								area = Eastern_higan
+								area = Western_higan
+								area = Land_of_the_dead
+							}
+							value = 15
+						}
+					}
+				}
+				country_event = {
+					id = flavor_hvr.19
+				}
+			}
+			else = {
+				custom_tooltip = hvr_dip_or_mil_way
+			}
+		}
+	}
+}
+
+hvr_mission_branching_slot_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+		NOT = {
+			has_country_flag = hvr_no_education_flag
+		}
+		NOT = {
+			has_country_flag = hvr_teach_lesson_flag
+		}
+	}
+	hvr_stability_branch_mission_2 = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_choose_path
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			OR = {
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_no_education_path_trigger_tt
+						always = no
+					}
+					custom_trigger_tooltip = {
+						tooltip = hvr_won_rebel_battles_tooltip
+						check_variable = {
+							which = hvr_won_rebel_battles_counter
+							value = 10
+						}
+					}
+				}
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_teach_lesson_path_trigger_tt
+						always = no
+					}
+					th_num_of_all_completed_estate_agendas = {
+						value = 2
+					}
+				}				
+			}
+		}
+		effect = {
+			hvr_reduce_debuff_power_effect = yes
+			custom_tooltip = hvr_no_education_path_effect_tt
+			add_mil_power = 100
+			custom_tooltip = hvr_teach_lesson_path_effect_tt
+			add_country_modifier = {
+				name = hvr_loyal_estates_2
+				duration = 9125
+			}
+		}
+	}
+	hvr_internal_stability_branch_end = {
+		icon = mission_tenshi_throne
+		position = 3
+		required_missions = {
+			hvr_stability_branch_mission_1
+			hvr_stability_branch_mission_2
+			hvr_stability_branch_mission_3
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			NOT = {
+				num_of_rebel_armies = 1
+			}
+			NOT = {
+				num_of_rebel_controlled_provinces = 1
+			}
+			is_in_deficit = no
+			NOT = { num_of_loans = 1 }
+			hidden_trigger = {
+				is_bankrupt = no
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_remove_debuff.tt
+			th_increase_ruler_adm_stat = {
+				adm = 1
+			}
+			hidden_effect = {
+				remove_country_modifier = hvr_unstable_country_lv1
+			}
+		}
+	}
+}
+
+hvr_mission_no_education_slot_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+		has_country_flag = hvr_no_education_flag
+	}
+	hvr_beat_rebels = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_choose_path
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_won_rebel_battles_tooltip
+				check_variable = {
+					which = hvr_won_rebel_battles_counter
+					value = 10
+				}
+			}
+		}
+		effect = {
+			hvr_reduce_debuff_power_effect = yes
+			add_mil_power = 100
+		}
+	}
+	hvr_internal_stability = {
+		icon = mission_tenshi_throne
+		position = 3
+		required_missions = {
+			hvr_improve_stability
+			hvr_beat_rebels
+			hvr_control_crown_land
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			NOT = {
+				num_of_rebel_armies = 1
+			}
+			NOT = {
+				num_of_rebel_controlled_provinces = 1
+			}
+			is_in_deficit = no
+			NOT = { num_of_loans = 1 }
+			hidden_trigger = {
+				is_bankrupt = no
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_remove_debuff.tt
+			th_increase_ruler_adm_stat = {
+				adm = 1
+			}
+			hidden_effect = {
+				remove_country_modifier = hvr_unstable_country_lv1
+			}
+		}
+	}
+}
+
+hvr_mission_teach_lesson_slot_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+		has_country_flag = hvr_teach_lesson_flag
+	}
+	hvr_finish_agenda = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_choose_path
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			if = {
+				limit = {
+					th_has_any_estates = yes
+				}
+				th_num_of_all_completed_estate_agendas = {
+					value = 2
+				}
+			}
+			else = {
+				stability = 1
+			}
+		}
+		effect = {
+			hvr_reduce_debuff_power_effect = yes
+			add_country_modifier = {
+				name = hvr_loyal_estates_2
+				duration = 9125
+			}
+		}
+	}
+	hvr_internal_stability_2 = {
+		icon = mission_tenshi_throne
+		position = 3
+		required_missions = {
+			hvr_ease_estates
+			hvr_finish_agenda
+			hvr_prove_legitimacy
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			NOT = {
+				num_of_rebel_armies = 1
+			}
+			NOT = {
+				num_of_rebel_controlled_provinces = 1
+			}
+			is_in_deficit = no
+			NOT = { num_of_loans = 1 }
+			hidden_trigger = {
+				is_bankrupt = no
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_remove_debuff.tt
+			th_increase_ruler_adm_stat = {
+				adm = 1
+			}
+			hidden_effect = {
+				remove_country_modifier = hvr_unstable_country_lv1
+			}
+		}
+	}
+}
+
+hvr_mission_second_slot_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+	}
+	hvr_beat_yumemi = {
+		icon = mission_tenshi_throne
+		position = 5
+		required_missions = {
+			hvr_build_army
+		}
+		provinces_to_highlight = {
+			area = Yumemi_space_state
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				area = Yumemi_space_state
+				value = 4
+			}
+			owns_or_non_sovereign_subject_of = 5301
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.2
+			}
+		}
+	}
+
+	hvr_fish_1 = {
+		icon = mission_tenshi_throne
+		position = 6
+		required_missions = {
+		}
+		provinces_to_highlight = {
+			province_id = 5119
+		}
+		trigger = {
+			5119 = {
+				num_of_units_in_province = {
+					who = ROOT
+					amount = 10
+				}
+				owner = {
+					OR = {
+						tag = ROOT
+						alliance_with = ROOT
+						is_subject_of = ROOT
+						has_opinion = {
+							who = ROOT
+							value = 100
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.20
+			}
+		}
+	}
+
+	hvr_fish_2 = {
+		icon = mission_tenshi_throne
+		position = 7
+		required_missions = {
+			hvr_fish_1
+		}
+		provinces_to_highlight = {
+			trade_goods = fish
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 20
+				trade_goods = fish
+			}
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.21
+			}
+		}
+	}
+
+	hvr_weather_sun = {
+		icon = mission_tenshi_throne
+		position = 9
+		required_missions = {
+			hvr_hisou_sword
+		}
+		provinces_to_highlight = {
+			has_terrain = desert
+			has_climate = arid
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				has_terrain = desert
+				has_climate = arid
+				value = 15
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_unlock_strong_sun_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlocked_strong_sun
+			}
+			custom_tooltip = hvr_add_40_power
+			hidden_effect = {
+				change_variable = {
+					which = hvr_hisou_sword_energy
+					value = 40
+				}
+			}
+			define_advisor = {
+				type = quartermaster
+				discount = yes
+			}
+		}
+	}
+
+	hvr_great_navy = {
+		icon = mission_tenshi_throne
+		position = 10
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			num_of_ports = 50
+			if = {
+				limit = {
+				  	has_dlc = "Golden Century"
+				}
+				has_flagship = yes
+			}
+			num_of_heavy_ship = 60
+			navy_size = 300
+		}
+		effect = {
+			add_country_modifier = {
+				name = hvr_invincible_navy
+				duration = -1
+			}
+		}
+	}
+}
+
+hvr_mission_third_slot_1 = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+	}
+	hvr_build_coastal_defence = {
+		icon = mission_tenshi_throne
+		position = 1
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				OR = {
+					has_building = coastal_defence
+					has_building = naval_battery
+				}
+				OR = {
+					area = Dragon_islands
+					area = Western_dragon_islands
+					area = Eastern_dragon_islands
+				}
+                value = 5
+            }
+			owns_or_non_sovereign_subject_of = 5032
+			5032 = {
+				th_has_up_to_date_fort_building = {
+					  tag = ROOT
+				}
+			}
+		}
+		effect = {
+			5032 = {
+				add_province_modifier = {
+					name = hvr_heaven_defence_system
+					duration = -1
+				}
+			}
+			custom_tooltip = hvr_other_heaven_provinces_gain_this_too
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						OR = {
+							area = Dragon_islands
+							area = Western_dragon_islands
+							area = Eastern_dragon_islands						
+						}
+						NOT = {
+							province_id = 5032
+						}
+					}
+					add_province_modifier = {
+						name = hvr_heaven_defence_system
+						duration = 9125
+					}
+				}
+			}
+		}
+	}
+}
+
+hvr_mission_branching_slot_3 = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+		NOT = {
+			has_country_flag = hvr_no_education_flag
+		}
+		NOT = {
+			has_country_flag = hvr_teach_lesson_flag
+		}
+	}
+	hvr_stability_branch_mission_3 = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_choose_path
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			OR = {
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_no_education_path_trigger_tt
+						always = no
+					}
+					crown_land_share = 50
+				}
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_teach_lesson_path_trigger_tt
+						always = no
+					}
+					legitimacy = 100
+				}				
+			}
+		}
+		effect = {
+			hvr_reduce_debuff_power_effect = yes
+			custom_tooltip = hvr_no_education_path_effect_tt
+			add_country_modifier = {
+				name = hvr_centralize
+				duration = 9125
+			}
+			custom_tooltip = hvr_teach_lesson_path_effect_tt
+			add_country_modifier = {
+				name = hvr_legitimacy_proved
+				duration = 9125
+			}
+		}
+	}
+}
+
+hvr_mission_no_education_slot_3 = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+		has_country_flag = hvr_no_education_flag
+	}
+	hvr_control_crown_land = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_choose_path
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			crown_land_share = 50
+		}
+		effect = {
+			hvr_reduce_debuff_power_effect = yes
+			add_country_modifier = {
+				name = hvr_centralize
+				duration = 9125
+			}
+		}
+	}
+}
+
+hvr_mission_teach_lesson_slot_3 = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+		has_country_flag = hvr_teach_lesson_flag
+	}
+	hvr_prove_legitimacy = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_choose_path
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			legitimacy = 100
+		}
+		effect = {
+			hvr_reduce_debuff_power_effect = yes
+			add_country_modifier = {
+				name = hvr_legitimacy_proved
+				duration = 9125
+			}
+		}
+	}
+}
+
+hvr_mission_third_slot_2 = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+	}
+	hvr_discover_europe = {
+		icon = mission_tenshi_throne
+		position = 3
+		required_missions = {
+			hvr_discover_indonesia
+		}
+		provinces_to_highlight = {
+			OR = {
+				region = iberia_region
+				region = france_region
+				region = low_countries_region
+				region = british_isles_region
+			}
+			NOT = {
+				has_discovered = ROOT
+			}
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = th_discovers_europe.tooltip
+				OR = {
+				  	iberia_region = {
+						has_discovered = ROOT
+				  	}
+				  	france_region = {
+						has_discovered = ROOT
+				  	}
+				  	low_countries_region = {
+						has_discovered = ROOT
+				  	}
+				 	british_isles_region = {
+						has_discovered = ROOT
+				  	}
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "touhou_discovery_of_europe"
+				duration = 7300
+			}
+			country_event = {
+				id = TH_mission_events.4
+			}
+		}
+	}
+
+	hvr_build_army = {
+		icon = mission_tenshi_throne
+		position = 4
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			army_size_percentage = 1
+			th_has_mil_advisor = yes
+		}
+		effect = {
+			Yumemi_space_state = {
+				limit = {
+					NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				 	}
+				}
+				add_permanent_claim = ROOT
+			}
+			Perfect_cut_coast = {
+				limit = {
+					NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				 	}
+				}
+				add_permanent_claim = ROOT
+			}
+			Sunny_plains = {
+				limit = {
+					NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				 	}
+				}
+				add_permanent_claim = ROOT
+			}
+			Gengetsu_state = {
+				limit = {
+					NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				 	}
+				}
+				add_permanent_claim = ROOT
+			}
+			Shining_needle_state = {
+				limit = {
+					NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				 	}
+				}
+				add_permanent_claim = ROOT
+			}
+			add_casus_belli = {
+				type = cb_vassalize_mission
+				target = NCS
+				months = 900
+			}
+			add_country_modifier = {
+				name = hvr_start_invasion
+				duration = 7300
+			}
+		}
+	}
+
+	hvr_beat_yuuka = {
+		icon = mission_tenshi_throne
+		position = 5
+		required_missions = {
+			hvr_build_army
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = Sunny_plains
+				area = Perfect_cut_coast
+				area = Gengetsu_state
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 8
+				OR = {
+				  	area = Sunny_plains
+				  	area = Perfect_cut_coast
+					area = Gengetsu_state
+				}
+			}
+			owns_or_non_sovereign_subject_of = 5152
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.3
+			}
+		}
+	}
+
+	hvr_dragon_palace = {
+		icon = mission_tenshi_throne
+		position = 6
+		required_missions = {
+		}
+		provinces_to_highlight = {
+			province_id = 5032
+		}
+		trigger = {
+			owns_or_non_sovereign_subject_of = 5032
+			if = {
+			  	limit = {
+					has_dlc = "Leviathan"
+			  	}
+			  	5032 = {
+					has_great_project = {
+				  		type = th_monument_dragons_palace
+				  		tier = 2
+					}
+			  	}
+			}
+			else = {
+				5032 = {
+					development = 35
+					has_tax_building_trigger = yes
+					has_production_building_trigger = yes
+					has_trade_building_trigger = yes
+					th_has_up_to_date_fort_building = {
+				  		tag = ROOT
+					}
+			  	}
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_recruit_iku_as_admiral_tooltip_reward
+			hidden_effect = {
+				set_country_flag = hvr_can_hire_admiral_iku
+			}
+			Raiko_Seki_state = {
+				limit = {
+					NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				 	}
+				}
+				add_permanent_claim = ROOT
+			}
+			if = {
+				limit = {
+				  	5125 = {
+						NOT = {
+					  		is_permanent_claim = ROOT
+						}
+						NOT = {
+					  		is_core = ROOT
+						}
+				  	}
+				}
+				5125 = {
+				  	add_permanent_claim = ROOT
+				}
+			}
+		}
+	}
+
+	hvr_dragon_statue = {
+		icon = mission_tenshi_throne
+		position = 7
+		required_missions = {
+			hvr_dragon_palace
+		}
+		provinces_to_highlight = {
+			province_id = 5125
+		}
+		trigger = {
+			5125 = {
+				religion = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = hvr_dragons_apostle
+				duration = 9125
+			}
+		}
+	}
+
+	hvr_bless_of_dragon_god = {
+		icon = mission_tenshi_throne
+		position = 8
+		required_missions = {
+			hvr_dragon_statue
+			hvr_iku_advisor
+			hvr_conquer_moon
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			owns_or_non_sovereign_subject_of = 5032
+			if = {
+			  	limit = {
+					has_dlc = "Leviathan"
+			  	}
+			  	5032 = {
+					has_great_project = {
+				  		type = th_monument_dragons_palace
+				  		tier = 3
+					}
+			  	}
+			}
+			else = {
+				5032 = {
+					development = 50
+					has_tax_building_trigger = yes
+					has_production_building_trigger = yes
+					has_trade_building_trigger = yes
+					th_has_up_to_date_fort_building = {
+				  		tag = ROOT
+					}
+			  	}
+			}
+			th_advisor_iku = 4
+		}
+		effect = {
+			custom_tooltip = hvr_upgrade_iku_tt
+			hidden_effect = {
+				set_country_flag = hvr_dragon_gods_bless_flag
+			}
+			add_country_modifier = {
+				name = hvr_dragon_gods_blessing
+				duration = -1
+			}
+		}
+	}
+
+	hvr_weather_snow = {
+		icon = mission_tenshi_throne
+		position = 9
+		required_missions = {
+			hvr_hisou_sword
+		}
+		provinces_to_highlight = {
+			has_climate = arctic
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				has_climate = arctic
+				value = 15
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_unlock_blizzard_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlocked_blizzard
+			}
+			custom_tooltip = hvr_add_40_power
+			hidden_effect = {
+				change_variable = {
+					which = hvr_hisou_sword_energy
+					value = 40
+				}
+			}
+			custom_tooltip = hvr_buff_on_arctic_provinces_tt
+			hidden_effect = {
+				every_owned_province = {
+					limit = { has_climate = arctic }
+					add_province_modifier = {
+						name = "hvr_milder_snow"
+						duration = 9125
+					}
+				}
+			}
+		}
+	}
+
+	hvr_form_empire = {
+		icon = mission_tenshi_throne
+		position = 10
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_finished_internal_stability_branch.tooltip
+				OR = {
+					mission_completed = hvr_internal_stability
+					mission_completed = hvr_internal_stability_2
+				}
+			}
+			mission_completed = hvr_rule_over_higan
+			total_development = 650
+		}
+		effect = {
+			add_country_modifier = {
+				name = hvr_tenshis_empire
+				duration = -1
+			}
+			if = {
+				limit = {
+				  	NOT = {
+						government_rank = 3
+				  	}
+				}
+				set_government_rank = 3
+			}
+		}
+	}
+
+	hvr_form_empire_2 = {
+		icon = mission_tenshi_throne
+		position = 11
+		required_missions = {
+			hvr_form_empire
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_has_province_or_subject_in_every_continent.tooltip
+				europe = {             owner = { OR = { tag = ROOT is_subject_of = ROOT } } }
+				asia = {               owner = { OR = { tag = ROOT is_subject_of = ROOT } } }
+				africa = {             owner = { OR = { tag = ROOT is_subject_of = ROOT } } }
+				north_america = {      owner = { OR = { tag = ROOT is_subject_of = ROOT } } }
+				south_america = {      owner = { OR = { tag = ROOT is_subject_of = ROOT } } }
+				oceania = {            owner = { OR = { tag = ROOT is_subject_of = ROOT } } }
+				gensokyo_continent = { owner = { OR = { tag = ROOT is_subject_of = ROOT } } }
+				moon_continent = {     owner = { OR = { tag = ROOT is_subject_of = ROOT } } }
+			}
+			if = {
+				limit = {
+				  	has_dlc = "Emperor"
+				}
+				is_hegemon = yes
+			}
+			else = {
+				OR = {
+				  	monthly_income = 1000
+				  	num_of_heavy_ship = 250
+				  	army_size = 1000
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = hvr_worldwide_hisouten
+				duration = -1
+			}
+		}
+	}
+}
+
+hvr_mission_forth_slot = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+	}
+	hvr_build_shipyard = {
+		icon = mission_tenshi_throne
+		position = 1
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				OR = {
+					has_building = dock
+					has_building = drydock
+				}
+                value = 10
+            }
+		}
+		effect = {
+			add_country_modifier = {
+				name = hvr_ship_building_enthusiasm
+				duration = 9125
+			}
+		}
+	}
+
+	hvr_discover_indonesia = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_build_navy
+		}
+		provinces_to_highlight = {
+			OR = {
+				region = moluccas_region
+				region = australia_region
+				region = indonesia_region
+			  }
+			NOT = {
+				has_discovered = ROOT
+			}
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = th_break_the_barrier_tt
+				OR = {
+				  	moluccas_region = {
+						has_discovered = ROOT
+				  	}
+				  	australia_region = {
+						has_discovered = ROOT
+				  	}
+				  	indonesia_region = {
+						has_discovered = ROOT
+				  	}
+				}
+			}
+		}
+		effect = {
+			th_colonize_dev_province = {
+				province = 2693
+			}
+			australia_region = {
+				limit = {
+				  	NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				  	}
+				}
+				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = hvr_expedition
+				duration = 9125
+			}
+		}
+	}
+
+	hvr_colonize_australia = {
+		icon = mission_tenshi_throne
+		position = 3
+		required_missions = {
+			hvr_discover_indonesia
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			any_subject_country = {
+				OR = {
+					is_subject_of_type = crown_colony
+					is_subject_of_type = private_enterprise
+					is_subject_of_type = self_governing_colony
+				}
+				capital_scope = {
+					colonial_region = colonial_australia
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = hvr_push_forward
+				duration = 9125
+			}		
+		}
+	}
+
+	hvr_shining_needle_castle = {
+		icon = mission_tenshi_throne
+		position = 5
+		required_missions = {
+			hvr_build_army
+		}
+		provinces_to_highlight = {
+			area = Shining_needle_state
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			owns_or_non_sovereign_subject_of = 5035
+		}
+		effect = {
+			add_years_of_income = 2
+			add_country_modifier = {
+				name = hvr_inchlings_hisouten
+				duration = 9125
+			}
+		}		
+	}
+
+	hvr_tojiko_and_raiko = {
+		icon = mission_tenshi_throne
+		position = 6
+		required_missions = {
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 5175
+				province_id = 5128
+			}
+		}
+		trigger = {
+			OR = {
+				owns_or_non_sovereign_subject_of = 5175
+				SNK = {
+					has_opinion = {
+						who = ROOT
+						value = 100
+					}
+				}
+			}
+			OR = {
+				owns_or_non_sovereign_subject_of = 5128
+				RAI = {
+					has_opinion = {
+						who = ROOT
+						value = 100
+					}
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_recruit_iku_as_general_tooltip_reward
+			hidden_effect = {
+			  	set_country_flag = hvr_can_hire_general_iku
+			}
+		}		
+	}
+
+	hvr_iku_advisor = {
+		icon = mission_tenshi_throne
+		position = 7
+		required_missions = {
+			hvr_dragon_palace
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_one_level3_and_two_level1_advisor
+				OR = {
+					AND = {
+						th_has_adm_advisor = yes
+						th_has_dip_advisor = yes
+						th_has_mil_advisor_3 = yes
+					}
+					AND = {
+						th_has_adm_advisor = yes
+						th_has_dip_advisor_3 = yes
+						th_has_mil_advisor = yes
+					}
+					AND = {
+						th_has_adm_advisor_3 = yes
+						th_has_dip_advisor = yes
+						th_has_mil_advisor = yes
+					}
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.23
+			}
+		}		
+	}
+
+	hvr_weather_fog = {
+		icon = mission_tenshi_throne
+		position = 9
+		required_missions = {
+			hvr_hisou_sword
+		}
+		provinces_to_highlight = {
+			province_id = 236
+		}
+		trigger = {
+			owns_core_province = 236
+		}
+		effect = {
+			custom_tooltip = hvr_unlock_heavy_fog_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlocked_heavy_fog
+			}
+			custom_tooltip = hvr_add_40_power
+			hidden_effect = {
+				change_variable = {
+					which = hvr_hisou_sword_energy
+					value = 40
+				}
+			}
+			236 = {
+				add_base_tax = 4
+				add_base_production = 4
+				add_base_manpower = 4
+				add_province_modifier = {
+					name = "hvr_milder_fog"
+					duration = -1
+				}
+			}
+		}
+	}
+
+	hvr_navy_quality = {
+		icon = mission_tenshi_throne
+		position = 10
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			navy_tradition = 90
+			has_leader_with = {
+				manuever = 6
+				admiral = yes
+			}
+			th_advisor_iku = 3
+		}
+		effect = {
+			custom_tooltip = hvr_unlock_heaven_doctrine_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlocked_heaven_doctrine
+			}
+		}
+	}
+}
+
+hvr_mission_fifth_slot = {
+	slot = 5
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = HVR
+		NOT = {
+			map_setup = map_setup_random
+		}
+	}
+	hvr_build_navy = {
+		icon = mission_tenshi_throne
+		position = 1
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			navy_size_percentage = 1
+		}
+		effect = {
+			add_prestige = 15
+			add_country_modifier = {
+				name = hvr_explore_curiosity
+				duration = 7300
+			}
+			define_explorer = {
+				shock = 3
+				fire = 3
+				manuever = 3
+				siege = 1
+				female = yes
+				name = "�YGY�v)Y�N"  # Curious Celestial
+			}
+		}
+	}
+
+	hvr_discover_america = {
+		icon = mission_tenshi_throne
+		position = 2
+		required_missions = {
+			hvr_build_navy
+		}
+		provinces_to_highlight = {
+			OR = {
+				colonial_region = colonial_colombia
+				colonial_region = colonial_peru
+				colonial_region = colonial_la_plata
+				colonial_region = colonial_mexico
+				colonial_region = colonial_california
+				colonial_region = colonial_alaska
+			}
+			NOT = {
+				has_discovered = ROOT
+			}
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = sff_discover_american_colonial_regions.tooltip
+				OR = {
+				  	colonial_colombia = {
+						has_discovered = ROOT
+				  	}
+				  	colonial_peru = {
+						has_discovered = ROOT
+				  	}
+				  	colonial_la_plata = {
+						has_discovered = ROOT
+				  	}
+				  	colonial_mexico = {
+						has_discovered = ROOT
+				  	}
+				  	colonial_california = {
+						has_discovered = ROOT
+				  	}
+				  	colonial_alaska = {
+						has_discovered = ROOT
+				  	}
+				}
+			}
+		}
+		effect = {
+			add_dip_power = 75
+			add_navy_tradition = 35
+			north_america_superregion = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			add_country_modifier = {
+				name = hvr_colonizing_passion
+				duration = 9125
+			}
+		}
+	}
+
+	hvr_colonize_america = {
+		icon = mission_tenshi_throne
+		position = 3
+		required_missions = {
+			hvr_discover_america
+		}
+		provinces_to_highlight = {
+			OR = {
+				colonial_region = colonial_california
+				colonial_region = colonial_alaska
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			has_discovered = ROOT
+		}
+		trigger = {
+			if = {
+				limit = {
+					has_dlc = "Leviathan"
+				}
+				calc_true_if = {
+					all_subject_country = {
+						OR = {
+							is_subject_of_type = crown_colony
+							is_subject_of_type = private_enterprise
+							is_subject_of_type = self_governing_colony
+						}
+						capital_scope = {
+							OR = {
+								continent = north_america
+								continent = south_america
+							}
+						}
+					}
+					amount = 2
+				}
+			}
+			else = {
+				calc_true_if = {
+					all_subject_country = {
+						is_subject_of_type = colony
+						capital_scope = {
+							OR = {
+								continent = north_america
+								continent = south_america
+							}
+						}
+					}
+					amount = 2
+				}
+			}
+		}
+		effect = {
+			every_subject_country = {
+				limit = {
+					OR = {
+						is_subject_of_type = crown_colony
+						is_subject_of_type = private_enterprise
+						is_subject_of_type = self_governing_colony
+					}
+					capital_scope = {
+						OR = {
+							continent = north_america
+							continent = south_america
+						}
+					}
+				}
+				add_country_modifier = {
+					name = hvr_celestials_paradise
+					duration = -1
+				}
+			}
+		}
+	}
+
+	hvr_discover_moon = {
+		icon = mission_tenshi_throne
+		position = 4
+		required_missions = {
+		}
+		provinces_to_highlight = {
+			region = moon_region
+			NOT = {
+				has_discovered = ROOT
+			}
+		}
+		trigger = {
+			moon_region = {
+				has_discovered = ROOT
+			}
+		}
+		effect = {
+			moon_region = {
+				limit = {
+					NOT = {
+						is_core = ROOT
+				  	}
+				  	NOT = {
+						is_permanent_claim = ROOT
+				 	}
+				}
+				add_permanent_claim = ROOT
+			}
+			hidden_effect = {
+				set_variable = {
+					which = hvr_chosen_helper
+					value = 0
+				}
+				set_variable = {
+					which = hvr_got_helper
+					value = 0
+				}
+			}
+			country_event = {
+				id = flavor_hvr.4
+			}
+		}
+	}
+
+	hvr_heroines_help = {
+		icon = mission_tenshi_throne
+		position = 5
+		required_missions = {
+			hvr_build_army
+			hvr_discover_moon
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 4955
+				province_id = 5090
+				province_id = 4968
+				province_id = 4989
+				province_id = 4958
+				province_id = 4998
+				province_id = 4964
+				province_id = 4991
+			}
+			is_permanent_claim = ROOT
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_four_heroines_help_tt
+				check_variable = {
+				  	which = hvr_got_helper
+				  	value = 4
+				}
+			}
+		}
+		effect = {
+			th_outdate_moon_defenses = yes
+			add_country_modifier = {
+				name = hvr_preparation_for_moon_invasion
+				duration = 9125
+			}
+		}
+	}
+
+	hvr_conquer_moon = {
+		icon = mission_tenshi_throne
+		position = 7
+		required_missions = {
+			hvr_heroines_help
+		}
+		provinces_to_highlight = {
+			region = moon_region
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				region = moon_region
+				value = 10
+			}
+			owns_or_non_sovereign_subject_of = 5320
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.13
+			}
+		}
+	}
+
+	hvr_hisou_sword = {
+		icon = mission_tenshi_throne
+		position = 8
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_three_earthquake_tt
+				check_variable = {
+				  	which = hvr_earthquake_counter
+				  	value = 3
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.24
+			}
+		}
+	}
+
+	hvr_weather_rain = {
+		icon = mission_tenshi_throne
+		position = 9
+		required_missions = {
+			hvr_hisou_sword
+		}
+		provinces_to_highlight = {
+			has_climate = tropical
+			has_terrain = jungle
+		}
+		trigger = {
+			owns_core_province = 567
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				has_climate = tropical
+				has_terrain = jungle
+				value = 15
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_unlock_heavy_rain_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlocked_heavy_rain
+			}
+			custom_tooltip = hvr_add_40_power
+			hidden_effect = {
+				change_variable = {
+					which = hvr_hisou_sword_energy
+					value = 40
+				}
+			}
+			add_country_modifier = {
+				name = hvr_tailwind
+				duration = 9125
+			}
+		}
+	}
+
+	hvr_experienced_weather_control = {
+		icon = mission_tenshi_throne
+		position = 10
+		required_missions = {
+			hvr_weather_sun
+			hvr_weather_snow
+			hvr_weather_fog
+			hvr_weather_rain
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = HVR_weather_control_tt
+				check_variable = {
+				  	which = hvr_weather_action_counter
+				  	value = 10
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_extra_hisou_sword_energy
+			hidden_effect = {
+				set_country_flag = hvr_experienced_hisou_sword
+			}
+		}
+	}	
+}

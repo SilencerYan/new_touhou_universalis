@@ -16,7 +16,17 @@
 th_kappa_shipbuilding = {
 	can_select = {
 		is_primitive = no
-		primary_culture = Kappa
+		OR = {
+			AND = {
+				is_playing_custom_nation = yes
+				primary_culture = kappa
+			}
+			AND = {
+				th_is_or_was_tag = {
+					tag = KPP
+				}
+			}
+		}
 	}
 
 	country_modifier = {
@@ -55,12 +65,21 @@ th_murasas_ghost_fleet = {
 th_Heavenly_armada = {
 	can_select = {
 		is_primitive = no
-		primary_culture = Heavenish
+		OR = {
+			AND = {
+				is_playing_custom_nation = yes
+				primary_culture = Heavenish
+			}
+			AND = {
+				th_is_or_was_tag = {
+					tag = HVR
+				}
+				has_country_flag = hvr_unlocked_heaven_doctrine
+			}
+		}
 	}
 
 	country_modifier = {
-		light_ship_power = 0.2
-		allowed_marine_fraction = 0.25
 		sea_repair = yes
 	}
 	effect = {}

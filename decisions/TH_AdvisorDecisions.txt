@@ -565,7 +565,7 @@ country_decisions = {
     effect = {
       define_advisor = {
         type = th_advisor_hecatia
-        name = "kçaS–cöN …bµxØe…bVy)R"  # Hecatia Lapislazuli
+        name = "kùaS–cöN …bµxØe…bVy)R"  # Hecatia Lapislazuli
         skill = 3
         location = 5053
         discount = yes
@@ -793,7 +793,7 @@ country_decisions = {
     effect = {
       define_advisor = {
         type = th_advisor_kaguya
-        name = "ÏÑ±ÉqSâèY"  # Kaguya Houraisan
+        name = "ÏÑ±ÉqSâùY"  # Kaguya Houraisan
         skill = 3
         location = 5320
         discount = yes
@@ -964,7 +964,7 @@ country_decisions = {
     effect = {
       define_advisor = {
         type = th_advisor_momiji
-        name = "¨rpçi"  # Momiji Inubashiri
+        name = "¨rpùi"  # Momiji Inubashiri
         skill = 3
         location = 5198
         discount = yes
@@ -1242,7 +1242,7 @@ country_decisions = {
     effect = {
       define_advisor = {
         type = th_advisor_hecatia
-        name = "kçaS–cöN …bµxØe…bVy)R"  # Hecatia Lapislazuli
+        name = "kùaS–cöN …bµxØe…bVy)R"  # Hecatia Lapislazuli
         skill = 3
         location = 5330
         discount = yes
@@ -1373,30 +1373,24 @@ country_decisions = {
       }
     }
     provinces_to_highlight = {
-      province_id = 5312
+      province_id = 5032
       NOT = {
         owned_by = ROOT
       }
     }
     allow = {
-      owns_or_non_sovereign_subject_of = 5312
+      owns_or_non_sovereign_subject_of = 5032
       custom_trigger_tooltip = {
         tooltip = hvr_iku_hired_for_thirty_years
-        NOT = {
-          has_leader = "8lmlcàñs"  # Iku Nagae
-        }
-        NOT = {
-          advisor = th_advisor_iku
-        }
-        OR = {
-          had_country_flag = {
-            flag = th_hired_advisor_iku
-            days = 10950
-          }
-          NOT = {
-            has_country_flag = th_hired_advisor_iku
-          }
-        }
+				NOT = {
+					has_leader = "8lmlcàñs"  # Iku Nagae
+			  	}
+				NOT = {
+					advisor = th_advisor_iku
+			    }
+				NOT = {
+				  	has_advisor_type_in_pool = th_advisor_iku
+				}
       }
     }
     effect = {
@@ -1617,7 +1611,7 @@ country_decisions = {
     effect = {
       define_advisor = {
         type = th_advisor_kana
-        name = "aSZ âRZç…bS"  # Kana Anaberal
+        name = "aSZ âRZù…bS"  # Kana Anaberal
         skill = 3
         discount = yes
         female = yes

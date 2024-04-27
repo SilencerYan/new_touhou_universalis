@@ -17,15 +17,6 @@ on_startup = {
 	}
 	if = {
 		limit = {
-			OR = {
-				was_tag = HVR
-				tag = HVR
-			}
-		}
-		save_global_event_target_as = Tenshi
-	}
-	if = {
-		limit = {
 			tag = KMJ
 		}
 		capital_scope = {
@@ -79,15 +70,6 @@ on_startup = {
 				}
 			}
 		}
-	}
-	if = {
-		limit = {
-			OR = {
-				was_tag = HVR
-				tag = HVR
-			}
-		}
-		save_global_event_target_as = Tenshi
 	}
 }
 
@@ -312,6 +294,33 @@ on_battle_lost_unit = {
 			set_country_flag = net_won_battle_against_meira_in_person
 		}
 	}
+	if = {
+		limit = {
+			unit_owner = {
+				th_is_or_was_tag = {
+					tag = REB
+				}
+			}
+			enemy_unit = {
+				unit_owner = {
+					th_is_or_was_tag = {
+						tag = HVR
+					}
+				}
+			}
+		}
+		random_country = {
+			limit = {
+				th_is_or_was_tag = {
+					tag = HVR
+				}
+			}
+			change_variable = {
+				which = hvr_won_rebel_battles_counter
+				value = 1
+			}
+		}
+	}
 }
 
 # country
@@ -532,6 +541,12 @@ on_mil_development = {
 
 on_overextension_pulse = {
 	th_on_overextension_pulse_effect = yes
+}
+
+on_yearly_pulse_2 = {
+	events = {
+		flavor_hvr.25 #gain hisou sword power
+	}
 }
 
 on_thri_yearly_pulse_4 = {

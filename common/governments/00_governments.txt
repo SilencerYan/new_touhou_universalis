@@ -161,7 +161,6 @@ monarchy = {
 				Gensokyan_sei_necrocratic_government
 				Gensokyan_joo_realm_of_luxurious_waste
 				Gensokyan_jnk_chinese_divine_state
-				Gensokyan_hvr_dictatorship
 				Gensokyan_hvr_absolute_dictatorship
 				Gensokyan_ran_monarchy
 				Gensokyan_hakutaku_monarchy 
@@ -592,7 +591,6 @@ monarchy = {
 		Gensokyan_sei_necrocratic_government
 		Gensokyan_joo_realm_of_luxurious_waste
 		Gensokyan_jnk_chinese_divine_state
-		Gensokyan_hvr_dictatorship
 		Gensokyan_hvr_absolute_dictatorship
 		Gensokyan_ran_monarchy
 		Gensokyan_hakutaku_monarchy 
@@ -692,7 +690,6 @@ monarchy = {
 		Gensokyan_sei_necrocratic_government
 		Gensokyan_joo_realm_of_luxurious_waste
 		Gensokyan_jnk_chinese_divine_state
-		Gensokyan_hvr_dictatorship
 		Gensokyan_hvr_absolute_dictatorship
 		Gensokyan_ran_monarchy
 		Gensokyan_hakutaku_monarchy 
@@ -752,7 +749,6 @@ monarchy = {
 		Gensokyan_sei_necrocratic_government
 		Gensokyan_joo_realm_of_luxurious_waste
 		Gensokyan_jnk_chinese_divine_state
-		Gensokyan_hvr_dictatorship
 		Gensokyan_hvr_absolute_dictatorship
 		Gensokyan_ran_monarchy
 		Gensokyan_hakutaku_monarchy 
@@ -817,7 +813,6 @@ monarchy = {
 		Gensokyan_sei_necrocratic_government
 		Gensokyan_joo_realm_of_luxurious_waste
 		Gensokyan_jnk_chinese_divine_state
-		Gensokyan_hvr_dictatorship
 		Gensokyan_hvr_absolute_dictatorship
 		Gensokyan_ran_monarchy
 		Gensokyan_hakutaku_monarchy 
@@ -918,8 +913,7 @@ republic = {
 				Gensokyan_kpp_united_kappa_republic
 				Gensokyan_tgu_tengu_republic
 				Gensokyan_hmc_plutocratic_republic
-				Gensokyan_yme_great_kappa_republic
-				Gensokyan_hvr_celestial_council 
+				Gensokyan_yme_great_kappa_republic 
 			}
 		}
 		republican_virtues = {
@@ -1246,7 +1240,6 @@ republic = {
 		Gensokyan_kpp_kappa_state
 		Gensokyan_kpp_united_kappa_republic
 		Gensokyan_tgu_tengu_republic
-		Gensokyan_hvr_celestial_council
 	}
 	exclusive_reforms = {
 		lottery_reform
@@ -1263,7 +1256,6 @@ republic = {
 		Gensokyan_kpp_kappa_state
 		Gensokyan_kpp_united_kappa_republic
 		Gensokyan_tgu_tengu_republic
-		Gensokyan_hvr_celestial_council
 	}
 	exclusive_reforms = {
 		force_reelection_reform
@@ -1271,7 +1263,6 @@ republic = {
 		Gensokyan_kpp_kappa_state
 		Gensokyan_kpp_united_kappa_republic
 		Gensokyan_tgu_tengu_republic
-		Gensokyan_hvr_celestial_council
 	}
 	exclusive_reforms = {
 		seize_executive_power_reform
@@ -1280,7 +1271,6 @@ republic = {
 		Gensokyan_kpp_kappa_state
 		Gensokyan_kpp_united_kappa_republic
 		Gensokyan_tgu_tengu_republic
-		Gensokyan_hvr_celestial_council
 	}
 	exclusive_reforms = {
 		free_city
@@ -1315,7 +1305,6 @@ republic = {
 		Gensokyan_kpp_kappa_state
 		Gensokyan_kpp_united_kappa_republic
 		Gensokyan_tgu_tengu_republic
-		Gensokyan_hvr_celestial_council
 	}
 }
 

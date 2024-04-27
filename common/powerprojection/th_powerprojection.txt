@@ -81,16 +81,9 @@ jnk_end_of_vengeance_pp = {
 	decay = no
 }
 
-hvr_beaten_yukari_pp = {
-	max = 10
-	min = 10
-	power = 1
-	decay = no
-}
-
 hvr_beaten_eiki_pp = {
-	max = 10
-	min = 10
+	max = 25
+	min = 25
 	power = 1
 	decay = no
 }

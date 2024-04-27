@@ -1,95 +1,42 @@
-th_hvr_weather_control_heavy_rain = { ### Heavy rain, big harvest
-	category = th_diplo_action
-
-	require_acceptance = no
-
-	is_visible = {
-		has_country_flag = hvr_tenshi_is_back
-	}
-
-	is_allowed = {
-		NOT = { FROM = { has_country_modifier = hvr_used_weather_control_on_target } }		
-	}
-
-	on_accept = {
-		change_variable = {
-			which = hvr_weather_action_counter
-			value = 1
-		}
-		FROM = {
-			country_event = {   
-				id = flavor_hvr.102
-			}
-			add_trust = {
-				who = ROOT
-				value = 3
-			}
-			add_opinion = {
-				modifier = th_hvr_used_heavy_rain
-				who = ROOT
-			}
-		}
-		add_dip_power = -100
-	}
-	ai_will_do = {
-		always = no
-	}
-}
-
-th_hvr_weather_control_disperse_clouds = {   ### No harvest for you!
-	category = th_diplo_action
-
-	require_acceptance = no
-
-	is_visible = {
-		has_country_flag = hvr_tenshi_is_back
-	}
-
-	is_allowed = {
-		NOT = { FROM = { has_country_modifier = hvr_used_weather_control_on_target } }		
-	}
-
-	on_accept = {
-		change_variable = {
-			which = hvr_weather_action_counter
-			value = 1
-		}
-		FROM = {
-			country_event = {  
-				id = flavor_hvr.103
-			}
-			add_trust = {
-				who = ROOT
-				value = -3
-			}
-			add_opinion = {
-				modifier = th_hvr_used_hvr_disperse_clouds
-				who = ROOT
-			}
-		}
-		add_dip_power = -100
-	}
-	ai_will_do = {
-		always = no
-	}
-}
-
 th_hvr_weather_control_devastating_earthquake = {   ### Devastating earthquake
 	category = th_diplo_action
 
 	require_acceptance = no
 
 	is_visible = {
-		has_country_flag = hvr_weather_control_lvl_2	
+		OR = {
+			th_has_copied_from_target = {
+				target = HVR
+			}
+			has_government_attribute = th_weather_control_mechanic
+		}
 	}
 
 	is_allowed = {
-		NOT = { FROM = { has_country_modifier = hvr_used_weather_control_on_target } }		
+		mil_power = 150
+		custom_trigger_tooltip = {
+			tooltip = hvr_has_been_used_earthquake_for_15_years
+			FROM = {				
+				OR = {
+					NOT = { has_country_flag = hvr_used_earthquake_on_target }
+					had_country_flag = {
+						flag = hvr_used_earthquake_on_target
+						days = 5475		#15 years
+					}
+				}
+			}
+		}
+		custom_trigger_tooltip = {
+			tooltip = hvr_only_on_war_enemies
+			FROM = {
+				war_with = ROOT
+			}
+		}
 	}
 
 	on_accept = {
 		change_variable = {
-			which = hvr_weather_action_counter
+			which = hvr_earthquake_counter
 			value = 1
 		}
 		FROM = {
@@ -105,24 +52,45 @@ th_hvr_weather_control_devastating_earthquake = {   ### Devastating earthquake
 				who = ROOT
 			}
 		}
-		add_mil_power = -100
+		add_mil_power = -150
 	}
 	ai_will_do = {
 		always = no
 	}
 }
 
-th_hvr_weather_control_terraforming = {   ### Terraforming
+th_hvr_weather_control_heavy_rain = {   ### No harvest for you!
 	category = th_diplo_action
 
 	require_acceptance = no
 
 	is_visible = {
-		has_country_flag = hvr_learned_from_suwako
+		OR = {
+			th_has_copied_from_target = {
+				target = HVR
+			}
+			has_government_attribute = th_weather_control_mechanic
+		}
+		has_country_flag = hvr_unlocked_heavy_rain
 	}
 
 	is_allowed = {
-		NOT = { FROM = { has_country_modifier = hvr_used_weather_control_on_target } }		
+		custom_trigger_tooltip = {
+			tooltip = hvr_has_20_power
+			check_variable = {
+				which = hvr_hisou_sword_energy
+				value = 20
+			}
+		}
+		if = {
+			limit = {
+				FROM = { tag = KPP }
+			}
+			custom_trigger_tooltip = {
+				tooltip = hvr_cannot_use_heavy_rain_on_kpp
+				FROM = { NOT = { tag = KPP } }
+			}
+		}
 	}
 
 	on_accept = {
@@ -130,39 +98,52 @@ th_hvr_weather_control_terraforming = {   ### Terraforming
 			which = hvr_weather_action_counter
 			value = 1
 		}
+		change_variable = {
+			which = hvr_hisou_sword_energy
+			value = -20
+		}
 		FROM = {
 			country_event = {  
-				id = flavor_hvr.105
+				id = flavor_hvr.103
 			}
 			add_trust = {
 				who = ROOT
-				value = 7
+				value = -3
 			}
 			add_opinion = {
-				modifier = th_hvr_used_hvr_terraforming
+				modifier = th_hvr_used_weather_control_on_us
 				who = ROOT
 			}
 		}
-		add_adm_power = -66
-		add_mil_power = -66
-		add_dip_power = -66
 	}
 	ai_will_do = {
 		always = no
 	}
 }
 
-th_hvr_weather_control_thunderstorm = {   ### Ride the Lightning! / Thunderstorm
+th_hvr_weather_control_strong_sun = {
 	category = th_diplo_action
 
 	require_acceptance = no
 
 	is_visible = {
-		has_country_flag = hvr_yorihime_weather_control           ### UNLOCKED WITH YORIHIME
+		OR = {
+			th_has_copied_from_target = {
+				target = HVR
+			}
+			has_government_attribute = th_weather_control_mechanic
+		}
+		has_country_flag = hvr_unlocked_strong_sun
 	}
 
 	is_allowed = {
-		NOT = { FROM = { has_country_modifier = hvr_used_weather_control_on_target } }			
+		custom_trigger_tooltip = {
+			tooltip = hvr_has_20_power
+			check_variable = {
+				which = hvr_hisou_sword_energy
+				value = 20
+			}
+		}	
 	}
 
 	on_accept = {
@@ -170,39 +151,61 @@ th_hvr_weather_control_thunderstorm = {   ### Ride the Lightning! / Thunderstorm
 			which = hvr_weather_action_counter
 			value = 1
 		}
+		change_variable = {
+			which = hvr_hisou_sword_energy
+			value = -20
+		}
 		FROM = {
 			country_event = {  
-				id = flavor_hvr.106
+				id = flavor_hvr.26
 			}
 			add_trust = {
 				who = ROOT
-				value = -7
+				value = -3
 			}
 			add_opinion = {
-				modifier = th_hvr_used_hvr_thunderstorm
+				modifier = th_hvr_used_weather_control_on_us
 				who = ROOT
 			}
 		}
-		add_mil_power = -75
-		add_dip_power = -75
 	}
 	ai_will_do = {
 		always = no
 	}
 }
 
-th_hvr_weather_control_meteorite = {   ### Comet Sighted!
-
+th_hvr_weather_control_blizzard = {
 	category = th_diplo_action
 
 	require_acceptance = no
 
 	is_visible = {
-		has_country_flag = hvr_learned_from_suwako
+		OR = {
+			th_has_copied_from_target = {
+				target = HVR
+			}
+			has_government_attribute = th_weather_control_mechanic
+		}
+		has_country_flag = hvr_unlocked_blizzard
 	}
 
 	is_allowed = {
-		NOT = { FROM = { has_country_modifier = hvr_used_weather_control_on_target } }		
+		custom_trigger_tooltip = {
+			tooltip = hvr_has_20_power
+			check_variable = {
+				which = hvr_hisou_sword_energy
+				value = 20
+			}
+		}
+		if = {
+			limit = {
+				FROM = { tag = CIN }
+			}
+			custom_trigger_tooltip = {
+				tooltip = hvr_bakas_do_not_get_cold
+				FROM = { NOT = { tag = CIN } }
+			}
+		}
 	}
 
 	on_accept = {
@@ -210,187 +213,101 @@ th_hvr_weather_control_meteorite = {   ### Comet Sighted!
 			which = hvr_weather_action_counter
 			value = 1
 		}
+		change_variable = {
+			which = hvr_hisou_sword_energy
+			value = -20
+		}
 		FROM = {
 			country_event = {  
-				id = flavor_hvr.107
+				id = flavor_hvr.27
 			}
 			add_trust = {
 				who = ROOT
-				value = -10
+				value = -3
 			}
 			add_opinion = {
-				modifier = th_hvr_used_hvr_meteorite
+				modifier = th_hvr_used_weather_control_on_us
 				who = ROOT
 			}
 		}
-		add_stability = -1
 	}
 	ai_will_do = {
 		always = no
 	}
 }
 
-th_hvr_weather_control_hurricane = {   ### Hurricane approaching!
-
-
+th_hvr_weather_control_heavy_fog = {
 	category = th_diplo_action
 
 	require_acceptance = no
 
 	is_visible = {
-		has_country_flag = hvr_learned_from_aya
-		has_country_flag = hvr_weather_control_lvl_3
+		OR = {
+			th_has_copied_from_target = {
+				target = HVR
+			}
+			has_government_attribute = th_weather_control_mechanic
+		}
+		has_country_flag = hvr_unlocked_heavy_fog
 	}
 
 	is_allowed = {
-		NOT = { FROM = { has_country_modifier = hvr_used_weather_control_on_target } }		
+		custom_trigger_tooltip = {
+			tooltip = hvr_has_20_power
+			check_variable = {
+				which = hvr_hisou_sword_energy
+				value = 20
+			}
+		}
+		if = {
+			limit = {
+				FROM = { 
+					OR = {
+						th_is_or_was_tag = {
+							tag = SCR
+						}
+						tag = FLR
+					}
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = hvr_vampires_like_fog
+				FROM = { 
+					NOT = { 
+						OR = {
+							th_is_or_was_tag = {
+								tag = SCR
+							}
+							tag = FLR
+						}
+					} 
+				}
+			}
+		}
 	}
 
 	on_accept = {
+		change_variable = {
+			which = hvr_weather_action_counter
+			value = 1
+		}
+		change_variable = {
+			which = hvr_hisou_sword_energy
+			value = -20
+		}
 		FROM = {
-			change_variable = {
-				which = hvr_weather_action_counter
-				value = 1
-			}
 			country_event = {  
-				id = flavor_hvr.108
+				id = flavor_hvr.28
 			}
 			add_trust = {
 				who = ROOT
-				value = -10
+				value = -3
 			}
 			add_opinion = {
-				modifier = th_hvr_used_hvr_hurricane
+				modifier = th_hvr_used_weather_control_on_us
 				who = ROOT
 			}
 		}
-		add_mil_power = -50
-		add_dip_power = -50
-	}
-	ai_will_do = {
-		always = no
-	}
-}
-
-th_hvr_weather_control_tornado = {   ### Hurricane approaching!
-
-
-	category = th_diplo_action
-
-	require_acceptance = no
-
-	is_visible = {
-		has_country_flag = hvr_weather_control_lvl_3
-		NOT = {has_country_flag = hvr_learned_from_aya}
-	}
-
-	is_allowed = {
-		NOT = { FROM = { has_country_modifier = hvr_used_weather_control_on_target } }		
-	}
-
-	on_accept = {
-		FROM = {
-			change_variable = {
-				which = hvr_weather_action_counter
-				value = 1
-			}
-			country_event = {  
-				id = flavor_hvr.108
-			}
-			add_trust = {
-				who = ROOT
-				value = -10
-			}
-			add_opinion = {
-				modifier = th_hvr_used_hvr_tornado
-				who = ROOT
-			}
-		}
-		add_mil_power = -50
-		add_dip_power = -50
-	}
-	ai_will_do = {
-		always = no
-	}
-}
-
-th_hvr_weather_control_rainbow = {   ### Rainbow
-
-
-	category = th_diplo_action
-
-	require_acceptance = no
-
-	is_visible = {
-		has_country_flag = hvr_weather_control_lvl_3
-	}
-
-	is_allowed = {
-		NOT = { FROM = { has_country_modifier = hvr_used_weather_control_on_target } }		
-	}
-
-	on_accept = {
-		FROM = {
-			change_variable = {
-				which = hvr_weather_action_counter
-				value = 1
-			}
-			country_event = {  
-				id = flavor_hvr.109
-			}
-			add_trust = {
-				who = ROOT
-				value = 10
-			}
-			add_opinion = {
-				modifier = th_hvr_used_hvr_rainbow
-				who = ROOT
-			}
-		}
-		add_dip_power = -33
-		add_adm_power = -33
-		add_mil_power = -33
-		add_prestige = 10
-	}
-	ai_will_do = {
-		always = no
-	}
-}
-
-th_hvr_weather_control_armageddon = {   ### Armageddon
-
-
-	category = th_diplo_action
-
-	require_acceptance = no
-
-	is_visible = {
-		has_country_flag = hvr_angel_of_apocalypse
-	}
-
-	is_allowed = {
-		NOT = { FROM = { has_country_modifier = hvr_armageddon } }		
-	}
-
-	on_accept = {
-		FROM = {
-			change_variable = {
-				which = hvr_weather_action_counter
-				value = 1
-			}
-			country_event = {  
-				id = flavor_hvr.110
-			}
-			add_trust = {
-				who = ROOT
-				value = -20
-			}
-			add_opinion = {
-				modifier = th_hvr_used_hvr_armageddon
-				who = ROOT
-			}
-		}
-		add_stability = -1
 	}
 	ai_will_do = {
 		always = no
