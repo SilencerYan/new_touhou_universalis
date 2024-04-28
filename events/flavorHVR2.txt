@@ -1043,6 +1043,14 @@ country_event = {
 	}
 	option = {
 		name = flavor_hvr.5.a
+    	add_years_of_income = 4
+	}
+	option = {
+		name = flavor_hvr.5.b
+		add_country_modifier = {
+			name = hvr_help_from_reimu
+			duration = 10950
+	  	}
 	}
 }
 
@@ -1069,6 +1077,22 @@ country_event = {
 	}
 	option = {
 		name = flavor_hvr.6.a
+		add_country_modifier = {
+			name = hvr_help_from_marisa_treasure
+			duration = 10950
+	  	}
+	}
+	option = {
+		name = flavor_hvr.6.b
+		every_owned_province = {
+			limit = {
+				region = orbital_region
+			}
+			add_province_modifier = {
+				name = hvr_help_from_marisa_mystia
+				duration = 5475
+			}
+		}
 	}
 }
 
@@ -1095,6 +1119,32 @@ country_event = {
 	}
 	option = {
 		name = flavor_hvr.7.a
+		add_country_modifier = {
+			name = hvr_help_from_sakuya_remi
+			duration = 10950
+	  	}
+	}
+	option = {
+		name = flavor_hvr.7.b
+		add_country_modifier = {
+			name = hvr_help_from_sakuya_patchouli
+			duration = 10950
+	  	}
+	}
+	option = {
+		name = flavor_hvr.7.c
+		add_army_tradition = 15
+		add_country_modifier = {
+			name = hvr_help_from_sakuya_meirin
+			duration = 10950
+	  	}
+	}
+	option = {
+		name = flavor_hvr.7.d
+		add_adm_power = 150
+		add_dip_power = 150
+		add_mil_power = 150
+		
 	}
 }
 
@@ -1121,6 +1171,30 @@ country_event = {
 	}
 	option = {
 		name = flavor_hvr.8.a
+		add_manpower = 3
+		define_general = {
+			shock = 6
+			fire = 6
+			manuever = 5
+			siege = 2
+			name = "'YSÝ„"  # Great General Ran
+			female = yes
+		}
+		define_admiral = {
+			shock = 3
+			fire = 3
+			manuever = 2
+			siege = 1
+			name = "ÐccwYj"  # Captain Chen
+			female = yes
+		  }
+	}
+	option = {
+		name = flavor_hvr.8.b
+		add_country_modifier = {
+			name = hvr_help_from_yukari
+			duration = 10950
+	  	}
 	}
 }
 
@@ -1147,6 +1221,27 @@ country_event = {
 	}
 	option = {
 		name = flavor_hvr.9.a
+		add_unit_construction = {
+			type = infantry
+			amount = 15
+			speed = 0.1
+			cost = 0
+		}
+	}
+	option = {
+		name = flavor_hvr.9.b
+		add_country_modifier = {
+			name = hvr_help_from_youmu_society
+			duration = 10950
+	  	}
+	}
+	option = {
+		name = flavor_hvr.9.c
+		add_army_professionalism = 0.3
+		add_country_modifier = {
+			name = hvr_help_from_youmu_tradition
+			duration = 10950
+	  	}
 	}
 }
 
@@ -1173,6 +1268,24 @@ country_event = {
 	}
 	option = {
 		name = flavor_hvr.10.a
+		add_country_modifier = {
+			name = hvr_help_from_sanae
+			duration = 10950
+	  	}
+	}
+	option = {
+		name = flavor_hvr.10.b
+		add_country_modifier = {
+			name = hvr_help_from_sanae_kanako
+			duration = 10950
+	  	}
+	}
+	option = {
+		name = flavor_hvr.10.c
+		add_country_modifier = {
+			name = hvr_help_from_sanae_suwako
+			duration = 10950
+	  	}
 	}
 }
 
@@ -1199,6 +1312,24 @@ country_event = {
 	}
 	option = {
 		name = flavor_hvr.11.a
+		add_country_modifier = {
+			name = hvr_help_from_aya_legitimacy
+			duration = 10950
+	  	}
+	}
+	option = {
+		name = flavor_hvr.11.b
+		add_country_modifier = {
+			name = hvr_help_from_aya_diplomacy
+			duration = 10950
+	  	}
+	}
+	option = {
+		name = flavor_hvr.11.c
+		add_country_modifier = {
+			name = hvr_help_from_aya_publicity
+			duration = 10950
+	  	}
 	}
 }
 
@@ -1225,6 +1356,22 @@ country_event = {
 	}
 	option = {
 		name = flavor_hvr.12.a
+		th_outdate_moon_defenses = yes
+		change_innovativeness = 10
+	}
+	option = {
+		name = flavor_hvr.12.b
+		add_country_modifier = {
+			name = hvr_help_from_reisen_eirin
+			duration = 10950
+	  	}
+	}
+	option = {
+		name = flavor_hvr.12.c
+		add_country_modifier = {
+			name = hvr_help_from_reisen
+			duration = 10950
+	  	}
 	}
 }
 
