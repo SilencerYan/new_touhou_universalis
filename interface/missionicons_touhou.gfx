@@ -1839,6 +1839,175 @@ spriteTypes = {
 		texturefile = "gfx//interface//missions//touhou_missions//mission_stormbringer.dds"
 	}
 	
+	#new tenshi notice
+	spriteType = {
+		name = "mission_choose_path"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_choose_path.dds"
+	}
+	
+	spriteType = {
+		name = "mission_stability_mission_1"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_stability_mission_1.dds"
+	}
+	
+	spriteType = {
+		name = "mission_mood_control"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_mood_control.dds"
+	}
+
+	spriteType = {
+		name = "mission_bleach"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_bleach.dds"
+	}
+
+	spriteType = {
+		name = "mission_unite_senkai"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_unite_senkai.dds"
+	}
+
+	spriteType = {
+		name = "mission_rule_over_higan"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_rule_over_higan.dds"
+	}
+
+	priteType = {
+		name = "mission_stability_mission_2"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_stability_mission_2.dds"
+	}
+
+	priteType = {
+		name = "mission_stability_end"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_stability_end.dds"
+	}
+
+	priteType = {
+		name = "mission_internal_stability"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_internal_stability.dds"
+	}
+
+	priteType = {
+		name = "mission_finish_agenda"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_finish_agenda.dds"
+	}
+
+	priteType = {
+		name = "mission_internal_stability_2"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_internal_stability_2.dds"
+	}
+
+	priteType = {
+		name = "mission_beat_yumemi"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_beat_yumemi.dds"
+	}
+
+	priteType = {
+		name = "mission_fish_1"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_fish_1.dds"
+	}
+
+	priteType = {
+		name = "mission_fish_2"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_fish_2.dds"
+	}
+
+	priteType = {
+		name = "mission_weather_sun"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_weather_sun.dds"
+	}
+
+	priteType = {
+		name = "mission_great_navy"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_great_navy.dds"
+	}
+
+	priteType = {
+		name = "mission_build_coastal_defence"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_build_coastal_defence.dds"
+	}
+
+	priteType = {
+		name = "mission_stability_mission_3"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_stability_mission_3.dds"
+	}
+
+	priteType = {
+		name = "mission_control_crown_land"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_control_crown_land.dds"
+	}
+
+	priteType = {
+		name = "mission_prove_legitimacy"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_prove_legitimacy.dds"
+	}
+
+	priteType = {
+		name = "mission_beat_yuuka"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_beat_yuuka.dds"
+	}
+
+	priteType = {
+		name = "mission_dragon_palace"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_dragon_palace.dds"
+	}
+
+	priteType = {
+		name = "mission_dragon_statue"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_dragon_statue.dds"
+	}
+
+	priteType = {
+		name = "mission_bless_of_dragon_god"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_bless_of_dragon_god.dds"
+	}
+
+	priteType = {
+		name = "mission_weather_snow"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_weather_snow.dds"
+	}
+
+	priteType = {
+		name = "mission_tenshi_form_empire"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_tenshi_form_empire.dds"
+	}
+
+	priteType = {
+		name = "mission_tenshi_form_empire_2"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_tenshi_form_empire_2.dds"
+	}
+
+	priteType = {
+		name = "mission_shining_needle_castle"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_shining_needle_castle.dds"
+	}
+
+	priteType = {
+		name = "mission_tojiko_and_raiko"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_tojiko_and_raiko.dds"
+	}
+
+	priteType = {
+		name = "mission_iku_advisor"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_iku_advisoro.dds"
+	}
+
+	priteType = {
+		name = "mission_weather_fog"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_iku_advisoro.dds"
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 
