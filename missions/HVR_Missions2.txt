@@ -1822,7 +1822,7 @@ hvr_mission_forth_slot = {
 	}
 
 	hvr_navy_quality = {
-		icon = mission_tenshi_throne
+		icon = mission_iku_ride_the_lightning
 		position = 10
 		required_missions = {
 		}
@@ -1857,7 +1857,7 @@ hvr_mission_fifth_slot = {
 		}
 	}
 	hvr_build_navy = {
-		icon = mission_tenshi_throne
+		icon = mission_iku_approaching_storm
 		position = 1
 		required_missions = {
 		}
@@ -1884,7 +1884,7 @@ hvr_mission_fifth_slot = {
 	}
 
 	hvr_discover_america = {
-		icon = mission_tenshi_throne
+		icon = mission_iceland
 		position = 2
 		required_missions = {
 			hvr_build_navy
@@ -1945,7 +1945,7 @@ hvr_mission_fifth_slot = {
 	}
 
 	hvr_colonize_america = {
-		icon = mission_tenshi_throne
+		icon = mission_touhou_rainforest
 		position = 3
 		required_missions = {
 			hvr_discover_america
@@ -2021,7 +2021,7 @@ hvr_mission_fifth_slot = {
 	}
 
 	hvr_discover_moon = {
-		icon = mission_tenshi_throne
+		icon = mission_dream_world_windows
 		position = 4
 		required_missions = {
 		}
@@ -2065,7 +2065,7 @@ hvr_mission_fifth_slot = {
 	}
 
 	hvr_heroines_help = {
-		icon = mission_tenshi_throne
+		icon = mission_touhou_reimu
 		position = 5
 		required_missions = {
 			hvr_build_army
@@ -2106,7 +2106,7 @@ hvr_mission_fifth_slot = {
 	}
 
 	hvr_conquer_moon = {
-		icon = mission_tenshi_throne
+		icon = mission_touhou_moon_land
 		position = 7
 		required_missions = {
 			hvr_heroines_help
@@ -2129,7 +2129,7 @@ hvr_mission_fifth_slot = {
 	}
 
 	hvr_hisou_sword = {
-		icon = mission_tenshi_throne
+		icon = mission_mastery_over_nature
 		position = 8
 		required_missions = {
 		}
@@ -2152,7 +2152,7 @@ hvr_mission_fifth_slot = {
 	}
 
 	hvr_weather_rain = {
-		icon = mission_tenshi_throne
+		icon = mission_keystones
 		position = 9
 		required_missions = {
 			hvr_hisou_sword
@@ -2189,7 +2189,7 @@ hvr_mission_fifth_slot = {
 	}
 
 	hvr_experienced_weather_control = {
-		icon = mission_tenshi_throne
+		icon = mission_angel_of_apocalypse
 		position = 10
 		required_missions = {
 			hvr_weather_sun
