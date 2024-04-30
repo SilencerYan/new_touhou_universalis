@@ -1870,127 +1870,126 @@ spriteTypes = {
 		texturefile = "gfx//interface//missions//touhou_missions//mission_rule_over_higan.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_stability_mission_2"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_stability_mission_2.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_stability_end"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_stability_end.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_internal_stability"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_internal_stability.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_finish_agenda"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_finish_agenda.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_internal_stability_2"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_internal_stability_2.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_beat_yumemi"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_beat_yumemi.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_fish_1"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_fish_1.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_fish_2"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_fish_2.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_weather_sun"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_weather_sun.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_great_navy"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_great_navy.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_build_coastal_defence"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_build_coastal_defence.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_stability_mission_3"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_stability_mission_3.dds"
 	}
-
-	priteType = {
+	spriteType = {
 		name = "mission_control_crown_land"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_control_crown_land.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_prove_legitimacy"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_prove_legitimacy.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_beat_yuuka"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_beat_yuuka.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_dragon_palace"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_dragon_palace.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_dragon_statue"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_dragon_statue.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_bless_of_dragon_god"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_bless_of_dragon_god.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_weather_snow"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_weather_snow.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_tenshi_form_empire"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_tenshi_form_empire.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_tenshi_form_empire_2"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_tenshi_form_empire_2.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_shining_needle_castle"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_shining_needle_castle.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_tojiko_and_raiko"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_tojiko_and_raiko.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_iku_advisor"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_iku_advisoro.dds"
 	}
 
-	priteType = {
+	spriteType = {
 		name = "mission_weather_fog"
 		texturefile = "gfx//interface//missions//touhou_missions//mission_iku_advisoro.dds"
 	}
