@@ -1394,8 +1394,8 @@ country_event = {
 			}
 		}
 		5320 = {
-			change_province_name = "ùeùùùR"
-			rename_capital = "ùeùùùR"
+			change_province_name = "New dragon palace"
+			rename_capital = "New dragon palace"
 			add_province_modifier = {
 				name = hvr_new_dragon_palace
 				duration = -1
