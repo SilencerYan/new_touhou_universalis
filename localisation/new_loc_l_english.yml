@@ -702,12 +702,12 @@
  hvr_beat_rebels_desc: "›Q‹NCNýV¶RKN'Y‹Nÿ‚Yœg)YPRýwYÁ‹fêñT„v›Q‹NMbýwÿ)YLu„v›Q–1SOÛNek²‹TyY0wG•‹S±›NNgÎNbìNßu»l„vqNã<PRR=fN*N^—8^‹Y„v	ébÿmNýwY.^©R)YPRÐcØšyY(W)YLu„vZg0"
  hvr_control_crown_land_title: "Œcµc†˜0W"
  hvr_control_crown_land_desc: "‹s²R†˜0W=f-N.YCgZ„v„gbKNNÿ)YPR—‰SýV…Q„vôfY†˜WŒcác(WêñT„v?eœ^Kb-NÿTöeÿHN†NÛNekžR°s'YCg(Wác„vÎ‘ÃVÿv^‹S6RýV…Q„vÍSùR¿R›Rÿ±›NÛS„v)YLu5Ïe„v†˜0WÅV‰˜‰«ˆeRHYÿ"
- hvr_stability_branch_mission_1_title: "nxÝOàVÚ‹"
- hvr_stability_branch_mission_1_desc: "HN†N‰Ršb)YLuT6–BSÿbìNN—VNÙuˆNÖNìNN›NyrCgbcÖSÖNìNùR)YPR„vHeàV0SV6qÙNRý=fêS=fhˆb—‡eàz„vÿbìNêS=f‚föe„vZ†NÔYÇ†wòT0"
- hvr_stability_branch_mission_2_title: " RHVŸl"
- hvr_stability_branch_mission_2_desc: "HN†NÛNekEuLˆ?eèè•„vŸlÿìSV6–µuO®‹=f	gÅV‰„v0án³Ù›N6–BS„v‰BlSÛNekÉbÛ)YPRNÖNìNKNô•„vsQû|ÿv^©‹)YPR²‹Æ‹0R‚YUOYtýV¶R'Y‹NåNÊSOSŒ6–BSKNô•„v)RÊv²QzNTwû|0"
- hvr_stability_branch_mission_3_title: "±Rlbckßu'`"
- hvr_stability_branch_mission_3_desc: ")YPRv^N=fN*N¯u¹|„v)YºNÿw=f–¶RÏebHN„vNo‚)YºNÿyY©sNNm`„v'`<hÙuˆVYvQÖN)YºNYuN†NN‹Y„vpSaŒÿbìN—‰±‚9³Y„vöeô•ŒT¾|›R»SÁ‹fÁ‹f)YPRßu»l„vTÕl'`0"
+ hvr_stability_branch_mission_1_title: "[Root.GetSelectableMissionTitle]"
+ hvr_stability_branch_mission_1_desc: "[Root.GetSelectableMissionDescription]"
+ hvr_stability_branch_mission_2_title: "[Root.GetSelectableMissionTitle]"
+ hvr_stability_branch_mission_2_desc: "[Root.GetSelectableMissionDescription]"
+ hvr_stability_branch_mission_3_title: "[Root.GetSelectableMissionTitle]"
+ hvr_stability_branch_mission_3_desc: "[Root.GetSelectableMissionDescription]"
  hvr_internal_stability_branch_end_title: "?eNS3zšR"
  hvr_internal_stability_branch_end_desc: "°s(WÿýV¶RòTÏuØS—V3zšRÿ6–BSmNòTÏu«ˆbìN©sVßu¡VÿbeŽNÍSÛS„v¿R›RòTÏuOÛ‹ÿHeàV>m`Snc†NYpeÿßu»lTÕl'`—V0R†NéTúVÿ)YPRòTÏuThQýVÁ‹f†NêñT„výw›Rÿ=föePžR°swck„v'YCgìrýc†Nÿ"
  hvr_build_army_title: ")YuQ)YS"
@@ -935,6 +935,7 @@
  hvr_upgrade_iku_tt: "™Ÿ^y²‹ïS†NbìN„vßu»lÿ"
  hvr_instability.tt: ")YLuÛeQ†N¨RaƒöeãNÿ"
  hvr_choose_no_education_path.tt: "	éb:Vlxï¿u"
+ hvr_choose_teach_lesson_path.tt: "	éb`Ôgï¿u"
  flavor_hvr.3.b.tt: ")YPRNO¥c×S‹^™™„vcb"
  flavor_hvr.4.a.tt: "bìNS·ƒ—V.^©R"
  flavor_hvr.4.b.tt: "bìNS·ƒ—V.^©R"

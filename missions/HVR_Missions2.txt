@@ -46,7 +46,7 @@ hvr_mission_branching_slot_1 = {
 		}
 	}
 	hvr_stability_branch_mission_1 = {
-		icon = mission_stability_mission_1
+		icon = mission_unknown_mission
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -562,7 +562,7 @@ hvr_mission_branching_slot_2 = {
 		}
 	}
 	hvr_stability_branch_mission_2 = {
-		icon = mission_stability_mission_2
+		icon = mission_unknown_mission
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -1032,7 +1032,7 @@ hvr_mission_branching_slot_3 = {
 		}
 	}
 	hvr_stability_branch_mission_3 = {
-		icon = mission_stability_mission_3
+		icon = mission_unknown_mission
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -1878,7 +1878,7 @@ hvr_mission_fifth_slot = {
 				manuever = 3
 				siege = 1
 				female = yes
-				name = "ï¿½YGYï¿½v)Yï¿½N"  # Curious Celestial
+				name = "‹YGY„v)YºN"  # Curious Celestial
 			}
 		}
 	}
