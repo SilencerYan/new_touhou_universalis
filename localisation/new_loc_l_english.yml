@@ -1020,6 +1020,24 @@
  hvr_help_from_reisen_eirin: "§Y­‹Ãu	g.t„vIS^§!"
  hvr_help_from_reisen: "§YGdGdÃ”ÙN§!"
  hvr_shinigami_introduction_title: "‰k^yeg­ˆøvsQËNÍu"
- 
- 
- 
+ hvr_hisou_sword_introduction_title: "ïuó`QR„vjo›R"
+ hvr_celestials_paradise: "§Y)Yi`imaƒ§!"
+ hvr_has_been_used_earthquake_for_15_years: "Ý»yN/kNVÑS0W—òTÏuÇ»S15t^"
+ hvr_only_on_war_enemies: "êSýwùRb‰N-N„vLeºNO(u"
+ th_hvr_weather_control_strong_sun_tooltip: "Èpåe"
+ th_hvr_weather_control_blizzard_tooltip: "´fê–"
+ th_hvr_weather_control_heavy_fog_tooltip: "Smþ–"
+ th_hvr_weather_control_strong_sun_title: "Èpåe"
+ th_hvr_weather_control_blizzard_title: "´fê–"
+ th_hvr_weather_control_heavy_fog_title: "Smþ–"
+ th_hvr_weather_control_strong_sun_desc: "¨`SùRîvhýV¶RO(uåNN„v)YlIm¨Rÿ\n§YÈpåeÿ§!\n§Gˆmw20l(§!\nîvhýV¶R·ƒ—V10t^debuffÿ\n§RÑSUSb,g+10%ÿú^.±‚9+10%§!\n"
+ th_hvr_weather_control_blizzard_desc: "¨`SùRîvhýV¶RO(uåNN„v)YlIm¨Rÿ\n§Y´fê–ÿ§!\n§Gˆmw20l(§!\nîvhýV¶R·ƒ—V10t^debuffÿ\n§Rûy¨R¦^-10%ÿF–›Qmcw+10%§!\n"
+ th_hvr_weather_control_heavy_fog_desc: "¨`SùRîvhýV¶RO(uåNN„v)YlIm¨Rÿ\n§YSmþ–ÿ§!\n§Gˆmw20l(§!\nîvhýV¶R·ƒ—V10t^debuffÿdebuff\n§RF–›Qkp›R2O³R-10%ÿëXlb`Y¦^-10%§!\n"
+ th_hvr_weather_control_heavy_rain_tooltip: "´fè–"
+ th_hvr_weather_control_heavy_rain_title: "´fè–"
+ th_hvr_weather_control_heavy_rain_desc: "¨`SùRîvhýV¶RO(uåNN)YlIm¨Rÿ\n§Y´fè–ÿ§!\n§Gˆmw20l(ÿ§!\nîvhýV¶R·ƒ—V10t^debuffÿ\n§Rwm›QëXl-10%ÿ9‚êSwEN¦^-5%§!\n"
+ th_hvr_weather_control_devastating_earthquake_tooltip: "Ákmp'`0W—"
+ th_hvr_weather_control_devastating_earthquake_title: "Ákmp'`0W—"
+ th_hvr_weather_control_devastating_earthquake_desc: "¨`SùRîvhýV¶RO(uÁkmp'`„v0W—ÿ\n§Gˆmw 150›Q‹N¹p 0§!\nùRîvhýV¶RVÑSb/g0W—ÿÅNïSùRb‰N-N„vLeùRýV¶RO(u05t^…QîvhýV¶Rÿ\n§R‰^X2–¡V-25%0§!\nùRTNýV¶RêSýwÏk15t^O(uN/kÿv^ÙuˆNsQû|é`Z0"
+
+
