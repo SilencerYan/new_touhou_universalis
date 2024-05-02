@@ -1986,12 +1986,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = "mission_iku_advisor"
-		texturefile = "gfx//interface//missions//touhou_missions//mission_iku_advisoro.dds"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_iku_advisor.dds"
 	}
 
 	spriteType = {
 		name = "mission_weather_fog"
-		texturefile = "gfx//interface//missions//touhou_missions//mission_iku_advisoro.dds"
+		texturefile = "gfx//interface//missions//touhou_missions//mission_weather_fog.dds"
 	}
 
 
