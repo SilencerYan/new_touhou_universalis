@@ -69,7 +69,7 @@ th_cursed_donation_box = {
     modifier = {
       factor = 10
       has_global_modifier_value = {
-        which = global_tax_income
+        which = global_tax_modifier
         value = 0.2
       }
     }

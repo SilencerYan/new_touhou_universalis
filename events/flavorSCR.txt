@@ -2311,7 +2311,10 @@ country_event = {
         }
       }
       PAP = {
-        set_papacy_active = no
+        set_religion_papacy_active = {
+          religion = catholic
+          active = no
+        }
       }
       custom_tooltip = flavor_scr.33.a.tt
       hidden_effect = {

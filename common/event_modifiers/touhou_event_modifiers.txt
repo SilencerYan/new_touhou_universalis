@@ -1092,6 +1092,10 @@ th_estate_burghers_swamp_developers_jungle_modifier = {
 	local_development_cost = -0.45
 }
 
+th_estate_burghers_swamp_developers_ravine_modifier = {
+	local_development_cost = -0.40
+}
+
 #TGU event modifiers
 tgu_sided_with_great_tengu = {
 	all_estate_loyalty_equilibrium = -0.25
@@ -1390,21 +1394,6 @@ conversion_zeal_v2 = {
 }
 
 #Mechanic / GOV. mechanic
-lcu_sacred_ceremony_modifier = {
-	missionaries = 1
-	global_missionary_strength = 0.03
-	institution_spread_from_true_faith = 0.25
-}
-
-lcu_purge_impurity_modifier = {
-	years_of_nationalism = -10
-	global_rebel_suppression_efficiency = 0.5
-}
-
-lcu_iron_discipline_modifier = {
-	morale_damage_received = -0.1
-	discipline = 0.025
-}
 
 kmj_nice_start = {
 	yearly_government_power = 24

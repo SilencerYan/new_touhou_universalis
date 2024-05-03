@@ -1,29 +1,11 @@
 ﻿l_english:
- Gensokyan_hvr_celestial_council: ")Y­^"
- Gensokyan_hvr_celestial_council_desc: "D†SgñmN^×SleÍ‘„v)YºNìNÄub„v®‹OÿÖNìNÅNSb—r(W)YLu‰RR¦^åe0"
- Gensokyan_hvr_dictatorship: ")YLuìrÁˆ6R"
- Gensokyan_hvr_dictatorship_desc: "1uÔk±TES¶R†˜üR„v)YLu0å‹ýVåNŽVÅNSb—r‰RR¦^åe«Ny«NPNÿ‚YÊNtSÆQYåNïS‘u„vt1uVr¨Rb‰N0)YPRNcˆ–s„výw›ROKN—VåN9eØSlaŒÿäNck(WÑSuKN‹Ng÷mŒl»S0"
  TOUHOU_USURPER: "árã"
  TOUHOU_DESPOT: "NCg‹s"
- TOUHOU_TYRANT: "íP^"
  Gensokyan_hvr_absolute_dictatorship: ")YN0WN'YCgìrýc"
  Gensokyan_hvr_absolute_dictatorship_desc: "1u)YPRNÔk±TES¶R¨cLˆ„vN6Rßu»l0–NwùR0Wñr„vVgÿåNÊSegê5ÏeN^yLww2N6–BSQ RNnfW'YO„v=ecÿ)YPR„vNbjONbHNòTàeºNýwÒcKb0yY„vßu»lN‚YŽV8^,‚HV²R0"
  TOUHOU_RULER_OF_HEAVEN_AND_HELL_FEMALE: "‡v)YTWKN^"
  TOUHOU_RULER_OF_HEAVEN_AND_HELL_MALE: "‡v)YTWKN^"
- th_return_of_tenshi_disaster: ")YPRRVeg"
  mechanic_th_weather_control_mechanic_yes: "ïSåNO(u§YlaŒÍdµu§!ýw›R"
- th_estate_heavenly_nobles_command_of_the_military: ")YLu5ÏeŒcµc›Q‹N"
- th_estate_heavenly_nobles_command_of_the_military_desc: "egêNT¶RÏe„v)YºN5ÏeìNIm—VENÁ‰—VYÿ|QwQwmbF–b2N¹eb—„vÏuŒš0ÖNìNÆQYåN›N¸‹ãN÷NegHNbìN.^NŠbKb0Ùy˜ãN÷N¿O=fvQ‰ýwôv¥cqVÍTbìN„vF–›QN0‚–0"
- th_estate_eternal_loyalty_of_nobles: "ÝuùRàVÚ‹"
- th_estate_eternal_loyalty_of_nobles_desc: ")YPRòTÁ‹f†NyYùR)YºN5ÏeìN„v÷N<P0°s(W)YºNìNHNýV¶Rôf'Y„v)RÊv¡‹ÿ^géTúV)YPR„v0WMOw^—mc³RyY„vßu»l0"
- th_estate_heavenly_nobles_in_administration: ")YºNÂS?e"
- th_estate_heavenly_nobles_in_administration_desc: "ÇŽ÷‹)YºNÂSNg?eÿbìN¿OýwÏQSNb‰Åb„våTjOÅb0"
- th_estate_heavenly_zealots: ")YLuÂráO’V"
- th_estate_heavenly_zealots_desc: "¡lºNtÖNìN0NÇÖNìNtS(WÙ?QÿÆQYT²‹áONTáOðN„v*NSO¥båNÍ‘ób0"
- th_estate_grace_of_heavens: ")YLui`xQ"
- th_estate_grace_of_heavens_desc: ")YLuI`=f«ˆÆ‰jOHN‰^ó`aNÌ‘„vTNNOgKN0W0àVdkNbìNTáO„vYeÞwìNSPNŽNNbìNÓußv0b¸‹Ðg)YÖNìNuóýw	gHgO0R¿‹)YLu&&"
- HVA: "Ž)RZW)YýV"
- HVA_ADJ: "Ž)RZW)YýV"
  ability_th_koishi_wandering_realm: "àeaÆ‹KN›R"
  mechanic_kmj_government_mechanic_yes: "ïS(uýw›R§YàeaÆ‹KN›R§!"
  koishi_adm_power: "àeaÆ‹KN›R"
@@ -42,13 +24,6 @@
  mechanic_th_tenshi_temper_mechanic_yes: "=T(u)YPRœU`"
  th_tenshi_temper: ")YPRœU`"
  th_tenshi_temper_desc: ")YPRœU`ãNhˆNw)YPRyYSVMRNbÏu†S„v¾|^y¶rµQ0)YPRNœU0ks^Y—ÇåePRÿàVdk–öeô•AmÿyY„vÅ`êuOØS—VaÑSù`=fu^—0)YPRåb	g	NÍyïSýw„vÅ`êu0\n\n§Ts^Y—ÿ0-34	ÿ§!ÿuQbNwÿÑSUS=ctQýV¶R„vo‚°	Tåe0\n\n§YÂSJSÿ34-67	ÿ§!ÿ(Wdk¶rµQNÿ)YPRòTNb	g¨RjOÿFOSN	gNbê6R0\n\n§R¢NKYÿ67-100	ÿ§!ÿcwb‰N„vÝu‹YöeHg0\n\nTÍyLˆ¨RýSO—V)YPR„vÅ`êuR<PNGSbNM–0‹O‚Yÿb—Vb‰NT)YPR¿OOs^Y—N›NÿÅ`êumNOôf Rs^ŒT0ÍSÇegô‹“‰cb‰NRïSýwOù`ÛkyY0\n\nåNNLˆ¨ROM–NOb=fÐcGS)YPRœU`ÿ\n\nÿ–klwýNÿM–NO	ÿ\nÿÇ–(uŒ˜î•ÿM–NO	ÿ\nÿb—VbyVÿM–NO	ÿ\nÿ“‰cbyVÿÐcGS	ÿ\nÿb—Vb‰NÿM–NO	ÿ\nÿ“‰cb‰NÿÐcGS	ÿ\nÿ®puQpûQÿÐcGS	ÿ\nÿwmN®pûQÿÐcGS	ÿ\nÿã‰•°eÑyŽbÿM–NO	ÿ\nÿÑSUSwýNÿM–NO	ÿ"
- mechanic_lcu_government_mechanic_yes: "ïS(uýw›R§YgºN?eœ^§!"
- Sacred_ceremony: "1W<y"
- Sacred_ceremony_desc: "1ubìN„v^yup¢csYINc„v1W<ySOHNbìN„v†˜0W&^egŒTs^NäNbìNýwOûNUOVYe’V9eáO0"
- Purge_impurity: "ÀQSalýy"
- Purge_impurity_desc: "ÎN•Üegwÿiyd–alýyOäNbìN„vW0W•ENtQúeN»S06qwÿÙHNZPïSýwO(W×S0RÀQSqVÍT„vwýN…QVw›N¸‹¨RqN0"
- Iron_discipline: "Á”„vªu‹V"
- Iron_discipline_desc: "ŠbgTQ­‹Ãub	gªu‹V„vðyLwëXuQ—‰N›Nöeô•0N¡r`HNô‹ÿýwObìN(WbHWNUS°súQgb—›QÎ˜Ç‘„vªR›Rý=f<P—V„vÿ"
  ability_th_lunarians_gov: "gNTINCgÄg"
  lunar_adm_power: "¢csYKN›R"
  lunar_dip_power: "ÀQSÛ¦^"
@@ -78,13 +53,9 @@
  voc_indiamen_modifier: "òTÇ–cOÎ˜´fOw"
  HAVE_AT_LEAST_VOC_INDIAMEN_THAN: "åb	góS§Y$VALUE$§!X‚Î˜´fOw0\n"
  MODIFIER_AMOUNT_OF_VOC_INDIAMEN: "Î˜´fOwpeÏ‘NP–"
- th_tenshi_returning_home: ")YPRòT³QšRÍ‘ÔvQ¶RíVv^ßu»l)YLuÿ"
- had_disaster_for_x_years_tenshi: ")YPR—‰éTúVyYùRýV¶R„vßu»lÿ·ƒ—V§Y5Ïe§!N§YYeëX§!6–BS„váOûN0‚YdkMbýwi—°eýV¶Rv^ÓumgdkŒp¾–"
  mechanic_th_enable_respawn_for_mil_tradition_yes: "ïS(u§Y›Q‹N¹ppe§!O–Y¦hYúQ0ßu»lwS8lÜ«Ž|QS†˜NLw0"
  merc_th_rabbits_with_exoskeletons: "gKNÀQSw"
  th_unlock_merc_th_rabbits_with_exoskeletons_tt: "ã‰•§GgKNÀQSw§!"
- merc_th_wild_oni_from_heaven: ")YLuv`<›"
- th_unlock_merc_th_wild_oni_from_heaven_tt: "ã‰•§G)YLuv`<›§!"
  hvr_iku_hired_for_thirty_years: "cˆ–s(WÇ»S„v§Y30t^§!ô•¡l	g«ˆÇ–(uÇ0"
  th_hired_advisor_iku: "8lmlcˆ–sòT«ˆÇ–HNŒ˜î•"
  th_advisor_iku: "ŽKN„vïuKNcˆ"
@@ -95,10 +66,6 @@
  th_lcu_enforce_our_culture.151.t: "gºN—RINqšbýVlQlÿ"
  th_lcu_enforce_our_culture.151.desc: "bìN„vgºN—RINckŠbNybºN‰|úQbýVÿObìN„vNYwýNØSHNgºN„vNb	g0Wÿ"
  th_lcu_enforce_our_culture.151.a: "‚S	gdktÿ"
- th_return_of_tenshi.1000.t: ")YPRRVeg"
- th_return_of_tenshi.1000.desc: "weg.Oû•bw†N0)YPR‡s†˜vQ¶RuQÍ‘Ô)YLuÿ‰BlŠb)YLu„vßu»lCgl²NÙuyY0bìNùRdk<ONN=fàeýwHN›RÿhQàVlQlSV-N¦N	gNS)YPR„v=ecw0Lˆ'TÿŒTs^Sg0R4Y†Nÿ"
- th_return_of_tenshi.1000.a: "OWåePRØ(WT4YbT0"
- th_return_of_tenshi.1000.a.ct: "îvMR”^ùRdkŒp¾–„v=UNžRÕl¿O=fb²‹)YPRHNbýV†˜–ˆ0Ç¨‹‹YNàV„vT6–BSåNÊSŒRbûN¡Rÿ`OgÈuSýwYKQgdkŒp¾–0"
  flavor_lcu.102.t: "gNáOðN"
  flavor_lcu.102.desc: "8lÜ­N‚YÊNòTK„eQgºN„vŒcµcNÿb¸‹bìN=föePå‹9eáOgºN„váOðN†Nÿ"
  flavor_lcu.102.a: "SV6q†N0"
@@ -155,162 +122,21 @@
  desc_lunar_workcamps_for_the_impure_aspect_v2: "N=fNb	galýy„v0WNºNýêSýw(ueg–kl*Yzz-N„vonm©SWW0vQ-N„vÐg›NºN4YOVN«ŽHV›RîX³åNÎN‹N›N1S=f(ugTQ»SZPmNRNeg„v!k‰åTjO0KNTÙ›NNmuirO«ˆteTÛyrŠk„v%„–-NåNjOHN³R¨R›Rg¡RŽN†˜ßW…Q„v6R.‚SNåTJW0"
  lunar_lunarian_security_corps_aspect_v2: "gºN‰RhQè–"
  desc_lunar_lunarian_security_corps_aspect_v2: "gTQìNþf(WåNŽV„˜YùRvQóØšàeN„vINºNÑS¨RÛSqNÿ(WÇ‘ÖS†N'YÏ‘„v%N‰S>NªcTMbäN‹N`—VåNµc6R0dk‰|‹NöNgÈuÃOb†NgºN‰RhQè–ÿlQ¶R„vf‹ßR	ÿ„vÄuú^ÿÖNìNO(WT„vöeHgùR†˜ßW…Q„vãlìNÛLˆ¡r6Rÿ‚YdkNeggTQìN¿O¥cæ‰N0R±›NïSr„vó`Õl†N0"
- hvr_armaggedon: "NLu+gåe"
- desc_hvr_armaggedon: "býVòT‰V•^w–eQ0R)YPR.b„vÁkmp-N0h–ów0÷–´fN0W—ðVpbNwbýVv^gdÁk†NƒR0"
- hvr_ignore_core_distance: "àeÆ‰8hÃVSÝ»y"
- desc_hvr_ignore_core_distance: "AQ¸‹àeÆ‰Ý»y8hÃVSûNa^—8hÃVwýN0"
  lcu_enforced_culture_change: "HV6R9eØS‡eS"
  desc_lcu_enforced_culture_change: ""
- hvr_foreign_mining_masters: "YM|Ç‘ÿwN¶R"
- desc_hvr_foreign_mining_masters: "Ž÷‹YM|Ç‘ÿwN¶RýwObìNôf	gHe‡s0WVÇ‘ÄžÑ‘ÿ"
- hvr_stormbringer_modifier: "Î˜´fOw"
- desc_hvr_stormbringer_modifier: "bìN°s(WïSåNú^.°e‹W9‚êSÿÎ˜´fOwÿ"
  kmj_nice_start: "’Qi–VU^"
  desc_kmj_nice_start: ""
- hvr_stairway_to_heaven_portal_modifier: "ÂS)Y6–¯h"
- desc_hvr_stairway_to_heaven_portal_modifier: ""
- hvr_stairway_to_heaven_portal_modifier_lvl_2: "ÂS)Y6–¯h"
- desc_hvr_stairway_to_heaven_portal_modifier_lvl_2: ""
- hvr_stairway_to_heaven_portal_modifier_lvl_3: "ÂS)Y6–¯h"
- desc_hvr_stairway_to_heaven_portal_modifier_lvl_3: ""
  hvr_used_weather_control_on_target: "(WÇ»S„v10t^ô•m×SÇlaŒÍdµu0"
  desc_hvr_used_weather_control_on_target: ""
- hvr_port_in_new_world: "MOŽN°e'YF–„v=nãS"
- desc_hvr_port_in_new_world: "ôTÿblšÐ³lÛVhTR^Nw›Nyr¾‹=nãSÿ¹e¿ObìN(Wå‹4lßW-NVUSLˆ¨R0"
- hvr_help_to_build_panama_canal: "ÏuNmOS›R"
- desc_hvr_help_to_build_panama_canal: ">yOTLuTa.^©RbìNžR°sú^bôTÿblšÐ³lÙNO'YåTzKNY?a0"
- hvr_good_news_for_aya: "•Ï‘žX•ÿ"
- desc_hvr_good_news_for_aya: "weg‡eÙ!k=f™Q†NÇr‹Y‡eàzÿ"
- hvr_judgement_day_modifier: "¡R2RKNåe"
- desc_hvr_judgement_day_modifier: "ºN‰|ìN«ˆ)YPR„v>NªcTOW†NÿÎN°s(WÖNìNOôffˆvObìN„váOðN0"
- hvr_disloyal_nobles: "NàV)YºN"
- desc_hvr_disloyal_nobles: ")YºNìNSN²‹ïS)YPR=fvQóØš†˜–ˆ0"
- hvr_disloyal_nobles_level_2: "NàV)YºN"
- desc_hvr_disloyal_nobles_level_2: ")YPR-N„v'YYpeSN²‹ïS)YPR=fvQóØš†˜–ˆÿFO¦N	gNSºNòTÆQY=ec)YPRÿ"
- hvr_disloyal_clergy: "NàVYeëX"
- desc_hvr_disloyal_clergy: "YeëXSN²‹ïS)YPR=fvQTÕlßu»lw0"
- hvr_disloyal_clergy_level_2: "NàVYeëX"
- desc_hvr_disloyal_clergy_level_2: "YeëXSN²‹ïS)YPR=fvQTÕlßu»lw0"
- hvr_favor_from_miko: "^yPRPy"
- desc_hvr_favor_from_miko: ")YPR×S^yPRkyyHNbýVTÕlßu»lwÿÙùRbìN„vYeëXegô‹aINÍ‘'Y0"
- hvr_integrate_heretics: "teTVïz"
- desc_hvr_integrate_heretics: "bìNOªR›R©‹†˜WN„vVïz9e—RbìNÙ>m0"
- hvr_making_heaven_out_of_hell: "0WNØS)YN"
- desc_hvr_making_heaven_out_of_hell: "bìNOSÕ‹Šb0Wñr†˜0WØS—Vß)YLuN7ho®N0"
  hvr_beaten_old_hag: "wªY>™Xp"
  desc_hvr_beaten_old_hag: ")YPR(WNHWlQs^ùR³Q-NûQ%†N+tÿÐcØš†NbýV„vZg0"
- hvr_expedition_lvl_1: "SÄ‰!jwßR"
- desc_hvr_expedition_lvl_1: "(WŽ2m0WHSÛLˆSÄ‰!jwßRÿ"
- hvr_expedition_lvl_2: "-NÄ‰!jwßR"
- desc_hvr_expedition_lvl_2: "ÛLˆ	gNwEQ³ß˜ireˆÙuN‹Y›N)YºNbXTÂS R„v-NÄ‰!jwßR0"
- hvr_expedition_lvl_3: "'YÄ‰!jwßR"
- desc_hvr_expedition_lvl_3: "ÛLˆ	geˆÙu0bè–N	gOYó`‰(WŽ2m°x°xÐl„v)YºNÂSN„v'YÄ‰!jwßR0"
- hvr_expedition_lvl_4: "ž^'YÄ‰!jwßR"
- desc_hvr_expedition_lvl_4: "Ä‰!jž^'Y„vwßRÿÿbúQhQýVNN„vDnegOÙ!kÜVÖS—VbŸRÿ"
- hvr_additional_expedition_force: "˜YwßRè–"
- desc_hvr_additional_expedition_force: ""
- hvr_route_66_modifier: "66÷SlQï"
- desc_hvr_route_66_modifier: "(W)YPR„v!P®‹Nú^.„v66÷SlQï0ÙÐcHhlQïSÞ¥c^–„vŽ2m'YF–åN©‹bìNýwYëVwc0Wµb¾óŽ)RZWT0W0"
  hvr_controlled_by_oni: "<›ÏešRES"
  desc_hvr_controlled_by_oni: "	g<›ÏeESOO(WÙ›N†˜0WNÿbìNùRå‹wýN„vµc6R›R×S0R†NJRÏQ0"
- hvr_bad_news_for_higan: "lQObVaŒv`±R"
- desc_hvr_bad_news_for_higan: "bìN„vlO²‹HN|V¸S=f*NïSåN(u±”pN0RlQs^ckINÙ,‚EQ¥eNwP%„v0W¹eÿ"
- hvr_additional_guns_from_kappas: "³låzNb›O”^„v˜Yªg®p"
- desc_hvr_additional_guns_from_kappas: "³låzTbìNÐc›O†NNybÅˆY†NÖNìNgNXNªg®p„vè–ÿ–KNÇeg„vØ	g1ôu²b„v³låzåTz^0"
- hvr_stolen_man_of_war: "ƒzÖS.9‚åT"
- desc_hvr_stolen_man_of_war: "Ù›NºN„v.9‚Žb=gøvSVN•0bìN”^³uvQHNñT(uÿ"
- hvr_continue_colonisation_effort: "çuíu¦W–kªR›R"
- desc_hvr_continue_colonisation_effort: ""
- hvr_begin_exploration_modifier: "VËYwßRÿ"
- desc_hvr_begin_exploration_modifier: ""
- hvr_fortified_hell: "bìN‰^XMR„v4vl"
- desc_hvr_fortified_hell: "bìNïSåNŠbT›Lu„víwYØSHNbìN„v•Y0(Wb¹e‰^XMR„vÕXŸlÌ‘kXEQán4vlÿ¿Oýw(WLe›Qó`‰IeûQbìNöeäNÖNìNmƒk0"
- hvr_remnants_of_unusual_technology: "¦h‰^Žb=gWù"
- desc_hvr_remnants_of_unusual_technology: "¦hŽ„vzzô•ûy¨R9‚Ì‘án=f…úQ†NbìNtã‰„vÑyŽbÿNÇbìNØ=fKS›Rã‰³Q†NÙ›N¾–˜˜-N„vNèRÿ"
- hvr_gambling_halls_of_heaven_modifier: "ZSiV¿kX"
- desc_hvr_gambling_halls_of_heaven_modifier: ""
- hvr_dancing_halls_modifier: "Lk‚'Y…S"
- desc_hvr_dancing_halls_modifier: ""
- hvr_resort_paradise_modifier: "¦^GP)YX"
- desc_hvr_resort_paradise_modifier: ""
- hvr_getting_rid_of_ghost: "'YÜwæpºN(`up"
- desc_hvr_getting_rid_of_ghost: "bìNûQ%†NæpºN„v(`upÿE›T›ÿ"
- hvr_overtune_of_cannons_modifier: "®pðXMROY"
- desc_hvr_overtune_of_cannons_modifier: "®pðX‚Y÷–p†–jOÍTÿùRbìN„vLeºNegô‹O=fHWŒp¾–ÿwùRŽNbIN)YPRegô‹R=f¦`3w„vó—PN0"
- hvr_empire_of_heaven_and_hell_modifier: ")YN0WNKN^ýV"
- desc_hvr_empire_of_heaven_and_hell_modifier: ""
- hvr_iku_office: "èbžRlQ²RÙucˆ–s"
- desc_hvr_iku_office: "Nô•Žr4g‚„vžRlQ²R«ˆèbÙu†Ncˆ–sÿyYïSåN(WdkôfØšHe0WžRlQÿØïSåNöeNöe>e>eŒg0"
- hvr_heavenly_marines_are_ready_for_blood: ")YLuF–b–òTÆQY‹YHRRÁ‰¢u"
- desc_hvr_heavenly_marines_are_ready_for_blood: "bìN„vLwNF–b–òTÆQY‹Y(WbHWNÁ‹fêñT„v÷N<P0"
- hvr_blood_angels: "1WNˆ)YO"
- desc_hvr_blood_angels: "1WNˆ)YO=f ReQ†NF–b–LˆR-N„v)YºN5ÏeÿÙ›N)YO(Wb—e-Ng¦^ÀoÛÿöeIRÆQYHNvQSle„v)YLu‡v)YPRKYÇRNgLe0"
- hvr_ride_the_lightning: "Œšmšê•5u"
- desc_hvr_ride_the_lightning: "1SÏP=fwmb—Nú”án†NopIQV*‚9‚0Le›Q0‚9‚ÅNýwÁ‰0R<wMR	gNSIQ’‚ê•ÇÿàVHNÖNìN°s(W‰kgòTó0"
- hvr_stairway_to_heaven_modifier: "ÂS)Y6–¯h"
- desc_hvr_stairway_to_heaven_modifier: "«ˆéb	-N„vºN‰|°s(WïSŽNÂS)Y6–¯h†N0Ùýw©‹)YPRôf‹Y0WÿbOcOO?aaOIYyY„vºN‰|0"
- hvr_harmony_modifier: "ŒTŒ"
- desc_hvr_harmony_modifier: ""
- hvr_rich_minerals_of_california: " R)Ry<SšN„vÌRÿw"
- desc_hvr_rich_minerals_of_california: ""
- hva_free_colony: "–kl0Wípno"
- desc_hva_free_colony: ""
- hvr_beaten_yukari_pp: "(W³Q—e-NûQ%+t§Yÿ8lEN	ÿ§!"
  hvr_beaten_eiki_pp: "(W³Q—e-NûQ%.fìY§Yÿ8lEN	ÿ§!"
- hva_military_empire_lvl_1: "Ž2mwm›Q6R8—"
- desc_hva_military_empire_lvl_1: ""
- hva_military_empire_lvl_2: "Ž2mwm›Q6R8—"
- desc_hva_military_empire_lvl_2: ""
- hva_military_empire_lvl_3: "Ž2mwm›Q6R8—"
- desc_hva_military_empire_lvl_3: ""
- hva_military_empire_lvl_4: "Ž2mwm›Q6R8—"
- desc_hva_military_empire_lvl_4: ""
- hva_military_focused_country: "HQ›QýV¶R"
- desc_hva_military_focused_country: "ASRÍ‘Æ‰öeIRYb0–öe”^b0wmF–†vb„vHQ›QýV¶R0"
- hva_large_trade_company: "FU8)YâV"
- desc_hva_large_trade_company: "ŠbTr‚lQøSN–kl0WßuNHNUSN)YºNFU8ONÆ–âV„vNÍyýV¶R0"
- hva_trade_empire_lvl_1: "FU8)YâV"
- desc_hva_trade_empire_lvl_1: ""
- hva_trade_empire_lvl_2: "FU8)YâV"
- desc_hva_trade_empire_lvl_2: ""
- hva_trade_empire_lvl_3: "FU8)YâV"
- desc_hva_trade_empire_lvl_3: ""
- hva_trade_empire_lvl_4: "FU8)YâV"
- desc_hva_trade_empire_lvl_4: ""
- hva_trade_empire_lvl_5: "FU8)YâV"
- desc_hva_trade_empire_lvl_5: ""
- hva_trade_empire_lvl_6: "FU8)YâV"
- desc_hva_trade_empire_lvl_6: ""
- hva_trade_empire_lvl_7: "FU8)YâV"
- desc_hva_trade_empire_lvl_7: ""
- hva_trade_empire_lvl_8: "FU8)YâV"
- desc_hva_trade_empire_lvl_8: ""
- hvr_keystones_modifier: "Òc(WbìN9‚N„v‰ówÿ"
- desc_hvr_keystones_modifier: "bìN(W9‚NÒcN†N‰ówÿÎNwÐcGS†N9‚„v¦^ÿ"
- hvr_keystones_for_marines_modifier: "HNF–b–eQ¦OßRísÄuÿ"
- desc_hvr_keystones_for_marines_modifier: "–Nw‰ówNNnm¨R„v¦OßRísÄuSHNbìN„vF–b–XTÐc›O0WbVÅ`¥bÿ"
- hvr_heavy_rain: ")YM–u—"
- desc_hvr_heavy_rain: ")YM–u—SObìN„vœQjOirNvQÖNãS®|·ƒ—V'Y0N6e0"
  hvr_disperse_clouds: "qšce‘NBS"
  desc_hvr_disperse_clouds: ")YPRqšce†NMOŽNbýV„v‘NBSÿ°s(W¡l	gM–4l†NÿhQýVT0WckÏu†SNwr^ñeÿÙùRbìN®|ß˜›O”^„vqVÍTˆVOW0"
  hvr_devastating_earthquake: "m0W—Ákmp"
  desc_hvr_devastating_earthquake: ")YPRVÑS„v0W—òTObýVSHNŸ^ŸXÿ"
- hvr_terraforming: "Í‘QX0WäX"
- desc_hvr_terraforming: ")YPRck(WÍ‘QXbýV„v0WäXÿOvQôf RŒgoŽNwÍyÿ"
- hvr_thunderstorm: "÷–´f"
- desc_hvr_thunderstorm: "1ucˆ–sVÑS„v÷–´fckŠbb¹e9‚êS*NûQ‰lÿ"
- hvr_experiment_with_electricity: "Õ‹Œš5u"
- desc_hvr_experiment_with_electricity: "Ð(u5u›RjOHNýwnýwObìN„vÑyŽbžR°sÞ˜Ã0"
- hvr_hurricane: "Ó˜Î˜"
- desc_hvr_hurricane: "1ucˆ–sVÑS„vNHW'Y‹WÓ˜Î˜ckŽNbýVƒX…Q†wP†ÿNbÇKNY†v«ˆÁkmp†kKS0"
- hvr_rainbow: "iVy†"
- desc_hvr_rainbow: "bìN„vlQlïSåN(WhQýVT0Wîvyw0R^—áQ„viVy†0žR(W=fŽNÜw6eÿ"
- hvr_meteorite: "«ˆh–ów8x-N"
- desc_hvr_meteorite: "Ñg„vN!kh–ów`WK„8xÁk†NbýV„vNèRHSßW0"
- hvr_aurora: "gIQ"
- desc_hvr_aurora: "1u)YPRNcˆ–s²NKbVÑS„vSgIQck*jèbýVÀo±RbìN„vè–ÿ"
- hvr_aurora_lvl_2: "gIQ"
- desc_hvr_aurora_lvl_2: "1u)YPRNcˆ–s²NKbVÑS„vSgIQck*jèbýVÀo±RbìN„vè–ÿ"
  kmj_subconscious_manipulation_modifier: "joaÆ‹Ídµu"
  desc_kmj_subconscious_manipulation_modifier: "ØV‰cbìN'T0NXR(WN*NëSZPàeaÆ‹†˜ßW„výV¶R0"
  kmj_phone_call_modifier: "5uÝ‹ÍTw"
@@ -325,22 +151,12 @@
  desc_kmj_shadow_city_lvl_2: "ÇÍdµujoaÆ‹ÿÉ‰yYŠb°e„vFUºN0z‚ºNNvQÖNTr‚ºNIr8TV0R†NÙµ^ÎW^ÿÐcØš†Ndk0W„vÑSUS¦^0"
  kmj_shadow_city_lvl_3: "R—Ý„7…‡…N„v–K…KNÎW"
  desc_kmj_shadow_city_lvl_3: "ÇÍdµujoaÆ‹ÿÉ‰yYŠb°e„vFUºN0z‚ºNNvQÖNTr‚ºNIr8TV0R†NÙµ^ÎW^ÿÐcØš†Ndk0W„vÑSUS¦^0"
- lcu_sacred_ceremony_modifier: "^y1WxQ<y"
- desc_lcu_sacred_ceremony_modifier: "1ubìN„v^yup¢csYINc„v1W<ySOHNbìN„v†˜0W&^egŒTs^NäNbìNýwOûNUOVYe’V9eáO0"
- lcu_purge_impurity_modifier: "ÀQSalýy"
- desc_lcu_purge_impurity_modifier: "ÎN•Üegwÿiyd–alýyOäNbìN„vW0W•ENtQúeN»S06qwÿÙHNZPïSýwO(W×S0RÀQSqVÍT„vwýN…QVw›N¸‹¨RqN0"
- lcu_iron_discipline_modifier: "Á”„vªu‹V"
- desc_lcu_iron_discipline_modifier: "ŠbgTQ­‹Ãub	gªu‹V„vðyLwëXuQ—‰N›Nöeô•0N¡r`HNô‹ÿýwObìN(WbHWNUS°súQgb—›QÎ˜Ç‘„vªR›Rý=f<P—V„vÿ"
  lcu_purified_europe_modifier: "ÀQS'k2m"
  desc_lcu_purified_europe_modifier: "teµ^'YF–(WgN„vÀQSKNkp-NŠqŠqÃqçpÿÂr„Y„v0WNºNêåNHNýwNbIržR›R9SLeÿÙ¿O=fvQNHWÿ"
  lcu_purified_gensokyo_modifier: "ÀQS‰^ó`aN"
  desc_lcu_purified_gensokyo_modifier: ""
  lcu_world_dominance_modifier: "IN°RNLu"
  desc_lcu_world_dominance_modifier: ""
- hvr_powerful_establishment_in_america: "Ž)RZW)YýV"
- desc_hvr_powerful_establishment_in_america: "Ž)RZW)YýVNUSUS=fbìN„v^SýV0å‹ýVžR(N=fê»l„v06qwÖNìNàVŽNb¹eÿbìN¿OýwÎN-N+eÖS0NšS„v8f)R¦m0"
- hva_loyal_subject: "àVÚ‹^SýV"
- desc_hva_loyal_subject: "bìN=f)YLu„vàVÚ‹^SýV0"
  conversion_zeal_v2: ".OYeÂríp"
  RAN_Scheming_Nine_Tailed_Fox: "åTŽNÃV¡‹„vkN>SÐr"
  RAN_Scheming_Nine_Tailed_Fox_desc: "ár>s=fÐrør¨šPRÌ‘&^	gNw„v0wÝ„yYwQ	g«ŽHN+t„vV^ype*NNªu=tïyNeg„vÏuŒšÿOKNfR0R†NôfwQÃVHg„v¡‹VrÿäNvQbHN†NNTSSŠ„vô•Œ–™0"
@@ -384,20 +200,6 @@
  KN2_Fierce_Defenders_desc: "bìN„vlOO“Š‰kÝOkSvQ¶RíVÿ‹˜HV0WMckSvQÍs5KNir0"
  KN2_The_Horde: "VrlšèK„"
  KN2_The_Horde_desc: "ž^'Y„vlšNèK„ckåNgëV„v¦^g`O<Ñ0NlšSVHQ„v¿O=fYŽN‹výlbV`N„vgaó—0Ù,‚ofaŒO—QaOObìN„vLeºNÿëOvQT²dÿ"
- HVA_New_Heaven: ")Y0WN°e"
- HVA_New_Heaven_desc: "Ž)RZW„vW0WÌRv™wÈSŽKN0¯wšRO	g¸‹Y)YºNýw(Wdk0WŒb0R°e¶Rÿ"
- HVA_Global_Engagement: "VbÛVwm"
- HVA_Global_Engagement_desc: "býVÛVb—¯swmN‰b—ùRTr‚LeùRèK„ÿEebìNSÆQY”^ùRNb	g‰|‹W„vb—eÿNRwmF–0"
- HVA_Hardships_of_Earth: "0WN›³R"
- HVA_Hardships_of_Earth_desc: "Ž)RZW„vW0W¥wƒlÌRv™0ÙÌ‘ÿwµN0NÌRÿÄžÑ‘b²ÿØŽNjOiru•0N6eÞÞ0P©RbìNÍdµulaŒNW0W„výw›RÿbìN¿Oýw(uÙ›NŽ)RZW„vÌRv™WäX—VúQ›N‹YœgPReg0"
- HVA_Free_Thinkers_of_New_Land: "°e'YF–N„vê1u`ó`w"
- HVA_Free_Thinkers_of_New_Land_desc: "uIm(WŽ)RZW„vnxNuIm(W)YLu	gNwø‹YNT0'YYpe)YºNN—VN”^vQNb‰b—ùR„vp‚›06qwÿÙ›NðV¾–SÞVqšObìN„vlO.úQNoR°e)Y0WY«ŽŽN°eW0WNÿŠbÖNìNNbÅN	g„vNRý>mN(uHWÿåNdkqšOvQQX.úQÐg›N°e„vN‰0"
- HVA_New_Trade_Center: "°e8f-NÃV"
- HVA_New_Trade_Center_desc: "	g¸‹YbìNS*gÁ‰Ç„vFUÁT0¨RirNPg™eGWïS(WŽ2mŒb0R0ŠbÙ›NFUÁT“eQ0R‰^ó`aN.UúQÿbýV¿OýwÌRHVwegÿwN8fØýwOŽ2m0WHS„vÍ‘‰'`—V0RéTúV0"
- HVA_Dark_Angels: "—fÑž)YO"
- HVA_Dark_Angels_desc: ")YLuòTÄuú^w†NÖNìN±—¼d„vF–b–ÿ1WNˆ)YO0bìNN”^K„ŽNvQ«ŽTÿÅV‰˜Äuú^w^SŽNbìNêñT„vF–bè–egÿ"
- HVA_Our_New_Home: "bìN„v°e¶R"
- HVA_Our_New_Home_desc: "«ŽYŽ2m„v)YºNÈuvzOVËYŠbÙ*NýV¶RÆ‰jOvQ°e¶R0ÖNìNOú^w°e„vNLuGYÂ‰eg1r²býV¶R9e„UýV¶Rÿ"
  th_estate_celestials: ")YºN"
  th_lunar_satellite: "gºNkSfýV"
  th_lunar_satellite_title: "gºNkSfýV"
@@ -405,21 +207,6 @@
  th_lunar_satellite_long_desc: "gºNkSfýV=fbìN±›NýV…QEQ¥eNw0WNºN„v^SýV0bìNv^NýwŒRhQµc6RÙÍy^SýVÿNàVHN0WNºNÍNNŒRhQáOûNb¹eÿEeÙÍy^SýVNO ReQbìN„vb‰N0(WbìN„vªR›RKNNÿgÈu=fýw©‹gºNÖSvQwãNKN„v0"
  th_lunar_satellite_is_our: "$NAME|Y$=fbìN„vkSfýV"
  th_lunar_satellite_overlord_title: "—RIN"
- th_heavenly_state: "›Q‹N)YýV"
- th_heavenly_state_title: "›Q‹N)YýV"
- th_heavenly_state_title_plural: "›Q‹N)YýV"
- th_heavenly_state_long_desc: ")YýV=fbìN„v^SýVÿIN‰1uŽ)RZWTÞTÄub0"
- th_heavenly_state_march_long_desc: "›Q‹N)YýV=fbìN„v^SýVÿIN‰1uŽ)RZWTÞTÄub0å‹ýVŠbÍ‘ÃV>e(W†N›Q‹NN0"
- th_heavenly_state_is_our: "$NAME|Y$=fbìN„v›Q‹NúW0W0"
- th_heavenly_state_march_overlord_title: "—RIN"
- th_heavenly_trade_company: "FU8)YâV"
- th_heavenly_trade_company_title: "FU8)YâV"
- th_heavenly_trade_company_title_plural: "FU8)YâV"
- th_heavenly_trade_company_long_desc: "FU8)YâV=f=fbìN„v^SýVÿIN‰1uŽ)RZWTÞTÄub0å‹ýVŠbÍ‘ÃV>e(W†N8fN0"
- th_heavenly_trade_company_is_our: "$NAME|Y$=fbìN„vèT‹WON0"
- th_heavenly_trade_company_overlord_title: "—RIN"
- lcu_recruit_yorihime_general_title: "äNOìYúQÕN"
- lcu_recruit_yorihime_general_desc: "gKNlQINOìY1k6qTaHNb¹e›Q‹NLˆ¨RÐc›O.^©Rÿ²Nê‡s†˜b›QTYtÜw)Rÿ"
  ymu_japanese_missions_title: "·ƒ—Våe,g°eûN¡Rh"
  ymu_japanese_missions_desc: "å‹³Q®‹ïSO`O(W¡l	gú^Ëzåe,göemNýw·ƒ—Våe,g°e„vûN¡Rh0"
  ymu_respawn_ymu_title: "ëS–Y¦hÞVegÿ"
@@ -428,48 +215,13 @@
  ran_country_release_decision_desc: "b	gNýNøvSV	ga`„vûN¡R‰²NãNÙuÝ„ÿå‹ûN¡Rýw©‹b„vqVÍT›Rôf¹Rf0W(WYLu.O­dV»S01S©‹bìNwwÝ„yYýw&TÜwûNO‹T'T0"
  kne_country_release_decision_title: "gaó—Ž³ŽNäSãNòSdûR"
  kne_country_release_decision_desc: "bìNle1r„vˆR²bwÊSYe^gaó—ÿó`‰MRŽVUWåNdûR±uIm(WNbìN	gNw+o•Sgøv”–„vºN‰|ìNNbYuN„väSãNòS0"
- hvr_welcome_to_casino_title: "0kÎeg0RLHWÿ"
- hvr_welcome_to_casino_desc: "°s(WbìN	g†NêñT„vLHWÿbìNïSåN÷‹N›N©s¶RÇegÿÏP=fê&^‹YÐ„v)YPRÿbw&&Øýw÷‹›N+R„vºN0\n\nbìNïSåNÏk20t^.¿‹LHWN!kÿåNMQVwvQÖN©s¶R„v`‘u0"
- hvr_receive_profits_from_heavenly_state_title: "6eNFU8)YâV!.s„v6eÊvÿ"
- hvr_receive_profits_from_heavenly_state_desc: "bìN(WŽ)RZWc	g„vµNNSHNbìN„vÏuNmÐc›OHV'Y¨R›R0"
- hvr_receive_profits_from_heavenly_militarized_state_title: "6eN›Q‹N)YýV!.s„v6eÊvÿ"
- hvr_receive_profits_from_heavenly_militarized_state_desc: "bìN(WŽ)RZWc	g„vµNNSHNbìN„v›Q‹NÐc›OHV'Y¨R›R0"
  th_Heavenly_armada: ")YLuàeLe0‚–"
  th_Heavenly_armada_desc: "Ux'Y„vàeLe0‚–›Q0‚ÝOÁ‹bìNIN°RwmmÿæS	g&•Nûm±‚„vS‹Wôu²b0‚9‚1(WwmNîO.9‚êS0"
- hvr_discover_low_countries: "§YNO0W§!0WHSòT«ˆbìNÑS°s0"
  lcu_looted_yumemi_space_ship_ct: "bìNÎN¦hŽ„vzzô•ûy¨R9‚NÞV6e0R†NNèRHQÛÑyŽb0"
- th_yorihime_hired_for_50_years: "OìY(WÇ»S„v§Y50t^§!ô•¡l	g«ˆÇ–(uÇ0"
- hvr_aurora_unlocked_ct: ")YPRSýwYO(uNÍy°e„v§YlaŒÍdµu§!ýw›RÿTHN§MgIQ§!ÿ\n\n"
- hvr_less_light_ships_than_us_ct: "bìNNbåb	g„v‰‹Wb0‚peîvÅV‰˜=fNNpeîvgY„vÿ"
- th_no_iku_advisor: "cˆ–s(WÇ»S„v§Y20t^§!ô•¡l	g«ˆÇ–(uÇ0"
- hvr_talks_with_eiki_tooltip: "bìNSSÕ‹9e„UN–T›KNô•„vsQû|åN¿OåeTÛLˆ^X±”0FObìN–™HQ—V,TŒR–T›„vô‹Ye0"
- hvr_learned_from_aya_ct: "‡eSOYebìN‚YUOôf	gHe‡s0WÐ(u§YÎ˜§!KN›RÿÙS©‹bìN*gegýwY(W§YlaŒÍdµu§!ýw›RNOúQôfwQZ›R„vKbµk0\n\nÇûN¡R§YŒšmš'Yê6q§!ã‰•„v°e§YlaŒÍdµu§!ýw›RÿbìNS·ƒ—Vå‹ýw›RNôfwQZ›R„vHr,g0ýwYVÑSúQNHW§TÓ˜Î˜§!w^—™ŸwSÎ˜0\n\n"
- hvr_duel_with_yukari_help_ct: "+tN)YPR2Nwô•„v³Q—esSSUSV0)YPRyYt”^HNdkZP‹YÆQY0bìNïSåNÇÐcGSF–›Q.OßuN›RÏ‘•bSegÐcØš)YPR(W³Q—e-N·ƒÜw„v‚i‡s0\n\n"
- hvr_new_america_tooltip: "Ž)RZW)YýVS·ƒ—VSŽN-NŽ0WHS„v±Rðyÿ"
- hvr_route_66_reward_tooltip: "b¹e»lNhQè	g66÷SlQï„V„vwýNÿýS·ƒ—VºN›RuµNz6e§YÑSUS¦^§!T1¹p0\n\nb¹e»lNhQè	g66÷SlQï„V„vwýNÿýS·ƒ—VÐcGSwýNeˆÙu¦^NP–08fÞz‰N›RNËS›Qè–ûy¨R¦^„v§Gckb—îOck§!0"
- hvr_mining_expedition_tooltip: "bìNSÄuú^N=eÿwµNwßR–åNSÕ‹(W R)Ry<SšNHSßWŒb0R5Ñ‘^S0"
- hvr_tenshi_on_throne_tt: "ßu»lwHN§Y)YPR§!0"
  lcu_outpost_in_africa_ct: "Nb	gbìNåb	g§Y8lEN'`±Rðy§!N1u§Y[Root.GetName]§!b=fvQ^SýVµc6R„vMOŽN§Y^—2m§!HSßW„vwýNÿ'N1Y§R1¹p§!úWNxz6e0úWNxuµNNúWNxºN›RN·ƒ—V§R5§!RƒŸ^¦^0\njOHNÞV¥bÿÙ›NwýNOSvQ—RYe9efHN§Y[Root.Religion.GetName]§!ÿwvQ‡eSRO9efHN§Y[Root.Culture.GetName]§!0 "
  lcu_europe_domination_ct: "bìN§TgºNáOðN§!&^eg„vNb	g§YYeOáOag§!ýS—V0R9eÛÿg'YÐcGSvQHe›Rÿ"
- lcu_humiliate_invaders_ct: "(WbìNŽN‰^ó`aNWSVSb„vïNÿN¡r=fäSŽV„v–Y*`Ø=f8TNˆ<›ÿuóØ	g‰^ó`aN'YÓuLu„vˆR²bwÿNb	g‰|‹W„vHV'YXR(WGW«ˆbìNûQ%ÿbìN„vIN°R0WMOUS2—àeWÿ"
- HVR_angel_of_apocalypse_ct: "bìNSã‰•ëSZP§ONLu+gåe§!„v§YlaŒÍdµu§!°eýw›R0\n\nå‚bìNŠbvQÖN‰|‹W„v§YlaŒÍdµu§!ýw›RùRNw§YêñTýV¶R§!O(uÿ±HNSO§TÐcGS§!vQjO(uHeœg0"
- hvr_convert_them_tt: "Á‰0RúWcwYe„v„vpˆK„Tÿ'YYpeúWcwYeýV¶RSOˆvObìN„v§YáOðN§!ÿ"
- hvr_stairway_to_heaven_ct: "bìNÎN°s(WwïSåNŠb)YLuNºNô•'Y0WÞ¥cweg†N0SVNbìNïSåNú^¾‹§Y)Y6–¯h§!0\n§Y)Y6–¯h§!SŠb&OfeÞ¥có)YLu0\n\nbìNSã‰•§Y°e„vûN¡R§!ÿ\n"
  kmj_shadow_city_tt: "§YÑSUS¦^§!S«ˆ(u0RbìN–™ý„vVÑSN0\nÙÍyýw›R„vYSÖS³QŽNbìN„vI`§TÑSUS¦^§!0býVI`ÑSUS¦^ŠØšÿýwÎNdkýw›R-N·ƒ—V„vÑSUS¦^¿OŠØš0"
  kmj_sub_manipulation_tt: "å‚	gûNUOýV¶R„VôvTbýV±Rbÿ±HNbìNïSåNÐ(udkýw›RNvQŒrr§Y‹vŒTs^§!jPbOS®‹0"
- lcu_purge_impurity_tt: "býVSV-N=f§R*g¥c×S§!§Y‡eS§!N§RlÏeR»yININ§!ØšŽN§Y1§!„vwýNýS·ƒ—V§Y5¹pRƒŸ^¦^§!0"
- hvr_yorihime_weather_control_unlocked_tt: "cˆ–sSžXHVvQ§YlaŒÍdµu§!ýw›RÿOvQ—VåNO(u§Y÷–´f§!N§T5ulÕ‹Œš§!ýw›R0\n\n`OêSýwùR`OêñT„výV¶RO(u§TÕ‹Œš5u§!ýw›Rÿw§Y÷–´f§!ýw›RRêSýwÇY²NLub—ùRvQÖNýV¶RO(u0"
- hvr_weather_control_lvl2_unlocked_tt: ")YPROÐcØšvQ§YlaŒÍdµu§!ýw›Rÿ—VåNO(u§OÁkmp'`0W—§!å‹ýw›RïSÇY²NLub—ùRvQÖNýV¶RO(u0"
- hvr_learned_from_suwako_tt: ")YPROÐcØšyY„v§YlaŒÍdµu§!ýw›Rÿã‰•2Ny˜°eýw›Rÿ§GÍ‘QX0WäX§!N§Rh–ów§!0\n\n§GÍ‘QX0WäX§!ýw›RïSùRbýVO(uÿmNýwÇY²N‚‚îvjO(uŽNvQÖNýV¶R0\n\n§Rh–ów§!ýw›RÅNýwÇY²NLub—ùRvQÖNýV¶RO(u0"
- hvr_weather_control_lvl3_unlocked_tt: ")YPRNcˆ–sOfR0R§YlaŒÍdµu§!„v°eO(uKbµkÿã‰•§YÓ˜Î˜§!N§OiVy†§!ýw›R0\n\nÙ2NÍyýw›RGWïSjO(uŽNvQÖNýV¶Rÿw`O¦NïSùRbýVOúQ§OiVy†§!ýw›R0"
- lcu_remove_ae_for_moon_conquest_tt: "§YgN§!Nôv«ˆÆ‰jObìN„v¶R0Vggb—µNu„vNèR§YµOeuib.V§!SO«ˆˆmd–ÿ"
- hvr_deal_with_shinigami_tt_reward: "bìNNb·ƒ—V„v§YVY±R§!ÖS³QŽNŒRbdkûN¡R„v¹eV0\n\nå‚bìNT–T›Lˆ?ÿ(u±”ã‰³Q†Nå‹î•˜˜ÿ±HNdkˆmo`bO«ˆÄl2—ˆN,r	N¹eÿüRôNïS„˜™e„vÓuœg0\n\nå‚bìNÛIe|V¸Sv^`S†˜å‹0Wÿ±HN)YPR¿Oýwß–T›egNHW³Q—e0–T›O=f*N¾–ùRØN„vLeKbÿNbåN`O—VZP‹YùR³Q„vÆQYåTjOÿHQ»SŠb§YF–›Q.Oßu§!N§Y›RÏ‘•bS§!ÉbØšÿ‰=f)YPRýwbNÙHW³Q—eÿbìN¿Oýw·ƒ—VNšRpeÏ‘„v8lEN§Y›RÏ‘•bS§!N§Ykp›R¹ppe§!0"
- hvr_visited_by_shinigami_tooltip: "NMO‰k^yMRegÜb¿‹)YPR0"
- hvr_own_route_66_tooltip: "§Y66÷SlQï§!„V„vwýNÅV‰˜YŽNbýVb=fbìN^SýV„vµc6RN0"
- hvr_discover_cascadia: "bìNòTÑS°s§YaS¯eaSêšN§!–kl0WHS0"
- HVR_our_monument_needs_to_be_upgraded: "bìN„vGYÂ‰§Y¦^GP)YX§!ÅV‰˜(WbìNµc6RNNÐcGS0R†N§YÜÑû•T(2)§!Irµu0"
- HVR_upgrade_resort_even_more_tooltip: "bìN„vGYÂ‰§Y¦^GP)YX§!O—V0RGSµuÿ"
- HVR_deal_with_yukari_tooltip: "bìN—‰§Y+t§!„vNšR.^©RMbýwwckK„žRb¹e'Y¡‹0bìN—‰»SÁ‰§YwªY§!Nb—ÿb¸‹ØïSåNÍcyY*NN˜eg©‹yYVNVNTjO›Nÿ\n\nŒRbûN¡R§YÙuwªYcfvQMOn§!bwN§Y÷KN¶R§!åb	g§Y100¹psQû|§!0\n"
  KNE: "XRòS‹výl"
  KNE_ADJ: "XRòS‹výl"
  KNE_ideas: "XRòS‹výltõV"
@@ -480,41 +232,15 @@
  KN2_ideas: "lVòS‹výltõV"
  KN2_ideas_start: "lVòS‹výl.Oßu"
  KN2_ideas_bonus: "lVòS‹výlÎ‘ÃV"
- HVA_ideas: "Ž)RZW)YýVtõV"
- HVA_ideas_start: "Ž)RZW)YýV.Oßu"
- HVA_ideas_bonus: "Ž)RZW)YýVÎ‘ÃV"
  RAN: "Ðr™l‡výV"
  RAN_ADJ: "Ðr™l‡výV"
  RAN_ideas: "Ðr™l‡výVtõV"
  RAN_ideas_start: "Ðr™l‡výV.Oßu"
  RAN_ideas_bonus: "Ðr™l‡výVÎ‘ÃV"
- HVR_way_to_use_keystones_title: "Ð(u‰ów„vgsOžRÕlÿ"
- HVR_way_to_use_keystones_desc: "‰ów&&bìNïSåNÍdµuƒRìNÿFOd–†N¬bw‰ówgLeºN8x»SKNYÿbìNv^*gŒb0RvQÖN(uÕl&&ôv0R°s(Wÿ–Nw›Q–N0‚–„vÑSUSÿ)YPRèla0R(WÐ(u‰ówN‹NNbìNïSåNNpûR8^ï0\n\nSÙ›N‰ówÒc0RbìN„v9‚Nv^ RåNµc6RÿbìN¿OýwŠb9‚ŒRhQÐcØš0RN*N°e4ls^Nÿ\n\nNÅN‚YdkÿbìNØïSåNÄuú^N=e–Nw‰ówNNnm¨R„v¦OßRísÄuÿÖNìNïSåN(W¥cbMR¦OßRbHWÿv^HNb›QÐc›OsQŽNgíwïSLˆï„VÙ‰|	g÷N<PÅ`¥bÿbìNàeÕlHN›Q-NÏk=eè–ýM‘Y¦OßRísÄuÿFObìNïSKS›RÙuF–b–M‘YánXTÿ"
- HVR_dancing_halls_title: "Lk‚'Y…S"
- HVR_dancing_halls_desc: "b›QòTÁ‹fêñTTRMRƒÿùRb—eN’Qi–I`=fEQán4ng0Ùý‰a0Œ‡s†˜è–²Q•w–5–VbwmF–„v8lmlcˆ–s06qwÿsS¿O=fg‹Y„vè–mNOàV•ggyVw²uë`08lmlcˆ–sNvQF–bÅe¦NN‹OY0\n\nbìNåwScˆ–syY–ó‚ˆVatQ±0±‰=fbìNÙuyYŒTyY„vè–ú^Nµ^‚…SbTÿcˆ–s¯wšRÃV`aÀo0W¥c6eN„vÿNNô‹ÙHNZPØýwÐcGSè–„vëXlÿ©‹ÖNìNöeNöe>eŒgNÿbìN¿OýwÎN•¡‹®‹0WÐcØšè–.t(0"
  LCU_advanced_warfare_title: "HQÛb‰N"
  LCU_advanced_warfare_desc: "Ð(ubìNê	gŽb=gXT„vxvzÿ RNbìNÎN¦hŽ„vzzô•ûy¨R9‚±?QŒb0R„vºN‰|ÑyŽbÿbìN¿OýwÙuè–.úQ›Nyr+RµNÁTeg0NÍyïSåNÐcGSUSuQHg¨R'`ÊS2–¡V›RÿØýwžXHVvQteSO›RÏ‘„vY¨š¼š0	g†NbìN„vY¨š¼šÿZ†1V„vTQPR°s(WmNOØSHVîXÿ©‹bìNïSåNÙuƒRìNM‘Yz4x'`„vÍ‘fkhV06qw6R.Y¨š¼š—‰'YÏ‘Pg™eÿwNuµNY¨š¼š¦N—‰w9+o•öeô•0bìNNbýwbÅb„vpeÏ‘gYêSýwHNN=eekuQuQâVM‘YÙybSïzfkhV0"
- HVR_stormbringer_title: "Î˜´fOw"
- HVR_stormbringer_desc: "‰^ó`aNNšN2m„v.9‚Žb=g^SŽNƒNO4ls^„vNch0bìN—‰°e„vtõVeg©‹bìN.úQNÍy(W4ls^N	g9h,gÛek„v0‚9‚ÿNX‚ýw&^bìNÅúQwm²Nb„v9‚êS0NX‚	gìrËzuXRýw›RN	g“bìNF–b–ýw›R„v9‚êS0b¸‹ÎN'k2mÇeg„vºN(WÙ¹eb—ôfwQŽb=g0bìN—V»SŒbŒbÙ›NºNÿŒTÖNìN-dN¿uÿ(ubìNêñT„vó`Õl RN'k2m„vtõVÿbìN¿Oýw.úQbìNNb—‰„v°e‹W0‚9‚0"
- HVR_judgement_day_title: "¡R2RKNåe"
- HVR_judgement_day_desc: "4O–bìN(W'k2m„vëVVgÿ'k2mºNVËYbaba0WÅbÃVweg0sQŽN¡R2RåeSó„v.Oû•VËY(W'k2mTýVAm.OÿhQàV)YPR«ˆÆ‰HN)YOåNÊSsSSM–4N„vNLu+gåe„vOw0bìN”^)R(uÙNHgOÛNekP`T'k2mºNÿb¸‹bìNýwY©‹ÖNìN9eáObìN„váOðNÿ"
- HVR_angel_of_apocalypse_title: "+gåe)YO"
- HVR_angel_of_apocalypse_desc: "4O–NwúWcwYeáOðN„v4xµNÿŠegŠY„vºNVËYlw•bTáOðN)YPRÿ(WsSSM–4N„vNLu+gåeb—MRnxžR=U	g)YPRMb=fQeæ‚Qe¾–„v)YO0`OOî•=fŒüRô„vÙNLu+gåeÿTrHhbTÿ>fwfÁ‰0ck=f)YPRNbHNÿ"
- HVR_making_our_resort_even_better_title: "©‹bìN„v¦^GPHSôfNNBS|iÿ"
- HVR_making_our_resort_even_better_desc: "bHNRHV-N„vNXTObýVôf×S©wîv0ÙÍSÇegÈSO—VbìN„v¦^GPHSôf	gºNlÿÙHNNegbìN¿OýwŒb0R›N?aa•bD0RbìN¦^GPHS„vVÑSSV-N„v•bDºN†N0\n\nNÅN‚YdkÿbýVºNl„vNGS–sSObìNïSåNSÕ‹Ûb³uYM|Ç‘ÿwN¶RåNôf	gHe‡s0WVÇ‘ÄžÑ‘ÿbìNÑg„vàsRµNÏ‘ckNïžX•ÿùRbìNegô‹ÖNìNOøvSV	g(u0"
- hvr_ignore_coring_distance: "àeÆ‰8hÃVSÝ»y"
- desc_hvr_ignore_coring_distance: "bìNòT·ƒ—VàeÆ‰Ý»y8hÃVSûNawýN„výw›R0"
  desc_conversion_zeal_v2: ""
- th_hvr_used_heavy_rain: "KS«N0N6eËUÿY0Œ)YPR"
- th_hvr_used_hvr_disperse_clouds: ")YPRüRôIk6e"
  th_hvr_used_hvr_devastating_earthquake: "ýV¶R×S0W—gd‹k"
- th_hvr_used_hvr_terraforming: "Í‘QX0WäXck(W9e„UýV¶R„vW("
- th_hvr_used_hvr_thunderstorm: "úQê)YPRKNKb„v÷–´f"
- th_hvr_used_hvr_meteorite: "„Vôv1u)YPR8xeg„vh–ów.b†N%NÍ‘mc1Y"
- th_hvr_used_hvr_hurricane: "úQê)YPRKNKb„vÓ˜Î˜"
- th_hvr_used_hvr_tornado: "úQê)YPRKNKb„v™ŸwSÎ˜"
- th_hvr_used_hvr_rainbow: "ýV…Q„vlQlìN1kœUŽNîvyw0RiVy†"
- th_hvr_used_hvr_armageddon: "NLu+gåe"
  th_kappa_shipbuilding: "³låz.9‚N"
  th_kappa_shipbuilding_desc: "TODO"
  th_murasas_ghost_fleet: "Qg±u‹^up0‚–"

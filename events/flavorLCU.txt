@@ -530,7 +530,7 @@ country_event = {
     }
     add_country_modifier = {
       name = lcu_goods_from_europe
-      duration = -1
+      duration = 18250
     }
   }
 }
@@ -548,7 +548,7 @@ country_event = {
     }
     add_country_modifier = {
       name = lcu_fate_manipulation
-      duration = -1
+      duration = 7300
     }
   }
 }

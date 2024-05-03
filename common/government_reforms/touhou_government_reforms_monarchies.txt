@@ -597,10 +597,8 @@ Lunarian_monarchy = {
 		allow = { has_dlc = "Cradle of Civilization" }
 		has_pashas = yes
 		custom_attributes = {
-			lcu_government_mechanic = yes
 			pashas_purify_land = yes
 		}
-		government_abilities = { th_lunarians_gov }
 	}
 
 	effect = {
@@ -1744,10 +1742,10 @@ Gensokyan_mmu_thalassocratic_monarchy = {
 		governing_capacity = 100
 		num_accepted_cultures = 3
 	}
-	force_admiral_leader = yes
 	allow_draft_transport_ships = yes
 	custom_attributes = {
 		th_undead_respawning = yes
+		force_admiral_leader = yes
 	}
 	government_abilities = {
 		th_naval_professionalism_mechanic

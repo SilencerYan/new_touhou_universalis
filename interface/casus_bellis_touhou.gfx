@@ -166,11 +166,7 @@ spriteTypes = {
 	#cb_lunarian_extermination
 	#cb_eit_lcu_war
 	#cb_th_spread_republican_ideas
-	#cb_th_external_perfectionism
 	#cb_th_take_mandate
 	#cb_th_unify_the_kappas
-	#cb_hvr_hkr_war
-	#cb_hvr_old_gods_wargoal
-	#cb_th_great_insult
 	#cb_th_force_tributary
 }

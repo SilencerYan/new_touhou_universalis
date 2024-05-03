@@ -1004,8 +1004,12 @@ th_read_the_mind = {
             name = BASE
             export_to_variable = {
                 variable_name = ai_value
-                value = -10
+                value = 1
             }
+			multiply_variable = {
+				which = ai_value
+				value = -10
+			}
         }
 		add_entry = { #friendly and threaten
             name = ATTITUDE
@@ -1025,8 +1029,12 @@ th_read_the_mind = {
 			}
             export_to_variable = {
                 variable_name = ai_value
-                value = 10
+                value = 1
             }
+			multiply_variable = {
+				which = ai_value
+				value = 10
+			}
         }
 		add_entry = { #Neutral
             name = ATTITUDE
@@ -1040,8 +1048,12 @@ th_read_the_mind = {
 			}
             export_to_variable = {
                 variable_name = ai_value
-                value = -25
+                value = 1
             }
+			multiply_variable = {
+				which = ai_value
+				value = -25
+			}
         }
 		add_entry = { #Hostile and outraged
             name = ATTITUDE
@@ -1065,8 +1077,12 @@ th_read_the_mind = {
 			}
             export_to_variable = {
                 variable_name = ai_value
-                value = -50
+                value = 1
             }
+			multiply_variable = {
+				which = ai_value
+				value = -50
+			}
         }
 		add_entry = { #Army
             name = ARMY
@@ -1094,8 +1110,12 @@ th_read_the_mind = {
 			}
             export_to_variable = {
                 variable_name = ai_value
-                value = -75
+                value = 1
             }
+			multiply_variable = {
+				which = ai_value
+				value = -75
+			}
         }
 		add_entry = { #hre 2
 			name = IS_PART_OF_HRE
@@ -1105,6 +1125,10 @@ th_read_the_mind = {
 			}
 			export_to_variable = {
 				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
 				value = -25
 			}
 		}
@@ -1113,52 +1137,62 @@ th_read_the_mind = {
 			limit = {NOT = {culture_group = FROM }}
             export_to_variable = {
                 variable_name = ai_value
-                value = -10
+                value = 1
             }
+			multiply_variable = {
+				which = ai_value
+				value = -10
+			}
         }
 		add_entry = { #Heretic
             name = RELIGION
 			limit = {NOT = {has_matching_religion = FROM }}
             export_to_variable = {
                 variable_name = ai_value
-                value = -10
+                value = 1
             }
+			multiply_variable = {
+				which = ai_value
+				value = -10
+			}
         }
 		add_entry = { #Heathen
             name = RELIGION
 			limit = {NOT = {religion_group = FROM }}
             export_to_variable = {
                 variable_name = ai_value
-                value = -10
+                value = 1
             }
+			multiply_variable = {
+				which = ai_value
+				value = -10
+			}
         }
 		add_entry = { #Diplo reputation
             name = DIPLOMATIC_REPUTATION
-            export_to_variable = {
-                variable_name = ai_value
-                which = diplomatic_reputation
-                who = ROOT
-                with = ROOT
-            }
-			multiply_variable = {which = ai_value value = 3 }
+			export_to_variable = {
+				variable_name = ai_value
+				value = trigger_value:diplomatic_reputation
+			}
+			#1 rep = 3
+			multiply_variable = {
+				which = ai_value
+				value = 3
+			}
         }
 		add_entry = { #Border distance
-            name = BORDER_DISTANCE
-            export_to_variable = {
-                variable_name = ai_value
-                value = border_distance
-				who = FROM
-                with = ROOT
-            }
+			name = DIPLO_BORDER_DISTANCE_TT
 			export_to_variable = {
-                variable_name = 2x_distance
-                value = border_distance
+				variable_name = ai_value
+				value = border_distance
 				who = FROM
-                with = ROOT
-            }
-			multiply_variable = {which = 2x_distance value = 2 }
-			subtract_variable = {which = ai_value which = 2x_distance }
-			divide_variable = {which = ai_value value = 2 }
+				with = ROOT
+			}
+			#2 units = -1
+			multiply_variable = {
+				which = ai_value
+				value = -0.5
+			}
         }
 		add_entry = { #Development
             name = DEVELOPMENT
@@ -1221,8 +1255,11 @@ th_read_the_mind = {
 			limit = {FROM = {NOT = {has_opinion = { who = FROM value = -100 }}}}
 			export_to_variable = {
 				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
 				value = -1000
-				with = ROOT
 			}
 		}
     }

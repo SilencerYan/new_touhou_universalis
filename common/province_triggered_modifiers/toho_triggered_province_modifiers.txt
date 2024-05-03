@@ -173,9 +173,11 @@ TH_Moriya_Shrine_Holy_Site = {
 	trigger = {
 		owner = {
 			th_is_shinto_religion = yes
-			NOR = {
-				religion = th_oldhakurei
-				religion = th_hakureishinto
+			NOT = {
+				OR = {
+					religion = th_oldhakurei
+					religion = th_hakureishinto
+				}
 			}
 		}
 	}

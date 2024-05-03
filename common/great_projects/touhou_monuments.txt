@@ -2992,6 +2992,8 @@ th_monument_kourindou = {
 		cost_to_upgrade = {
 			factor = 250
 		}
+		province_modifiers = {
+		}
 		area_modifier = {
 			trade_goods_size_modifier = 0.2
 			local_center_of_trade_upgrade_cost = -0.2
@@ -3005,6 +3007,8 @@ th_monument_kourindou = {
 		}
 		cost_to_upgrade = {
 			factor = 500
+		}
+		province_modifiers = {
 		}
 		area_modifier = {
 			trade_goods_size_modifier = 0.2
@@ -3022,6 +3026,8 @@ th_monument_kourindou = {
 		}
 		cost_to_upgrade = {
 			factor = 2000
+		}
+		province_modifiers = {
 		}
 		area_modifier = {
 			trade_goods_size_modifier = 0.4

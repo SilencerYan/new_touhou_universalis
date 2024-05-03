@@ -465,11 +465,6 @@ th_embraced_taoism = {
 	yearly_decay = 2
 }
 
-th_hvr_talks_with_eiki = {
-	opinion = 50
-	yearly_decay = 1
-}
-
 th_occult_soothed_mind = {
 	opinion = 15
 	years = 5
