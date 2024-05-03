@@ -1799,4 +1799,69 @@ spriteTypes = {
 		texturefile = "gfx/event_pictures/Touhou/JUNKOSFURY_eventPicture.dds"
 		allwaystransparent = yes
 	}	
+	spriteType = {
+		name = "tenshi_choice_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/tenshi_choice_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+	spriteType = {
+		name = "defeat_yumemi_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/defeat_yumemi_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	spriteType = {
+		name = "beat_yukka_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/beat_yukka_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	spriteType = {
+		name = "YUUKAWINNING_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/YUUKAWINNING_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	spriteType = {
+		name = "iku_advice_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/iku_advice_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	spriteType = {
+		name = "tenshi_and_bleach_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/tenshi_and_bleach_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	spriteType = {
+		name = "komaji_coming_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/komaji_coming_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	spriteType = {
+		name = "tenshi_defeat_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/tenshi_defeat_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	spriteType = {
+		name = "fish_1_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/fish_1_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	spriteType = {
+		name = "tenshi_pulse_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/tenshi_pulse_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	spriteType = {
+		name = "TENSHI_mist_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/TENSHI_mist_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+	spriteType = {
+		name = "TENSHI_introuction_eventPicture"
+		texturefile = "gfx/event_pictures/Touhou/TENSHI_introuction_eventPicture.dds"
+		allwaystransparent = yes
+	}	
+
+
+
+
 }
