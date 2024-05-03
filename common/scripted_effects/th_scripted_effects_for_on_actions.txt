@@ -1341,6 +1341,30 @@ th_on_war_declaration_effect = {
       }
     }
   }
+  if = {
+    limit = {
+      ROOT = {
+        capital_scope = { 
+          NOT = { superregion = gensokyo_orbit_superregion }
+        }
+      }
+      FROM = {
+        ai = yes
+        capital_scope = { 
+          superregion = gensokyo_orbit_superregion
+        }        
+      }
+      NOT = {
+        has_global_flag = th_lunarian_are_attackable_now_flag
+        is_year = 1550
+      }
+    }
+    FROM = {
+      country_event = {
+        id = TH_lunarian_events.10
+      }
+    }
+  }
 }
 th_on_religion_change_effect = {
   if = {

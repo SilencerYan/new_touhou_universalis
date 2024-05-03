@@ -564,3 +564,9 @@ th_has_no_religion_specific_government_available = {
 	NOT = { religion_group = lunarian_religion_g }
 	NOT = { religion = th_taoist }
 }
+
+th_is_ai_lunarian_before_1550 = {
+	capital_scope = { superregion = gensokyo_orbit_superregion }
+	NOT = { is_year = 1550 }
+	ai = yes
+}

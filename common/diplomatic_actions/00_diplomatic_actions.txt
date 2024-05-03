@@ -169,6 +169,17 @@ declarewar = {
 			FROM = { NOT = { tag = HIG } }
 		}
 	}
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			th_is_ai_lunarian_before_1550 = yes
+		}
+		allow = { 
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}
 	effect = {
 		on_war_declaration_effect = yes
 		th_on_war_declaration_effect = yes
@@ -197,7 +208,19 @@ declarewar = {
 		}
 	}
 }
-
+support_independence_action = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			th_is_ai_lunarian_before_1550 = yes
+		}
+		allow = {
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}	
+}
 allianceaction = {
 	condition = {
 		tooltip = PIRATE_DENIED_ALLIANCE
@@ -341,12 +364,46 @@ allianceaction = {
 			NOT = { FROM = { has_government_attribute = cannot_form_alliances } }
 		}
 	}
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			OR = {
+				th_is_ai_lunarian_before_1550 = yes
+				FROM = {
+					th_is_ai_lunarian_before_1550 = yes
+				}
+			}
+		}
+		allow = {
+			capital_scope = { superregion = gensokyo_orbit_superregion }
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}
 	effect = {
 		change_asha_vahishta = { value = 2 }
 	}
 }
 
 enforce_peace = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			OR = {
+				th_is_ai_lunarian_before_1550 = yes
+				FROM = {
+					th_is_ai_lunarian_before_1550 = yes
+				}
+			}
+		}
+		allow = {
+			capital_scope = { superregion = gensokyo_orbit_superregion }
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}
 	#do this before the peace is enforced, or there is no war enemy country
 	pre_effect = {
 		if = {
@@ -389,6 +446,23 @@ royal_marriage = {
 		}
 		allow = {
 			NOT = { war_with = FROM }
+		}
+	}
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			OR = {
+				th_is_ai_lunarian_before_1550 = yes
+				FROM = {
+					th_is_ai_lunarian_before_1550 = yes
+				}
+			}
+		}
+		allow = {
+			capital_scope = { superregion = gensokyo_orbit_superregion }
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
 		}
 	}
 	#condition = {
@@ -463,16 +537,88 @@ royal_marriage = {
 }
 
 guaranteeaction = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			th_is_ai_lunarian_before_1550 = yes
+		}
+		allow = {
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}
 	effect = {
 		change_asha_vahishta = { value = 1 }
 	}
 }
+warningaction = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			th_is_ai_lunarian_before_1550 = yes
+		}
+		allow = {
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}
+}
 threaten_war = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			th_is_ai_lunarian_before_1550 = yes
+		}
+		allow = {
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}
 	effect = {
 		change_asha_vahishta = { value = -10 }
 	}
 }
+milaccess = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			FROM = {
+				th_is_ai_lunarian_before_1550 = yes
+			}
+		}
+		allow = {
+			capital_scope = { superregion = gensokyo_orbit_superregion }
+		}
+	}
+}
+fleet_access = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			FROM = {
+				th_is_ai_lunarian_before_1550 = yes
+			}
+		}
+		allow = {
+			capital_scope = { superregion = gensokyo_orbit_superregion }
+		}
+	}
+}
 insultaction = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			th_is_ai_lunarian_before_1550 = yes
+		}
+		allow = {
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}
 	effect = {
 		change_asha_vahishta = { value = -5 }
 		if = {
@@ -493,12 +639,40 @@ insultaction = {
 	}
 }
 giftaction = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			th_is_ai_lunarian_before_1550 = yes
+		}
+		allow = {
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}
 	effect = {
 		change_asha_vahishta = { value = 1 }
 	}
 }
 
 fabricate_claim = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			OR = {
+				th_is_ai_lunarian_before_1550 = yes
+				FROM = {
+					th_is_ai_lunarian_before_1550 = yes
+				}
+			}
+		}
+		allow = {
+			capital_scope = { superregion = gensokyo_orbit_superregion }
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}
 	effect = {
 		change_asha_vahishta = { value = -1 }
 	}
@@ -852,6 +1026,17 @@ abandon_union = {
 
 form_coalition = {
 	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			th_is_ai_lunarian_before_1550 = yes
+		}
+		allow = {
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
+	}
+	condition = {
 		tooltip = MINAGGRESSIVEEXPANSION
 		potential = {	
 		}
@@ -955,6 +1140,25 @@ ask_for_tributary_state_action = {
 break_alliance = {
 	effect = {
 		on_alliance_broken_effect = yes
+	}
+}
+improve_relation = {
+	condition = {
+		tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+		potential = {
+			OR = {
+				th_is_ai_lunarian_before_1550 = yes
+				FROM = {
+					th_is_ai_lunarian_before_1550 = yes
+				}
+			}
+		}
+		allow = {
+			capital_scope = { superregion = gensokyo_orbit_superregion }
+			FROM = {
+				capital_scope = { superregion = gensokyo_orbit_superregion }
+			}
+		}
 	}
 }
 fabricate_claim = {

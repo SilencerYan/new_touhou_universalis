@@ -927,7 +927,7 @@ hvr_mission_second_slot_2 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
-			num_of_ports = 50
+			num_of_total_ports = 50
 			if = {
 				limit = {
 				  	has_dlc = "Golden Century"
