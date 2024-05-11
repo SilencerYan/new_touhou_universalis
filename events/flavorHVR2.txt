@@ -1185,7 +1185,7 @@ country_event = {
 			fire = 3
 			manuever = 2
 			siege = 1
-			name = "ccwYj"  # Captain Chen
+			name = "ï¿½ccwYj"  # Captain Chen
 			female = yes
 		  }
 	}
@@ -1429,8 +1429,8 @@ country_event = {
 			}
 		}
 		5320 = {
-			change_province_name = "°e™Ÿ«R"
-			rename_capital = "°e™Ÿ«R"
+			change_province_name = "ï¿½eï¿½ï¿½ï¿½R"
+			rename_capital = "ï¿½eï¿½ï¿½ï¿½R"
 			add_province_modifier = {
 				name = hvr_new_dragon_palace
 				duration = -1
@@ -1934,5 +1934,31 @@ country_event = {
 			clr_country_flag = hvr_used_earthquake_on_target
 			set_country_flag = hvr_used_earthquake_on_target
 		}
+	}
+}
+
+country_event = {
+	id = flavor_hvr.130
+	title = flavor_hvr.130.t
+	picture = MAKAI_eventPicture
+	desc = flavor_hvr.130.desc
+	fire_only_once = yes
+	trigger = {
+	    has_country_flag = hvr_moon_belongs_to_us
+		th_is_or_was_tag = {
+			tag = HVR
+		}
+	}
+	mean_time_to_happen = {
+		days = 300
+	}
+	option = {
+		name = flavor_hvr.13.a
+		custom_tooltip = flavor_hvr.13.a.tt
+		add_splendor = 100
+		add_country_modifier = {
+			name = HVR_also_can_do
+			duration = -1
+	  	}
 	}
 }
