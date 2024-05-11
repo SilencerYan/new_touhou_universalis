@@ -1777,3 +1777,9 @@ SHI_unstable_country_lv3 = {
 HVR_also_can_do = {
 	prestige = 1
 }
+Help_form_sister = {
+	global_tax_income = 500
+}
+Cold_and_ruthless_blow = {
+	morale_damage = 0.2
+}
