@@ -1,0 +1,60 @@
+namespace = NEW_IT
+country_event = {
+	id = flavor_SHI.0
+	title = flavor_SHI.0.t
+	picture = SHION_eventPicture
+	desc = flavor_SHI.0.desc
+	fire_only_once = yes
+	trigger = {
+		ai = no
+		th_is_or_was_tag = {
+			tag = SHI
+		}
+		NOT = {
+			has_country_flag = SHI_has_variables_set
+		}
+	}
+	immediate = {
+		hidden_effect = {
+			set_country_flag = SHI_has_variables_set
+			th_SHI_initiate_rebel_counter = yes
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = flavor_SHI.0.a
+		custom_tooltip = SHI_instability.tt
+		add_country_modifier = {
+			name = SHI_unstable_country_lv4
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = flavor_SHI.1
+	title = flavor_SHI.1.t
+	picture = SHION_eventPicture
+	desc = flavor_SHI.1.desc
+	fire_only_once = yes
+	trigger = {
+		ai = no
+	    has_country_flag = SHI_has_variables_set
+		th_is_or_was_tag = {
+			tag = SHI
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_SHI.1.a
+		custom_tooltip = SHI_1.a.tt
+		add_country_modifier = {
+			name = SHI_unstable_country_lv3
+			duration = -1
+		}
+	}
+}
