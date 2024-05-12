@@ -1760,6 +1760,7 @@ th_heathen_tolerance = {
 	tolerance_heathen = 4
 	tolerance_own = -3
 }
+
 SHI_unstable_country_lv4 = {
 	global_tax_modifier = -1
 	production_efficiency = -1
@@ -1767,6 +1768,7 @@ SHI_unstable_country_lv4 = {
 	privateer_efficiency = -1
 	global_trade_goods_size_modifier = -1
 }
+
 SHI_unstable_country_lv3 = {
 	fort_maintenance_modifier = -1
 	garrison_size = 1
@@ -1774,12 +1776,27 @@ SHI_unstable_country_lv3 = {
 	defensiveness = 1
 	garrison_damage = 1
 }
+
 HVR_also_can_do = {
 	prestige = 1
 }
+
 Help_form_sister = {
 	global_tax_income = 500
 }
+
 Cold_and_ruthless_blow = {
 	morale_damage = 0.3
+}
+
+By_only_my_self = {
+	discipline = 0.05
+}
+
+MOR_help_me = {
+	defensiveness = 0.5
+}
+
+TUN_help_me = {
+	privateer_efficiency = 1
 }
