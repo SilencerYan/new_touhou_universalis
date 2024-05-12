@@ -1,4 +1,4 @@
-namespace = NEW_IT
+﻿namespace = NEW_IT
 country_event = {
 	id = flavor_SHI.0
 	title = flavor_SHI.0.t
@@ -572,4 +572,30 @@ country_event = {
 	}
 }
 
+country_event = {
+	id = flavor_SHI.17
+	title = flavor_SHI.17.t
+	picture = SHION_eventPicture
+	desc = flavor_SHI.17.desc
+	fire_only_once = yes
+	trigger = {
+		tag = SHI
+		owns_or_non_sovereign_subject_of = 354
+	}
+	mean_time_to_happen = {
+		days = 300
+	}
+	option = {
+		name = flavor_SHI.17.a
+		custom_tooltip = SHI_17.a.tt
+		add_treasury = 500
+		add_adm_power = 300
+		354 = {
+			add_base_tax = -5
+			add_base_production = -5
+			add_base_manpower = -5
+			add_devastation = 100
+		}
+	}
+}
 
