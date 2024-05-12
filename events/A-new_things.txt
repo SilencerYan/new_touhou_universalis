@@ -32,7 +32,6 @@ country_event = {
 		}
 	}
 }
-
 country_event = {
 	id = flavor_SHI.1
 	title = flavor_SHI.1.t
@@ -58,7 +57,6 @@ country_event = {
 		}
 	}
 }
-
 country_event = {
 	id = flavor_SHI.2
 	title = flavor_SHI.2.t
@@ -91,9 +89,12 @@ country_event = {
 		add_mil_power = 500
 		add_adm_power = 500
 		add_manpower = 10
+		add_country_modifier = {
+			name = By_only_my_self
+			duration = 7300
+		}
 	}
 }
-
 country_event = {
 	id = flavor_SHI.3
 	title = flavor_SHI.3.t
@@ -120,7 +121,7 @@ country_event = {
 		custom_tooltip = SHI_3.a.tt
 		inherit = FZA
 		add_adm_power = 100
-		add_manpower = 100
+		add_manpower = 10
 	}
 	option = {
 		name = flavor_SHI.3.b
@@ -137,7 +138,6 @@ country_event = {
 		add_treasury = 500
 	}
 }
-
 country_event = {
 	id = flavor_SHI.4
 	title = flavor_SHI.4.t
@@ -163,7 +163,6 @@ country_event = {
 			}
 	}
 }
-
 country_event = {
 	id = flavor_SHI.5
 	title = flavor_SHI.5.t
@@ -196,7 +195,6 @@ country_event = {
 		}
 	}
 }
-
 country_event = {
 	id = flavor_SHI.6
 	title = flavor_SHI.6.t
@@ -221,7 +219,6 @@ country_event = {
 			}
 	}
 }
-
 country_event = {
 	id = flavor_SHI.7
 	title = flavor_SHI.7.t
@@ -251,7 +248,6 @@ country_event = {
 		}
 	}
 }
-
 country_event = {
 	id = flavor_SHI.8
 	title = flavor_SHI.8.t
@@ -260,6 +256,7 @@ country_event = {
 	fire_only_once = yes
 	trigger = {
 		tag = SHI
+		has_country_modifier = Help_form_sister
 		OR = { 
 			FROM = {
 				province_id = 1247
@@ -284,7 +281,6 @@ country_event = {
 		}
 	}
 }
-
 country_event = {
 	id = flavor_SHI.9
 	title = flavor_SHI.9.t
@@ -305,10 +301,9 @@ country_event = {
 		inherit = TGT
 		inherit = MZB
 		add_treasury = 500
-		add_manpower = 500
+		add_manpower = 10
 	}
 }
-
 country_event = {
 	id = flavor_SHI.10
 	title = flavor_SHI.10.t
@@ -331,7 +326,6 @@ country_event = {
 			}	
 	}
 }
-
 country_event = {
 	id = flavor_SHI.11
 	title = flavor_SHI.11.t
@@ -372,3 +366,210 @@ country_event = {
 		}
 	}
 }
+country_event = {
+	id = flavor_SHI.12
+	title = flavor_SHI.12.t
+	picture = JOON_eventPicture
+	desc = flavor_SHI.12.desc
+	fire_only_once = yes
+	trigger = {
+		tag = SHI
+		has_country_modifier = By_only_my_self
+		OR = { 
+			FROM = {
+				province_id = 101
+			}
+			AND = { 
+				war_with = GEN
+				101 = { controlled_by = SHI }
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_SHI.12.a
+		custom_tooltip = SHI_12.a.tt
+		add_treasury = 500
+		add_dip_power = 100
+        white_peace = GEN
+		vassalize = GEN
+	}
+	option = {
+		name = flavor_SHI.12.b
+		custom_tooltip = SHI_12.b.tt
+		add_treasury = 1000
+		add_mil_power = 100
+        inherit = GEN
+		101 = {
+			add_base_tax = -5
+			add_base_production = -5
+			add_base_manpower = -5
+			add_devastation = 100
+		}
+	}
+}
+country_event = {
+	id = flavor_SHI.13
+	title = flavor_SHI.13.t
+	picture = JOON_eventPicture
+	desc = flavor_SHI.13.desc
+	fire_only_once = yes
+	trigger = {
+		tag = SHI
+		owns_or_non_sovereign_subject_of = 101
+         OR = {
+        AND = {
+          alliance_with = JOO
+          reverse_has_opinion = {
+            who = JOO
+            value = 150
+          }
+        }
+        is_rival = JOO
+        NOT = {
+          exists = JOO
+        }
+      }
+    }
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_SHI.13.a
+		custom_tooltip = SHI_13.a.tt
+		add_treasury = 1000
+		add_dip_power = 100
+		vassalize = JOO
+	}
+	option = {
+		name = flavor_SHI.13.b
+		custom_tooltip = SHI_13.b.tt
+		add_treasury = 1000
+		add_adm_power = 100
+        inherit = JOO
+	}
+}
+country_event = {
+	id = flavor_SHI.14
+	title = flavor_SHI.14.t
+	picture = JOON_eventPicture
+	desc = flavor_SHI.14.desc
+	fire_only_once = yes
+	trigger = {
+	    tag = SHI
+        has_country_modifier = By_only_my_self
+	    223 = {
+				num_of_units_in_province = {
+					who = SHI
+					amount = 20
+				}
+		}  
+      }
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_SHI.14.a
+		custom_tooltip = SHI_14.a.tt
+		add_treasury = 500
+		add_dip_power = 100
+		vassalize = GRA
+	}
+		option = {
+		name = flavor_SHI.14.b
+		custom_tooltip = SHI_14.b.tt
+		add_treasury = 500
+		add_mil_power = 100
+		inherit = GRA
+	223 = {
+			add_base_tax = -5
+			add_base_production = -5
+			add_base_manpower = -5
+			add_devastation = 100
+		}
+	}
+}
+country_event = {
+	id = flavor_SHI.15
+	title = flavor_SHI.15.t
+	picture = JOON_eventPicture
+	desc = flavor_SHI.15.desc
+	fire_only_once = yes
+	trigger = {
+		tag = SHI
+		has_country_modifier = By_only_my_self
+		OR = { 
+			FROM = {
+				province_id = 343
+			}
+			AND = { 
+				war_with = MOR
+				343 = { controlled_by = SHI }
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_SHI.15.a
+		custom_tooltip = SHI_15.a.tt
+		add_treasury = 500
+		add_mil_power = 100
+		inherit = MOR
+		343 = {
+			add_base_tax = -5
+			add_base_production = -5
+			add_base_manpower = -5
+			add_devastation = 100
+		}
+		add_country_modifier = {
+			name = MOR_help_me
+			duration = -1
+		}
+	}
+}
+country_event = {
+	id = flavor_SHI.16
+	title = flavor_SHI.16.t
+	picture = JOON_eventPicture
+	desc = flavor_SHI.16.desc
+	fire_only_once = yes
+	trigger = {
+		tag = SHI
+		has_country_modifier = By_only_my_self
+		OR = { 
+			FROM = {
+				province_id = 341
+			}
+			AND = { 
+				war_with = TUN
+				341 = { controlled_by = SHI }
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 30
+	}
+	option = {
+		name = flavor_SHI.16.a
+		custom_tooltip = SHI_16.a.tt
+		add_treasury = 500
+		add_mil_power = 100
+		inherit = TUN
+		341 = {
+			add_base_tax = -5
+			add_base_production = -5
+			add_base_manpower = -5
+			add_devastation = 100
+		}
+			add_country_modifier = {
+			name = TUN_help_me
+			duration = -1
+		}
+	}
+}
+
+
