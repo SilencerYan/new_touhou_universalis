@@ -1781,5 +1781,5 @@ Help_form_sister = {
 	global_tax_income = 500
 }
 Cold_and_ruthless_blow = {
-	morale_damage = 0.2
+	morale_damage = 0.3
 }
