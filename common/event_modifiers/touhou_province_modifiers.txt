@@ -96,3 +96,6 @@ th_sanzu_river_modifier = {
 	province_trade_power_value = 10
 	picture = "estuary_icon"
 }
+SHI_DLBO_win = {
+	morale_damage = 0.3
+}
