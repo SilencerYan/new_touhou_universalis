@@ -1083,9 +1083,13 @@ country_event = {
 		th_is_or_was_tag = {
 			tag = SHI
 		}
+		 AND = {
+          is_defender_of_faith = yes
+          total_development = 1000
+        }
 	}
 	mean_time_to_happen = {
-		days = 3000
+		days = 300
 	}
 	option = {
 		name = flavor_SHI.35.a
