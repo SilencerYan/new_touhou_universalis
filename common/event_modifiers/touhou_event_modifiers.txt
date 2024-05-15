@@ -1827,7 +1827,7 @@ SHI_kill_tur = {
 }
 Tonight_is_a_carefree_egoist = {
 	max_absolutism = 100
-	max_absolutism_effect = 100
+	max_absolutism_effect = 1
 	morale_damage_received = -1
     tolerance_heathen = 5
     tolerance_of_heathens_capacity = 5
