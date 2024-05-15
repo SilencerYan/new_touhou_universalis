@@ -392,7 +392,7 @@ country_event = {
 	option = {
 		name = flavor_SHI.12.a
 		custom_tooltip = SHI_12.a.tt
-		add_treasury = 500
+		add_treasury = 5000
 		add_dip_power = 100
         white_peace = GEN
 		vassalize = GEN
@@ -400,7 +400,7 @@ country_event = {
 	option = {
 		name = flavor_SHI.12.b
 		custom_tooltip = SHI_12.b.tt
-		add_treasury = 1000
+		add_treasury = 10000
 		add_mil_power = 100
         inherit = GEN
 		101 = {
@@ -901,6 +901,7 @@ country_event = {
 		tag = SHI
 		OR = { 
 			FROM = {
+				war_with = NAP
 				province_id = 121
 			}
 			AND = { 
@@ -916,6 +917,7 @@ country_event = {
 		custom_tooltip = SHI_30.a.tt
 		add_treasury = 500
 		add_mil_power = 100
+		white_peace = NAP
 		inherit = NAP
         121 = {
 			add_base_tax = -10
@@ -982,10 +984,8 @@ country_event = {
 	fire_only_once = yes
 	major = yes
 	trigger = {
-        owns_or_non_sovereign_subject_of = 118
-		th_is_or_was_tag = {
-			tag = SHI
-		}
+		tag = SHI
+		owns_or_non_sovereign_subject_of = 118
 	}
 	mean_time_to_happen = {
 		days = 40
@@ -1068,7 +1068,6 @@ country_event = {
 		TUR = {
 			th_balkanize_country = yes
 		}
-		inherit = TUR
 	}
 }
 country_event = {
@@ -1083,7 +1082,7 @@ country_event = {
 		th_is_or_was_tag = {
 			tag = SHI
 		}
-		 AND = {
+		AND = {
           is_defender_of_faith = yes
           total_development = 1000
         }
