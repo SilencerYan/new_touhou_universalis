@@ -1,0 +1,25 @@
+country_decisions = {
+    SHI_harm_world_A = {
+        potential = {
+        OR = {
+                tag = SHI
+            }
+        NOT = { has_country_flag = SHI_harm_world_A1 } 
+        }                                                                                       
+        allow = { 
+         NOT = { has_country_flag = SHI_harm_world_A1 }                       
+        } 
+        effect = {
+            add_country_modifier = {
+                 name = SHI_harm_world_1
+                 duration = -1
+                }
+            add_mil_power = -100
+            set_country_flag = SHI_harm_world_A1
+        }
+
+        ai_will_do = {
+            factor = 0
+        }
+    }
+}
