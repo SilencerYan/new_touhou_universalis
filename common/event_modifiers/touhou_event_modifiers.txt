@@ -1786,7 +1786,8 @@ Help_form_sister = {
 }
 
 Cold_and_ruthless_blow = {
-	morale_damage = 0.3
+	core_creation = -0.5
+	ae_impact = 1
 }
 
 By_only_my_self = {
@@ -1798,5 +1799,37 @@ MOR_help_me = {
 }
 
 TUN_help_me = {
-	privateer_efficiency = 1
+	galley_power = 0.15
+}
+TUR_DADANIER_help = {
+	siege_ability = 0.33
+}
+SHI_harm_world_1 = {
+	morale_damage = 0.3
+	ae_impact = 1
+}
+SHI_harm_world_2 = {
+	prestige = 1
+}
+SHI_harm_world_3 = {
+	tolerance_heathen = 5
+	tolerance_of_heathens_capacity = 5
+}
+Help_people_in_shi = {
+	global_unrest = -3
+}
+THE_last_SWI = {
+    land_morale = 0.2
+	discipline = 0.1
+}
+SHI_kill_tur = {
+	morale_damage = 0.3
+}
+Tonight_is_a_carefree_egoist = {
+	max_absolutism = 100
+	max_absolutism_effect = 100
+	morale_damage_received = -1
+    tolerance_heathen = 5
+    tolerance_of_heathens_capacity = 5
+	ae_impact = 1
 }
