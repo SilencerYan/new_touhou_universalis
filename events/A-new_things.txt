@@ -1100,6 +1100,7 @@ country_event = {
 		remove_country_modifier = SHI_harm_world_1
 		remove_country_modifier = Help_people_in_shi
 		remove_country_modifier = SHI_kill_tur
+		th_balkanize_country = yes
 	}
 	option = {
 		name = flavor_SHI.35.b
