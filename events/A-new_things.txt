@@ -443,6 +443,11 @@ country_event = {
 		add_treasury = 1000
 		add_dip_power = 100
 		vassalize = JOO
+		SHI = {
+			country_event = { 
+				id = flavor_SHI.37
+			}
+		}
 	}
 	option = {
 		name = flavor_SHI.13.b
@@ -450,6 +455,11 @@ country_event = {
 		add_treasury = 1000
 		add_adm_power = 100
         inherit = JOO
+		SHI = {
+			country_event = { 
+				id = flavor_SHI.37
+			}
+		}
 	}
 }
 country_event = {
@@ -933,7 +943,6 @@ country_event = {
   desc = flavor_SHI.31.desc
   picture = SHION_eventPicture
   fire_only_once = yes
-  major = yes
   trigger = {
 		tag = SHI
 		OR = { 
@@ -958,22 +967,12 @@ country_event = {
 			name = Help_people_in_shi
 			duration = -1
 		}
-				PAP = {
-			country_event = { 
-				id = flavor_SHI.33
-			}
-		}
 	}
 		option = {
 		name = flavor_SHI.31.b
 		custom_tooltip = SHI_31.b.tt
 		add_treasury = 50000
         add_dip_power = 100
-				PAP = {
-			country_event = { 
-				id = flavor_SHI.33
-			}
-		}
 	}
 }
 country_event = {
@@ -982,13 +981,12 @@ country_event = {
 	picture = JOON_eventPicture
 	desc = flavor_SHI.32.desc
 	fire_only_once = yes
-	major = yes
 	trigger = {
 		tag = SHI
 		owns_or_non_sovereign_subject_of = 118
 	}
 	mean_time_to_happen = {
-		days = 40
+		days = 30
 	}
 	option = {
 		name = flavor_SHI.32.a
@@ -1000,7 +998,7 @@ country_event = {
 			add_devastation = 100
 			add_power_projection = 100
 		}
-        capital_scope = {
+		118 = {
 			add_province_modifier = {
 				name = SHI_DLBO_win
 				duration = -1
@@ -1015,14 +1013,9 @@ country_event = {
 	desc = flavor_SHI.33.desc
 	fire_only_once = yes
 	is_triggered_only = yes
-	major = yes
 	option = {
 		name = flavor_SHI.33.a
 		custom_tooltip = SHI_33.a.tt
-        add_country_modifier = {
-			name = THE_last_SWI
-			duration = -1
-		}
 	}
 }
 country_event = {
@@ -1199,6 +1192,7 @@ country_event = {
 	option = {
 		name = flavor_SHI.36.a
 		custom_tooltip = SHI_36.a.tt
+		add_mil_power = 100
         declare_war_with_cb = {
 				who = SHI
 				casus_belli = cb_crusade
@@ -1206,6 +1200,138 @@ country_event = {
 	ai_chance = {
 			factor = 100
 		}
+	}
+}
+country_event = {
+	id = flavor_SHI.37
+	title = flavor_SHI.37.t
+	picture = JOON_eventPicture
+	desc = flavor_SHI.37.desc
+	is_triggered_only = yes
+	option = {
+		name = flavor_SHI.37.a
+		custom_tooltip = SHI_37.a.tt
+		add_dip_power = 100
+	}
+	option = {
+		name = flavor_SHI.37.b
+		custom_tooltip = SHI_37.b.tt
+		define_consort = {
+      name = "sY?"
+      dynasty = "?O^y"  
+      adm = 4
+      dip = 3
+      mil = 6
+      age = 20
+      culture = Youkai
+      religion = ROOT
+      claim = 100
+      female = yes
+    }
+	hidden_effect = {
+      add_queen_personality = immortal_personality
+    }
+	add_country_modifier = {
+			name = JOO_help_me
+			duration = -1
+		}  
+	}
+}
+country_event = {
+	id = flavor_SHI.38
+	title = flavor_SHI.38.t
+	picture = SHION_eventPicture
+	desc = flavor_SHI.38.desc
+	fire_only_once = yes
+	trigger = {
+		ai = no
+		th_is_or_was_tag = {
+			tag = SHI
+		}
+	}
+	mean_time_to_happen = {
+		days = 600
+	}
+	option = {
+		name = flavor_SHI.38.a
+		custom_tooltip = SHI_38.a.tt
+		add_country_modifier = {
+			name = SHI_religion_events
+			duration = -1
+		}
+	}
+	option = {
+		name = flavor_SHI.38.b
+		custom_tooltip = SHI_38.b.tt
+		add_country_modifier = {
+			name = SHI_harm_world_3
+			duration = -1
+		}
+	}
+}
+country_event = {
+	id = flavor_SHI.39
+	title = flavor_SHI.39.t
+	picture = SHION_eventPicture
+	desc = flavor_SHI.39.desc
+	trigger = {
+		ai = no
+	    has_country_flag = SHI_has_variables_set
+		th_is_or_was_tag = {
+			tag = SHI
+		}
+	}
+	mean_time_to_happen = {
+		days = 3000
+	}
+	option = {
+		name = flavor_SHI.39.a
+		custom_tooltip = SHI_39.a.tt
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+	}
+}
+country_event = {
+	id = flavor_SHI.40
+	title = flavor_SHI.40.t
+	picture = SHION_eventPicture
+	desc = flavor_SHI.40.desc
+	trigger = {
+		ai = no
+	    has_country_flag = SHI_has_variables_set
+		th_is_or_was_tag = {
+			tag = SHI
+		}
+	}
+	mean_time_to_happen = {
+		days = 3000
+	}
+	option = {
+		name = flavor_SHI.40.a
+		custom_tooltip = SHI_40.a.tt
+		add_prestige = -50
+	}
+}
+country_event = {
+	id = flavor_SHI.41
+	title = flavor_SHI.41.t
+	picture = JOON_eventPicture
+	desc = flavor_SHI.41.desc
+	trigger = {
+		ai = no
+	    has_country_flag = SHI_has_variables_set
+		th_is_or_was_tag = {
+			tag = SHI
+		}
+	}
+	mean_time_to_happen = {
+		days = 3000
+	}
+	option = {
+		name = flavor_SHI.41.a
+		custom_tooltip = SHI_41.a.tt
+		add_years_of_income = 1
 	}
 }
 
