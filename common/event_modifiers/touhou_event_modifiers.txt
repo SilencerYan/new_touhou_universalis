@@ -1835,3 +1835,11 @@ Tonight_is_a_carefree_egoist = {
 	defensiveness = 1
 	ae_impact = 1
 }
+JOO_help_me = {
+	available_province_loot = 1
+	loot_amount = 1
+}
+SHI_religion_events = {
+	missionaries = 1
+	global_heathen_missionary_strength = 0.05
+}
