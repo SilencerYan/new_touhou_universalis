@@ -1783,6 +1783,8 @@ HVR_also_can_do = {
 
 Help_form_sister = {
 	global_tax_income = 500
+	province_warscore_cost = -0.5
+	ae_impact = -0.5
 }
 
 Cold_and_ruthless_blow = {
@@ -1829,7 +1831,7 @@ Tonight_is_a_carefree_egoist = {
 	max_absolutism = 100
 	max_absolutism_effect = 1
 	morale_damage_received = -1
-    tolerance_heathen = 5
-    tolerance_of_heathens_capacity = 5
+    all_estate_loyalty_equilibrium = 0.2
+	defensiveness = 1
 	ae_impact = 1
 }
