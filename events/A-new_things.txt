@@ -1077,7 +1077,7 @@ country_event = {
 		}
 		AND = {
           is_defender_of_faith = yes
-          total_development = 1000
+          total_development = 1500
         }
 	}
 	mean_time_to_happen = {
@@ -1180,6 +1180,11 @@ country_event = {
 				id = flavor_SHI.36
 			}
 		}
+		GBR = {
+			country_event = { 
+				id = flavor_SHI.36
+			}
+		}
 	}
 }
 country_event = {
@@ -1217,8 +1222,8 @@ country_event = {
 		name = flavor_SHI.37.b
 		custom_tooltip = SHI_37.b.tt
 		define_consort = {
-      name = "sYÑ‚"
-      dynasty = "O^y"  
+      name = "sY?"
+      dynasty = "�O^y"  # Yorigami
       adm = 4
       dip = 3
       mil = 6
@@ -1305,7 +1310,7 @@ country_event = {
 		}
 	}
 	mean_time_to_happen = {
-		days = 3000
+		days = 6000
 	}
 	option = {
 		name = flavor_SHI.40.a
