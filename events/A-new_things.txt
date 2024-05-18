@@ -47,14 +47,7 @@ country_event = {
 	option = {
 		name = flavor_ITinteresting.1.a
 		custom_tooltip = ITinteresting.1.a.tt
-		ai_chance = {
-			factor = 1
-		}
-	}
-	option = {
-		name = flavor_ITinteresting.1.b
-        custom_tooltip = ITinteresting.1.b.tt
-		add_power_projection = 20
+			add_prestige = 100
 		ai_chance = {
 			factor = 99
 		}
@@ -62,6 +55,14 @@ country_event = {
 		country_event = {
 			id = flavor_ITinteresting.2
 		}
+	}
+	}
+	option = {
+		name = flavor_ITinteresting.1.b
+        custom_tooltip = ITinteresting.1.b.tt
+		add_dip_power = 1
+        ai_chance = {
+			factor = 1
 		}
 	}
 }
@@ -72,19 +73,27 @@ country_event = {
 	picture = ALICEFIGHT_eventPicture
 	desc = flavor_ITinteresting.2.desc
 	is_triggered_only = yes
-	mean_time_to_happen = {
-		days = 1
-	}
     major = yes
 	option = {
 	name = flavor_ITinteresting.2.a
 	custom_tooltip = ITinteresting.2.a.tt
+	ai_chance = {
+			factor = 1
+		}
 	add_casus_belli = {
       target = FOM
       type = cb_insult
       months = 120
     }
-		add_prestige = -1
+		add_prestige = -100
+	}
+	option = {
+	name = flavor_ITinteresting.2.b
+	custom_tooltip = ITinteresting.2.b.tt
+	ai_chance = {
+			factor = 99
+		}
+		add_dip_power = -100
 	}
 }
 
@@ -1056,12 +1065,22 @@ country_event = {
 			name = Help_people_in_shi
 			duration = -1
 		}
+		PAP = {
+			country_event = {
+				id = flavor_SHI.33
+			}
+		}
 	}
 		option = {
 		name = flavor_SHI.31.b
 		custom_tooltip = SHI_31.b.tt
 		add_treasury = 50000
         add_dip_power = 100
+		PAP = {
+			country_event = {
+				id = flavor_SHI.33
+			}
+		}
 	}
 }
 country_event = {
@@ -1085,7 +1104,10 @@ country_event = {
 			add_base_production = -10
 			add_base_manpower = -10
 			add_devastation = 100
-			add_power_projection = 100
+			add_power_projection = {
+				type = mission_rewards_power_projection
+				amount = 100
+			}
 		}
 		118 = {
 			add_province_modifier = {
@@ -1105,6 +1127,9 @@ country_event = {
 	option = {
 		name = flavor_SHI.33.a
 		custom_tooltip = SHI_33.a.tt
+		add_country_modifier = {
+			HE_last_SWI
+		}
 	}
 }
 country_event = {
