@@ -7,7 +7,9 @@ country_event = {
 	fire_only_once = yes
 	major = yes
 	trigger = {
-        target = SCR
+        th_is_or_was_tag = {
+			tag = SCR
+		}
 	}
 	mean_time_to_happen = {
 		days = 6000
@@ -41,7 +43,7 @@ country_event = {
 	desc = flavor_ITinteresting.1.desc
 	fire_only_once = yes
 	is_triggered_only = yes
-	major = yes
+
 	option = {
 		name = flavor_ITinteresting.1.a
 		custom_tooltip = ITinteresting.1.a.tt
@@ -72,25 +74,24 @@ country_event = {
 	desc = flavor_ITinteresting.2.desc
 	fire_only_once = yes
 	is_triggered_only = yes
-	major = yes
 	option = {
-	name = flavor_ITinteresting.2.a
-	custom_tooltip = ITinteresting.2.a.tt
-	ai_chance = {
-			factor = 1
+	    name = flavor_ITinteresting.2.a
+	    custom_tooltip = ITinteresting.2.a.tt
+	    ai_chance = {
+			factor = 0
 		}
-	add_casus_belli = {
-      target = FOM
-      type = cb_insult
-      months = 120
-    }
-		add_prestige = -100
+	    add_casus_belli = {
+        target = FOM
+        type = cb_insult
+        months = 120
+        }
+	  	add_prestige = -100
 	}
 	option = {
-	name = flavor_ITinteresting.2.b
-	custom_tooltip = ITinteresting.2.b.tt
-	ai_chance = {
-			factor = 99
+	    name = flavor_ITinteresting.2.b
+	    custom_tooltip = ITinteresting.2.b.tt
+	    ai_chance = {
+			factor = 100
 		}
 		add_dip_power = -100
 	}
