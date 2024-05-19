@@ -41,7 +41,7 @@ country_event = {
 	desc = flavor_ITinteresting.1.desc
 	is_triggered_only = yes
 	mean_time_to_happen = {
-		days = 1
+		days = 30
 	}
     major = yes
 	option = {
@@ -49,7 +49,7 @@ country_event = {
 		custom_tooltip = ITinteresting.1.a.tt
 			add_prestige = 100
 		ai_chance = {
-			factor = 99
+			factor = 100
 		}
 		SCR = {
 		country_event = {
@@ -62,7 +62,7 @@ country_event = {
         custom_tooltip = ITinteresting.1.b.tt
 		add_dip_power = 1
         ai_chance = {
-			factor = 1
+			factor = 0
 		}
 	}
 }
