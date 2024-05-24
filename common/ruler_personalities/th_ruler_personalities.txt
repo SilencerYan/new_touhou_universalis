@@ -56,3 +56,126 @@ th_longevity_personality = {
 	monarch_lifespan = 1
 	nation_designer_cost = 10
 }
+Alice_black_history_A = {
+	ruler_allow = {
+
+    allow = {
+
+          always = no
+
+    }
+
+    }
+
+    heir_allow = {
+
+    allow = {
+          always = no
+    }
+
+    }   
+
+    consort_allow = {
+
+    allow = {
+             always = no
+    }
+
+    }
+	allow = {
+		always = no
+	}
+
+	chance = { } 
+
+	infantry_power = 0.2
+	cavalry_power = 0.2
+	artillery_power = 0.2
+	backrow_artillery_damage = 0.2
+	artillery_levels_available_vs_fort = 2
+	movement_speed = 0.2
+	siege_ability = 0.2
+	nation_designer_cost = 10000
+}
+Alice_black_history_B = {
+    ruler_allow = {
+
+    allow = {
+
+          always = no
+
+    }
+
+    }
+
+    heir_allow = {
+
+    allow = {
+          always = no
+    }
+
+    }   
+
+    consort_allow = {
+
+    allow = {
+             always = no
+    }
+
+    }
+	allow = {
+		always = no
+	}
+
+    chance = { } 
+
+	recover_army_morale_speed = 0.2
+	morale_damage_received = -0.2
+	reserves_organisation = 0.2
+	global_attacker_dice_roll_bonus = 1
+	own_territory_dice_roll_bonus = 1
+	global_defender_dice_roll_bonus = 1
+	artillery_level_modifier = 2
+	nation_designer_cost = 10000
+}
+Alice_black_history_C = {
+    ruler_allow = {
+
+    allow = {
+
+          always = no
+
+    }
+
+    }
+
+    heir_allow = {
+
+    allow = {
+          always = no
+    }
+
+    }   
+
+    consort_allow = {
+
+    allow = {
+             always = no
+    }
+
+    }
+	allow = {
+		always = no
+	}
+
+    chance = { } 
+
+	drill_gain_modifier = 1
+	drill_decay_modifier = -1
+	army_tradition_decay = -0.01
+    can_bypass_forts = yes
+	land_attrition = -0.2
+	cavalry_flanking = 1
+	reinforce_speed = 0.2
+	nation_designer_cost = 10000
+}
