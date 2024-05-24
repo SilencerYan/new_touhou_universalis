@@ -1,0 +1,508 @@
+namespace = flavor_Dolls
+country_event = {
+    id = flavor_Dolls.0
+    title = "flavor_Dolls.0.t"
+    picture = ALICE_eventPicture
+	desc = "flavor_Dolls.0.desc"
+	fire_only_once = yes
+	trigger = {
+		tag = FOM
+        5090 = {
+        religion = th_oldhakurei
+    }
+	}
+	mean_time_to_happen = {
+		days = 3000
+	}
+	option = {
+		name = flavor_Dolls.0.a
+		custom_tooltip = Dolls.0.a.tt
+		country_event = {
+			id = flavor_Dolls.1
+		}
+		FOM = {
+			tooltip = {
+				if = {
+					limit = {
+						has_regency = no
+					}
+					kill_ruler = yes
+				}
+				if = {
+					limit = {
+						has_heir = yes
+					}
+					kill_heir = {}
+				}
+				if = {
+					limit = {
+						has_consort = yes
+					}
+					remove_consort = yes
+				}
+				capital_scope = {
+					add_devastation = 20
+				}
+				add_opinion = {
+					who = ROOT
+					modifier = sultan_impaled_opinion
+				}
+			}
+		}
+	}
+	option = {
+		name = flavor_Dolls.0.b
+		custom_tooltip = Dolls.0.b.tt
+	}
+}
+country_event = {
+	id = flavor_Dolls.1
+	title = "flavor_Dolls.1.t"
+	picture = MOUNTAINOFFAITH_eventPicture
+	desc = "flavor_Dolls.1.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.1.a
+		custom_tooltip = Dolls.1.a.tt 	
+		country_event = {
+			id = flavor_Dolls.2
+		}
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.2
+	title = "flavor_Dolls.2.t"
+	picture = TERUMOKO_eventPicture
+	desc = "flavor_Dolls.2.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.2.a
+		custom_tooltip = Dolls.2.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.3
+		}
+		add_prestige = -200
+	
+	}
+	option = {
+		name = flavor_Dolls.2.b
+        custom_tooltip = Dolls.2.b.tt
+        
+		country_event = {
+			id = flavor_Dolls.101
+		}
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.3
+	title = "flavor_Dolls.3.t"
+	picture = HAKUREI_eventPicture
+	desc = "flavor_Dolls.3.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.3.a
+		custom_tooltip = Dolls.3.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.4
+		}
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.4
+	title = "flavor_Dolls.4.t"
+	picture = DONATIONBOX_eventPicture
+	desc = "flavor_Dolls.4.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.4.a
+		custom_tooltip = Dolls.4.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.5
+		}
+		add_years_of_income = -1
+	
+	}
+	option = {
+		name = flavor_Dolls.4.b
+        custom_tooltip = Dolls.4.b.tt
+       
+		country_event = {
+			id = flavor_Dolls.101
+		}
+		add_prestige = 200
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.5
+	title = "flavor_Dolls.5.t"
+	picture = MEILINGBOSS_eventPicture
+	desc = "flavor_Dolls.5.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.5.a
+		custom_tooltip = Dolls.5.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.6
+		}
+		add_legitimacy = -100
+	
+	}
+	option = {
+		name = flavor_Dolls.5.b
+        custom_tooltip = Dolls.5.b.tt
+        
+		country_event = {
+			id = flavor_Dolls.101
+		}
+		add_prestige = 200
+		add_years_of_income = 1
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.6
+	title = "flavor_Dolls.6.t"
+	picture = SCARLETMIST_eventPicture
+	desc = "flavor_Dolls.6.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.6.a
+		custom_tooltip = Dolls.6.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.7
+		}
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.7
+	title = "flavor_Dolls.7.t"
+	picture = ALLFAIRIES_eventPicture
+	desc = "flavor_Dolls.7.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.7.a
+		custom_tooltip = Dolls.7.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.8
+		}
+		add_stability = -6
+	
+	}
+	option = {
+		name = flavor_Dolls.7.b
+        custom_tooltip = Dolls.7.b.tt
+        
+		country_event = {
+			id = flavor_Dolls.101
+		}
+		add_prestige = 200
+		add_years_of_income = 1
+		add_legitimacy = 100
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.8
+	title = "flavor_Dolls.8.t"
+	picture = SCARLETMANSION_eventPicture
+	desc = "flavor_Dolls.8.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.8.a
+		custom_tooltip = Dolls.8.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.9
+		}
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.9
+	title = "flavor_Dolls.9.t"
+	picture = SCARLETMANSION_eventPicture
+	desc = "flavor_Dolls.9.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.9.a
+		custom_tooltip = Dolls.9.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.10
+		}
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.10
+	title = "flavor_Dolls.10.t"
+	picture = ALCHEMYMARISA_eventPicture
+	desc = "flavor_Dolls.10.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.10.a
+		custom_tooltip = Dolls.10.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.11
+		}
+		add_manpower = -1000
+	
+	}
+	option = {
+		name = flavor_Dolls.10.b
+        custom_tooltip = Dolls.10.b.tt
+        
+		country_event = {
+			id = flavor_Dolls.101
+		}
+		add_prestige = 200
+		add_years_of_income = 1
+		add_legitimacy = 100
+		add_stability = 6
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.11
+	title = "flavor_Dolls.11.t"
+	picture = ALICE2_eventPicture
+	desc = "flavor_Dolls.11.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.11.a
+		custom_tooltip = Dolls.11.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.12
+		}
+		add_adm_power = -999
+		add_dip_power = -999
+		add_mil_power = -999
+	
+	}
+	option = {
+		name = flavor_Dolls.11.b
+        custom_tooltip = Dolls.11.b.tt
+        
+		country_event = {
+			id = flavor_Dolls.101
+		}
+		add_prestige = 200
+		add_years_of_income = 1
+		add_legitimacy = 100
+		add_stability = 6
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.12
+	title = "flavor_Dolls.12.t"
+	picture = HAKUREIGOD_eventPicture
+	desc = "flavor_Dolls.12.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.12.a
+		custom_tooltip = Dolls.12.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.13
+		}
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.13
+	title = "flavor_Dolls.13.t"
+	picture = FLANDRE_eventPicture
+	desc = "flavor_Dolls.13.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.13.a
+		custom_tooltip = Dolls.13.a.tt
+        	
+		country_event = {
+			id = flavor_Dolls.14
+		}
+		add_inflation = 100
+	
+	}
+	option = {
+		name = flavor_Dolls.13.b
+        custom_tooltip = Dolls.13.b.tt
+      
+		country_event = {
+			id = flavor_Dolls.101
+		}
+		add_prestige = 200
+		add_years_of_income = 1
+		add_legitimacy = 100
+		add_stability = 6
+		add_adm_power = 999
+		add_dip_power = 999
+		add_mil_power = 999
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.14
+	title = "flavor_Dolls.14.t"
+	picture = ALICEFIGHT_eventPicture
+	desc = "flavor_Dolls.14.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.14.a
+		custom_tooltip = Dolls.14.a.tt
+		th_balkanize_country = yes
+		hidden_effect = {
+			add_country_modifier = {
+				name = Alice_black_history
+			    duration = -1
+			}
+		}
+	}
+	option = {
+		name = flavor_Dolls.14.b
+        custom_tooltip = Dolls.14.b.tt
+       
+		country_event = {
+			id = flavor_Dolls.101
+		}
+		add_prestige = 200
+		add_years_of_income = 1
+		add_legitimacy = 100
+		add_stability = 6
+		add_adm_power = 999
+		add_dip_power = 999
+		add_mil_power = 999
+		add_inflation = -100
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.15
+	title = "flavor_Dolls.15.t"
+	picture = ALICE98_eventPicture
+	desc = "flavor_Dolls.15.desc"
+	fire_only_once = yes
+	trigger = {
+		tag = FOM
+		has_country_modifier = Alice_black_history
+        5090 = {
+        religion = th_oldhakurei
+    }
+	}
+	mean_time_to_happen = {
+		days = 300
+	}
+	option = {
+		name = flavor_Dolls.15.a
+		custom_tooltip = Dolls.15.a.tt
+        add_prestige = 200
+		add_years_of_income = 1
+		add_legitimacy = 100
+		add_stability = 6
+		add_adm_power = 999
+		add_dip_power = 999
+		add_mil_power = 999
+		add_inflation = -100	
+		country_event = {
+			id = flavor_Dolls.102
+		}
+	
+	add_country_modifier = {
+		name = The_Death_of_the_Righteous
+		duration = -1
+	}
+	}
+}
+country_event = {
+	id = flavor_Dolls.101
+	title = "flavor_Dolls.101.t"
+	picture = NEWCONTINENT_eventPicture
+	desc = "flavor_Dolls.101.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.101.a
+		custom_tooltip = Dolls.101.a.tt
+        add_stability = 1
+		define_ruler = {
+      name = "1rKNN"  # Alice
+      dynasty = "?s<hyrm?O?V"  # Margatroid
+      adm = 5
+      dip = 4
+      mil = 5
+      age = 20
+      culture = ROOT
+      religion = ROOT
+      claim = 100
+      female = yes
+    }
+	hidden_effect = {
+      add_ruler_personality = immortal_personality
+    }
+	
+	}
+}
+country_event = {
+	id = flavor_Dolls.102
+	title = "flavor_Dolls.102.t"
+	picture = ALICEFIGHT_eventPicture
+	desc = "flavor_Dolls.102.desc"
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = flavor_Dolls.102.a
+		custom_tooltip = Dolls.102.a.tt
+        add_stability = 1
+		add_country_modifier = {
+		name = Dolls_in_Pseudo_Paradise
+		duration = -1
+	}
+		define_ruler = {
+      name = "1rKNN"  # Alice
+      dynasty = "?s<hyrm?O?V"  # Margatroid
+      adm = 6
+      dip = 6
+      mil = 6
+      age = 20
+      culture = ROOT
+      religion = ROOT
+      claim = 100
+      female = yes
+    }
+	hidden_effect = {
+      add_ruler_personality = immortal_personality
+	  add_ruler_personality = Alice_black_history_A
+	  add_ruler_personality = Alice_black_history_B
+	  add_ruler_personality = Alice_black_history_C
+    }
+	
+	}
+}

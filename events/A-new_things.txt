@@ -66,7 +66,6 @@ country_event = {
 		}
 	}
 }
-
 country_event = {
 	id = flavor_ITinteresting.2
 	title = flavor_ITinteresting.2.t
@@ -96,7 +95,6 @@ country_event = {
 		add_dip_power = -100
 	}
 }
-
 country_event = {
 	id = flavor_SHI.0
 	title = flavor_SHI.0.t
@@ -1338,7 +1336,7 @@ country_event = {
 		custom_tooltip = SHI_37.b.tt
 		define_consort = {
       name = "sY?"
-      dynasty = "�O^y"  # Yorigami
+      dynasty = "?O^y"  # Yorigami
       adm = 4
       dip = 3
       mil = 6
