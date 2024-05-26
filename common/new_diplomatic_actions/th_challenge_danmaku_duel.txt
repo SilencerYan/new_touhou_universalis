@@ -156,6 +156,7 @@ th_challenge_to_danmaku_duel = {
 				}
 			}
 		}
+		th_tenshi_temper_gain_effect = { value = 5 }
 	}
 
 	ai_will_do = {

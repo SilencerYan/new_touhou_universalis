@@ -8,6 +8,9 @@ country_decisions = {
 				ruler_has_bad_dip_personality = yes
 				ruler_has_bad_mil_personality = yes
 			}
+			NOT = {
+				has_country_flag = th_cannot_reeducate_ruler_flag
+			}
 		}
 		
 		allow = {
@@ -47,6 +50,9 @@ country_decisions = {
 				ruler_has_good_adm_personality = yes
 				ruler_has_good_dip_personality = yes
 				ruler_has_good_mil_personality = yes
+			}
+			NOT = {
+				has_country_flag = th_cannot_reeducate_ruler_flag
 			}
 		}
 		

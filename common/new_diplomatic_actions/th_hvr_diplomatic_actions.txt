@@ -35,6 +35,7 @@ th_hvr_weather_control_devastating_earthquake = {   ### Devastating earthquake
 	}
 
 	on_accept = {
+		th_tenshi_temper_gain_effect = { value = 3 }
 		change_variable = {
 			which = hvr_earthquake_counter
 			value = 1
@@ -94,6 +95,7 @@ th_hvr_weather_control_heavy_rain = {   ### No harvest for you!
 	}
 
 	on_accept = {
+		th_tenshi_temper_gain_effect = { value = 3 }
 		change_variable = {
 			which = hvr_weather_action_counter
 			value = 1
@@ -147,6 +149,7 @@ th_hvr_weather_control_strong_sun = {
 	}
 
 	on_accept = {
+		th_tenshi_temper_gain_effect = { value = 3 }
 		change_variable = {
 			which = hvr_weather_action_counter
 			value = 1
@@ -209,6 +212,7 @@ th_hvr_weather_control_blizzard = {
 	}
 
 	on_accept = {
+		th_tenshi_temper_gain_effect = { value = 3 }
 		change_variable = {
 			which = hvr_weather_action_counter
 			value = 1
@@ -287,6 +291,7 @@ th_hvr_weather_control_heavy_fog = {
 	}
 
 	on_accept = {
+		th_tenshi_temper_gain_effect = { value = 3 }
 		change_variable = {
 			which = hvr_weather_action_counter
 			value = 1

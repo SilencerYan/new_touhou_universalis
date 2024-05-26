@@ -56,3 +56,35 @@ th_longevity_personality = {
 	monarch_lifespan = 1
 	nation_designer_cost = 10
 }
+
+th_courageous_personality = {
+	
+	allow = { always = no }
+	diplomatic_reputation = -1
+	stability_cost_to_declare_war = -1
+	province_warscore_cost = -0.05
+	nation_designer_cost = 30
+	
+	easy_war_chance_multiplier = 3
+	war_chance_multiplier = 2.5
+	building_budget_multiplier = 0.2
+	gift_chance = -50
+	wants_land = yes
+	
+	chance = {	
+	}
+}
+
+th_just_calm_personality = {
+	
+	allow = { always = no }
+	ae_impact = -0.05
+	diplomatic_annexation_cost = -0.05
+	nation_designer_cost = 30
+	
+	war_chance_multiplier = 0.8
+	enemy_strength_multiplier = 1.2
+	
+	chance = {	
+	}
+}

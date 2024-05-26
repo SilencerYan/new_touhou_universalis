@@ -3817,6 +3817,18 @@ hvr_help_from_reisen = {
 	galley_power = 0.15
 }
 
+hvr_tiger = {
+	land_morale = 0.1
+	recover_army_morale_speed = 0.1
+	naval_morale = 0.1
+	recover_navy_morale_speed = 0.1
+}
+
+hvr_heavenly_manner = {
+	diplomats = 1
+	improve_relation_modifier = 0.2
+}
+
 #General touhou mission rewards:
 
 touhou_ocean_navy = {

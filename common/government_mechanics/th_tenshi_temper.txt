@@ -4,81 +4,216 @@ th_tenshi_temper_mechanic = {
 		th_tenshi_temper = {
 			gui = th_tenshi_temper_gov_mech
 			max = 100
+			min = -100
 			reset_on_new_ruler = yes
-			base_monthly_growth = 1
+			base_monthly_growth = 0
 			
 			range_modifier = {
 				trigger = {
-					has_government_power = { 
-						mechanic_type = th_tenshi_temper_mechanic
-						power_type = th_tenshi_temper
-						value = 0
+					NOT = {
+						has_country_flag = hvr_change_government_no_education_flag
+					}
+					NOT = {
+						has_country_flag = hvr_change_government_teach_lesson_flag
 					}
 					NOT = {
 						has_government_power = { 
 							mechanic_type = th_tenshi_temper_mechanic
 							power_type = th_tenshi_temper
-							value = 34
+							value = -50
 						}
 					}
 				}
 				modifier = {
-					siege_ability = -0.25
 					development_cost = -0.1
 					global_unrest = -2
-					stability_cost_modifier = -0.25
+					siege_ability = -0.1
+					administrative_efficiency = -0.05
 				}
-				start_value = 0
-				end_value = 34
+				start_value = -9999
+				end_value = -50
 			}
 
 			range_modifier = {
 				trigger = {
+					has_country_flag = hvr_change_government_teach_lesson_flag
+					NOT = {
+						has_government_power = { 
+							mechanic_type = th_tenshi_temper_mechanic
+							power_type = th_tenshi_temper
+							value = -60
+						}
+					}
+				}
+				modifier = {
+					development_cost = -0.1
+					global_unrest = -2
+					siege_ability = -0.1
+				}
+				start_value = -9999
+				end_value = -60
+			}
+
+			range_modifier = {
+				trigger = {
+					has_country_flag = hvr_change_government_no_education_flag
+					NOT = {
+						has_government_power = { 
+							mechanic_type = th_tenshi_temper_mechanic
+							power_type = th_tenshi_temper
+							value = -33
+						}
+					}
+				}
+				modifier = {
+					development_cost = -0.15
+					global_unrest = -3
+					siege_ability = -0.1
+					administrative_efficiency = -0.025
+				}
+				start_value = -9999
+				end_value = -33
+			}
+
+			range_modifier = {
+				trigger = {
+					NOT = {
+						has_country_flag = hvr_change_government_no_education_flag
+					}
+					NOT = {
+						has_country_flag = hvr_change_government_teach_lesson_flag
+					}
 					has_government_power = { 
 						mechanic_type = th_tenshi_temper_mechanic
 						power_type = th_tenshi_temper
-						value = 34
+						value = -50
 					}
 					NOT = {
 						has_government_power = { 
 							mechanic_type = th_tenshi_temper_mechanic
 							power_type = th_tenshi_temper
-							value = 67
+							value = 50
 						}
+					}
+				}
+				modifier = {
+					diplomatic_reputation = 1
+				}
+				start_value = -50
+				end_value = 50
+			}
+
+			range_modifier = {
+				trigger = {
+					has_country_flag = hvr_change_government_teach_lesson_flag
+					has_government_power = { 
+						mechanic_type = th_tenshi_temper_mechanic
+						power_type = th_tenshi_temper
+						value = -60
+					}
+					NOT = {
+						has_government_power = { 
+							mechanic_type = th_tenshi_temper_mechanic
+							power_type = th_tenshi_temper
+							value = 60
+						}
+					}
+				}
+				modifier = {
+					diplomatic_reputation = 1
+					improve_relation_modifier = 0.15
+				}
+				start_value = -60
+				end_value = 60
+			}
+
+			range_modifier = {
+				trigger = {
+					has_country_flag = hvr_change_government_no_education_flag
+					has_government_power = { 
+						mechanic_type = th_tenshi_temper_mechanic
+						power_type = th_tenshi_temper
+						value = -33
+					}
+					NOT = {
+						has_government_power = { 
+							mechanic_type = th_tenshi_temper_mechanic
+							power_type = th_tenshi_temper
+							value = 33
+						}
+					}
+				}
+				modifier = {
+					diplomatic_reputation = 1
+				}
+				start_value = -33
+				end_value = 33
+			}
+
+			range_modifier = {
+				trigger = {
+					NOT = {
+						has_country_flag = hvr_change_government_no_education_flag
+					}
+					NOT = {
+						has_country_flag = hvr_change_government_teach_lesson_flag
+					}
+					has_government_power = { 
+						mechanic_type = th_tenshi_temper_mechanic
+						power_type = th_tenshi_temper
+						value = 50
+					}
+				}
+				modifier = {
+					siege_ability = 0.1
+					land_morale = 0.10
+					global_unrest = 2
+					development_cost = 0.1
+				}
+				start_value = 50
+				end_value = 9999
+			}
+
+			range_modifier = {
+				trigger = {
+					has_country_flag = hvr_change_government_teach_lesson_flag
+					has_government_power = { 
+						mechanic_type = th_tenshi_temper_mechanic
+						power_type = th_tenshi_temper
+						value = 60
+					}
+				}
+				modifier = {
+					siege_ability = 0.1
+					land_morale = 0.10
+					development_cost = 0.05
+				}
+				start_value = 60
+				end_value = 9999
+			}
+
+			range_modifier = {
+				trigger = {
+					has_country_flag = hvr_change_government_no_education_flag
+					has_government_power = { 
+						mechanic_type = th_tenshi_temper_mechanic
+						power_type = th_tenshi_temper
+						value = 33
 					}
 				}
 				modifier = {
 					siege_ability = 0.15
-					stability_cost_modifier = 0.1
-				}
-				start_value = 34
-				end_value = 67
-			}
-
-			range_modifier = {
-				trigger = {
-					has_government_power = { 
-						mechanic_type = th_tenshi_temper_mechanic
-						power_type = th_tenshi_temper
-						value = 67
-					}
-				}
-				modifier = {
-					siege_ability = 0.33
-					assault_fort_ability = 0.25
-					stability_cost_modifier = 0.25
-					global_unrest = 2
+					land_morale = 0.15
+					global_unrest = 1
 					development_cost = 0.1
 				}
-				start_value = 67
+				start_value = 33
 				end_value = 9999
 			}
 			on_max_reached = {	#TODO
-				if = {
-					limit = {
-
-					}
-
+				change_variable = {
+					which = hvr_num_of_max_temper
+					value = 1
 				}
 			}
 		}

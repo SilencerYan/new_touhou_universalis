@@ -394,6 +394,12 @@ th_respawn_ruler_with_new_stats_effect = {
         NOT = {
           has_country_flag = hvr_cannot_get_tenshi
         }
+        NOT = {
+          has_country_flag = hvr_change_tenshis_trait_no_education_flag
+        }
+        NOT = {
+          has_country_flag = hvr_change_tenshis_trait_teach_lesson_flag
+        }
       }
       define_ruler = {
         name = ")YPR"  # Tenshi
@@ -412,6 +418,58 @@ th_respawn_ruler_with_new_stats_effect = {
         set_ruler_flag = touhou_original_ruler
         set_ruler_flag = th_original_tenshi
         add_ruler_personality = babbling_buffoon_personality
+      }
+    }
+    else_if = {
+      limit = {
+        NOT = {
+          has_country_flag = hvr_cannot_get_tenshi
+        }
+        has_country_flag = hvr_change_tenshis_trait_no_education_flag        
+      }
+      define_ruler = {
+        name = ")YPR"  # Tenshi
+        dynasty = "‘k±êTES"  # Hinanawi
+        culture = "Heavenish"
+        adm = 3
+        dip = 5
+        mil = 6
+        age = 20
+        claim = 50
+        female = yes
+      }
+      hidden_effect = {
+        add_ruler_personality = immortal_personality
+        set_ruler_flag = touhou_character_ruler
+        set_ruler_flag = touhou_original_ruler
+        set_ruler_flag = th_original_tenshi
+        add_ruler_personality = th_courageous_personality
+      }
+    }
+    else_if = {
+      limit = {
+        NOT = {
+          has_country_flag = hvr_cannot_get_tenshi
+        }
+        has_country_flag = hvr_change_tenshis_trait_teach_lesson_flag      
+      }
+      define_ruler = {
+        name = ")YPR"  # Tenshi
+        dynasty = "‘k±êTES"  # Hinanawi
+        culture = "Heavenish"
+        adm = 3
+        dip = 5
+        mil = 6
+        age = 20
+        claim = 50
+        female = yes
+      }
+      hidden_effect = {
+        add_ruler_personality = immortal_personality
+        set_ruler_flag = touhou_character_ruler
+        set_ruler_flag = touhou_original_ruler
+        set_ruler_flag = th_original_tenshi
+        add_ruler_personality = th_just_calm_personality
       }
     }
     else = {

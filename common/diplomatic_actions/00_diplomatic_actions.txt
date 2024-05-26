@@ -636,6 +636,7 @@ insultaction = {
 				}
 			}
 		}
+		th_tenshi_temper_gain_effect = { value = 2 }	
 	}
 }
 giftaction = {

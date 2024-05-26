@@ -1882,3 +1882,10 @@ hvr_reset_weather = {
 	remove_country_modifier = hvr_heavy_fog
 	remove_country_modifier = hvr_disperse_clouds
 }
+
+th_reenable_reeducate_ruler = {
+	custom_tooltip = th_reenable_reeducate_ruler_tt
+	hidden_effect = {
+		clr_country_flag = th_cannot_reeducate_ruler_flag
+	}
+}
