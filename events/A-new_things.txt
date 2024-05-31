@@ -1093,7 +1093,6 @@ country_event = {
 	fire_only_once = yes
 	major = yes
 	trigger = {
-        owns_or_non_sovereign_subject_of = 118
 		th_is_or_was_tag = {
 			tag = SHI
 		}
