@@ -1,0 +1,97 @@
+namespace = flavor_ITinteresting
+country_event = {
+	id = flavor_ITinteresting.0
+	title = flavor_ITinteresting.0.t
+	picture = SCARLETPLAN_eventPicture
+	desc = flavor_ITinteresting.0.desc
+	fire_only_once = yes
+	major = yes
+	trigger = {
+        th_is_or_was_tag = {
+			tag = SCR
+		}
+	}
+	mean_time_to_happen = {
+		days = 6000
+	}
+	option = {
+		name = flavor_ITinteresting.0.a
+		custom_tooltip = ITinteresting.0.a.tt
+		add_dip_power = 100
+	    FOM = {
+		country_event = {
+			id = flavor_ITinteresting.1
+		}
+	}
+	ai_chance = {
+			factor = 100
+		}
+	}
+	option = {
+		name = flavor_ITinteresting.0.b
+		custom_tooltip = ITinteresting.0.b.tt
+		add_prestige = 10
+	ai_chance = {
+			factor = 0
+		}
+	}
+}
+country_event = {
+	id = flavor_ITinteresting.1
+	title = flavor_ITinteresting.1.t
+	picture = SCARLETPLAN_eventPicture
+	desc = flavor_ITinteresting.1.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+
+	option = {
+		name = flavor_ITinteresting.1.a
+		custom_tooltip = ITinteresting.1.a.tt
+			add_prestige = 100
+		ai_chance = {
+			factor = 100
+		}
+		SCR = {
+		country_event = {
+			id = flavor_ITinteresting.2
+		}
+	}
+	}
+	option = {
+		name = flavor_ITinteresting.1.b
+        custom_tooltip = ITinteresting.1.b.tt
+		add_dip_power = 1
+        ai_chance = {
+			factor = 0
+		}
+	}
+}
+country_event = {
+	id = flavor_ITinteresting.2
+	title = flavor_ITinteresting.2.t
+	picture = ALICEFIGHT_eventPicture
+	desc = flavor_ITinteresting.2.desc
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+	    name = flavor_ITinteresting.2.a
+	    custom_tooltip = ITinteresting.2.a.tt
+	    ai_chance = {
+			factor = 0
+		}
+	    add_casus_belli = {
+        target = FOM
+        type = cb_insult
+        months = 120
+        }
+	  	add_prestige = -100
+	}
+	option = {
+	    name = flavor_ITinteresting.2.b
+	    custom_tooltip = ITinteresting.2.b.tt
+	    ai_chance = {
+			factor = 100
+		}
+		add_dip_power = -100
+	}
+}
