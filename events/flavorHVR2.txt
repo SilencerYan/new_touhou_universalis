@@ -1936,3 +1936,148 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+	id = flavor_hvr.105
+	title = flavor_hvr.105.t
+	picture = TENSHI_introuction_eventPicture
+	desc = {
+		trigger = {
+			NOT = {
+				has_country_flag = hvr_change_government_no_education_flag
+			}
+			NOT = {
+				has_country_flag = hvr_change_government_teach_lesson_flag
+			}
+		}
+		desc = "flavor_hvr.105.desc.1"
+	}
+	desc = {
+		trigger = {
+			has_country_flag = hvr_change_government_no_education_flag
+		}
+		desc = "flavor_hvr.105.desc.2"
+	}
+	desc = {
+		trigger = {
+			has_country_flag = hvr_change_government_teach_lesson_flag
+		}
+		desc = "flavor_hvr.105.desc.3"
+	}
+	is_triggered_only = yes
+	option = {
+	  	name = flavor_hvr.105.a
+	}
+}
+
+country_event = {
+	id = flavor_hvr.106
+	title = flavor_hvr.106.t
+	picture = TENSHI_introuction_eventPicture
+	desc = flavor_hvr.106.desc
+	is_triggered_only = yes
+	option = {
+	  	name = flavor_hvr.106.a
+		th_tenshi_temper_gain_effect = { value = 80 }
+	}
+	option = {
+		name = flavor_hvr.106.b
+	  	th_tenshi_temper_gain_effect = { value = -80 }
+  	}
+}
+
+country_event = {
+	id = flavor_hvr.107
+	title = flavor_hvr.107.t
+	picture = TENSHI_introuction_eventPicture
+	desc = flavor_hvr.107.desc
+	is_triggered_only = yes
+	hidden = yes
+	option = {
+	  	name = flavor_hvr.107.a
+		clr_country_flag = hvr_lock_temper_flag
+	}
+}
+
+country_event = {
+	id = flavor_hvr.108
+	title = flavor_hvr.108.t
+	picture = TENSHI_introuction_eventPicture
+	desc = flavor_hvr.108.desc
+	is_triggered_only = yes
+	hidden = yes
+	trigger = {
+		has_government_mechanic = th_tenshi_temper_mechanic
+		OR = {
+			ai = yes
+			has_country_flag = hvr_lock_temper_flag
+			NOT = { has_ruler_flag = th_original_tenshi }
+		}
+	}
+	option = {
+	  	name = flavor_hvr.108.a
+		export_to_variable = {
+			which = th_tenshi_temper_to_add
+			value = war_exhaustion
+			who = ROOT
+		}
+		while = {
+			limit = {
+				check_variable = {
+					which = th_tenshi_temper_to_add
+					value = 1
+				}
+			}
+			add_government_power = {
+				mechanic_type = th_tenshi_temper_mechanic
+				power_type = th_tenshi_temper
+				value = 0.1
+			}
+			subtract_variable = {
+				which = th_tenshi_temper_to_add
+				value = 1
+			}
+		}
+		export_to_variable = {
+			which = th_tenshi_temper_to_add
+			value = stability
+			who = ROOT
+		}
+		while = {
+			limit = {
+				NOT = {
+					check_variable = {
+						which = th_tenshi_temper_to_add
+						value = 0
+					}
+				}
+			}
+			add_government_power = {
+				mechanic_type = th_tenshi_temper_mechanic
+				power_type = th_tenshi_temper
+				value = 1
+			}
+			change_variable = {
+				which = th_tenshi_temper_to_add
+				value = 1
+			}
+		}		
+		if = {
+			limit = {
+				is_at_war = yes
+			}
+			add_government_power = {
+				mechanic_type = th_tenshi_temper_mechanic
+				power_type = th_tenshi_temper
+				value = -1
+			}
+		}
+		else = {
+			add_government_power = {
+				mechanic_type = th_tenshi_temper_mechanic
+				power_type = th_tenshi_temper
+				value = 1
+			}			
+		}
+	}
+}

@@ -7,6 +7,9 @@ th_tenshi_temper_gain_effect = {
 			ROOT = {
 				has_government_mechanic = th_tenshi_temper_mechanic
 				NOT = { owns = FROM }
+				ai = no
+				NOT = { has_country_flag = hvr_lock_temper_flag }
+				has_ruler_flag = th_original_tenshi
 			}
 		}
 		ROOT = {
@@ -24,6 +27,9 @@ th_tenshi_temper_gain_effect_from_provinces = {
 		limit = {
 			owner = {
 				has_government_mechanic = th_tenshi_temper_mechanic
+				ai = no
+				NOT = { has_country_flag = hvr_lock_temper_flag }
+				has_ruler_flag = th_original_tenshi
 			}
 		}
 		owner = {

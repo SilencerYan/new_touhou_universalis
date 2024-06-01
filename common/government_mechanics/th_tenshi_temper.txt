@@ -10,6 +10,7 @@ th_tenshi_temper_mechanic = {
 			
 			range_modifier = {
 				trigger = {
+					has_ruler_flag = th_original_tenshi
 					NOT = {
 						has_country_flag = hvr_change_government_no_education_flag
 					}
@@ -36,6 +37,7 @@ th_tenshi_temper_mechanic = {
 
 			range_modifier = {
 				trigger = {
+					has_ruler_flag = th_original_tenshi
 					has_country_flag = hvr_change_government_teach_lesson_flag
 					NOT = {
 						has_government_power = { 
@@ -56,6 +58,7 @@ th_tenshi_temper_mechanic = {
 
 			range_modifier = {
 				trigger = {
+					has_ruler_flag = th_original_tenshi
 					has_country_flag = hvr_change_government_no_education_flag
 					NOT = {
 						has_government_power = { 
@@ -77,6 +80,7 @@ th_tenshi_temper_mechanic = {
 
 			range_modifier = {
 				trigger = {
+					has_ruler_flag = th_original_tenshi
 					NOT = {
 						has_country_flag = hvr_change_government_no_education_flag
 					}
@@ -105,6 +109,7 @@ th_tenshi_temper_mechanic = {
 
 			range_modifier = {
 				trigger = {
+					has_ruler_flag = th_original_tenshi
 					has_country_flag = hvr_change_government_teach_lesson_flag
 					has_government_power = { 
 						mechanic_type = th_tenshi_temper_mechanic
@@ -129,6 +134,7 @@ th_tenshi_temper_mechanic = {
 
 			range_modifier = {
 				trigger = {
+					has_ruler_flag = th_original_tenshi
 					has_country_flag = hvr_change_government_no_education_flag
 					has_government_power = { 
 						mechanic_type = th_tenshi_temper_mechanic
@@ -152,6 +158,7 @@ th_tenshi_temper_mechanic = {
 
 			range_modifier = {
 				trigger = {
+					has_ruler_flag = th_original_tenshi
 					NOT = {
 						has_country_flag = hvr_change_government_no_education_flag
 					}
@@ -176,6 +183,7 @@ th_tenshi_temper_mechanic = {
 
 			range_modifier = {
 				trigger = {
+					has_ruler_flag = th_original_tenshi
 					has_country_flag = hvr_change_government_teach_lesson_flag
 					has_government_power = { 
 						mechanic_type = th_tenshi_temper_mechanic
@@ -194,6 +202,7 @@ th_tenshi_temper_mechanic = {
 
 			range_modifier = {
 				trigger = {
+					has_ruler_flag = th_original_tenshi
 					has_country_flag = hvr_change_government_no_education_flag
 					has_government_power = { 
 						mechanic_type = th_tenshi_temper_mechanic
@@ -211,9 +220,11 @@ th_tenshi_temper_mechanic = {
 				end_value = 9999
 			}
 			on_max_reached = {	#TODO
-				change_variable = {
-					which = hvr_num_of_max_temper
-					value = 1
+				hidden_effect = {
+					change_variable = {
+						which = hvr_num_of_max_temper
+						value = 1
+					}
 				}
 			}
 		}

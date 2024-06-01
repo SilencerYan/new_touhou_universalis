@@ -545,6 +545,12 @@ on_overextension_pulse = {
 	th_on_overextension_pulse_effect = yes
 }
 
+on_monthly_pulse = {
+	events = {
+		flavor_hvr.108 #reverse tenshi temper monthly change
+	}
+}
+
 on_yearly_pulse_2 = {
 	events = {
 		flavor_hvr.25 #gain hisou sword power

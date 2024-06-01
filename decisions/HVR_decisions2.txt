@@ -43,7 +43,7 @@ country_decisions = {
 			custom_trigger_tooltip = {
 				tooltip = hvr_iku_hired_for_thirty_years
 				NOT = {
-					has_leader = "8lmlcË†â€“s"  # Iku Nagae
+					has_leader = "8lmlcˆ–s"  # Iku Nagae
 			  	}
 				NOT = {
 					advisor = th_advisor_iku
@@ -59,7 +59,7 @@ country_decisions = {
 					has_country_flag = hvr_dragon_gods_bless_flag
 				}
 				define_admiral = {
-					name = "8lmlcË†â€“s"  # Iku Nagae
+					name = "8lmlcˆ–s"  # Iku Nagae
 					shock = 4
 					fire = 4
 					manuever = 5
@@ -69,7 +69,7 @@ country_decisions = {
 			}
 			else = {
 				define_admiral = {
-					name = "8lmlcË†â€“s"  # Iku Nagae
+					name = "8lmlcˆ–s"  # Iku Nagae
 					shock = 3
 					fire = 3
 					manuever = 4
@@ -96,7 +96,7 @@ country_decisions = {
 			custom_trigger_tooltip = {
 				tooltip = hvr_iku_hired_for_thirty_years
 				NOT = {
-					has_leader = "8lmlcË†â€“s"  # Iku Nagae
+					has_leader = "8lmlcˆ–s"  # Iku Nagae
 			  	}
 				NOT = {
 					advisor = th_advisor_iku
@@ -112,7 +112,7 @@ country_decisions = {
 					has_country_flag = hvr_dragon_gods_bless_flag
 				}
 				define_general = {
-					name = "8lmlcË†â€“s"  # Iku Nagae
+					name = "8lmlcˆ–s"  # Iku Nagae
 					shock = 4
 					fire = 4
 					manuever = 5
@@ -122,7 +122,7 @@ country_decisions = {
 			}
 			else = {
 				define_general = {
-					name = "8lmlcË†â€“s"  # Iku Nagae
+					name = "8lmlcˆ–s"  # Iku Nagae
 				  	shock = 3
 				  	fire = 3
 				  	manuever = 4
@@ -139,5 +139,80 @@ country_decisions = {
 		  	}
 		}
 		ai_importance = 50
+	}
+	hvr_mood_control_introduction = {
+		potential = {
+			has_government_mechanic = th_tenshi_temper_mechanic
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			country_event = {
+				id = flavor_hvr.105
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	hvr_mood_control_no_education = {
+		potential = {
+			has_government_mechanic = th_tenshi_temper_mechanic
+			has_country_flag = hvr_unlock_mood_change_decision_flag
+			has_country_flag = hvr_change_government_no_education_flag
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_ruler_is_tenshi_tt
+				has_ruler_flag = th_original_tenshi
+			}
+			adm_power = 100
+			dip_power = 100
+			mil_power = 100
+		}
+		effect = {
+			add_adm_power = -100
+			add_dip_power = -100
+			add_mil_power = -100
+			country_event = {
+				id = flavor_hvr.106
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	hvr_mood_control_teach_lesson = {
+		potential = {
+			has_government_mechanic = th_tenshi_temper_mechanic
+			has_country_flag = hvr_unlock_mood_change_decision_flag
+			has_country_flag = hvr_change_government_teach_lesson_flag
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_ruler_is_tenshi_tt
+				has_ruler_flag = th_original_tenshi
+			}
+			custom_trigger_tooltip = {
+				tooltip = hvr_has_not_lock_temper_tt
+				NOT = {
+					has_country_flag = hvr_lock_temper_flag
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_lock_temper_tt
+			hidden_effect = {
+				set_country_flag = hvr_lock_temper_flag
+				country_event = {
+					id = flavor_hvr.107
+					days = 1825
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}		
 	}
 }
