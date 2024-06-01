@@ -6,10 +6,10 @@ DOM_japanse_missions_1 = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 	}
@@ -331,11 +331,11 @@ japanese_missions_eoc_1 = {
 	ai = yes
 	potential = {
 		has_dlc = "Domination"
-		is_emperor_of_china = yes 
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		is_emperor_of_china = yes
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 	}
 	has_country_shield = yes 
 
@@ -502,10 +502,10 @@ DOM_japanse_missions_2_a = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 	}
@@ -640,10 +640,10 @@ DOM_japanse_missions_2_dejima = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 		OR = { 
@@ -689,10 +689,10 @@ DOM_japanse_missions_2_b = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    } 
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 	}
@@ -889,10 +889,10 @@ japanese_missions_eoc_2 = {
 	potential = {
 		has_dlc = "Domination"
 		is_emperor_of_china = yes 
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		capital_scope = { continent = asia }
 	}
 	has_country_shield = yes 
@@ -1277,10 +1277,10 @@ DOM_japanse_missions_3_a = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 	}
@@ -1602,10 +1602,10 @@ DOM_japanse_missions_3_aa = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 		has_dlc = "Mandate of Heaven"
@@ -1680,10 +1680,10 @@ DOM_japanse_missions_3_b = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    } 
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 		NOT = { has_country_flag = a_kirishitan_realm }
@@ -1802,10 +1802,10 @@ DOM_japanse_missions_3_c = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 		has_dlc = "Mandate of Heaven" 
@@ -1856,10 +1856,10 @@ japanese_missions_eoc_3 = {
 	potential = {
 		has_dlc = "Domination"
 		is_emperor_of_china = yes 
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 	}
 	has_country_shield = yes 
 	
@@ -1952,10 +1952,6 @@ japanese_missions_eoc_3 = {
 			2139 = { 
 				owned_by = ROOT 
 				base_production = 12 
-			}
-			if = {
-				limit = { tag = MNG }
-				has_idea = single_whip_law
 			}
 			NOT = { inflation = 1 }
 			NOT = { num_of_loans = 1 } 
@@ -2165,10 +2161,10 @@ DOM_japanse_missions_4_a = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 		NOT = { has_country_flag = jap_mushashi_5_books_flag } 
@@ -2252,10 +2248,10 @@ DOM_japanse_missions_4_b = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 		has_country_flag = jap_mushashi_5_books_flag 
@@ -2305,10 +2301,10 @@ DOM_japanse_missions_4_c = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    } 
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 		NOT = { has_country_flag = jap_mushashi_5_books_flag }
@@ -2355,10 +2351,10 @@ DOM_japanse_missions_4_d = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 	}
@@ -2484,10 +2480,10 @@ japanese_missions_eoc_4 = {
 	potential = {
 		has_dlc = "Domination"
 		is_emperor_of_china = yes 
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 	}
 	has_country_shield = yes 	
 	
@@ -2791,10 +2787,10 @@ DOM_japanse_missions_5 = {
 		has_dlc = "Domination" 
 	}
 	potential = {
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		OR = {
+			tag = JAP 
+			has_country_flag = ymu_unlock_jap 
+		} 
 		has_dlc = "Domination" 
 		NOT = { map_setup = map_setup_random }
 	}
@@ -3396,10 +3392,7 @@ japanese_missions_eoc_5 = {
 	potential = {
 		has_dlc = "Domination"
 		is_emperor_of_china = yes 
-    OR = {
-      tag = JAP 
-      has_country_flag = ymu_unlock_jap
-    }
+		tag = JAP
 		capital_scope = { continent = asia }
 	}
 	has_country_shield = yes 
@@ -3544,20 +3537,11 @@ japanese_missions_eoc_5 = {
 				num_of_galley = 50 
 				num_of_light_ship = 50
 			}
-			if = {
-				limit = { tag = MNG }
-				OR = {
-					mission_completed = mng_repeal_haijin_policy
-					mission_completed = mng_improve_haijin_policy
-				}
-			}
-			else = {
-				OR = { 
-					full_idea_group = trade_ideas 
-					dip = 6 
-					monthly_dip = 10 
-					national_focus = DIP 
-				}
+			OR = { 
+				full_idea_group = trade_ideas 
+				dip = 6 
+				monthly_dip = 10 
+				national_focus = DIP 
 			}
 		}
 		
