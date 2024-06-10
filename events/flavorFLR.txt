@@ -713,13 +713,11 @@ country_event = {
   picture = FLANDREHAPPY_eventPicture
   fire_only_once = yes
   major = yes
+  is_triggered_only = yes
   trigger = {
     tag = FLR
     is_emperor = yes
     has_institution = global_trade
-  }
-  mean_time_to_happen = {
-    months = 1
   }
   option = {
     name = flavor_flr.8.a
@@ -766,6 +764,7 @@ country_event = {
   picture = SHRINE_eventPicture
   fire_only_once = yes
   major = yes
+  is_triggered_only = yes
   trigger = {
     th_is_touhou_religion = no
     tag = FLR
@@ -777,9 +776,6 @@ country_event = {
       }
       knows_country = ROOT
     }
-  }
-  mean_time_to_happen = {
-    months = 1
   }
   option = {
     name = flavor_flr.9.a
@@ -843,6 +839,7 @@ country_event = {
   title = "flavor_flr.12.t"
   desc = "flavor_flr.12.desc"
   picture = FLANDRECHURCH_eventPicture
+  is_triggered_only = yes
   trigger = {
     OR = {
       is_religion_enabled = protestant
@@ -857,9 +854,6 @@ country_event = {
     th_is_or_was_tag = {
       tag = FLR
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   immediate = {
     hidden_effect = {
@@ -1115,12 +1109,10 @@ country_event = {
   title = "flavor_flr.16.t"
   desc = "flavor_flr.16.desc"
   picture = TANYA_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_country_flag = flr_is_flandrish_empire
     tag = HLR
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   immediate = {

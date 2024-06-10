@@ -173,7 +173,7 @@ country_event = {
 		}
 		picture = SHRINE_eventPicture
 	}
-	
+	is_triggered_only = yes
 	trigger = {
 		th_has_touhou_estates = yes
 		is_in_war = {
@@ -201,12 +201,7 @@ country_event = {
 			set_country_flag = th_states_had_good_unc_event_flag
 			clr_country_flag = th_is_having_good_unc_event
 		}
-	}	
-	
-	mean_time_to_happen = {
-		days = 30
 	}
-	
 	option = {	#We have the support of our rival
 		name = th_states_flavor_unc.2.a
 		
@@ -258,7 +253,7 @@ country_event = {
 		}
 		picture = SHRINE_eventPicture
 	}
-	
+	is_triggered_only = yes
 	trigger = {
 		OR = {
 			is_at_war = no
@@ -281,10 +276,6 @@ country_event = {
 		hidden_effect = {
 			clr_country_flag = th_states_received_defensive_support_flag
 		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 	
 	option = {	#Now she is against me again
@@ -1139,6 +1130,7 @@ country_event = {
 	desc = none
 	picture = MOKOU_eventPicture
 	
+	is_triggered_only = yes
 	trigger = {
 		OR = {
 			AND = {
@@ -1156,10 +1148,6 @@ country_event = {
 				}
 			}
 		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 	hidden = yes
 	

@@ -6,7 +6,7 @@ country_event = {
 	title = "th_modifier_trust_events.1.t"
 	desc = none
 	picture = SHRINE_eventPicture
-
+	is_triggered_only = yes
 	trigger = {
 		OR = {
 			has_global_modifier_value = {
@@ -30,23 +30,11 @@ country_event = {
 				}
 			}
 		}
-		OR = {
-			NOT = { has_country_flag = th_had_increased_trust_event }
-			had_country_flag = {
-				flag = th_had_increased_trust_event
-				days = 364
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	hidden = yes
 
 	immediate = {
-		clr_country_flag = th_had_increased_trust_event
 		export_to_variable = {
 			variable_name = th_additional_trust
 			value = modifier:yearly_trust_growth
@@ -60,7 +48,6 @@ country_event = {
 	}
 
 	option = {
-		set_country_flag = th_had_increased_trust_event
 		if = {
 			limit = {
 				check_variable = {

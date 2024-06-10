@@ -12,6 +12,7 @@ country_event = {
 	picture = DIPLOMACY_eventPicture
 	hidden = yes
 
+	is_triggered_only = yes
 	trigger = {
 		has_government_attribute = enables_fairy_bloom
 		OR = {
@@ -49,10 +50,6 @@ country_event = {
 				NOT = { has_country_modifier = th_colonial_stability_3 }
 			}
 		}
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 
     option = {

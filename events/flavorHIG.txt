@@ -5,6 +5,7 @@ country_event = {
   desc = flavor_hig.1.desc
   picture = KOMACHI_eventPicture
   fire_only_once = yes
+  is_triggered_only = yes
   trigger = {
     th_is_or_was_tag = {
       tag = HIG
@@ -13,9 +14,6 @@ country_event = {
       has_country_flag = hig_has_dealt_with_slacking_komachi
     }
     has_estate_privilege = th_estate_nobles_slacking_shinigami
-  }
-  mean_time_to_happen = {
-    months = 1
   }
   option = {
     name = flavor_hig.1.a

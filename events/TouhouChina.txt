@@ -11,9 +11,7 @@ country_event = {
 	desc = th_china_events.1.desc
 	picture = GENSOKYOTHRONE_eventPicture
 	
-	mean_time_to_happen = {
-		months = 1
-	}
+	is_triggered_only = yes
 	
 	trigger = {
 		th_is_emperor_of_china = no

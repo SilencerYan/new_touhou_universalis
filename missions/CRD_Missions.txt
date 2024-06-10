@@ -354,7 +354,7 @@ crd_scarlet_diplo_slot = {
       has_reform = TH_komeiji_diplomacy_reform
     }
     effect = {
-      th_remove_annexation_penalty = yes
+      disable_annexation_penalty = yes
     }
   }
   CRD_perfect_mind_manipulation = {

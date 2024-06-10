@@ -5,13 +5,12 @@ country_event = {
   desc = flavor_fuj.1.desc
   picture = KAGUYAVSMOKOU_eventPicture
   fire_only_once = yes
+  is_triggered_only = yes
+  major = yes
   trigger = {
     tag = FUJ
     NOT = {
       exists = EIT
-    }
-    NOT = {
-      has_country_flag = fuj_has_adapted_government
     }
     owns_core_province = 4997
     OR = {
@@ -28,11 +27,6 @@ country_event = {
       }
     }
   }
-  immediate = {
-    hidden_effect = {
-      set_country_flag = fuj_has_adapted_government
-    }
-  }
   after = {
     if = {
       limit = {
@@ -42,9 +36,6 @@ country_event = {
         loyalty = -49
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   option = {
     name = flavor_fuj.1.a
@@ -75,6 +66,7 @@ country_event = {
   title = flavor_fuj.2.t
   desc = flavor_fuj.2.desc
   picture = MOKOUKEINE_eventPicture
+  is_triggered_only = yes
   trigger = {
     OR = {
       tag = FUJ
@@ -88,9 +80,6 @@ country_event = {
     }
   }
   fire_only_once = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   immediate = {
     hidden_effect = {
       set_country_flag = fuj_keine_met
@@ -114,23 +103,7 @@ country_event = {
   title = flavor_fuj.3.t
   desc = flavor_fuj.3.desc
   picture = SHRINE_eventPicture
-  trigger = {
-    has_country_flag = fuj_defeated_sff
-    has_country_flag = fuj_defeated_net
-    has_country_flag = fuj_defeated_mim
-    has_country_flag = fuj_protects_humans
-    NOT = {
-      has_country_flag = fuj_had_claim_event
-    }
-  }
-  immediate = {
-    hidden_effect = {
-      set_country_flag = fuj_had_claim_event
-    }
-  }
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   option = {
     name = flavor_fuj.3.a
     japan_region = {
@@ -394,6 +367,7 @@ country_event = {
   desc = flavor_fuj.7.desc
   picture = SHRINE_eventPicture
   hidden = yes
+  is_triggered_only = yes
   trigger = {
     has_country_flag = th_fuj_eternal_daimyo
     NOT = {
@@ -404,9 +378,6 @@ country_event = {
     }
     ai = yes
     was_player = no
-  }
-  mean_time_to_happen = {
-    days = 5
   }
   option = {
     name = flavor_fuj.7.a
@@ -801,20 +772,7 @@ country_event = {
   title = flavor_fuj.102.t
   desc = flavor_fuj.102.desc
   picture = MOKOU_eventPicture
-  trigger = {
-    NOT = {
-      has_country_flag = fuj_has_leveling_mokou
-    }
-    OR = {
-      has_government_attribute = th_has_leveling_ruler_general
-      th_is_or_was_tag = {
-        tag = FUJ
-      }
-    }
-  }
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   immediate = {
     hidden_effect = {
       set_variable = {
@@ -875,28 +833,9 @@ country_event = {
   title = flavor_fuj.103.t
   desc = flavor_fuj.103.desc
   picture = MOKOU_eventPicture
-  trigger = {
-    has_country_flag = fuj_has_leveling_mokou
-    NOT = {
-      check_variable = {
-        which = fuj_mokou_level
-        which = fuj_mokou_level_cap
-      }
-    }
-    check_variable = {
-      which = fuj_mokou_exp
-      which = fuj_mokou_level_threshold
-    }
-    NOT = {
-      has_country_flag = th_has_leveling_event_going
-    }
-  }
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   immediate = {
     hidden_effect = {
-      set_country_flag = th_has_leveling_event_going
       th_respawn_ruler_with_new_stats_effect = yes
       change_variable = {
         which = fuj_mokou_level_threshold

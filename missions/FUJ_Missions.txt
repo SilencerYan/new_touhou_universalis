@@ -182,6 +182,17 @@ fujiwara_mokous_training_slot = {
     effect = {
       hidden_effect = {
         set_country_flag = fuj_defeated_net
+        if = {
+          limit = {
+            has_country_flag = fuj_defeated_sff
+            has_country_flag = fuj_defeated_net
+            has_country_flag = fuj_defeated_mim
+            has_country_flag = fuj_protects_humans
+          }
+          country_event = {
+            id = flavor_fuj.3
+          }
+        }
       }
       add_accepted_culture = "Netherlandish"
       netherworld_region = {
@@ -504,6 +515,17 @@ fujiwara_missions_second_left_slot = {
       }
       hidden_effect = {
         set_country_flag = fuj_defeated_sff
+        if = {
+          limit = {
+            has_country_flag = fuj_defeated_sff
+            has_country_flag = fuj_defeated_net
+            has_country_flag = fuj_defeated_mim
+            has_country_flag = fuj_protects_humans
+          }
+          country_event = {
+            id = flavor_fuj.3
+          }
+        }
       }
     }
   }
@@ -1512,6 +1534,17 @@ fujiwara_missions_second_right_slot = {
     effect = {
       hidden_effect = {
         set_country_flag = fuj_defeated_mim
+        if = {
+          limit = {
+            has_country_flag = fuj_defeated_sff
+            has_country_flag = fuj_defeated_net
+            has_country_flag = fuj_defeated_mim
+            has_country_flag = fuj_protects_humans
+          }
+          country_event = {
+            id = flavor_fuj.3
+          }
+        }
       }
       add_country_modifier = {
         name = fuj_freedom_from_the_ghost
@@ -1810,6 +1843,17 @@ fujiwara_missions_outworld_slot = {
     effect = {
       hidden_effect = {
         set_country_flag = fuj_protects_humans
+        if = {
+          limit = {
+            has_country_flag = fuj_defeated_sff
+            has_country_flag = fuj_defeated_net
+            has_country_flag = fuj_defeated_mim
+            has_country_flag = fuj_protects_humans
+          }
+          country_event = {
+            id = flavor_fuj.3
+          }
+        }
       }
       add_country_modifier = {
         name = fuj_support_of_the_humans

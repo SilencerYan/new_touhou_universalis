@@ -64,9 +64,6 @@ country_event = {
 	picture = YOUKAIMOUNTAIN_eventPicture
 	is_triggered_only = yes
 	goto = feral_youkai_province
-	mean_time_to_happen = {
-		days = 1
-	}
 	trigger = {
 		NOT = { has_country_flag = th_has_wild_youkai_in_country }
 		num_of_cities = 4

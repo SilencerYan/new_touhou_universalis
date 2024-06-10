@@ -179,7 +179,7 @@ country_event = {
 	picture = FAIRYFIGHT_eventPicture
 	
 	hidden = yes
-
+	is_triggered_only = yes
 	trigger = {
 		NOT = { has_global_flag = th_royal_fairy_challenge_has_begun }
 		NOT = { has_global_flag = th_royal_fairy_challenge_calculating_result }
@@ -187,10 +187,6 @@ country_event = {
 			has_country_flag = th_rfc_is_compared
 			has_country_flag = th_participates_royal_fairy_challenge
 		}
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	option = {

@@ -220,6 +220,7 @@ country_event = {
   title = flavor_clp.5.t
   desc = flavor_clp.5.desc
   picture = ANGERHECATIA_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_country_flag = clp_pledging_to_believe_hecatia
     NOT = {
@@ -231,9 +232,6 @@ country_event = {
         has_personal_deity = "Hecatia"
       }
     }
-  }
-  mean_time_to_happen = {
-    months = 0
   }
   immediate = {
     hidden_effect = {
@@ -258,6 +256,7 @@ country_event = {
   title = flavor_clp.6.t
   desc = flavor_clp.6.desc
   picture = HECATIA2_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_country_flag = clp_anger_of_hecatia
     NOT = {
@@ -267,9 +266,6 @@ country_event = {
       religion = th_hakureishinto
       has_personal_deity = "Hecatia"
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   immediate = {
     hidden_effect = {

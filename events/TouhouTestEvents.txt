@@ -2483,9 +2483,7 @@ country_event = {
     ai = yes
     was_player = no
   }
-  mean_time_to_happen = {
-    months = 1
-  }
+  is_triggered_only = yes
   hidden = yes
   option = {
     name = "th_test_events.1002.a"
@@ -2548,9 +2546,7 @@ country_event = {
       }
     }
   }
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   hidden = yes
   option = {
     name = "th_test_events.1003.a"

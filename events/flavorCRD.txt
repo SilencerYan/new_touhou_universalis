@@ -713,31 +713,6 @@ country_event = {
   }
 }
 country_event = {
-  id = flavor_crd.7
-  title = flavor_crd.7.t
-  desc = flavor_crd.7.desc
-  picture = SATORI_eventPicture
-  mean_time_to_happen = {
-    days = 1
-  }
-  hidden = yes
-  trigger = {
-    has_country_modifier = annexers_legacy
-    has_country_flag = th_diplomatic_hegemon
-  }
-  immediate = {
-    hidden_effect = {
-      remove_country_modifier = annexers_legacy
-    }
-  }
-  option = {
-    name = flavor_crd.7.a
-    ai_chance = {
-      factor = 100
-    }
-  }
-}
-country_event = {
   id = flavor_crd.8
   title = flavor_crd.8.t
   desc = {
@@ -755,6 +730,7 @@ country_event = {
     desc = flavor_crd.8.desc.b
   }
   picture = REMILIA_eventPicture
+  is_triggered_only = yes
   trigger = {
     th_is_or_was_tag = {
       tag = CRD
@@ -788,9 +764,6 @@ country_event = {
     NOT = {
       has_country_flag = crd_appealed_remilia
     }
-  }
-  mean_time_to_happen = {
-    days = 5
   }
   immediate = {
     hidden_effect = {
@@ -870,6 +843,7 @@ country_event = {
   title = flavor_crd.80.t
   desc = flavor_crd.80.desc
   picture = REMILIA_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_country_flag = crd_not_appealed_remilia
     SCR = {
@@ -878,9 +852,6 @@ country_event = {
         is_subject_of_type = th_rebellious_subject
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -904,6 +875,7 @@ country_event = {
   title = flavor_crd.9.t
   desc = flavor_crd.9.desc
   picture = REMILIA_eventPicture
+  is_triggered_only = yes
   trigger = {
     th_is_or_was_tag = {
       tag = CRD
@@ -942,9 +914,6 @@ country_event = {
         }
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -992,6 +961,7 @@ country_event = {
   title = flavor_crd.90.t
   desc = flavor_crd.90.desc
   picture = REMILIA_eventPicture
+  is_triggered_only = yes
   trigger = {
     th_is_or_was_tag = {
       tag = SCR
@@ -1004,9 +974,6 @@ country_event = {
       }
       has_province_modifier = scr_crd_not_my_mistress
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -1032,6 +999,7 @@ country_event = {
   title = flavor_crd.10.t
   desc = flavor_crd.10.desc
   picture = REMILIA_eventPicture
+  is_triggered_only = yes
   trigger = {
     any_owned_province = {
       has_province_modifier = scr_crd_not_my_mistress
@@ -1059,9 +1027,6 @@ country_event = {
       }
       has_country_flag = crd_appealed_remilia
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {

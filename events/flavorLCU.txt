@@ -17,23 +17,7 @@ country_event = {
   title = flavor_lcu.1.t
   desc = flavor_lcu.1.desc
   picture = FORMERHELL_eventPicture
-  trigger = {
-    OR = {
-      has_idea_group = LEM_ideas
-      has_idea_group = LCU_ideas
-    }
-    NOT = {
-      has_country_flag = th_lcu_got_informed_about_mercs
-    }
-  }
-  mean_time_to_happen = {
-    days = 1
-  }
-  immediate = {
-    hidden_effect = {
-      set_country_flag = th_lcu_got_informed_about_mercs
-    }
-  }
+  is_triggered_only = yes
   option = {
     name = flavor_lcu.1.a
     custom_tooltip = flavor_lcu.1.a.tt

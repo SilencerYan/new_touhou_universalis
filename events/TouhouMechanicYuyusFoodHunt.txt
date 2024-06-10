@@ -20,9 +20,7 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -82,9 +80,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -133,9 +129,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -175,9 +169,7 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -260,9 +252,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -288,9 +278,7 @@ country_event = {
 		NOT = { has_reform = Gensokyan_ghost_monarchy }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 

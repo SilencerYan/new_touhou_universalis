@@ -10,10 +10,6 @@ country_event = {
 	
 	is_triggered_only = yes
 
-	mean_time_to_happen = {
-		days = 1
-	}
-
 	immediate = {
 		hidden_effect = { set_country_flag = active_th_religious_turmoil }
 	}
@@ -71,12 +67,6 @@ country_event = {
 	immediate = {
 		hidden_effect = { clr_country_flag = active_th_religious_turmoil }
 	}
-
-
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 	
 	option = {
 		name = "EVTOPTA2038"				# One Faith
@@ -105,10 +95,6 @@ country_event = {
 	}
 	
 	is_triggered_only = yes
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 	
 	option = {
 		name = "EVTOPTA2032"		# Banish the nonconformists.
@@ -139,9 +125,6 @@ country_event = {
 	}
 	
 	is_triggered_only = yes
-	mean_time_to_happen = {
-		days = 1
-	}
 	
 	option = {				# Increase funding to suppress the heretics.
 		name = "EVTOPTA2033"
@@ -174,9 +157,6 @@ country_event = {
 	
 	
 	is_triggered_only = yes
-	mean_time_to_happen = {
-		days = 1
-	}	
 	
 	option = {
 		name = "EVTOPTA2034"		# Subdue the heretics.
@@ -218,9 +198,6 @@ country_event = {
 	}
 	
 	is_triggered_only = yes
-	mean_time_to_happen = {
-		days = 1
-	}
 	
 	option = {
 		name = "EVTOPTA2035"		# Our time is better spent elsewhere

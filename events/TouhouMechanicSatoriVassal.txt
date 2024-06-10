@@ -16,9 +16,7 @@ country_event = {
 		NOT = { has_country_flag = th_initialized_subject_counter }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 	
@@ -62,9 +60,7 @@ country_event = {
 		has_country_flag = th_initialized_subject_counter
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 	
@@ -113,9 +109,7 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -183,9 +177,7 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -255,9 +247,7 @@ country_event = {
 		NOT = { has_country_modifier = th_too_many_vassals }
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {
@@ -319,9 +309,7 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -374,9 +362,7 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 	
@@ -407,9 +393,7 @@ country_event = {
 		has_country_modifier = th_too_many_vassals
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {
@@ -462,9 +446,7 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 

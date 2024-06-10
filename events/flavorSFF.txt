@@ -62,6 +62,7 @@ country_event = {
   title = flavor_sff.2.t
   desc = flavor_sff.2.desc
   picture = SHINKI_eventPicture
+  is_triggered_only = yes
   trigger = {
     tag = SFF
     exists = MKI
@@ -76,9 +77,6 @@ country_event = {
       defender_leader = MKI
       war_score = 75
     }
-  }
-  mean_time_to_happen = {
-    months = 1
   }
   immediate = {
     hidden_effect = {
@@ -565,6 +563,7 @@ country_event = {
   desc = flavor_sff.99.desc
   picture = YUUKATHINKING_eventPicture
   fire_only_once = yes
+  is_triggered_only = yes
   trigger = {
     OR = {
       th_is_or_was_tag = {
@@ -575,9 +574,6 @@ country_event = {
     NOT = {
       has_country_flag = sff_has_variables_set
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   immediate = {
     hidden_effect = {
@@ -598,152 +594,93 @@ country_event = {
     }
   }
 }
-province_event = {
+country_event = {
   id = flavor_sff.105
   title = flavor_sff.105.t
   desc = flavor_sff.105.desc
   picture = YUUKAGARDENS_eventPicture
-  trigger = {
-    NOT = {
-      has_province_modifier = sff_sun_garden_lv2
-    }
-    region = sunflower_region
-    owner = {
-      th_sff_compare_sun_garden_power = {
-        value = 2
-      }
-      NOT = {
-        th_sff_compare_sun_garden_power = {
-          value = 3
-        }
-      }
-    }
-  }
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   hidden = yes
   option = {
     name = flavor_sff.105.a
-    add_province_modifier = {
-      name = sff_sun_garden_lv2
-      duration = -1
+    5152 = {
+      add_province_modifier = {
+        name = sff_sun_garden_lv2
+        duration = -1
+      }
+      remove_province_modifier = sff_sun_garden_lv3
+      remove_province_modifier = sff_sun_garden_lv4
+      remove_province_modifier = sff_sun_garden_lv5
     }
-    remove_province_modifier = sff_sun_garden_lv3
-    remove_province_modifier = sff_sun_garden_lv4
-    remove_province_modifier = sff_sun_garden_lv5
     ai_chance = {
       factor = 100
     }
   }
 }
-province_event = {
+country_event = {
   id = flavor_sff.106
   title = flavor_sff.106.t
   desc = flavor_sff.106.desc
   picture = YUUKAGARDENS_eventPicture
-  trigger = {
-    NOT = {
-      has_province_modifier = sff_sun_garden_lv3
-    }
-    region = sunflower_region
-    owner = {
-      th_sff_compare_sun_garden_power = {
-        value = 3
-      }
-      NOT = {
-        th_sff_compare_sun_garden_power = {
-          value = 4
-        }
-      }
-    }
-  }
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   hidden = yes
   option = {
     name = flavor_sff.106.a
-    add_province_modifier = {
-      name = sff_sun_garden_lv3
-      duration = -1
+    5152 = {
+      add_province_modifier = {
+        name = sff_sun_garden_lv3
+        duration = -1
+      }
+      remove_province_modifier = sff_sun_garden_lv2
+      remove_province_modifier = sff_sun_garden_lv4
+      remove_province_modifier = sff_sun_garden_lv5
     }
-    remove_province_modifier = sff_sun_garden_lv2
-    remove_province_modifier = sff_sun_garden_lv4
-    remove_province_modifier = sff_sun_garden_lv5
     ai_chance = {
       factor = 100
     }
   }
 }
-province_event = {
+country_event = {
   id = flavor_sff.107
   title = flavor_sff.107.t
   desc = flavor_sff.107.desc
   picture = YUUKAGARDENS_eventPicture
-  trigger = {
-    NOT = {
-      has_province_modifier = sff_sun_garden_lv4
-    }
-    region = sunflower_region
-    owner = {
-      th_sff_compare_sun_garden_power = {
-        value = 4
-      }
-      NOT = {
-        th_sff_compare_sun_garden_power = {
-          value = 5
-        }
-      }
-    }
-  }
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   hidden = yes
   option = {
     name = flavor_sff.107.a
-    add_province_modifier = {
-      name = sff_sun_garden_lv4
-      duration = -1
+    5152 = {
+      add_province_modifier = {
+        name = sff_sun_garden_lv4
+        duration = -1
+      }
+      remove_province_modifier = sff_sun_garden_lv2
+      remove_province_modifier = sff_sun_garden_lv3
+      remove_province_modifier = sff_sun_garden_lv5
     }
-    remove_province_modifier = sff_sun_garden_lv2
-    remove_province_modifier = sff_sun_garden_lv3
-    remove_province_modifier = sff_sun_garden_lv5
     ai_chance = {
       factor = 100
     }
   }
 }
-province_event = {
+country_event = {
   id = flavor_sff.108
   title = flavor_sff.108.t
   desc = flavor_sff.108.desc
   picture = YUUKAGARDENS_eventPicture
-  trigger = {
-    NOT = {
-      has_province_modifier = sff_sun_garden_lv5
-    }
-    region = sunflower_region
-    owner = {
-      th_sff_compare_sun_garden_power = {
-        value = 5
-      }
-    }
-  }
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   hidden = yes
   option = {
     name = flavor_sff.108.a
-    add_province_modifier = {
-      name = sff_sun_garden_lv5
-      duration = -1
+    5152 = {
+      add_province_modifier = {
+        name = sff_sun_garden_lv5
+        duration = -1
+      }
+      remove_province_modifier = sff_sun_garden_lv2
+      remove_province_modifier = sff_sun_garden_lv3
+      remove_province_modifier = sff_sun_garden_lv4
     }
-    remove_province_modifier = sff_sun_garden_lv2
-    remove_province_modifier = sff_sun_garden_lv3
-    remove_province_modifier = sff_sun_garden_lv4
     ai_chance = {
       factor = 100
     }
@@ -870,12 +807,10 @@ country_event = {
   title = flavor_sff.111.t
   desc = flavor_sff.111.desc
   picture = YUUKAGARDENS_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_country_flag = sff_enabled_drain_nature
     has_country_flag = sff_pressed_decision_button
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   immediate = {
     hidden_effect = {

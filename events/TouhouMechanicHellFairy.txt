@@ -66,10 +66,7 @@ country_event = {
 			th_hellfairy_has_no_stack = yes
 		}
 	}
-
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {
 		name = th_hellfairy_events.8.a
@@ -119,9 +116,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {
 		name = th_hellfairy_events.9.a

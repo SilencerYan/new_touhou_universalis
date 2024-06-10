@@ -7,29 +7,12 @@ country_event = {
 	desc = none
 	picture = SHRINE_eventPicture
 	hidden = yes
-
+	is_triggered_only = yes
 	trigger = {
 		mry_uses_faith_power = yes
-		OR = {
-			NOT = { has_country_flag = th_had_monthly_faith_power_event }
-			had_country_flag = {
-				flag = th_had_monthly_faith_power_event
-				days = 29
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-
-
-	immediate = {
-		clr_country_flag = th_had_monthly_faith_power_event
 	}
 
 	option = {
-		set_country_flag = th_had_monthly_faith_power_event
 		mry_add_base_scaled_faith_power = {
 			value = 1
 		}

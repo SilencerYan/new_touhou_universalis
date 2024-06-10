@@ -25,10 +25,6 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 	option = {
 		name = th_estate_crow_tengu_events.1.a
 		add_estate_influence_modifier = {
@@ -65,10 +61,6 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 	option = {
 		name = th_estate_crow_tengu_events.1.a
 		add_estate_influence_modifier = {
@@ -97,10 +89,6 @@ country_event = {
 				modifier = EST_VAL_CROW_TENGU_NEWSPAPER_CONFLICT
 			}
 		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 	
 	option = {
@@ -155,10 +143,6 @@ country_event = {
 				modifier = EST_VAL_CROW_TENGU_FREE_DAYS_PROHIBITED
 			}
 		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 	
 	#Let them rest
@@ -266,10 +250,6 @@ country_event = {
 				modifier = EST_VAL_CROW_TENGU_SUPPORTED_COMPETITIONS
 			}
 		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 	
 	immediate = {
@@ -441,10 +421,6 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 	immediate = {
 		hidden_effect = {
 			random_list = {
@@ -532,10 +508,6 @@ country_event = {
 			}
 			is_city = yes
 		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 	
 	immediate = {
@@ -725,10 +697,6 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 	option = {
 		name = th_estate_crow_tengu_events.8.a #The Clergy cannot do whatever they please!
 		ai_chance = {
@@ -866,10 +834,6 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 	#Let them rest
 	option = {
 		name = th_estate_crow_tengu_events.9.a
@@ -923,10 +887,6 @@ country_event = {
 			is_capital = no
 			is_city = yes
 		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	immediate = {
@@ -1096,10 +1056,6 @@ country_event = {
 				loyalty = 60
 			}
 		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	immediate = {

@@ -5,6 +5,7 @@ country_event = {
   desc = flavor_scr.1.desc
   picture = KOIFLAN_eventPicture
   fire_only_once = yes
+  is_triggered_only = yes
   trigger = {
     tag = SCR
     exists = CRD
@@ -14,9 +15,6 @@ country_event = {
       is_free_or_tributary_trigger = yes
     }
     is_free_or_tributary_trigger = yes
-  }
-  mean_time_to_happen = {
-    days = 5
   }
   option = {
     name = flavor_scr.1.a
@@ -874,6 +872,7 @@ country_event = {
     desc = flavor_scr.6.desc.b
   }
   picture = SATORI_eventPicture
+  is_triggered_only = yes
   trigger = {
     th_is_or_was_tag = {
       tag = SCR
@@ -903,9 +902,6 @@ country_event = {
     NOT = {
       has_country_flag = scr_appealed_satori
     }
-  }
-  mean_time_to_happen = {
-    days = 5
   }
   immediate = {
     hidden_effect = {
@@ -977,6 +973,7 @@ country_event = {
   title = flavor_scr.60.t
   desc = flavor_scr.60.desc
   picture = SATORI_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_country_flag = scr_not_appealed_satori
     CRD = {
@@ -985,9 +982,6 @@ country_event = {
         is_subject_of_type = th_rebellious_subject
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -1011,6 +1005,7 @@ country_event = {
   title = flavor_scr.7.t
   desc = flavor_scr.7.desc
   picture = SATORI_eventPicture
+  is_triggered_only = yes
   trigger = {
     th_is_or_was_tag = {
       tag = SCR
@@ -1041,9 +1036,6 @@ country_event = {
         }
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -1083,6 +1075,7 @@ country_event = {
   title = flavor_scr.70.t
   desc = flavor_scr.70.desc
   picture = SATORI_eventPicture
+  is_triggered_only = yes
   trigger = {
     th_is_or_was_tag = {
       tag = CRD
@@ -1091,9 +1084,6 @@ country_event = {
       region = former_hell_region
       has_province_modifier = scr_crd_not_my_mistress
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -1115,6 +1105,7 @@ country_event = {
   title = flavor_scr.8.t
   desc = flavor_scr.8.desc
   picture = SATORI_eventPicture
+  is_triggered_only = yes
   trigger = {
     any_owned_province = {
       region = former_hell_region
@@ -1146,9 +1137,6 @@ country_event = {
       }
       has_country_flag = scr_appealed_satori
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -1354,6 +1342,8 @@ country_event = {
   title = flavor_scr.12.t
   desc = flavor_scr.12.desc
   picture = SATORI_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
   trigger = {
     has_mission = SCR_appeal_to_satori
     mission_completed = SCR_unite_the_mansions
@@ -1370,9 +1360,6 @@ country_event = {
       country_or_non_sovereign_subject_holds = ROOT
       type = all
     }
-  }
-  mean_time_to_happen = {
-    days = 15
   }
   immediate = {
     hidden_effect = {
@@ -1409,6 +1396,8 @@ country_event = {
   title = flavor_scr.14.t
   desc = flavor_scr.14.desc
   picture = FORMERHELL_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
   trigger = {
     has_mission = SCR_appeal_to_satori
     mission_completed = SCR_unite_the_mansions
@@ -1454,9 +1443,6 @@ country_event = {
       province = 5295
     }
   }
-  mean_time_to_happen = {
-    days = 15
-  }
   immediate = {
     hidden_effect = {
       set_country_flag = scr_hell_residents_appeased
@@ -1492,6 +1478,8 @@ country_event = {
   title = flavor_scr.15.t
   desc = flavor_scr.15.desc
   picture = YUUGI_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
   trigger = {
     has_mission = SCR_appeal_to_satori
     mission_completed = SCR_unite_the_mansions
@@ -1505,9 +1493,6 @@ country_event = {
       which = discipline
       value = 0.2
     }
-  }
-  mean_time_to_happen = {
-    days = 15
   }
   immediate = {
     hidden_effect = {
@@ -1774,6 +1759,8 @@ country_event = {
   title = "flavor_scr.23.t"
   desc = "flavor_scr.23.desc"
   picture = REMILIAVICTORY_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
   hidden = yes
   trigger = {
     th_is_or_was_tag = {
@@ -1785,9 +1772,6 @@ country_event = {
     NOT = {
       has_country_flag = scr_has_enough_victories
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   option = {
     name = flavor_scr.23.a
@@ -2267,12 +2251,11 @@ country_event = {
   title = flavor_scr.31.t
   desc = flavor_scr.31.desc
   picture = SCARLETMANSION_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
   trigger = {
     has_country_flag = scr_mansion_does_not_exist_yet
     is_year = 1707
-  }
-  mean_time_to_happen = {
-    days = 30
   }
   immediate = {
     hidden_effect = {

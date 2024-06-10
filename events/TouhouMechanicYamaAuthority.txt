@@ -88,9 +88,7 @@ country_event = {
 		is_at_war = no
 	}
 
-	mean_time_to_happen = {
-		days = 20
-	}
+	is_triggered_only = yes
 
 	option = {
 		clr_country_flag = th_hig_defender
@@ -528,9 +526,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {
 		th_yama_approving_gensokyan_counter = yes
@@ -580,9 +576,7 @@ country_event = {
 		NOT = { has_country_flag = th_unlocked_yama_crownland }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {
 		change_estate_land_share = {

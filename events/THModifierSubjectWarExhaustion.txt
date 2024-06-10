@@ -6,7 +6,7 @@ country_event = {
 	title = th_modifier_subject_war_exhaustion.1.t
 	desc = none
 	picture = none
-
+	is_triggered_only = yes
 	trigger = {
 		num_of_subjects = 1
 		OR = {
@@ -21,23 +21,11 @@ country_event = {
 				}
 			}
 		}
-		OR = {
-			NOT = { has_country_flag = th_had_subject_war_exhaustion_event }
-			had_country_flag = {
-				flag = th_had_subject_war_exhaustion_event
-				days = 29
-			}
-		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	hidden = yes
 
 	immediate = {
-		clr_country_flag = th_had_subject_war_exhaustion_event
 		export_to_variable = {
 			variable_name = th_additional_war_exhaustion
 			value = modifier:subject_war_exhaustion
@@ -50,7 +38,6 @@ country_event = {
 	}
 
 	option = {
-		set_country_flag = th_had_subject_war_exhaustion_event
 		if = {
 			limit = {
 				check_variable = {

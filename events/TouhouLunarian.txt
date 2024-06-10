@@ -11,6 +11,7 @@ country_event = {
 	desc = "TH_lunarian_events.1.desc"
 	picture = TOUHOUMAPS_eventPicture
 
+	is_triggered_only = yes
 	trigger = {
 		capital_scope = { superregion = gensokyo_orbit_superregion }
 		NOT = { has_country_flag = TH_has_discovered_gensokyo }
@@ -18,10 +19,6 @@ country_event = {
 			ai = no
 			is_year = 1550
 		}
-	}
-	
-	mean_time_to_happen = {
-		months = 1
 	}
 
 	option = {
@@ -317,11 +314,7 @@ country_event = {
 	
 	fire_only_once = yes
 	major = yes
-
-	trigger = {
-		NOT = { is_year = 1550 }
-		tag = EIT
-	}
+	is_triggered_only = yes
 	
 	immediate = {
 		hidden_effect = {
@@ -339,10 +332,6 @@ country_event = {
 				set_country_flag = TH_has_anti_earth_weapons
 			}
 		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	option = {	#A war on Lunarian Sovereign Territory is indeed suicide
@@ -508,7 +497,7 @@ country_event = {
 	
 	major = yes
 	fire_only_once = yes
-
+	is_triggered_only = yes
 	trigger = {
 		OR = {
 			has_country_modifier = th_anti_earth_weapons_modifier
@@ -530,10 +519,6 @@ country_event = {
 				set_global_flag = th_lunarian_are_attackable_now_flag 
 			}
 		}
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	option = {	#Not the best news...
@@ -612,11 +597,8 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 7
-	}
-
 	fire_only_once = yes
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {

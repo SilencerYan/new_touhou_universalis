@@ -5,6 +5,7 @@ country_event = {
 	picture = TENSHI_eventPicture
 	desc = flavor_hvr.0.desc
 	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		ai = no
 		th_is_or_was_tag = {
@@ -19,9 +20,6 @@ country_event = {
 			set_country_flag = hvr_has_variables_set
 			th_hvr_initiate_rebel_counter = yes
 		}
-	}
-	mean_time_to_happen = {
-		days = 1
 	}
 	option = {
 		name = flavor_hvr.0.a
@@ -1026,6 +1024,7 @@ country_event = {
 	picture = REIMU_eventPicture
 	desc = flavor_hvr.5.desc
 	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = hvr_reimu_helper
 		owns_or_non_sovereign_subject_of = 4955
@@ -1037,9 +1036,6 @@ country_event = {
 				value = 1
 			}
 		}
-	}
-	mean_time_to_happen = {
-		days = 30
 	}
 	option = {
 		name = flavor_hvr.5.a
@@ -1060,6 +1056,7 @@ country_event = {
 	picture = MARISA_eventPicture
 	desc = flavor_hvr.6.desc
 	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = hvr_marisa_helper
 		owns_or_non_sovereign_subject_of = 5090
@@ -1071,9 +1068,6 @@ country_event = {
 				value = 1
 			}
 		}
-	}
-	mean_time_to_happen = {
-		days = 30
 	}
 	option = {
 		name = flavor_hvr.6.a
@@ -1102,6 +1096,7 @@ country_event = {
 	picture = SCARLETPLAN_eventPicture
 	desc = flavor_hvr.7.desc
 	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = hvr_sakuya_helper
 		owns_or_non_sovereign_subject_of = 4968
@@ -1113,9 +1108,6 @@ country_event = {
 				value = 1
 			}
 		}
-	}
-	mean_time_to_happen = {
-		days = 30
 	}
 	option = {
 		name = flavor_hvr.7.a
@@ -1154,6 +1146,7 @@ country_event = {
 	picture = CHEN_eventPicture
 	desc = flavor_hvr.8.desc
 	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = hvr_yukari_helper
 		owns_or_non_sovereign_subject_of = 4989
@@ -1165,9 +1158,6 @@ country_event = {
 				value = 1
 			}
 		}
-	}
-	mean_time_to_happen = {
-		days = 30
 	}
 	option = {
 		name = flavor_hvr.8.a
@@ -1204,6 +1194,7 @@ country_event = {
 	picture = YUYUKO_eventPicture
 	desc = flavor_hvr.9.desc
 	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = hvr_youmu_helper
 		owns_or_non_sovereign_subject_of = 4958
@@ -1215,9 +1206,6 @@ country_event = {
 				value = 1
 			}
 		}
-	}
-	mean_time_to_happen = {
-		days = 30
 	}
 	option = {
 		name = flavor_hvr.9.a
@@ -1286,6 +1274,7 @@ country_event = {
 	picture = SANAE_eventPicture
 	desc = flavor_hvr.10.desc
 	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = hvr_sanae_helper
 		owns_or_non_sovereign_subject_of = 4998
@@ -1297,9 +1286,6 @@ country_event = {
 				value = 1
 			}
 		}
-	}
-	mean_time_to_happen = {
-		days = 30
 	}
 	option = {
 		name = flavor_hvr.10.a
@@ -1330,6 +1316,7 @@ country_event = {
 	picture = CROW_TENGU_GOOD_eventPicture
 	desc = flavor_hvr.11.desc
 	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = hvr_aya_helper
 		owns_or_non_sovereign_subject_of = 4964
@@ -1341,9 +1328,6 @@ country_event = {
 				value = 1
 			}
 		}
-	}
-	mean_time_to_happen = {
-		days = 30
 	}
 	option = {
 		name = flavor_hvr.11.a
@@ -1374,6 +1358,7 @@ country_event = {
 	picture = KAGUYA_eventPicture
 	desc = flavor_hvr.12.desc
 	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = hvr_reisen_helper
 		owns_or_non_sovereign_subject_of = 4991
@@ -1385,9 +1370,6 @@ country_event = {
 				value = 1
 			}
 		}
-	}
-	mean_time_to_happen = {
-		days = 30
 	}
 	option = {
 		name = flavor_hvr.12.a
@@ -1449,6 +1431,7 @@ country_event = {
 	picture = tenshi_and_bleach_eventPicture
 	desc = flavor_hvr.14.desc
 	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		ai = no
 		th_is_or_was_tag = {
@@ -1474,9 +1457,6 @@ country_event = {
 				days = 3650
 			}
 		}
-	}
-	mean_time_to_happen = {
-		days = 1
 	}
 	option = {
 		name = flavor_hvr.14.a
@@ -1703,14 +1683,10 @@ country_event = {
 	title = flavor_hvr.22.t
 	desc = flavor_hvr.22.desc
 	picture = TRADEGOODS_eventPicture
-
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = hvr_abolish_fishing
 		any_owned_province = { trade_goods = fish }
-	}
-
-	mean_time_to_happen = {
-		months = 1
 	}
 	
 	option = {

@@ -236,14 +236,12 @@ country_event = {
   title = "flavor_tfr.6.t"
   desc = "flavor_tfr.6.desc"
   picture = FAIRYCOURT_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_country_flag = tfr_cin_will_join
     has_saved_event_target = tfr_soon_new_cin_overlord
     is_at_war = no
     is_subject = no
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   immediate = {
     hidden_effect = {
@@ -514,14 +512,12 @@ country_event = {
   desc = "flavor_tfr.13.desc"
   picture = PIRATESHIP_eventPicture
   hidden = yes
+  is_triggered_only = yes
   trigger = {
     estate_territory = {
       estate = estate_fairy_pirates
       territory = 1
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   option = {
     name = flavor_tfr.13.a
@@ -656,9 +652,6 @@ country_event = {
     }
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = flavor_tfr.16.a
     add_army_professionalism = 0.05
@@ -931,14 +924,13 @@ country_event = {
   desc = "flavor_tfr.19.desc"
   picture = PIRATESHIP_eventPicture
   hidden = yes
+  fire_only_once = yes
+  is_triggered_only = yes
   trigger = {
     NOT = {
       has_country_flag = th_initiated_pirate_influence_variable
     }
     has_reform = Gensokyan_tfr_pirate_government
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   option = {
     name = flavor_tfr.19.a

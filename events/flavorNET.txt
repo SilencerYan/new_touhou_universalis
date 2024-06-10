@@ -321,6 +321,7 @@ country_event = {
   title = flavor_net.101.t
   desc = flavor_net.101.desc
   picture = YUYUKO_eventPicture
+  is_triggered_only = yes
   trigger = {
     OR = {
       has_country_modifier = th_mortal_policy_acceptance
@@ -330,9 +331,6 @@ country_event = {
     NOT = {
       has_government_attribute = th_mortal_policies
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -883,6 +881,7 @@ country_event = {
   desc = none
   picture = YUYUKO_eventPicture
   hidden = yes
+  is_triggered_only = yes
   trigger = {
     OR = {
       net_has_cuisine_flag_with_no_modifier = {
@@ -913,9 +912,6 @@ country_event = {
         cuisine = indian
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   option = {
     if = {

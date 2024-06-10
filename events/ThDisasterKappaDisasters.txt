@@ -118,9 +118,6 @@ country_event = {
     }
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   immediate = {
     hidden_effect = {
       random_owned_province = {
@@ -161,9 +158,6 @@ country_event = {
     }
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.4.a
     add_republican_tradition = -5
@@ -190,9 +184,6 @@ country_event = {
     }
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.5.a
     add_stability = -1
@@ -214,9 +205,6 @@ country_event = {
   desc = th_kappa_disasters.6.desc
   picture = KAPPA_DISASTER_eventPicture
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.6.a
     add_republican_tradition = 10
@@ -238,9 +226,6 @@ country_event = {
   desc = th_kappa_disasters.7.desc
   picture = KAPPA_DISASTER_eventPicture
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.7.a
     add_republican_tradition = -5
@@ -286,9 +271,6 @@ country_event = {
       days = 365
     }
   }
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.8.a
     custom_tooltip = th_kappa_disasters.8.a.tt
@@ -323,9 +305,6 @@ country_event = {
   trigger = {
     has_country_modifier = kpp_suppressing_news
   }
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.9.a
     add_army_tradition = -10
@@ -351,9 +330,6 @@ country_event = {
   is_triggered_only = yes
   trigger = {
     has_country_modifier = kpp_free_speech
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   immediate = {
     hidden_effect = {
@@ -400,9 +376,6 @@ country_event = {
       days = 730
     }
   }
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.11.a
     add_treasury = 800
@@ -439,9 +412,6 @@ country_event = {
   desc = th_kappa_disasters.28.desc
   picture = KAPPA_DISASTER_eventPicture
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   immediate = {
     hidden_effect = {
       random_owned_province = {
@@ -476,9 +446,6 @@ country_event = {
   desc = th_kappa_disasters.29.desc
   picture = KAPPA_DISASTER_eventPicture
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.29.a
     add_inflation = 2
@@ -806,9 +773,6 @@ country_event = {
     }
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   immediate = {
     add_corruption = 1
     hidden_effect = {
@@ -1052,9 +1016,6 @@ country_event = {
     }
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   immediate = {
     random_owned_province = {
       limit = {
@@ -1309,9 +1270,6 @@ country_event = {
     }
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   immediate = {
     add_stability = -1
     hidden_effect = {
@@ -1544,9 +1502,6 @@ country_event = {
   trigger = {
     has_ruler_flag = kpp_super_capitalists_in_power
   }
-  mean_time_to_happen = {
-    days = 1
-  }
   immediate = {
     hidden_effect = {
       random_owned_province = {
@@ -1618,9 +1573,6 @@ country_event = {
       has_ruler_modifier = kpp_state_security_instead
     }
   }
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.18.a
     add_ruler_modifier = {
@@ -1657,9 +1609,6 @@ country_event = {
   trigger = {
     has_ruler_flag = kpp_super_capitalists_in_power
     stability = -1
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   immediate = {
     hidden_effect = {
@@ -1716,9 +1665,6 @@ country_event = {
   trigger = {
     has_ruler_flag = kpp_explosion_enjoyers_in_power
   }
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.20.a
     add_adm_power = 25
@@ -1749,9 +1695,6 @@ country_event = {
   is_triggered_only = yes
   trigger = {
     has_ruler_flag = kpp_explosion_enjoyers_in_power
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   immediate = {
     hidden_effect = {
@@ -1799,9 +1742,6 @@ country_event = {
   trigger = {
     has_ruler_flag = kpp_explosion_enjoyers_in_power
   }
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.22.a
     change_innovativeness = -20
@@ -1833,9 +1773,6 @@ country_event = {
     NOT = {
       has_ruler_modifier = kpp_opposing_the_militarists
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   immediate = {
     hidden_effect = {
@@ -1911,9 +1848,6 @@ country_event = {
   trigger = {
     has_ruler_flag = kpp_independent_marines_in_power
   }
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.24.a
     add_yearly_manpower = 2
@@ -1939,9 +1873,6 @@ country_event = {
   is_triggered_only = yes
   trigger = {
     has_ruler_flag = kpp_independent_marines_in_power
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   option = {
     name = th_kappa_disasters.25.a
@@ -1969,9 +1900,6 @@ country_event = {
   trigger = {
     has_ruler_flag = touhou_original_ruler
   }
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_kappa_disasters.26.a
     add_republican_tradition = 10
@@ -1991,9 +1919,6 @@ country_event = {
     NOT = {
       has_ruler_modifier = kpp_tinker_of_the_kappas
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   option = {
     name = th_kappa_disasters.27.a
@@ -2016,9 +1941,6 @@ country_event = {
   goto = th_kappa_rebellion_province
   trigger = {
     has_ruler_flag = touhou_original_ruler
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   immediate = {
     hidden_effect = {

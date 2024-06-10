@@ -13,14 +13,11 @@ country_event = {
 	desc = "th_divine_state.2.desc"
 	picture = SHRINE_eventPicture
 
+	is_triggered_only = yes
 	trigger = {
 		has_government_attribute = th_increased_power_from_own_deity
 		NOT = { has_country_modifier = th_ds_buffed_deity }
 		th_ds_has_enhanced_deity_active = yes
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	hidden = yes
@@ -56,10 +53,7 @@ country_event = {
 		}
 		has_country_modifier = th_ds_buffed_deity
 	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -90,10 +84,7 @@ country_event = {
 			has_country_flag = th_ds_improved_deity
 		}
 	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -119,13 +110,10 @@ country_event = {
 	desc = "th_divine_state.5.desc"
 	picture = SHRINE_eventPicture
 
+	is_triggered_only = yes
 	trigger = {
 		has_government_attribute = th_divine_legitimacy_mechanic
 		NOT = { has_country_flag = th_ds_had_info }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	immediate = {
@@ -154,9 +142,7 @@ country_event = {
 		NOT = { has_country_modifier = th_ds_high_legitimacy_buff }
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -190,10 +176,7 @@ country_event = {
 		NOT = { legitimacy = 70 }
 		NOT = { has_country_modifier = th_ds_low_legitimacy_debuff }
 	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -229,10 +212,7 @@ country_event = {
 			has_country_modifier = th_ds_high_legitimacy_buff
 		}
 	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 

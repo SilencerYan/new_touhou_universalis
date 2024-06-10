@@ -741,6 +741,23 @@ th_on_unit_battle_won_effect = {
         which = fuj_mokou_exp
         value = 10
       }
+      if = {
+        limit = {
+          NOT = {
+            check_variable = {
+              which = fuj_mokou_level
+              which = fuj_mokou_level_cap
+            }
+          }
+          check_variable = {
+            which = fuj_mokou_exp
+            which = fuj_mokou_level_threshold
+          }
+        }
+        country_event = {
+          id = flavor_fuj.103
+        }
+      }
     }
   }
   if = {

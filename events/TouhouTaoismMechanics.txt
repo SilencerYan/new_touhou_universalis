@@ -133,20 +133,21 @@ country_event = {
 		religion = th_taoist
 		NOT = { has_country_flag = th_taoism_started_the_circle }
 	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {
 			set_country_flag = th_taoism_started_the_circle
 			set_country_flag = th_taoism_first_circle
+			set_country_flag = th_taoism_having_wuxing_event
 			country_event = {
 				id = th_taoism_feng_shui_events.1
 				days = 12
 			}
 		}
+	}
+	after = {
+		clr_country_flag = th_taoism_having_wuxing_event
 	}
 	
 	option = {	#Start with Wood
@@ -237,9 +238,7 @@ country_event = {
 		NOT = { has_country_flag = th_taoism_having_wuxing_event }
 	}
 	
-	mean_time_to_happen = {
-		months = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {
@@ -286,10 +285,7 @@ country_event = {
 		}
 		NOT = { has_country_flag = th_taoism_having_wuxing_event }
 	}
-	
-	mean_time_to_happen = {
-		months = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {
@@ -337,9 +333,7 @@ country_event = {
 		NOT = { has_country_flag = th_taoism_having_wuxing_event }
 	}
 	
-	mean_time_to_happen = {
-		months = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {
@@ -387,9 +381,7 @@ country_event = {
 		NOT = { has_country_flag = th_taoism_having_wuxing_event }
 	}
 	
-	mean_time_to_happen = {
-		months = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {
@@ -437,9 +429,7 @@ country_event = {
 		NOT = { has_country_flag = th_taoism_having_wuxing_event }
 	}
 	
-	mean_time_to_happen = {
-		months = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {

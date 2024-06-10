@@ -5,17 +5,6 @@ country_event = {
   desc = "flavor_fom.1.desc"
   picture = ALCHEMYMARISA_eventPicture
   is_triggered_only = yes
-  immediate = {
-    hidden_effect = {
-      set_country_flag = th_fom_currently_chosing_for_ruler
-    }
-  }
-  after = {
-    hidden_effect = {
-      clr_country_flag = th_fom_currently_chosing_for_ruler
-      set_ruler_flag = th_fom_took_potion_descision_flag
-    }
-  }
   option = {
     name = flavor_fom.1.a
     trigger = {
@@ -102,15 +91,8 @@ country_event = {
   desc = "flavor_fom.2.desc"
   picture = ALCHEMYMARISA_eventPicture
   is_triggered_only = yes
-  immediate = {
-    hidden_effect = {
-      set_country_flag = th_fom_currently_chosing_for_heir
-    }
-  }
   after = {
     hidden_effect = {
-      clr_country_flag = th_fom_currently_chosing_for_heir
-      set_heir_flag = th_fom_took_potion_descision_flag
       set_country_flag = th_fom_hourai_potion
     }
   }
@@ -174,30 +156,9 @@ country_event = {
   title = "flavor_fom.3.t"
   desc = "flavor_fom.3.desc"
   picture = ALCHEMYMARISA_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_country_flag = th_fom_hourai_potion
-    NOT = {
-      has_ruler_flag = th_fom_took_potion_descision_flag
-    }
-    NOT = {
-      has_country_flag = th_fom_currently_chosing_for_ruler
-    }
-    NOT = {
-      has_country_flag = th_fom_currently_chosing_for_heir
-    }
-  }
-  mean_time_to_happen = {
-    days = 0
-  }
-  immediate = {
-    hidden_effect = {
-      set_country_flag = th_fom_currently_chosing_for_ruler
-    }
-  }
-  after = {
-    hidden_effect = {
-      set_ruler_flag = th_fom_took_potion_descision_flag
-    }
   }
   option = {
     name = flavor_fom.3.a
@@ -292,34 +253,7 @@ country_event = {
   title = "flavor_fom.4.t"
   desc = "flavor_fom.4.desc"
   picture = ALCHEMYMARISA_eventPicture
-  trigger = {
-    has_country_flag = th_fom_hourai_potion
-    NOT = {
-      has_heir_flag = th_fom_took_potion_descision_flag
-    }
-    NOT = {
-      has_ruler_flag = th_fom_chosed_for_heir
-    }
-    NOT = {
-      has_country_flag = th_fom_currently_chosing_for_ruler
-    }
-    NOT = {
-      has_country_flag = th_fom_currently_chosing_for_heir
-    }
-  }
-  mean_time_to_happen = {
-    days = 0
-  }
-  immediate = {
-    hidden_effect = {
-      set_country_flag = th_fom_currently_chosing_for_heir
-    }
-  }
-  after = {
-    hidden_effect = {
-      clr_country_flag = th_fom_currently_chosing_for_heir
-    }
-  }
+  is_triggered_only = yes
   option = {
     name = flavor_fom.4.a
     trigger = {
@@ -342,9 +276,6 @@ country_event = {
       change_heir_dip = 2
       change_heir_mil = 2
     }
-    hidden_effect = {
-      set_heir_flag = th_fom_took_potion_descision_flag
-    }
   }
   option = {
     name = flavor_fom.4.b
@@ -357,9 +288,6 @@ country_event = {
       }
     }
     th_respawn_marisa_heir = yes
-    hidden_effect = {
-      set_heir_flag = th_fom_took_potion_descision_flag
-    }
   }
   option = {
     name = flavor_fom.4.c
@@ -372,9 +300,6 @@ country_event = {
       }
     }
     th_respawn_alice_heir = yes
-    hidden_effect = {
-      set_heir_flag = th_fom_took_potion_descision_flag
-    }
   }
   option = {
     name = flavor_fom.4.d

@@ -54,9 +54,7 @@ country_event = {
 		NOT = { has_country_modifier = th_mry_shinto_hakureis_power }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {	#Activates modifier for every Moriya Shinto nation
 		name = TH_mry_shinto_events.4.a
@@ -136,9 +134,7 @@ country_event = {
 		NOT = { has_country_modifier = th_mry_shinto_keikis_idols }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {	#Activates modifier for every Moriya Shinto nation
 		name = TH_mry_shinto_events.9.a
@@ -218,9 +214,7 @@ country_event = {
 		NOT = { has_country_modifier = th_mry_shinto_kishin_lunar_naval }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {	#Activates modifier for every Moriya Shinto nation
 		name = TH_mry_shinto_events.14.a
@@ -304,9 +298,7 @@ country_event = {
 		NOT = { has_country_modifier = th_mry_shinto_sukunas_envoys }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {	#Activates modifier for every Moriya Shinto nation
 		name = TH_mry_shinto_events.19.a
@@ -379,15 +371,12 @@ country_event = {
 	
 	hidden = yes
 
+	is_triggered_only = yes
 	trigger = {
 		religion = th_moriyashinto		
 		has_personal_deity = Suwako
 		has_global_flag = th_mry_shinto_hinas_misfortune_active
 		NOT = { has_country_modifier = th_mry_shinto_hinas_misfortune }
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	option = {	#Activates modifier for every Moriya Shinto nation
@@ -468,9 +457,7 @@ country_event = {
 		NOT = { has_country_modifier = th_mry_shinto_hecatias_hell_workers }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {	#Activates modifier for every Moriya Shinto nation
 		name = TH_mry_shinto_events.29.a
@@ -554,9 +541,7 @@ country_event = {
 		NOT = { has_country_modifier = th_mry_shinto_junkos_fury }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {	#Activates modifier for every Moriya Shinto nation
 		name = TH_mry_shinto_events.34.a
@@ -636,9 +621,7 @@ country_event = {
 		NOT = { has_country_modifier = th_mry_shinto_shinkis_merchants }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {	#Activates modifier for every Moriya Shinto nation
 		name = TH_mry_shinto_events.39.a
@@ -718,9 +701,7 @@ country_event = {
 		NOT = { has_country_modifier = th_mry_shinto_satoris_influence }
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {	#Activates modifier for every Moriya Shinto nation
 		name = TH_mry_shinto_events.44.a
@@ -773,9 +754,7 @@ country_event = {
 		th_mry_shinto_has_sanae_buffs = yes
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {
 		name = TH_mry_shinto_events.100.a
@@ -794,17 +773,13 @@ country_event = {
 	picture = SUWAKO_eventPicture
 
 	hidden = yes
-
+	is_triggered_only = yes
 	trigger = {
 		OR = {
 			NOT = { religion = th_moriyashinto }
 			NOT = { has_personal_deity = Suwako }
 		}
 		th_mry_shinto_has_suwako_buffs = yes
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	option = {
@@ -824,6 +799,7 @@ country_event = {
 	picture = KANAKO_eventPicture
 
 	hidden = yes
+	is_triggered_only = yes
 
 	trigger = {
 		OR = {
@@ -831,10 +807,6 @@ country_event = {
 			NOT = { has_personal_deity = Kanako }
 		}
 		th_mry_shinto_has_kanako_buffs = yes
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	option = {

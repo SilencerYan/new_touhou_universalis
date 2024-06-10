@@ -654,14 +654,6 @@ th_upgrade_satori_abilities_effect = {
 	}
 }
 
-th_remove_annexation_penalty = {
-	custom_tooltip = th_remove_annexation_penalty_tt
-	hidden_effect = {
-		set_country_flag = th_diplomatic_hegemon
-	}
-}
-
-
 ##############################################################################################################################
 # MHG
 ##############################################################################################################################

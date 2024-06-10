@@ -200,10 +200,14 @@ hvr_mission_branching_slot_1 = {
 						tooltip = hvr_defensive_war_tooltip
 						is_in_war = {
 							defender_leader = ROOT
-							NOT = {
-								casus_belli = cb_super_badboy
-							}
 							war_score = 50
+						}
+						NOT = {
+							is_in_war = {
+								defender_leader = ROOT
+								casus_belli = cb_super_badboy
+								war_score = 50
+							}
 						}
 					}
 				}
@@ -233,11 +237,15 @@ hvr_mission_branching_slot_1 = {
 				limit = {
 					is_in_war = {
 						defender_leader = ROOT
-						NOT = {
-							casus_belli = cb_super_badboy
-						}
 						war_score = 50
-					}					
+					}
+					NOT = {
+						is_in_war = {
+							defender_leader = ROOT
+							casus_belli = cb_super_badboy
+							war_score = 50
+						}
+					}			
 				}
 				add_trust = {
 					who = ROOT

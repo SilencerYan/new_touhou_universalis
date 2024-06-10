@@ -126,6 +126,7 @@ country_event = {
   desc = "flavor_ran.2.desc"
   picture = SHRINE_eventPicture
   fire_only_once = yes
+  is_triggered_only = yes
   major = yes
   trigger = {
     tag = RAN
@@ -133,9 +134,6 @@ country_event = {
     NOT = {
       religion = orthodox
     }
-  }
-  mean_time_to_happen = {
-    months = 1
   }
   option = {
     name = flavor_ran.2.a

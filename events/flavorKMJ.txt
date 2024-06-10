@@ -152,7 +152,7 @@ country_event = {
 	title = flavor_kmj.3.t
 	desc = flavor_kmj.3.desc
 	picture = KOISHI_eventPicture
-
+	is_triggered_only = yes
 	trigger = {
 		NOT = {
 			th_is_or_was_tag = {
@@ -168,11 +168,6 @@ country_event = {
 		}
 		has_global_flag = th_kmj_koishi_is_free
 	}
-
-	mean_time_to_happen = {
-		days = 1
-	}
-
 	option = {	#Koishi doesn't want to stay
 		name = flavor_kmj.3.a
 		random_subject_country = {
@@ -265,7 +260,7 @@ country_event = {
 	picture = KOISHI_eventPicture
 
 	fire_only_once = yes
-
+	is_triggered_only = yes
 	trigger = {
 		has_global_flag = th_kmj_koishi_is_free
 		th_is_or_was_tag = {
@@ -282,11 +277,6 @@ country_event = {
 			owned_by = ROOT
 		}
 	}
-
-	mean_time_to_happen = {
-		days = 1
-	}
-
 	immediate = {
 		hidden_effect = {
 			set_global_flag = crd_unlock_second_koishi_mission
@@ -323,7 +313,7 @@ country_event = {
 	picture = KOISHI_eventPicture
 
 	fire_only_once = yes
-
+	is_triggered_only = yes
 	trigger = {
 		has_global_flag = th_kmj_koishi_is_free
 		th_is_or_was_tag = {
@@ -340,11 +330,6 @@ country_event = {
 			NOT = { owned_by = ROOT }
 		}
 	}
-
-	mean_time_to_happen = {
-		days = 1
-	}
-
 	immediate = {
 		hidden_effect = {
 			clr_global_flag = th_kmj_koishi_is_free

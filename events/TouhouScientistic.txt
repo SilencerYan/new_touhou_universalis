@@ -14,9 +14,7 @@ country_event = {
 		religion = th_scientistic
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {
 		name = th_scientistic_flavor.1.a
@@ -78,9 +76,7 @@ country_event = {
 		religion = th_scientistic
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {
 		name = th_scientistic_flavor.3.a
@@ -144,9 +140,7 @@ country_event = {
 		religion = th_scientistic
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {
 		name = th_scientistic_flavor.5.a
@@ -210,9 +204,7 @@ country_event = {
 		religion = th_scientistic
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {
 		name = th_scientistic_flavor.7.a
@@ -284,9 +276,7 @@ country_event = {
 		religion = th_scientistic
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	option = {
 		name = th_scientistic_flavor.9.a
@@ -360,9 +350,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {
@@ -424,9 +412,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {
@@ -495,9 +481,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		hidden_effect = {

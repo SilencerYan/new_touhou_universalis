@@ -106,7 +106,7 @@ country_event = {
 	title = "flavor_mry.101.t"
 	desc = "flavor_mry.101.desc"
 	picture = SCARLETT_eventPicture
-	
+	is_triggered_only = yes
 	trigger = {
 		th_can_convert_claims = yes
 		any_province = {
@@ -125,10 +125,6 @@ country_event = {
 				NOT = { is_subject_of = ROOT }
 			}
 		}
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 	
 	hidden = yes
@@ -168,11 +164,7 @@ country_event = {
 	title = flavor_mry.103.t
 	desc = flavor_mry.103.desc
 	picture = KANAKOBOSS_eventPicture
-	
-	mean_time_to_happen = {
-		months = 1
-	}
-	
+	is_triggered_only = yes	
 	trigger = {
 		any_subject_country = { is_subject_of_type = th_religious_tributary }
 		OR = {

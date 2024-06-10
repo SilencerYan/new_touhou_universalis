@@ -2207,6 +2207,7 @@ country_event = {
   title = flavor_mhg.49.t
   desc = none
   picture = none
+  is_triggered_only = yes
   trigger = {
     has_country_flag = mhg_has_increased_subject_opinion
     any_subject_country = {
@@ -2217,9 +2218,6 @@ country_event = {
         }
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -2247,6 +2245,7 @@ country_event = {
   title = flavor_mhg.50.t
   desc = none
   picture = none
+  is_triggered_only = yes
   trigger = {
     any_known_country = {
       reverse_has_opinion_modifier = {
@@ -2257,9 +2256,6 @@ country_event = {
         overlord_of = ROOT
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {

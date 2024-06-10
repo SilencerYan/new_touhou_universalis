@@ -500,7 +500,7 @@ country_event = {
 	desc = none
 	picture = none
 	hidden = yes
-
+	is_triggered_only = yes
 	trigger = {
 		has_disaster = th_anti_makaien_rebellion
 		any_owned_province = {
@@ -517,10 +517,6 @@ country_event = {
 			NOT = { has_province_modifier = th_unhappy_demons }
 		}
 		has_country_flag = mki_gets_penalty_on_makaien_provinces
-	}
-
-	mean_time_to_happen = {
-		days = 5
 	}
 
 	option = {
@@ -621,7 +617,7 @@ country_event = {
 	desc = none
 	picture = none
 	hidden = yes
-
+	is_triggered_only = yes
 	trigger = {
 		has_disaster = th_anti_makaien_rebellion
 		any_owned_province = {
@@ -629,10 +625,6 @@ country_event = {
 			NOT = { has_province_modifier = th_intolerance_to_mortals }
 		}
 		has_country_flag = mki_gets_penalty_on_heretic_heathen_province
-	}
-
-	mean_time_to_happen = {
-		days = 5
 	}
 
 	option = {

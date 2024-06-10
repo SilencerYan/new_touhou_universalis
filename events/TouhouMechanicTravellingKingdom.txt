@@ -22,9 +22,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -154,9 +152,7 @@ country_event = {
 		num_of_subjects = 1
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -258,9 +254,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	hidden = yes
 
@@ -337,9 +331,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		capital_scope = {
@@ -382,9 +374,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		capital_scope = {
@@ -477,9 +467,7 @@ country_event = {
 		is_at_war = yes
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		capital_scope = {
@@ -526,9 +514,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	immediate = {
 		event_target:kmj_capital = {
@@ -595,9 +581,7 @@ country_event = {
 		}
 	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 
 	option = {
@@ -677,9 +661,7 @@ country_event = {
 	desc = none
 	picture = KOISHI_eventPicture
 	hidden = yes
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 
 	trigger = {
 		has_government_attribute = enables_development_transfer

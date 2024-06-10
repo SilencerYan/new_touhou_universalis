@@ -7,6 +7,7 @@ country_event = {
 	desc = th_magic_schools.1.desc
 	picture = MIMAMAGIC_eventPicture
 
+	is_triggered_only = yes
 	trigger = {
 		has_government_attribute = th_has_spell_schools
 		has_country_flag = th_magic_schools_had_info_event
@@ -28,10 +29,6 @@ country_event = {
 				NOT = { has_country_flag = th_specialized_for_age_of_revolutions }
 			}
 		}
-	}
-	
-	mean_time_to_happen = {
-		months = 1
 	}
 
 	immediate = {
@@ -776,12 +773,11 @@ country_event = {
 	title = th_magic_schools.100.t
 	desc = th_magic_schools.100.desc
 	picture = MIMAMAGIC_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
 	trigger = {
 		has_government_attribute = th_has_spell_schools
 		NOT = { has_country_flag = th_magic_schools_had_info_event }
-	}
-	mean_time_to_happen = {
-		days = 1
 	}
 	immediate = {
 		hidden_effect = {

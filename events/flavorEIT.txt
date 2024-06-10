@@ -5,15 +5,14 @@ country_event = {
   desc = flavor_eit.1.desc
   picture = KAGUYAVSMOKOU_eventPicture
   fire_only_once = yes
+  is_triggered_only = yes
+  major = yes
   trigger = {
     th_is_or_was_tag = {
       tag = EIT
     }
     NOT = {
       exists = FUJ
-    }
-    NOT = {
-      has_country_flag = eit_has_adapted_government
     }
     owns_core_province = 4991
     OR = {
@@ -26,7 +25,6 @@ country_event = {
   }
   immediate = {
     hidden_effect = {
-      set_country_flag = eit_has_adapted_government
       set_variable = {
         which = eit_defeated_mokou_counter
         value = 0
@@ -42,9 +40,6 @@ country_event = {
         loyalty = -49
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   option = {
     name = flavor_eit.1.a

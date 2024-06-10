@@ -4,17 +4,9 @@ country_event = {
   title = "touhou_setting.1.t"
   desc = "touhou_setting.1.desc"
   picture = YUKARI_eventPicture
-  trigger = {
-    ai = no
-    NOT = {
-      has_global_flag = th_incident_setting_finished
-    }
-  }
-  mean_time_to_happen = {
-    days = 0
-  }
   fire_only_once = yes
   major = yes
+  is_triggered_only = yes
   immediate = {
     hidden_effect = {
       set_global_flag = th_incident_setting_finished
@@ -66,9 +58,7 @@ country_event = {
       has_dlc = "Rights of Man"
     }
   }
-  mean_time_to_happen = {
-    days = 0
-  }
+  is_triggered_only = yes
   fire_only_once = yes
   immediate = {
     hidden_effect = {
@@ -81,7 +71,6 @@ country_event = {
         }
         country_event = {
           id = touhou_setting.3
-          days = 0
         }
       }
       set_global_flag = TH_setting_rights_of_man_checked
@@ -515,9 +504,7 @@ country_event = {
   title = "touhou_setting.4.t"
   desc = "touhou_setting.4.desc"
   picture = GENSOKYOTHRONE_eventPicture
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   trigger = {
     ruler_age = 50
     tag = HNG
@@ -566,9 +553,7 @@ country_event = {
   title = "touhou_setting.5.t"
   desc = "touhou_setting.5.desc"
   picture = GENSOKYOTHRONE_eventPicture
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   trigger = {
     ruler_age = 50
     tag = FLR
@@ -1302,16 +1287,7 @@ country_event = {
   title = "touhou_setting.11.t"
   desc = "touhou_setting.11.desc"
   picture = AYAPAPERNEWS_eventPicture
-  trigger = {
-    ai = no
-    normal_or_historical_nations = yes
-    normal_province_values = yes
-    ironman = yes
-    start_date = 1444.11.11
-  }
-  mean_time_to_happen = {
-    days = 1
-  }
+  is_triggered_only = yes
   fire_only_once = yes
   major = yes
   option = {

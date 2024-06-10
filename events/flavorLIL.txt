@@ -173,7 +173,7 @@ country_event = {
 	title = flavor_lil.5.t
 	desc = flavor_lil.5.desc
 	picture = SATORI_eventPicture
-	
+	is_triggered_only = yes
 	trigger = {
 		th_is_or_was_tag = {
 			tag = LIL
@@ -200,11 +200,6 @@ country_event = {
 			}
 		}
 	}
-
-	mean_time_to_happen = {
-		days = 4
-	}
-
 	immediate = {
 		hidden_effect = {
 			set_country_flag = lil_had_satori_demanded_favor_event
@@ -299,7 +294,7 @@ country_event = {
 	title = flavor_lil.7.t
 	desc = flavor_lil.7.d
 	picture = SAIGYOU2_eventPicture
-
+	is_triggered_only = yes
 	hidden = yes
 
 	trigger = {
@@ -310,10 +305,6 @@ country_event = {
 		NOT = { has_country_modifier = lil_spring_buff_lv3 }
 		NOT = { has_country_modifier = lil_spring_buff_lv2 }
 		NOT = { has_country_modifier = lil_spring_buff_lv1 }
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	option = {

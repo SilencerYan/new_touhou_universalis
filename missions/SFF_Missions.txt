@@ -1127,6 +1127,11 @@ sff_slot3_branch = {
     effect = {
       th_sff_increment_sun_garden_counter = yes
       sff_increase_sun_power_effect = yes
+      hidden_effect = {
+        country_event = {
+          id = flavor_sff.105
+        }
+      }
     }
   }
   SFF_upgrade_sun_garden_lv3 = {
@@ -1152,6 +1157,11 @@ sff_slot3_branch = {
     effect = {
       th_sff_increment_sun_garden_counter = yes
       sff_increase_sun_power_effect = yes
+      hidden_effect = {
+        country_event = {
+          id = flavor_sff.106
+        }
+      }
     }
   }
   SFF_upgrade_sun_garden_lv4 = {
@@ -1183,6 +1193,11 @@ sff_slot3_branch = {
       country_event = {
         id = flavor_sff.112
       }
+      hidden_effect = {
+        country_event = {
+          id = flavor_sff.107
+        }
+      }
     }
   }
   SFF_upgrade_sun_garden_lv5 = {
@@ -1211,6 +1226,11 @@ sff_slot3_branch = {
     effect = {
       th_sff_increment_sun_garden_counter = yes
       sff_increase_sun_power_effect = yes
+      hidden_effect = {
+        country_event = {
+          id = flavor_sff.108
+        }
+      }
       country_event = {
         id = flavor_sff.14
       }

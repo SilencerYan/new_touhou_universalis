@@ -1149,13 +1149,11 @@ country_event = {
   desc = flavor_jnk.99.desc
   picture = JUNKO_CHINA_eventPicture
   fire_only_once = yes
+  is_triggered_only = yes
   trigger = {
     th_is_or_was_tag = {
       tag = JNK
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   option = {
     name = flavor_jnk.99.a
@@ -1320,6 +1318,7 @@ country_event = {
   title = flavor_jnk.1004.t
   desc = flavor_jnk.1004.desc
   picture = HECATIA_ADVISOR_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_government_mechanic = th_junko_grudge_mechanic
     NOT = {
@@ -1331,9 +1330,6 @@ country_event = {
         type = th_advisor_hecatia
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -1354,6 +1350,7 @@ country_event = {
   title = flavor_jnk.1005.t
   desc = flavor_jnk.1005.desc
   picture = HECATIA_ACCEPT_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_government_mechanic = th_junko_grudge_mechanic
     NOT = {
@@ -1365,9 +1362,6 @@ country_event = {
         type = th_advisor_hecatia
       }
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -1385,15 +1379,13 @@ country_event = {
   title = flavor_jnk.1007.t
   desc = flavor_jnk.1007.desc
   picture = HECATIA_ADVISOR_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_government_mechanic = th_junko_grudge_mechanic
     ai = yes
     NOT = {
       has_country_flag = th_junko_ai
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {
@@ -1414,15 +1406,13 @@ country_event = {
   title = flavor_jnk.1008.t
   desc = flavor_jnk.1008.desc
   picture = HECATIA_ADVISOR_eventPicture
+  is_triggered_only = yes
   trigger = {
     has_government_mechanic = th_junko_grudge_mechanic
     ai = no
     NOT = {
       has_country_flag = th_junko_not_ai
     }
-  }
-  mean_time_to_happen = {
-    days = 1
   }
   hidden = yes
   option = {

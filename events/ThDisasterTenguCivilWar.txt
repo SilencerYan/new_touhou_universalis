@@ -411,9 +411,6 @@ country_event = {
     has_disaster = th_tengu_caste_civil_war_disaster
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   goto = tgu_revolt_province
   immediate = {
     hidden_effect = {
@@ -520,9 +517,6 @@ country_event = {
     has_disaster = th_tengu_caste_civil_war_disaster
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_tengu_civil_war.4.a
     add_manpower = -4
@@ -619,9 +613,6 @@ country_event = {
     stability = -2
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_tengu_civil_war.5.a
     add_stability = -1
@@ -661,9 +652,6 @@ country_event = {
     has_disaster = th_tengu_caste_civil_war_disaster
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_tengu_civil_war.6.a
     add_adm_power = 50
@@ -716,9 +704,6 @@ country_event = {
     has_country_modifier = tgu_sided_with_great_tengu
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   goto = tgu_revolt_province
   immediate = {
     hidden_effect = {
@@ -755,9 +740,6 @@ country_event = {
     }
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   immediate = {
     hidden_effect = {
       random_owned_province = {
@@ -802,9 +784,6 @@ country_event = {
     has_country_modifier = tgu_sided_with_great_tengu
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_tengu_civil_war.9.a
     reduce_stability_or_adm_power = yes
@@ -822,9 +801,6 @@ country_event = {
     has_country_modifier = tgu_sided_with_low_tengu
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   immediate = {
     hidden_effect = {
       random_owned_province = {
@@ -859,9 +835,6 @@ country_event = {
     has_country_modifier = tgu_sided_with_low_tengu
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   option = {
     name = th_tengu_civil_war.11.a
     add_stability = -1
@@ -879,9 +852,6 @@ country_event = {
     has_country_modifier = tgu_sided_with_low_tengu
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   immediate = {
     hidden_effect = {
       random_owned_province = {
@@ -919,9 +889,6 @@ country_event = {
     }
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   fire_only_once = yes
   option = {
     name = th_tengu_civil_war.13.a
@@ -958,9 +925,6 @@ country_event = {
     }
   }
   is_triggered_only = yes
-  mean_time_to_happen = {
-    days = 1
-  }
   fire_only_once = yes
   option = {
     name = th_tengu_civil_war.14.a

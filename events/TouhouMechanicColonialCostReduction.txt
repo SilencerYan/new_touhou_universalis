@@ -12,6 +12,7 @@ country_event = {
 	desc = th_colonial_reduction_event.1.desc
 	picture = DIPLOMACY_eventPicture
 
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = th_enable_colonial_maitenance_reduction
 		num_of_colonies = 1
@@ -29,10 +30,6 @@ country_event = {
 	}
 
 	hidden = yes
-
-	mean_time_to_happen = {
-		days = 1
-	}
 
     option = {
 		name = th_colonial_reduction_event.1.a
@@ -58,6 +55,7 @@ country_event = {
 	desc = th_colonial_reduction_event.2.desc
 	picture = DIPLOMACY_eventPicture
 
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = th_enable_colonial_maitenance_reduction
 		num_of_colonies = 2
@@ -75,10 +73,6 @@ country_event = {
 	}
 
 	hidden = yes
-
-	mean_time_to_happen = {
-		days = 1
-	}
 
     option = {
 		name = th_colonial_reduction_event.2.a
@@ -103,7 +97,7 @@ country_event = {
 	title = th_colonial_reduction_event.3.t
 	desc = th_colonial_reduction_event.3.desc
 	picture = DIPLOMACY_eventPicture
-
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = th_enable_colonial_maitenance_reduction
 		num_of_colonies = 3
@@ -121,11 +115,6 @@ country_event = {
 	}
 
 	hidden = yes
-
-	mean_time_to_happen = {
-		days = 1
-	}
-
     option = {
 		name = th_colonial_reduction_event.3.a
 		
@@ -149,7 +138,7 @@ country_event = {
 	title = th_colonial_reduction_event.4.t
 	desc = th_colonial_reduction_event.4.desc
 	picture = DIPLOMACY_eventPicture
-
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = th_enable_colonial_maitenance_reduction
 		num_of_colonies = 4
@@ -167,10 +156,6 @@ country_event = {
 	}
 
 	hidden = yes
-
-	mean_time_to_happen = {
-		days = 1
-	}
 
     option = {
 		name = th_colonial_reduction_event.4.a
@@ -196,6 +181,7 @@ country_event = {
 	desc = th_colonial_reduction_event.5.desc
 	picture = DIPLOMACY_eventPicture
 
+	is_triggered_only = yes
 	trigger = {
 		has_country_flag = th_enable_colonial_maitenance_reduction
 		NOT = { has_country_modifier = th_colonial_subsidies_5 }
@@ -206,10 +192,6 @@ country_event = {
 	}
 
 	hidden = yes
-
-	mean_time_to_happen = {
-		days = 1
-	}
 
     option = {
 		name = th_colonial_reduction_event.5.a
@@ -235,6 +217,7 @@ country_event = {
 	desc = th_colonial_reduction_event.6.desc
 	picture = WESTERNISATION_eventPicture
 
+	is_triggered_only = yes
 	trigger = {
 		NOT = { has_country_flag = th_enable_colonial_maitenance_reduction }
 		OR = {
@@ -247,10 +230,6 @@ country_event = {
 	}
 
 	hidden = yes
-	
-	mean_time_to_happen = {
-		days = 1
-	}
 	
 	immediate = {
 		remove_country_modifier = th_colonial_subsidies_1

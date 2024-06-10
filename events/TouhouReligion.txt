@@ -17,9 +17,7 @@ country_event = {
 			has_country_modifier = th_increased_harmonization_efforts
 		}
 	}
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 	option = {
 		#The time of religious turmoils is finally over
 		name = th_religion_events.1.a
@@ -51,9 +49,7 @@ country_event = {
 			days = 7300
 		}
 	}
-	mean_time_to_happen = {
-		months = 1
-	}
+	is_triggered_only = yes
 	option = {
 		name = th_religion_events.1.a
 		clr_global_flag = th_counter_reformation_enabled
@@ -70,9 +66,7 @@ country_event = {
 		has_idea = ecumenism
 		has_country_modifier = th_counter_reformation
 	}
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 	option = {
 		#The time of religious turmoils is finally over
 		name = th_religion_events.3.a

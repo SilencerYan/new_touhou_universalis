@@ -28,11 +28,6 @@ country_event = {
 			}
 		}
 	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 
 	option = {
 		name = th_estate_great_tengu_events.1.a #Ok
@@ -74,10 +69,6 @@ country_event = {
 	
 	is_triggered_only = yes
 	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 	option = {
 		name = th_estate_great_tengu_events.2.a #Ok
 		add_estate_influence_modifier = {
@@ -117,10 +108,6 @@ country_event = {
 	}
 	
 	is_triggered_only = yes
-	
-	mean_time_to_happen = {
-		days = 1
-	}
 	
 	option = {
 		name = th_estate_great_tengu_events.3.a #
@@ -286,23 +273,6 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-		modifier = {
-			factor = 2.0
-			estate_influence = {
-				estate = estate_great_tengu
-				influence = 80
-			}
-			NOT = {
-				estate_loyalty = {
-					estate = estate_great_tengu
-					loyalty = 80
-				}
-			}
-		}
-	}
-	
 	option = {
 		name = th_estate_great_tengu_events.4.a #Allow it.
 		ai_chance = {
@@ -399,17 +369,6 @@ country_event = {
 	
 	is_triggered_only = yes
 	
-	mean_time_to_happen = {
-		days = 1
-		modifier = {
-			factor = 1.1
-			estate_influence = {
-				estate = estate_great_tengu
-				influence = 80
-			}
-		}
-	}
-	
 	option = {
 		name = th_estate_great_tengu_events.5.a #Allow it.
 		ai_chance = {
@@ -497,10 +456,6 @@ country_event = {
 	}
 	
 	is_triggered_only = yes
-	
-	mean_time_to_happen = {
-		days = 1
-	}
 	
 	option = {
 		name = th_estate_great_tengu_events.6.a #Yes
@@ -625,10 +580,6 @@ country_event = {
 	}
 	
 	is_triggered_only = yes
-	
-	mean_time_to_happen = {
-		days = 1
-	}
 	
 	option = { #Indifferent choice, likely appropriate if estate is just right.
 		name = th_estate_great_tengu_events.7.a #Moddest Ceremonies
@@ -794,10 +745,6 @@ country_event = {
 		}
 	}
 	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 	option = { 
 		name = th_estate_great_tengu_events.8.a #Let it be.
 		ai_chance = {
@@ -887,10 +834,6 @@ country_event = {
 	}
 	
 	is_triggered_only = yes
-	
-	mean_time_to_happen = {
-		days = 1
-	}
 	
 	option = { 
 		name = th_estate_great_tengu_events.9.a #This isn't ideal.
@@ -997,10 +940,6 @@ country_event = {
 	}
 	
 	is_triggered_only = yes
-	
-	mean_time_to_happen = {
-		days = 1
-	}
 	
 	option = {
 		name = th_estate_great_tengu_events.10.a #Noble
@@ -1340,11 +1279,6 @@ country_event = {
 			}
 		}
 	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
 
 	option = {
 		name = th_estate_great_tengu_events.11.a #Ok

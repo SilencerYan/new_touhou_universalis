@@ -10,7 +10,7 @@ country_event = {
 	title = th_difficulty_event.1.t
 	desc = th_difficulty_event.1.desc
 	picture = SHRINE_eventPicture
-	
+	is_triggered_only = yes
 	trigger = {
 		ai = yes
 		was_player = no
@@ -48,10 +48,6 @@ country_event = {
 			has_global_flag = th_global_mythic_mode
 			has_global_flag = th_global_lunatic_mode
 		}
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 
 	hidden = yes
@@ -240,7 +236,7 @@ country_event = {
 	title = th_difficulty_event.2.t
 	desc = th_difficulty_event.2.desc
 	picture = YUKARI_eventPicture
-	
+	is_triggered_only = yes
 	trigger = {
 		ai = no
 		OR = {
@@ -263,11 +259,6 @@ country_event = {
 			has_global_flag = th_global_lunatic_mode
 		}
 	}
-
-	mean_time_to_happen = {
-		days = 1
-	}
-
 	immediate = {
 		hidden_effect = {
 			if = {
@@ -404,7 +395,7 @@ country_event = {
 	title = th_difficulty_event.3.t
 	desc = th_difficulty_event.3.desc
 	picture = YUKARI_eventPicture
-	
+	is_triggered_only = yes
 	trigger = {
 		ai = no
 		OR = {
@@ -415,10 +406,6 @@ country_event = {
 		NOT = { has_country_modifier = th_heroic_mode_player }
 		NOT = { has_country_modifier = th_mythic_mode_player }
 		NOT = { has_country_modifier = th_lunatic_mode_player }
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 	
 	hidden = yes
@@ -468,7 +455,7 @@ country_event = {
 	title = th_difficulty_event.4.t
 	desc = th_difficulty_event.4.desc
 	picture = YUKARI_eventPicture
-	
+	is_triggered_only = yes
 	trigger = {
 		ai = no
 		OR = {
@@ -500,10 +487,6 @@ country_event = {
 				}
 			}
 		}
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 	
 	hidden = yes
@@ -576,7 +559,7 @@ country_event = {
 	title = th_difficulty_event.5.t
 	desc = th_difficulty_event.5.desc
 	picture = YUKARI_eventPicture
-	
+	is_triggered_only = yes
 	trigger = {
 		ai = no
 		any_known_country = {
@@ -607,10 +590,6 @@ country_event = {
 				}
 			}
 		}
-	}
-
-	mean_time_to_happen = {
-		days = 1
 	}
 	
 	hidden = yes
