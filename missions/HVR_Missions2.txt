@@ -46,7 +46,7 @@ hvr_mission_branching_slot_1 = {
 		}
 	}
 	hvr_stability_branch_mission_1 = {
-		icon = mission_unknown_mission
+		icon = mission_return_of_tenshi1
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -94,7 +94,7 @@ hvr_mission_branching_slot_1 = {
 	}
 
 	hvr_mood_branch_mission_1 = {
-		icon = mission_unknown_mission
+		icon = mission_return_of_tenshi
 		position = 3
 		required_missions = {
 		}
@@ -113,7 +113,7 @@ hvr_mission_branching_slot_1 = {
 	}
 
 	hvr_mood_branch_mission_2 = {
-		icon = mission_unknown_mission
+		icon = mission_angel_of_apocalypse
 		position = 4
 		required_missions = {
 			hvr_mood_branch_mission_1
@@ -178,7 +178,7 @@ hvr_mission_branching_slot_1 = {
 	}
 
 	hvr_mood_branch_mission_3 = {
-		icon = mission_unknown_mission
+		icon = mission_touhou_tenshi_stress
 		position = 5
 		required_missions = {
 			hvr_mood_branch_mission_2
@@ -258,7 +258,7 @@ hvr_mission_branching_slot_1 = {
 	}
 
 	hvr_mood_branch_mission_4 = {
-		icon = mission_unknown_mission
+		icon = mission_touhou_greek_fire
 		position = 6
 		required_missions = {
 			hvr_mood_branch_mission_3
@@ -345,7 +345,7 @@ hvr_mission_no_education_slot_1 = {
 	}
 
 	hvr_mood_no_education_branch_mission_1 = {
-		icon = mission_unknown_mission
+		icon = mission_iku_weather_control
 		position = 3
 		required_missions = {
 		}
@@ -363,7 +363,7 @@ hvr_mission_no_education_slot_1 = {
 	}
 
 	hvr_mood_no_education_branch_mission_2 = {
-		icon = mission_unknown_mission
+		icon = mission_keystones
 		position = 4
 		required_missions = {
 			hvr_mood_no_education_branch_mission_1
@@ -399,7 +399,7 @@ hvr_mission_no_education_slot_1 = {
 	}
 
 	hvr_mood_no_education_branch_mission_3 = {
-		icon = mission_unknown_mission
+		icon = mission_tenshi_throne
 		position = 5
 		required_missions = {
 			hvr_mood_no_education_branch_mission_2
@@ -440,7 +440,7 @@ hvr_mission_no_education_slot_1 = {
 	}
 
 	hvr_mood_no_education_branch_mission_4 = {
-		icon = mission_unknown_mission
+		icon = mission_tenshi_judgement_day
 		position = 6
 		required_missions = {
 			hvr_mood_no_education_branch_mission_3
@@ -523,7 +523,7 @@ hvr_mission_teach_lesson_slot_1 = {
 	}
 
 	hvr_mood_teach_lesson_branch_mission_1 = {
-		icon = mission_unknown_mission
+		icon = mission_mastery_over_nature
 		position = 3
 		required_missions = {
 		}
@@ -541,7 +541,7 @@ hvr_mission_teach_lesson_slot_1 = {
 	}
 
 	hvr_mood_teach_lesson_branch_mission_2 = {
-		icon = mission_unknown_mission
+		icon = mission_touhou_moon_land
 		position = 4
 		required_missions = {
 			hvr_mood_teach_lesson_branch_mission_1
@@ -574,7 +574,7 @@ hvr_mission_teach_lesson_slot_1 = {
 	}
 
 	hvr_mood_teach_lesson_branch_mission_3 = {
-		icon = mission_unknown_mission
+		icon = mission_touhou_army
 		position = 5
 		required_missions = {
 			hvr_mood_teach_lesson_branch_mission_2
@@ -600,7 +600,7 @@ hvr_mission_teach_lesson_slot_1 = {
 	}
 
 	hvr_mood_teach_lesson_branch_mission_4 = {
-		icon = mission_unknown_mission
+		icon = mission_iku_ride_the_lightning
 		position = 6
 		required_missions = {
 			hvr_mood_teach_lesson_branch_mission_3
@@ -960,7 +960,7 @@ hvr_mission_branching_slot_2 = {
 		}
 	}
 	hvr_stability_branch_mission_2 = {
-		icon = mission_unknown_mission
+		icon = mission_lunar_nobles
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -1430,7 +1430,7 @@ hvr_mission_branching_slot_3 = {
 		}
 	}
 	hvr_stability_branch_mission_3 = {
-		icon = mission_unknown_mission
+		icon = mission_zeus
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -2276,7 +2276,7 @@ hvr_mission_fifth_slot = {
 				manuever = 3
 				siege = 1
 				female = yes
-				name = "‹YGY„v)YºN"  # Curious Celestial
+				name = "ï¿½YGYï¿½v)Yï¿½N"  # Curious Celestial
 			}
 		}
 	}
