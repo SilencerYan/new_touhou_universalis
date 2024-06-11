@@ -10,7 +10,7 @@ th_junko_grudge_mechanic = {
 			
 			scaled_modifier = {
 				modifier = {
-					infantry_shock = 0.8
+					infantry_shock = 0.5
 					siege_ability = 0.2
 					regiment_disembark_speed = 0.5
 					stability_cost_modifier = 1

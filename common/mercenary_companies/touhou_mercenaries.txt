@@ -133,7 +133,7 @@ merc_th_free_fairies = {
 	cost_modifier = 0.7
 	modifier = { 
 		reinforce_speed = 0.05
-        recover_army_morale_speed = -0.1
+        recover_army_morale_speed = -0.05
 	}	
 }
 

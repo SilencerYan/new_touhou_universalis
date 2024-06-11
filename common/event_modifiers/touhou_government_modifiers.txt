@@ -375,7 +375,7 @@ th_mark_of_koishi = {
 ###NET MORTAL POLICIES###
 th_mortal_policy_acceptance = {
     years_of_nationalism = -5
-    global_manpower_modifier = -0.15
+    global_manpower_modifier = -0.1
 	global_unrest = 3
 }
 

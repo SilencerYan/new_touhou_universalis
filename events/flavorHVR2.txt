@@ -2048,12 +2048,5 @@ country_event = {
 				value = -1
 			}
 		}
-		else = {
-			add_government_power = {
-				mechanic_type = th_tenshi_temper_mechanic
-				power_type = th_tenshi_temper
-				value = 1
-			}			
-		}
 	}
 }

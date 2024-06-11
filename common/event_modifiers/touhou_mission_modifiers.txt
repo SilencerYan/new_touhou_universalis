@@ -2620,8 +2620,8 @@ gnu_dream_worlds_unified = {
 
 gnu_unite_all_demons = {
 	danmaku_power_factor = 1
-	fire_damage_received = -0.05	
-	shock_damage_received = -0.05
+	fire_damage_received = -0.1
+	shock_damage_received = -0.1
 }
 
 gnu_expanding_army_infrastructure =  {
@@ -2741,7 +2741,7 @@ mkn_conquest_of_mongolia = {
 	ae_impact = -0.2
 }
 mkn_arctic_empire = {
-	defensiveness = 0.15
+	defensiveness = 0.1
 	land_attrition = -0.15
 	naval_attrition = -0.15
 }
@@ -2773,7 +2773,7 @@ mkn_steppe_of_ice_and_snow = {
 
 mkn_russian_tsarina = {
 	years_of_nationalism = -5
-	defensiveness = 0.2
+	defensiveness = 0.15
 	fort_maintenance_modifier = -0.5
 }
 
@@ -2913,20 +2913,20 @@ hig_seat_of_the_kings_tooltip = { #Permanent, Tooltip
 
 #Oni's mission rewards:
 oni_military_reform_lv1 = {
-	infantry_shock = 0.2
+	infantry_shock = 0.1
 }
 
 oni_military_reform_lv2 = {
-	infantry_shock = 0.4
+	infantry_shock = 0.2
 }
 
 oni_military_reform_lv3 = {
-	infantry_shock = 0.6
+	infantry_shock = 0.3
 	discipline = 0.025
 }
 
 oni_military_reform_lv4 = {						#Permanent
-	infantry_shock = 0.8
+	infantry_shock = 0.4
 	discipline = 0.025
 }
 
@@ -3187,7 +3187,6 @@ kpp_second_major_reform = {	#Permanent, Unlocks Nitori permanently for election
 
 kpp_third_major_reform = {	#Permanent
 	max_terms = 3
-	global_manpower_modifier = 0.2
 	land_forcelimit_modifier = 0.2
 	global_autonomy = -0.1
 	reform_progress_growth = 0.1

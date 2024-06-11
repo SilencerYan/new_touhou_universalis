@@ -508,7 +508,7 @@ Gensokyan_kaguya_states_reform = {
 		gnk_foe_mokou_statists = {
 			discipline = 0.05
 			land_morale = 0.1
-			fire_damage = 0.1
+			fire_damage = 0.05
 			stability_cost_modifier = 0.1
 			legitimacy = -2
 		}
@@ -1004,7 +1004,6 @@ Gensokyan_sff_sword_of_nature = {
 	modifiers = {
 		army_tradition_decay = -0.03
 		drill_decay_modifier = -0.25
-		discipline = 0.05
 		governing_capacity = 250
 		has_streltsy = yes
 		allowed_streltsy_fraction = 0.1

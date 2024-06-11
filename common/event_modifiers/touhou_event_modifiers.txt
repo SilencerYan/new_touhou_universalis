@@ -416,7 +416,7 @@ th_remilias_help = {
 }
 
 th_remilia_and_flandres_help = {
-	land_morale = 0.15
+	land_morale = 0.1
 	naval_morale = 0.1
 	discipline = 0.05
 	diplomatic_reputation = 1 
@@ -1141,7 +1141,7 @@ jnk_end_of_vengeance = {	#permanant
 	monthly_th_junko_grudge = -1000
 	global_unrest = -2
 	stability_cost_modifier = -0.1
-	infantry_shock = 0.8
+	infantry_shock = 0.5
 	siege_ability = 0.2
 	regiment_disembark_speed = 0.5
 }

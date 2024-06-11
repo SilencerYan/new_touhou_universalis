@@ -17,7 +17,7 @@ th_scarlet_bloodlust_mechanic = {
 					discipline = 0.10
 					manpower_recovery_speed = 0.20
 					land_maintenance_modifier = -0.20
-					recover_army_morale_speed = 0.2
+					recover_army_morale_speed = 0.1
 				}
 			}
 			reverse_scaled_modifier = {
@@ -39,7 +39,7 @@ th_scarlet_bloodlust_mechanic = {
 					discipline = 0.10
 					manpower_recovery_speed = 0.20
 					land_maintenance_modifier = -0.20
-					recover_army_morale_speed = 0.4
+					recover_army_morale_speed = 0.2
 				}
 			}
 			reverse_scaled_modifier = {

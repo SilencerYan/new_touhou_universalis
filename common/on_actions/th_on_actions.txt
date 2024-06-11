@@ -217,7 +217,7 @@ on_main_war_won = {
 		id = TH_lunarian_events.11
 	}
 	th_tenshi_temper_gain_effect = {
-		value = 6
+		value = 12
 	}
 }
 
@@ -282,7 +282,7 @@ on_main_war_lost = {
 		id = TH_lunarian_events.11
 	}
 	th_tenshi_temper_gain_effect = {
-		value = -6
+		value = -12
 	}
 }
 

@@ -260,7 +260,6 @@ peace = {
 	monthly_blood = -0.05
 	monthly_authority_power = 0.1
 	monthly_th_scarlet_bloodlust = -0.5
-	monthly_th_tenshi_temper = -1
 }
 
 war_exhaustion = {

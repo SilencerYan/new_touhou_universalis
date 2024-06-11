@@ -107,7 +107,6 @@ estate_nobles = {
 		th_estate_nobles_lack_of_overseers
 		th_estate_nobles_slacking_shinigami
 		th_estate_nobles_royal_guards 
-		th_estate_nobles_prestigious_army
 		th_estate_nobles_subject_bond
 		th_estate_qinwang_adapt_chinese_bureaucracy
 		th_estate_qinwang_adopt_gensokyan_absolutism
