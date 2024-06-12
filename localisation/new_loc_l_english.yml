@@ -808,7 +808,7 @@
  flavor_hvr.14.a: "‰k^yÀNHNw¨‹ŒS"
  flavor_hvr.15.t: "‰k^yeg­ˆ"
  flavor_hvr.15.desc: ")YºNv^N=fýwÏPì„±ƒºNbwgKNl±7hwck„v•uN‰k0\n‹†6q)YPRìNNOê¨RÿRÈuckÝRÿFO‰k^yI`=fOöeNöeÕ‹þV&^pÖNìNÿ‚YœgýwbÜw‰k^yÿ)YºN1Sýw‚föe‰R3zNµköeô•ÿFO‚YœgàeÕlbÜw‰k^yÿ±1Sw„v‰S‹TNÝO†N0\nùRŽN)YPRegô‹mNN‹OYÿ‰k^y–öeOŒbNè•egÿwNsSO‰k^y1Y%ÿ|V¸SmNO(WN!k>múQôfHV„v‰k^y0\nùRŽN)YºNìNegô‹ÿêS‰‰k^yØOŒbNè•egÿÖNìN1SNïSýwwckN)Y0WTÿR0"
- flavor_hvr.15.a: "‰k^yÀNHNw¨‹ŒS"
+ flavor_hvr.15.a: "±HNÿNN*Neg‰k„v	gY‰S³Rÿ"
  flavor_hvr.16.t: "Rb—‰k^y"
  flavor_hvr.16.desc: "ÙN)YÿNMOKbc'Yp•„v‰k^yŒb0R†N)YPRÿv^hˆHysSO)YºNmNNïS1»y”NSnÞV0\nSV6q)YPRmNNOVNVN1SæpÿyY³QšRN‰k^y	cgq‰^ó`aN„vï`‹OUSVNHW9VU^b0\nuXRØ=f‰k¡NÿÙ=f*Nî•˜˜0"
  flavor_hvr.16.a: "bÿ"
@@ -884,7 +884,7 @@
  hvr_dragon_gods_blessing: "§Y‹sCg^yˆc§!"
  hvr_protector_of_celestials: "§YÁ‹fžR›R§!"
  hvr_study_of_taoism: "§YfR`NÙN/g§!"
- hvr_unlock_declare_war_on_higan_tt: "bìNïSåNùR|V¸S±Rb†N"
+ hvr_unlock_declare_war_on_higan_tt: "bìNïSåNùR|V¸S±Rb†Nÿ"
  hvr_dip_or_mil_way: "ÙSÖS³QŽNbìN„v	éb¹eHh"
  hvr_finished_internal_stability_branch.tooltip: "¨RaƒöeãNòTÏuÓumg"
  hvr_invincible_navy: "§Ywm›Q8—Cg§!"
@@ -919,10 +919,10 @@
  flavor_hvr.104.t: ")YPRùRbýVO(u†N0W—ÿ"
  flavor_hvr.104.desc: "%fËyŒNŒvÛVAS‹ÿ0W—Mb”NyQUO‘˜0\n[Root.GetName]hQýVNNýúQ°s†NòSàeMR‹O„v0W—ÿNÅN'YÏ‘„vÎW^?bPKSLXÿˆVYg:NZWúV„v/X’WmN(W0W—-N«ˆmcOWÿ„˜¡‹îOYåTjOScíuˆV•„vöeô•0\n[Root.Monarch.GetName](WáTÆ‰Œp:S„vöePÿˆVYŒplýhˆ:yÖNìNw0R†NNMO)YºN„v«ŽqV0"
  flavor_hvr.104.a: "yY‹Y'Y„vÆwPRÿ"
- flavor_hvr.100.t: "ïuó`QR)Ylµc6RHg6RËNÍu‹NöN"
+ flavor_hvr.100.t: "ïuó`QR)Ylµc6R:g6RËNÍu"
  flavor_hvr.100.desc: "ïuó`KNQRýwY(W9VU^b-NSùR¹e„vl(lS:N)YlÿKˆN)YPR‚föe„vµc6RSƒôV„v)Yl„výw›R0\nVÑS0W—ÿˆmw150›Q‹N¹pÿùRîvhýV¶RVÑSb/g0W—ÿÅNïSùRb‰N-N„vLeùRýV¶RO(u05t^…QîvhýV¶R‰^X2–¡V-25%0àecdÿùRTNýV¶R	g15t^cdÿv^ÙuˆNsQû|é`Z0\nïuó`KNQRýw›R:g6Rÿã‰•TÿåNÏkt^4¹pÿŒRbgÈuûN¡RT6¹p	ÿ„vúVšR¦^ïy/tl(ýwÏ‘	ÿ0ˆmwl((ueg9eØS)Yl0TÍy9eØS)Ylýw›R—ûN¡Rã‰•0àecdÿFOTNýV¶RêSýwTöeXR(WNÍy)YlHeœgÿËe RTSOûyd–òT	g„v)YlHeœgÿ0W—N)YlN²QzÿïSTöeXR(W	ÿ0\n´fè–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffwm›QëXl-10%ÿ9‚êSwEN¦^-5%\nÈpåeÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffVÑS±‚9+10%ÿú^.±‚9+10%\n´fê–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffûy¨R¦^-10%ÿmcw+10%\nSmþ–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffkp2O-10%ÿëXlb`Y-10%"
  flavor_hvr.100.a: "bsS)YPR"
- hvr_three_earthquake_tt: "ã‰•VÑS0W—"
+ hvr_three_earthquake_tt: "òTÏuVÑSÇ	N/k§YÁkmp'`0W—§!"
  hvr_unlock_strong_sun_tt: "ã‰•Èpåe)Yl"
  hvr_add_40_power: "ïuó`QRžX R40¹pýwÏ‘"
  hvr_unlock_blizzard_tt: "ã‰•´fê–)Yl"
@@ -932,7 +932,7 @@
  hvr_unlock_heavy_rain_tt: "ã‰•´fè–)Yl"
  hvr_tailwind: "8fKNÎ˜"
  hvr_extra_hisou_sword_energy: "ïuó`QREQýw¦^žX R50%"
- hvr_upgrade_iku_tt: "žX:V8lmlcˆ–s„v^S'`"
+ hvr_upgrade_iku_tt: "žX:V§Y8lmlcˆ–s§!jO:NS›QbÐccw„v^S'`0"
  hvr_instability.tt: ")YLuÛeQ†N¨RaƒöeãNÿ"
  hvr_choose_no_education_path.tt: "	éb:Vlxï¿u"
  hvr_choose_teach_lesson_path.tt: "	éb`Ôgï¿u"
@@ -948,7 +948,7 @@
  hvr_dragon_gods_education: "§Y°egÅ–?e§!"
  hvr_moon_belongs_to_us: "§YgKNýÈuÓuw§!"
  flavor_hvr.14.a.tt: "ã‰•‰k^yeg­ˆøvsQ³Q®‹"
- flavor_hvr.15.a.tt: "ã‰•‰k^yeg­ˆøvsQ³Q®‹"
+ flavor_hvr.15.a.tt: "NNMO‰k^y„vb—e›R:N§Y[Root.th_hvr_shinigamis_combat_skills.GetValue]§!"
  hvr_injured_tenshi: "MSOÞœ2O"
  flavor_hvr.18.a.tt: "bìN(uY²NKbµkÈuÓu†N‰k^y„vðVpb!"
  flavor_hvr.19.a.tt: "bìN(u›Q‹NKbµkÈuÓu†N‰k^y„vðVpb!"
@@ -961,7 +961,7 @@
  hvr_blizzard: "§Y´fê–§!"
  hvr_heavy_fog: "§YSmþ–·§!"
  hvr_disperse_clouds: ""§Y´fè–§!""
- hvr_hisou_sword_energy.tt: "ã‰•ïuó`QREQýwû|ßu"
+ hvr_hisou_sword_energy.tt: "SVMR„vïuó`QRýwÏ‘:N§Y[Root.hvr_hisou_sword_energy.GetValue]§!¹p"
  hvr_other_heaven_provinces_gain_this_too: "vQÖNÍ‘‰wýNmNS·ƒ—VîOck"
  hvr_new_dragon_palace: "êS/f1gœ˜9e"
   flavor_hvr.5.t: "^y>yí•—^KNåe"
@@ -1020,9 +1020,9 @@
  hvr_help_from_reisen_eirin: "§Y­‹Ãu	g.t„vIS^§!"
  hvr_help_from_reisen: "§YGdGdÃ”ÙN§!"
  hvr_shinigami_introduction_title: "‰k^yeg­ˆøvsQËNÍu"
- hvr_shinigami_introduction_desc: "‰k^yeg­ˆøvsQËNÍu"
+ hvr_shinigami_introduction_desc: "â‹î•	gsQeg­ˆ„v‰k^y„vÅ`¥b0"
  hvr_hisou_sword_introduction_title: "ïuó`QR„vjo›R"
- hvr_hisou_sword_introduction_desc: "ïuó`QR„vjo›R"
+ hvr_hisou_sword_introduction_desc: "â‹î•ïuó`QR„v)Ylµc6Rýw›RåNÊSSVMR„vïuó`QR„výwÏ‘0"
  hvr_celestials_paradise: "§Y)Yi`imaƒ§!"
  hvr_has_been_used_earthquake_for_15_years: "Ý»yN/kNVÑS0W—òTÏuÇ»S15t^"
  hvr_only_on_war_enemies: "êSýwùRb‰N-N„vLeºNO(u"
@@ -1060,18 +1060,18 @@
  hvr_reach_max_temper_tooltip: "0R¾Å`êug'Y<PóS”N/k"
  hvr_tiger: ")YPRKN`"
  hvr_defensive_war_tooltip: "(WN:W^—SôVQ2–¡Vb‰N-NóSÖS—V50b‰NR"
- th_reenable_reeducate_ruler_tt: "”^SV/fAQ¸‹QYe²w)YPR³Q®‹"
+ th_reenable_reeducate_ruler_tt: "AQ¸‹QYe²w)YPR³Q®‹"
  hvr_change_tenshis_trait_tt: "°eyr(SÖSãN‹U‹UNO„vSNÿNå‹yr(NO«ˆQYe²w³Q®‹nd–"
  th_reenable_reeducate_ruler: "No‚)YºN"
  hvr_heavenly_manner: "Í‘Å`Í‘IN"
- hvr_mood_control_introduction_title: "Å`êuµc6RËNÍu"
- flavor_hvr.105.t: ")YPR„vÅ`êu"
+ hvr_mood_control_introduction_title: ")YPR„vœU`Lu¿u"
+ hvr_mood_control_introduction_desc: "â‹î•SVMR)YPR„vœU`RLu¿uÊSîOck0"
+ flavor_hvr.105.t: ")YPR„vœU`Lu¿u"
  flavor_hvr.105.desc.1: "§BÁÁáR0kÿ-100~-50	ÿ§!\n\n)YPRÇŽNNO÷„v¶r`0OôfSù`‹NFOåTjOHe‡sM–NO0\n\n§GVÑS±‚9-10%ÿÛSqN-2§!\n\n§RLˆ?eHe‡s-5%ÿôVÎWýw›R-10%§!\n\n§BCQlánánÿ-50~50	ÿ§!\n\n)YPRgck8^NOÅ–„v¶r`ÿFONfôuc0\n\n§GY²NðX‰Š+1§!\n\n§Bl0qNNÿ50~100	ÿ§!\n\n)YPRÇŽN¢NKY„v¶r`0ù`‹NôfYFOmN/fLeºNgN?aaÁ‰0R„v¶r`0\n\n§GôVÎWýw›R+10%ÿF–›QëXl+10%§!\n\n§RVÑS±‚9+10%ÿÛSqN+2§!"
  flavor_hvr.105.desc.2: "§BÁÁáR0kÿ-100~-33	ÿ§!\n\n§GVÑS±‚9-15%ÿÛSqN-3§!\n\n§RLˆ?eHe‡s-2.5%ÿôVÎWýw›R-10%§!\n\n§BCQlánánÿ-33~33	ÿ§!\n\n§GY²NðX‰Š+1§!\n\n§Bl0qNNÿ33~100	ÿ§!\n\n§GôVÎWýw›R+15%ÿF–›QëXl+15%§!\n\n§RVÑS±‚9+10%ÿÛSqN+1§!\n\n"
  flavor_hvr.105.desc.3: "§BÁÁáR0kÿ-100~-60	ÿ§!\n\n§GVÑS±‚9-10%ÿÛSqN-2§!\n\n§RôVÎWýw›R-10%§!\n\n§BCQlánánÿ-60~60	ÿ§!\n\n§GY²NðX‰Š+1ÿsQû|9e„U+15%§!\n\n§Bl0qNNÿ60~100	ÿ§!\n\n§GôVÎWýw›R+10%ÿF–›QëXl+10%§!\n\n§RVÑS±‚9+5%§!\n\n"
  flavor_hvr.105.a: "åwS†N"
  flavor_hvr.106.t: "9eØSÅ`êu"
-
  hvr_change_government_tt: ")YPRœU`„vRLu¿uNîOckSÑSuØSS"
  hvr_unlock_mood_change_decision_tt: "ã‰•Å`êuµc6R³Q®‹"
  flavor_hvr.106.desc: ")YPR	gÅV‰9eØSîvMR„vÅ`êuÿåN¿OŽNôf‹Y„våTjOÿ"
@@ -1088,17 +1088,17 @@
  hvr_mood_branch_mission_3_desc: "[Root.GetSelectableMissionDescription]"
  hvr_mood_branch_mission_4_title: "[Root.GetSelectableMissionTitle]"
  hvr_mood_branch_mission_4_desc: "[Root.GetSelectableMissionDescription]"
- hvr_recruit_iku_as_admiral_tooltip_reward: "AQ¸‹ÛbßR8lmlcˆ–s:NÐccw"
- hvr_recruit_iku_as_general_tooltip_reward: "bìNïSåN©‹cˆ–sÅbûNS›Qÿ"
+ hvr_recruit_iku_as_admiral_tooltip_reward: "AQ¸‹ÛbßR§Y8lmlcˆ–s§!:NÐccw0"
+ hvr_recruit_iku_as_general_tooltip_reward: "AQ¸‹ÛbßR§Y8lmlcˆ–s§!:NS›Q0"
  hvr_recruit_iku_general_title: "‹TäN8lmlcˆ–sÅbûNF–›Q'YS"
- hvr_recruit_iku_general_desc: "‹TäN8lmlcˆ–sÅbûNS›Q"
+ hvr_recruit_iku_general_desc: "IY™Ÿ^yKN‹Tÿ™Ÿ«ROw8lmlcˆ–sSÍT”^)YPR„v‰Blb:NŒ˜î•ÿÐccwbwF–›QS†˜0"
  hvr_recruit_iku_admiral_title: "‹TäN8lmlcˆ–súQûNwm›QÐccw"
- hvr_recruit_iku_admiral_desc: "‹TäN8lmlcˆ–sÅbûNÐccw"
+ hvr_recruit_iku_admiral_desc: "IY™Ÿ^yKN‹Tÿ™Ÿ«ROw8lmlcˆ–sSÍT”^)YPR„v‰Blb:NŒ˜î•ÿÐccwbwF–›QS†˜0"
  th_courageous_personality: "b‰NÂrºN"
  th_just_calm_personality: "Y²N'Y^"
  hvr_glorious_victory: "Sb0R±‚0u´fT"
  hvr_ruined_garden: "Nx^„v1Y%"
  hvr_masochistic_tenshi: "±‚0u´fT„vYe­‹"
  hvr_call_iku_title: "‹TäN8lmlcˆ–sNûNŒ˜î•"
- hvr_call_iku_desc: "‹TäN8lmlcˆ–sNûNŒ˜î•"
+ hvr_call_iku_desc: "IY™Ÿ^yKN‹Tÿ™Ÿ«ROw8lmlcˆ–sSÍT”^)YPR„v‰Blb:NŒ˜î•ÿÐccwbwF–›QS†˜0"
  hvr_cannot_declare_war_before_learned_taoism: "(W¢cBl†NÙN/geYØyKNMRÿ`OØ¡lýw›RùR/f^—òfôv…SJdLr"
