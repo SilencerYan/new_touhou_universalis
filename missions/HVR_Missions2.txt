@@ -45,7 +45,7 @@ hvr_mission_branching_slot_1 = {
 		}
 	}
 	hvr_stability_branch_mission_1 = {
-		icon = mission_return_of_tenshi1
+		icon = mission_unknown_mission
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -93,7 +93,7 @@ hvr_mission_branching_slot_1 = {
 	}
 
 	hvr_mood_branch_mission_1 = {
-		icon = mission_return_of_tenshi
+		icon = mission_unknown_mission
 		position = 3
 		required_missions = {
 		}
@@ -112,7 +112,7 @@ hvr_mission_branching_slot_1 = {
 	}
 
 	hvr_mood_branch_mission_2 = {
-		icon = mission_angel_of_apocalypse
+		icon = mission_unknown_mission
 		position = 4
 		required_missions = {
 			hvr_mood_branch_mission_1
@@ -177,7 +177,7 @@ hvr_mission_branching_slot_1 = {
 	}
 
 	hvr_mood_branch_mission_3 = {
-		icon = mission_touhou_tenshi_stress
+		icon = mission_unknown_mission
 		position = 5
 		required_missions = {
 			hvr_mood_branch_mission_2
@@ -257,7 +257,7 @@ hvr_mission_branching_slot_1 = {
 	}
 
 	hvr_mood_branch_mission_4 = {
-		icon = mission_touhou_greek_fire
+		icon = mission_unknown_mission
 		position = 6
 		required_missions = {
 			hvr_mood_branch_mission_3
@@ -959,7 +959,7 @@ hvr_mission_branching_slot_2 = {
 		}
 	}
 	hvr_stability_branch_mission_2 = {
-		icon = mission_lunar_nobles
+		icon = mission_unknown_mission
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -1008,7 +1008,7 @@ hvr_mission_branching_slot_2 = {
 		}
 	}
 	hvr_internal_stability_branch_end = {
-		icon = mission_stability_end
+		icon = mission_unknown_mission
 		position = 3
 		required_missions = {
 			hvr_stability_branch_mission_1
@@ -1429,7 +1429,7 @@ hvr_mission_branching_slot_3 = {
 		}
 	}
 	hvr_stability_branch_mission_3 = {
-		icon = mission_zeus
+		icon = mission_unknown_mission
 		position = 2
 		required_missions = {
 			hvr_choose_path
