@@ -1552,7 +1552,7 @@ country_event = {
 		}
 	}
 	option = {
-		name = flavor_hvr.161.a
+		name = flavor_hvr.162.a
 		add_country_modifier = {
 			name = hvr_injured_tenshi
 			duration = 3650
