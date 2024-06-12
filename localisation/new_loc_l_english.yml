@@ -817,7 +817,7 @@
  flavor_hvr.161.a: "NÇSS"
  flavor_hvr.162.t: "N‰k^yb—e1Y%"
  flavor_hvr.162.desc: "Nx^„v=fÿ)YPR«ˆ‰k^yûQ%†Nv^«ˆSbb†NÍ‘2OÿbìNŒT|V¸S²N‰m†N¸‹ENMbÙu)YPRacÞV†NNag‹TÿˆV>f6q)YPR(WNµköeô•„vgb?eýw›RO×S0RqVÍT0\nbN!kØOQeg„v0"
- flavor_hvr.162.a: "•m6qêlN"
+ flavor_hvr.162.a: "wP	—JU"
  flavor_hvr.17.t: "‰k^yQ!keg­ˆ"
  flavor_hvr.17.desc: "Ø°‹—VbTÿ\n‰k^yQN!kúQ°s†NÿwNÔkNN!kôf RHV'Y0\nNgN‰kb„vêSO©‹bØS—VôfHV'Y0\n)YPR2VË‹S0\nÙN!kÿ)YPRýwQN!k‰kÌ‘uTÿ"
  flavor_hvr.17.a: "bÿ"
@@ -884,7 +884,7 @@
  hvr_dragon_gods_blessing: "§Y‹sCg^yˆc§!"
  hvr_protector_of_celestials: "§YÁ‹fžR›R§!"
  hvr_study_of_taoism: "§YfR`NÙN/g§!"
- hvr_unlock_declare_war_on_higan_tt: "bìNSO‰V•^ã‰³Q‰k^yî•˜˜"
+ hvr_unlock_declare_war_on_higan_tt: "bìNïSåNùR|V¸S±Rb†N"
  hvr_dip_or_mil_way: "ÙSÖS³QŽNbìN„v	éb¹eHh"
  hvr_finished_internal_stability_branch.tooltip: "¨RaƒöeãNòTÏuÓumg"
  hvr_invincible_navy: "§Ywm›Q8—Cg§!"
@@ -922,17 +922,17 @@
  flavor_hvr.100.t: "ïuó`QR)Ylµc6RHg6RËNÍu‹NöN"
  flavor_hvr.100.desc: "ïuó`KNQRýwY(W9VU^b-NSùR¹e„vl(lS:N)YlÿKˆN)YPR‚föe„vµc6RSƒôV„v)Yl„výw›R0\nVÑS0W—ÿˆmw150›Q‹N¹pÿùRîvhýV¶RVÑSb/g0W—ÿÅNïSùRb‰N-N„vLeùRýV¶RO(u05t^…QîvhýV¶R‰^X2–¡V-25%0àecdÿùRTNýV¶R	g15t^cdÿv^ÙuˆNsQû|é`Z0\nïuó`KNQRýw›R:g6Rÿã‰•TÿåNÏkt^4¹pÿŒRbgÈuûN¡RT6¹p	ÿ„vúVšR¦^ïy/tl(ýwÏ‘	ÿ0ˆmwl((ueg9eØS)Yl0TÍy9eØS)Ylýw›R—ûN¡Rã‰•0àecdÿFOTNýV¶RêSýwTöeXR(WNÍy)YlHeœgÿËe RTSOûyd–òT	g„v)YlHeœgÿ0W—N)YlN²QzÿïSTöeXR(W	ÿ0\n´fè–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffwm›QëXl-10%ÿ9‚êSwEN¦^-5%\nÈpåeÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffVÑS±‚9+10%ÿú^.±‚9+10%\n´fê–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffûy¨R¦^-10%ÿmcw+10%\nSmþ–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffkp2O-10%ÿëXlb`Y-10%"
  flavor_hvr.100.a: "bsS)YPR"
- hvr_three_earthquake_tt: "òTÏuóSVÑS†N	N:W0W—"
- hvr_unlock_strong_sun_tt: "ã‰•ÈpåeŽbýw"
+ hvr_three_earthquake_tt: "ã‰•VÑS0W—"
+ hvr_unlock_strong_sun_tt: "ã‰•Èpåe)Yl"
  hvr_add_40_power: "ïuó`QRžX R40¹pýwÏ‘"
- hvr_unlock_blizzard_tt: "ã‰•´fê–Žbýw"
+ hvr_unlock_blizzard_tt: "ã‰•´fê–)Yl"
  hvr_buff_on_arctic_provinces_tt: "åb	g„vÙ›NwýN·ƒ—V§Y°Qê–GY§!ÿ25t^…Q,g0WÍy0W±‚9-25%ÿ,g0WFUÁTµNúQ+25%"
- hvr_unlock_heavy_fog_tt: "ã‰•Smþ–Žbýw"
+ hvr_unlock_heavy_fog_tt: "ã‰•Smþ–)Yl"
  hvr_milder_fog: "0WN)Y«R"
- hvr_unlock_heavy_rain_tt: "ã‰•´fè–Žbýw"
+ hvr_unlock_heavy_rain_tt: "ã‰•´fè–)Yl"
  hvr_tailwind: "8fKNÎ˜"
  hvr_extra_hisou_sword_energy: "ïuó`QREQýw¦^žX R50%"
- hvr_upgrade_iku_tt: "™Ÿ^y²‹ïS†NbìN„vßu»lÿ"
+ hvr_upgrade_iku_tt: "žX:V8lmlcˆ–s„v^S'`"
  hvr_instability.tt: ")YLuÛeQ†N¨RaƒöeãNÿ"
  hvr_choose_no_education_path.tt: "	éb:Vlxï¿u"
  hvr_choose_teach_lesson_path.tt: "	éb`Ôgï¿u"
@@ -1020,7 +1020,9 @@
  hvr_help_from_reisen_eirin: "§Y­‹Ãu	g.t„vIS^§!"
  hvr_help_from_reisen: "§YGdGdÃ”ÙN§!"
  hvr_shinigami_introduction_title: "‰k^yeg­ˆøvsQËNÍu"
+ hvr_shinigami_introduction_desc: "‰k^yeg­ˆøvsQËNÍu"
  hvr_hisou_sword_introduction_title: "ïuó`QR„vjo›R"
+ hvr_hisou_sword_introduction_desc: "ïuó`QR„vjo›R"
  hvr_celestials_paradise: "§Y)Yi`imaƒ§!"
  hvr_has_been_used_earthquake_for_15_years: "Ý»yN/kNVÑS0W—òTÏuÇ»S15t^"
  hvr_only_on_war_enemies: "êSýwùRb‰N-N„vLeºNO(u"
@@ -1058,8 +1060,8 @@
  hvr_reach_max_temper_tooltip: "0R¾Å`êug'Y<PóS”N/k"
  hvr_tiger: ")YPRKN`"
  hvr_defensive_war_tooltip: "(WN:W^—SôVQ2–¡Vb‰N-NóSÖS—V50b‰NR"
- th_reenable_reeducate_ruler_tt: "°eyr(SÖSãN‹U‹UNO„vSN"
- hvr_change_tenshis_trait_tt: "å‹yr(NO«ˆ³Q®‹nd–"
+ th_reenable_reeducate_ruler_tt: "”^SV/fAQ¸‹QYe²w)YPR³Q®‹"
+ hvr_change_tenshis_trait_tt: "°eyr(SÖSãN‹U‹UNO„vSNÿNå‹yr(NO«ˆQYe²w³Q®‹nd–"
  th_reenable_reeducate_ruler: "No‚)YºN"
  hvr_heavenly_manner: "Í‘Å`Í‘IN"
  hvr_mood_control_introduction_title: "Å`êuµc6RËNÍu"
@@ -1075,8 +1077,8 @@
  hvr_mood_control_no_education_title: "µc6RÅ`êu"
  hvr_ruler_is_tenshi_tt: "bìNS9eØS)YPR„vÅ`êu<P"
  hvr_mood_control_teach_lesson_title: "µc6RÅ`êu"
- hvr_change_government_tt: "ÙÖS³QŽNbìN„vSï	éb"
- hvr_unlock_mood_change_decision_tt: "ÙÖS³QŽNbìN„vSï	éb"
+ hvr_change_government_tt: ")YPRœU`„vRLu¿uNîOckSÑSuØSS"
+ hvr_unlock_mood_change_decision_tt: "ã‰•Å`êuµc6R³Q®‹"
  hvr_mood_branch_mission_1_title: ")YPR„vçVÁ"
  hvr_mood_branch_mission_1_desc: ")YPR„v'`<hØ/fNýw©‹)YLu„vT6–BS¹RÍVÿÙ©‹)YPR	g›N‘bÁ0FOyY³QšRçuíubLˆb.tÿwN/fHSgŽNN×OÄ‰éw0)YS	g8^ÿN:N'SXRÿN:NNh¡NÿFOb1S/f)YPRÿ"
  hvr_mood_branch_mission_2_title: ")YS/f^—"
@@ -1085,9 +1087,17 @@
  hvr_mood_branch_mission_3_desc: "ÀNHN7h„vLeºNbeIN¨RùR)YPR±RbbTÿFOàeº‹‚YUOÿ)YPRýOSÖNìNSb—Ván0WŒbYrÿ"
  hvr_mood_branch_mission_4_title: ")Y0WVŸ"
  hvr_mood_branch_mission_4_desc: "bŸR®O±R:Vÿ)YPR„v8—lËzsS´fžXÿÂržXÿ²RžXÿyYdkIR„vl¿RÔkyYûNUOöePmNôf:V'YASPuókNPÿàeÔk8—õVÿàeÔkÂr`ÿ‚Ydk„vïSv`T›^y...ÿ)YNô•Ø	gÀNHNïSåNµb/cÿÖNˆY„vÿ)YNô•Ø	gÀNHNïSåNµb/c†Nÿ"
- hvr_recruit_iku_as_admiral_tooltip_reward: "bìNSnxËz‰^ó`aN„vßu»l0WMOÿ"
+ hvr_recruit_iku_as_admiral_tooltip_reward: "AQ¸‹ÛbßR8lmlcˆ–s:NÐccw"
  hvr_recruit_iku_as_general_tooltip_reward: "bìNïSåN©‹cˆ–sÅbûNS›Qÿ"
- hvr_recruit_iku_general_title: "‹TäN8lmlcˆ–sÅbûNS›Q"
+ hvr_recruit_iku_general_title: "‹TäN8lmlcˆ–sÅbûNF–›Q'YS"
  hvr_recruit_iku_general_desc: "‹TäN8lmlcˆ–sÅbûNS›Q"
- hvr_recruit_iku_admiral_title: "‹TäN8lmlcˆ–sÅbûNÐccw"
+ hvr_recruit_iku_admiral_title: "‹TäN8lmlcˆ–súQûNwm›QÐccw"
  hvr_recruit_iku_admiral_desc: "‹TäN8lmlcˆ–sÅbûNÐccw"
+ th_courageous_personality: "b‰NÂrºN"
+ th_just_calm_personality: "Y²N'Y^"
+ hvr_glorious_victory: "Sb0R±‚0u´fT"
+ hvr_ruined_garden: "Nx^„v1Y%"
+ hvr_masochistic_tenshi: "±‚0u´fT„vYe­‹"
+ hvr_call_iku_title: "‹TäN8lmlcˆ–sNûNŒ˜î•"
+ hvr_call_iku_desc: "‹TäN8lmlcˆ–sNûNŒ˜î•"
+ hvr_cannot_declare_war_before_learned_taoism: "(W¢cBl†NÙN/geYØyKNMRÿ`OØ¡lýw›RùR/f^—òfôv…SJdLr"
