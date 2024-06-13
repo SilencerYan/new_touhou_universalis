@@ -110,7 +110,7 @@ EIT_ideas = {
 	free = yes
 
 	EIT_Eirins_knowledge = {
-		idea_cost = -0.08
+		idea_cost = -0.1
 		embracement_cost = -0.5
 	}
 	EIT_Eientei_Medicine = {
@@ -1854,7 +1854,7 @@ ONI_ideas = {
 	
 	ONI_glory_of_oni = {
 		prestige = 1
-		unjustified_demands = -0.1
+		unjustified_demands = -0.3
 	}
 }
 
@@ -3079,7 +3079,7 @@ LEM_ideas = {
 	}
 
 	bonus = {
-		culture_conversion_time = -0.1
+		culture_conversion_time = -0.2
 	}
 
 	trigger = {

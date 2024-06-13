@@ -10,6 +10,7 @@ th_battle_passion_mechanic = {
 			base_monthly_growth = 0
 			range_modifier = {
 				trigger = {
+					ai = no
 					NOT = {
 						has_government_power = { 
 							mechanic_type = th_battle_passion_mechanic
@@ -19,9 +20,9 @@ th_battle_passion_mechanic = {
 					}
 				}
 				modifier = {
-					global_unrest = 10
-					land_maintenance_modifier = 0.5
-					land_attrition = 0.5
+					global_unrest = 6
+					land_maintenance_modifier = 0.3
+					land_attrition = 0.3
 					monthly_th_battle_passion = 0.5
 				}
 				start_value = -9999
@@ -29,6 +30,7 @@ th_battle_passion_mechanic = {
 			}
 			range_modifier = {
 				trigger = {
+					ai = no
 					has_government_power = { 
 						mechanic_type = th_battle_passion_mechanic
 						power_type = th_battle_passion
@@ -43,9 +45,9 @@ th_battle_passion_mechanic = {
 					}
 				}
 				modifier = {
-					global_unrest = 6
-					land_maintenance_modifier = 0.30
-					land_attrition = 0.30
+					global_unrest = 4
+					land_maintenance_modifier = 0.2
+					land_attrition = 0.2
 					monthly_th_battle_passion = 0.25
 				}
 				start_value = -50
@@ -53,6 +55,7 @@ th_battle_passion_mechanic = {
 			}
 			range_modifier = {
 				trigger = {
+					ai = no
 					has_government_power = { 
 						mechanic_type = th_battle_passion_mechanic
 						power_type = th_battle_passion
@@ -67,9 +70,9 @@ th_battle_passion_mechanic = {
 					}
 				}
 				modifier = {
-					global_unrest = 3
-					land_maintenance_modifier = 0.15
-					land_attrition = 0.15
+					global_unrest = 2
+					land_maintenance_modifier = 0.1
+					land_attrition = 0.1
 					monthly_th_battle_passion = 0.1
 				}
 				start_value = -35
@@ -77,6 +80,7 @@ th_battle_passion_mechanic = {
 			}
 			range_modifier = {
 				trigger = {
+					ai = no
 					has_government_power = { 
 						mechanic_type = th_battle_passion_mechanic
 						power_type = th_battle_passion
@@ -98,6 +102,7 @@ th_battle_passion_mechanic = {
 			}
 			range_modifier = {
 				trigger = {
+					ai = no
 					has_government_power = { 
 						mechanic_type = th_battle_passion_mechanic
 						power_type = th_battle_passion
@@ -123,6 +128,7 @@ th_battle_passion_mechanic = {
 			}
 			range_modifier = {
 				trigger = {
+					ai = no
 					has_government_power = { 
 						mechanic_type = th_battle_passion_mechanic
 						power_type = th_battle_passion
@@ -141,13 +147,14 @@ th_battle_passion_mechanic = {
 					recover_army_morale_speed = 0.2
 					land_maintenance_modifier = -0.3
 					land_morale = 0.1
-					monthly_th_battle_passion = -0.25
+					monthly_th_battle_passion = -0.2
 				}
 				start_value = 35
 				end_value = 50
 			}
 			range_modifier = {
 				trigger = {
+					ai = no
 					has_government_power = { 
 						mechanic_type = th_battle_passion_mechanic
 						power_type = th_battle_passion
@@ -159,7 +166,7 @@ th_battle_passion_mechanic = {
 					recover_army_morale_speed = 0.3
 					land_maintenance_modifier = -0.5
 					land_morale = 0.15
-					monthly_th_battle_passion = -0.5
+					monthly_th_battle_passion = -0.3
 				}
 				start_value = 50
 				end_value = 9999

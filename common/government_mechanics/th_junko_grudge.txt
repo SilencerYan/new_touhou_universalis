@@ -13,10 +13,10 @@ th_junko_grudge_mechanic = {
 					infantry_shock = 0.5
 					siege_ability = 0.2
 					regiment_disembark_speed = 0.5
-					stability_cost_modifier = 1
-					global_unrest = 5
-					all_estate_loyalty_equilibrium = -0.2
-					ae_impact = 0.15
+					stability_cost_modifier = 0.5
+					global_unrest = 3
+					all_estate_loyalty_equilibrium = -0.1
+					ae_impact = 0.05
 				}
 			}
 			on_max_reached = {
