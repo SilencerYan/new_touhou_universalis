@@ -859,7 +859,7 @@ HVR_ideas = {
 	}
 	
 	HVR_Sword_of_Hisou = {
-		siege_ability = 0.2
+		regiment_disembark_speed = 1
 		shock_damage = 0.1
 	}
 	
@@ -869,7 +869,6 @@ HVR_ideas = {
 	}
 	
 	HVR_Fighting_the_Boredom = {
-		land_morale = 0.15
 		stability_cost_to_declare_war = -1 
 	}
 }

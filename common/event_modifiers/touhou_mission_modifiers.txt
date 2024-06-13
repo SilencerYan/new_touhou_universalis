@@ -3658,12 +3658,10 @@ hvr_dragons_apostle = {
 }
 
 hvr_dragon_gods_blessing = {
-	diplomatic_reputation = 1
 	development_cost = -0.1
-	fire_damage = 0.1
-	naval_attrition = -0.1
-	global_naval_engagement_modifier = 0.25
-	merchants = 1
+	naval_attrition = -0.3
+	transport_attrition = -1
+	global_missionary_strength = 0.02
 }
 
 hvr_explore_curiosity = {
@@ -3712,12 +3710,13 @@ hvr_invincible_navy = {
 
 hvr_tenshis_empire = {
 	ignore_coring_distance = yes
-	global_unrest = -2
+	regiment_disembark_speed = 0.5
 	years_of_nationalism = -5	
 }
 
 hvr_worldwide_hisouten = {
 	administrative_efficiency = 0.05
+	regiment_disembark_speed = 0.5
 	tolerance_own = 2
 	morale_damage = 0.1
 	global_colonial_growth = 20
