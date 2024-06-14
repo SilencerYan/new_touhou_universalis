@@ -1175,7 +1175,7 @@ country_event = {
 			fire = 3
 			manuever = 2
 			siege = 1
-			name = "ï¿½ccwYj"  # Captain Chen
+			name = "ÐccwYj"  # Captain Chen
 			female = yes
 		  }
 	}
@@ -1411,8 +1411,8 @@ country_event = {
 			}
 		}
 		5320 = {
-			change_province_name = "ï¿½eï¿½ï¿½ï¿½R"
-			rename_capital = "ï¿½eï¿½ï¿½ï¿½R"
+			change_province_name = "°e™Ÿ«R"
+			rename_capital = "°e™Ÿ«R"
 			add_province_modifier = {
 				name = hvr_new_dragon_palace
 				duration = -1
