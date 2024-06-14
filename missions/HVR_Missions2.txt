@@ -1,4 +1,3 @@
-#test1
 hvr_mission_second_slot_1 = {
 	slot = 2
 	generic = no
@@ -46,7 +45,7 @@ hvr_mission_branching_slot_1 = {
 		}
 	}
 	hvr_stability_branch_mission_1 = {
-		icon = mission_unknown_mission
+		icon = mission_return_of_tenshi1
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -92,6 +91,227 @@ hvr_mission_branching_slot_1 = {
 			}
 		}
 	}
+
+	hvr_mood_branch_mission_1 = {
+		icon = mission_return_of_tenshi
+		position = 3
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			splendor = 800
+		}
+		effect = {
+			custom_tooltip = hvr_change_government_tt
+		}
+	}
+
+	hvr_mood_branch_mission_2 = {
+		icon = mission_angel_of_apocalypse
+		position = 4
+		required_missions = {
+			hvr_mood_branch_mission_1
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			OR = {
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_no_education_path_trigger_tt
+						always = no
+					}
+					custom_trigger_tooltip = {
+						tooltip = hvr_reach_max_temper_tooltip
+						check_variable = {
+							which = hvr_num_of_max_temper
+							value = 5
+						}
+					}
+					custom_trigger_tooltip = {
+						tooltip = obj_humiliate_rival_tooltip
+						has_country_flag = humiliated_rival
+					}
+				}
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_teach_lesson_path_trigger_tt
+						always = no
+					}
+					num_accepted_cultures = 3
+					calc_true_if = {
+						all_ally = {
+							NOT = { total_development = 100 }
+							trust = {
+								who = ROOT
+								value = 90
+							}
+						}
+						amount = 3
+					}
+				}				
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_unlock_mood_change_decision_tt
+			custom_tooltip = hvr_no_education_path_effect_tt
+			add_country_modifier = {
+				name = hvr_tiger
+				duration = 7300
+			}
+			custom_tooltip = hvr_teach_lesson_path_effect_tt
+			add_country_modifier = {
+				name = hvr_heavenly_manner
+				duration = 7300
+			}
+		}
+	}
+
+	hvr_mood_branch_mission_3 = {
+		icon = mission_touhou_tenshi_stress
+		position = 5
+		required_missions = {
+			hvr_mood_branch_mission_2
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			OR = {
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_no_education_path_trigger_tt
+						always = no
+					}
+					custom_trigger_tooltip = {
+						tooltip = hvr_defensive_war_tooltip
+						is_in_war = {
+							defender_leader = ROOT
+							war_score = 50
+						}
+						NOT = {
+							is_in_war = {
+								defender_leader = ROOT
+								casus_belli = cb_super_badboy
+								war_score = 50
+							}
+						}
+					}
+				}
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_teach_lesson_path_trigger_tt
+						always = no
+					}
+					all_owned_province = {
+						culture = ROOT
+						num_of_times_expanded_infrastructure = 2
+					}
+					NOT = {
+						any_owned_province = {
+							devastation = 1
+							unrest = 1
+						}
+					}
+				}				
+			}
+		}
+		effect = {
+			#change events
+			custom_tooltip = hvr_no_education_path_effect_tt
+			create_general = { tradition = 80 }
+			every_ally = {
+				limit = {
+					is_in_war = {
+						defender_leader = ROOT
+						war_score = 50
+					}
+					NOT = {
+						is_in_war = {
+							defender_leader = ROOT
+							casus_belli = cb_super_badboy
+							war_score = 50
+						}
+					}			
+				}
+				add_trust = {
+					who = ROOT
+					value = 15
+				}
+			}
+			custom_tooltip = hvr_teach_lesson_path_effect_tt
+			add_years_of_income = 2
+		}
+	}
+
+	hvr_mood_branch_mission_4 = {
+		icon = mission_touhou_greek_fire
+		position = 6
+		required_missions = {
+			hvr_mood_branch_mission_3
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = selectable_mission_trigger_tt
+				always = no
+			}
+			OR = {
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_no_education_path_trigger_tt
+						always = no
+					}
+					if = {
+						limit = {
+							calc_true_if = {
+								all_known_country = {
+									is_great_power = yes
+								}
+								amount = 5
+							}
+						}
+						calc_true_if = {
+							all_known_country = {
+								is_great_power = yes
+								truce_with = ROOT
+							}
+							amount = 5
+						}
+					}
+					overextension_percentage = 1.5
+				}
+				AND = {
+					custom_trigger_tooltip = {
+						tooltip = hvr_teach_lesson_path_trigger_tt
+						always = no
+					}
+					estate_loyalty = {
+						estate = all
+						loyalty = 80
+					}
+					monthly_dip = 15
+				}				
+			}
+		}
+		effect = {
+			th_reenable_reeducate_ruler = yes
+			custom_tooltip = hvr_change_tenshis_trait_tt
+		}
+	}
 }
 
 hvr_mission_no_education_slot_1 = {
@@ -120,6 +340,145 @@ hvr_mission_no_education_slot_1 = {
 		effect = {
 			hvr_reduce_debuff_power_effect = yes
 			add_adm_power = 100
+		}
+	}
+
+	hvr_mood_no_education_branch_mission_1 = {
+		icon = mission_iku_weather_control
+		position = 3
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			splendor = 800
+		}
+		effect = {
+			custom_tooltip = hvr_change_government_tt
+			hidden_effect = {
+				set_country_flag = hvr_change_government_no_education_flag
+			}
+		}
+	}
+
+	hvr_mood_no_education_branch_mission_2 = {
+		icon = mission_keystones
+		position = 4
+		required_missions = {
+			hvr_mood_no_education_branch_mission_1
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_reach_max_temper_tooltip
+				check_variable = {
+					which = hvr_num_of_max_temper
+					value = 5
+				}
+			}
+			OR = {
+				custom_trigger_tooltip = {
+					tooltip = obj_humiliate_rival_tooltip
+					has_country_flag = humiliated_rival
+				}
+				total_development = 750
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_unlock_mood_change_decision_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlock_mood_change_decision_flag
+			}
+			add_country_modifier = {
+				name = hvr_tiger
+				duration = 7300
+			}
+		}
+	}
+
+	hvr_mood_no_education_branch_mission_3 = {
+		icon = mission_tenshi_throne
+		position = 5
+		required_missions = {
+			hvr_mood_no_education_branch_mission_2
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = hvr_defensive_war_tooltip
+				is_in_war = {
+					defender_leader = ROOT
+					NOT = {
+						casus_belli = cb_super_badboy
+					}
+					war_score = 50
+				}
+			}
+		}
+		effect = {
+			create_general = { tradition = 80 }
+			every_ally = {
+				limit = {
+					is_in_war = {
+						defender_leader = ROOT
+						NOT = {
+							casus_belli = cb_super_badboy
+						}
+						war_score = 50
+					}					
+				}
+				add_trust = {
+					who = ROOT
+					value = 15
+				}
+			}
+			#change_events
+		}
+	}
+
+	hvr_mood_no_education_branch_mission_4 = {
+		icon = mission_tenshi_judgement_day
+		position = 6
+		required_missions = {
+			hvr_mood_no_education_branch_mission_3
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			if = {
+				limit = {
+					calc_true_if = {
+						all_known_country = {
+							is_great_power = yes
+						}
+						amount = 5
+					}
+				}
+				calc_true_if = {
+					all_known_country = {
+						is_great_power = yes
+						truce_with = ROOT
+					}
+					amount = 5
+				}
+			}
+			overextension_percentage = 1.5
+		}
+		effect = {
+			th_reenable_reeducate_ruler = yes
+			custom_tooltip = hvr_change_tenshis_trait_tt
+			hidden_effect = {
+				set_country_flag = hvr_change_tenshis_trait_no_education_flag
+				if = {
+					limit = {
+						has_ruler_flag = th_original_tenshi
+					}
+					remove_ruler_personality = babbling_buffoon_personality
+					add_ruler_personality = th_courageous_personality
+				}
+			}
 		}
 	}
 }
@@ -161,6 +520,114 @@ hvr_mission_teach_lesson_slot_1 = {
 			}
 		}
 	}
+
+	hvr_mood_teach_lesson_branch_mission_1 = {
+		icon = mission_mastery_over_nature
+		position = 3
+		required_missions = {
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			splendor = 800
+		}
+		effect = {
+			custom_tooltip = hvr_change_government_tt
+			hidden_effect = {
+				set_country_flag = hvr_change_government_teach_lesson_flag
+			}
+		}
+	}
+
+	hvr_mood_teach_lesson_branch_mission_2 = {
+		icon = mission_touhou_moon_land
+		position = 4
+		required_missions = {
+			hvr_mood_teach_lesson_branch_mission_1
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			num_accepted_cultures = 3
+			calc_true_if = {
+				all_ally = {
+					NOT = { total_development = 100 }
+					trust = {
+						who = ROOT
+						value = 90
+					}
+				}
+				amount = 3
+			}
+		}
+		effect = {
+			custom_tooltip = hvr_unlock_mood_change_decision_tt
+			hidden_effect = {
+				set_country_flag = hvr_unlock_mood_change_decision_flag
+			}
+			add_country_modifier = {
+				name = hvr_heavenly_manner
+				duration = 7300
+			}
+		}
+	}
+
+	hvr_mood_teach_lesson_branch_mission_3 = {
+		icon = mission_touhou_army
+		position = 5
+		required_missions = {
+			hvr_mood_teach_lesson_branch_mission_2
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			all_owned_province = {
+				culture = ROOT
+				num_of_times_expanded_infrastructure = 2
+			}
+			NOT = {
+				any_owned_province = {
+				  	devastation = 1
+				  	unrest = 1
+				}
+			}
+		}
+		effect = {
+			add_years_of_income = 2
+			#change_events
+		}
+	}
+
+	hvr_mood_teach_lesson_branch_mission_4 = {
+		icon = mission_iku_ride_the_lightning
+		position = 6
+		required_missions = {
+			hvr_mood_teach_lesson_branch_mission_3
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			estate_loyalty = {
+				estate = all
+				loyalty = 80
+			}
+			monthly_dip = 15
+		}
+		effect = {
+			th_reenable_reeducate_ruler = yes
+			custom_tooltip = hvr_change_tenshis_trait_tt
+			hidden_effect = {
+				set_country_flag = hvr_change_tenshis_trait_teach_lesson_flag
+				if = {
+					limit = {
+						has_ruler_flag = th_original_tenshi
+					}
+					remove_ruler_personality = babbling_buffoon_personality
+					add_ruler_personality = th_just_calm_personality
+				}
+			}
+		}
+	}
 }
 
 hvr_mission_first_slot = {
@@ -172,76 +639,6 @@ hvr_mission_first_slot = {
 		tag = HVR
 		NOT = {
 			map_setup = map_setup_random
-		}
-	}
-	hvr_mood_control_1 = {
-		icon = mission_mood_control
-		position = 3
-		required_missions = {
-		}
-		provinces_to_highlight = {
-		}
-		trigger = {
-			prestige = 5
-		}
-		effect = {
-			country_event = {
-				id = flavor_hvr.0
-			}
-		}
-	}
-
-	hvr_mood_control_2 = {
-		icon = mission_tenshi_throne
-		position = 4
-		required_missions = {
-			hvr_mood_control_1
-		}
-		provinces_to_highlight = {
-		}
-		trigger = {
-			prestige = 5
-		}
-		effect = {
-			country_event = {
-				id = flavor_hvr.0
-			}
-		}
-	}
-
-	hvr_mood_control_3 = {
-		icon = mission_tenshi_throne
-		position = 5
-		required_missions = {
-			hvr_mood_control_2
-		}
-		provinces_to_highlight = {
-		}
-		trigger = {
-			prestige = 5
-		}
-		effect = {
-			country_event = {
-				id = flavor_hvr.0
-			}
-		}
-	}
-
-	hvr_mood_control_4 = {
-		icon = mission_tenshi_throne
-		position = 6
-		required_missions = {
-			hvr_mood_control_3
-		}
-		provinces_to_highlight = {
-		}
-		trigger = {
-			prestige = 5
-		}
-		effect = {
-			country_event = {
-				id = flavor_hvr.0
-			}
 		}
 	}
 
@@ -562,7 +959,7 @@ hvr_mission_branching_slot_2 = {
 		}
 	}
 	hvr_stability_branch_mission_2 = {
-		icon = mission_unknown_mission
+		icon = mission_lunar_nobles
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -927,7 +1324,7 @@ hvr_mission_second_slot_2 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
-			num_of_ports = 50
+			num_of_total_ports = 50
 			if = {
 				limit = {
 				  	has_dlc = "Golden Century"
@@ -1032,7 +1429,7 @@ hvr_mission_branching_slot_3 = {
 		}
 	}
 	hvr_stability_branch_mission_3 = {
-		icon = mission_unknown_mission
+		icon = mission_zeus
 		position = 2
 		required_missions = {
 			hvr_choose_path
@@ -1878,7 +2275,7 @@ hvr_mission_fifth_slot = {
 				manuever = 3
 				siege = 1
 				female = yes
-				name = "ãYGYÑv)Y∫N"  # Curious Celestial
+				name = "√îk¬±¬êTES≈ítPR"  # Curious Celestial
 			}
 		}
 	}
