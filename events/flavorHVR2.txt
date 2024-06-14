@@ -1721,6 +1721,7 @@ country_event = {
 	is_triggered_only = yes
 	option = {
 		name = flavor_hvr.24.a
+		custom_tooltip = hvr_unlock_hisou_sword_energy
 		arabia_region = {
 			limit = {
 				NOT = {
@@ -1769,7 +1770,6 @@ country_event = {
 			name = hvr_outworld_passion
 			duration = 9125
 	  	}
-		custom_tooltip = hvr_unlock_hisou_sword_energy
 		hidden_effect = {
 			set_country_flag = hvr_unlock_hisou_sword_unlocked
 			set_variable = {
@@ -1872,7 +1872,17 @@ country_event = {
 	is_triggered_only = yes
 	option = {
 	  	name = flavor_hvr.100.a
-		custom_tooltip = hvr_hisou_sword_energy.tt
+		if = {
+			limit = {
+				NOT = {
+					has_country_flag = hvr_unlock_hisou_sword_unlocked
+				}
+			}
+			custom_tooltip = hvr_no_hisou_sword_energy.tt
+		}
+		else = {
+			custom_tooltip = hvr_hisou_sword_energy.tt
+		}
 	}
 }
 

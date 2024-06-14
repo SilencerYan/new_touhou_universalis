@@ -3827,6 +3827,10 @@ hvr_heavenly_manner = {
 	improve_relation_modifier = 0.2
 }
 
+hvr_new_celestials_paradise = {
+	global_tariffs = 0.25
+}
+
 #General touhou mission rewards:
 
 touhou_ocean_navy = {

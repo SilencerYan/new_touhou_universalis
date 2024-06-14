@@ -20,7 +20,7 @@ country_decisions = {
 	}
 	hvr_hisou_sword_introduction = {
 		potential = {
-		  	has_country_flag = hvr_unlock_hisou_sword_unlocked
+		  	has_government_attribute = th_weather_control_mechanic
 		}
 		allow = {
 			always = yes

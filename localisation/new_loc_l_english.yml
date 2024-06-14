@@ -920,11 +920,11 @@
  flavor_hvr.104.desc: "%fËyŒNŒvÛVAS‹ÿ0W—Mb”NyQUO‘˜0\n[Root.GetName]hQýVNNýúQ°s†NòSàeMR‹O„v0W—ÿNÅN'YÏ‘„vÎW^?bPKSLXÿˆVYg:NZWúV„v/X’WmN(W0W—-N«ˆmcOWÿ„˜¡‹îOYåTjOScíuˆV•„vöeô•0\n[Root.Monarch.GetName](WáTÆ‰Œp:S„vöePÿˆVYŒplýhˆ:yÖNìNw0R†NNMO)YºN„v«ŽqV0"
  flavor_hvr.104.a: "yY‹Y'Y„vÆwPRÿ"
  flavor_hvr.100.t: "ïuó`QR)Ylµc6R:g6RËNÍu"
- flavor_hvr.100.desc: "ïuó`KNQRýwY(W9VU^b-NSùR¹e„vl(lS:N)YlÿKˆN)YPR‚föe„vµc6RSƒôV„v)Yl„výw›R0\nVÑS0W—ÿˆmw150›Q‹N¹pÿùRîvhýV¶RVÑSb/g0W—ÿÅNïSùRb‰N-N„vLeùRýV¶RO(u05t^…QîvhýV¶R‰^X2–¡V-25%0àecdÿùRTNýV¶R	g15t^cdÿv^ÙuˆNsQû|é`Z0\nïuó`KNQRýw›R:g6Rÿã‰•TÿåNÏkt^4¹pÿŒRbgÈuûN¡RT6¹p	ÿ„vúVšR¦^ïy/tl(ýwÏ‘	ÿ0ˆmwl((ueg9eØS)Yl0TÍy9eØS)Ylýw›R—ûN¡Rã‰•0àecdÿFOTNýV¶RêSýwTöeXR(WNÍy)YlHeœgÿËe RTSOûyd–òT	g„v)YlHeœgÿ0W—N)YlN²QzÿïSTöeXR(W	ÿ0\n´fè–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffwm›QëXl-10%ÿ9‚êSwEN¦^-5%\nÈpåeÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffVÑS±‚9+10%ÿú^.±‚9+10%\n´fê–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffûy¨R¦^-10%ÿmcw+10%\nSmþ–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffkp2O-10%ÿëXlb`Y-10%"
- flavor_hvr.100.a: "bsS)YPR"
+ flavor_hvr.100.desc: "ïuó`KNQRýwY(W9VU^b-NSùR¹e„vl(lS:N)YlÿKˆN)YPR‚föe„vµc6RSƒôV„v)Yl„výw›R0\nVÑS0W—ÿˆmw150›Q‹N¹pÿùRîvhýV¶RVÑSb/g0W—ÿÅNïSùRb‰N-N„vLeùRýV¶RO(u05t^…QîvhýV¶R‰^X2–¡V-25%0àecdÿùRTNýV¶R	g15t^cdÿv^ÙuˆNsQû|é`Z0dkýw›Ràe—ã‰•ÿNN^SŽNïuó`QR„v)Ylµc6Rýw›R0\nïuó`KNQRýw›R:g6Rÿã‰•TÿåNÏkt^4¹pÿŒRbgÈuûN¡RT6¹p	ÿ„vúVšR¦^ïy/tl(ýwÏ‘	ÿ0ˆmwl((ueg9eØS)Yl0TÍy9eØS)Ylýw›R—ûN¡Rã‰•0àecdÿFOTNýV¶RêSýwTöeXR(WNÍy)YlHeœgÿËe RTSOûyd–òT	g„v)YlHeœgÿ0W—N)YlN²QzÿïSTöeXR(W	ÿ0\n´fè–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffwm›QëXl-10%ÿ9‚êSwEN¦^-5%\nÈpåeÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffVÑS±‚9+10%ÿú^.±‚9+10%\n´fê–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffûy¨R¦^-10%ÿmcw+10%\nSmþ–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffkp2O-10%ÿëXlb`Y-10%"
+ flavor_hvr.100.a: "°s(Wïuó`QR	gYSl(ýwÏ‘ÿ"
  hvr_three_earthquake_tt: "òTÏuVÑSÇ	N/k§YÁkmp'`0W—§!"
  hvr_unlock_strong_sun_tt: "ã‰•Èpåe)Yl"
- hvr_add_40_power: "ïuó`QRžX R40¹pýwÏ‘"
+ hvr_add_40_power: "ïuó`QR·ƒ—V40l(ýwÏ‘"
  hvr_unlock_blizzard_tt: "ã‰•´fê–)Yl"
  hvr_buff_on_arctic_provinces_tt: "åb	g„vÙ›NwýN·ƒ—V§Y°Qê–GY§!ÿ25t^…Q,g0WÍy0W±‚9-25%ÿ,g0WFUÁTµNúQ+25%"
  hvr_unlock_heavy_fog_tt: "ã‰•Smþ–)Yl"
@@ -955,13 +955,14 @@
  hvr_popularity_in_fish: "·ƒ—V|œ‰|áOûN"
  hvr_fishes_hisouten: "hQ|œ‰|„vïuó`)Y"
  hvr_outworld_passion: "§Y¢c0tßWY§!"
- hvr_unlock_hisou_sword_energy: "ã‰•ïuó`QREQýwû|ßu"
+ hvr_unlock_hisou_sword_energy: "ïuó`QRVËYïyel(ýwÏ‘ÿ(uŽNÑS¨R)Ylµc6Rÿ"
  hvr_hisou_sword_energy: "§Yïuó`QRýwÏ‘<P§!"
  hvr_strong_sun: "§YÈpåe§!"
  hvr_blizzard: "§Y´fê–§!"
  hvr_heavy_fog: "§YSmþ–·§!"
  hvr_disperse_clouds: ""§Y´fè–§!""
  hvr_hisou_sword_energy.tt: "SVMR„vïuó`QRýwÏ‘:N§Y[Root.hvr_hisou_sword_energy.GetValue]§!¹p"
+ hvr_no_hisou_sword_energy.tt: "ïuó`QR„vjo›RS*gVÑS"
  hvr_other_heaven_provinces_gain_this_too: "vQÖNÍ‘‰wýNmNS·ƒ—VîOck"
  hvr_new_dragon_palace: "êS/f1gœ˜9e"
   flavor_hvr.5.t: "^y>yí•—^KNåe"
@@ -1102,3 +1103,6 @@
  hvr_call_iku_title: "‹TäN8lmlcˆ–sNûNŒ˜î•"
  hvr_call_iku_desc: "IY™Ÿ^yKN‹Tÿ™Ÿ«ROw8lmlcˆ–sSÍT”^)YPR„v‰Blb:NŒ˜î•ÿÐccwbwF–›QS†˜0"
  hvr_cannot_declare_war_before_learned_taoism: "(W¢cBl†NÙN/geYØyKNMRÿ`OØ¡lýw›RùR/f^—òfôv…SJdLr"
+ hvr_all_colony_get_buff_tt: "bìN„vŽ2m–kl0WS·ƒ—V8lENîOck"
+ hvr_new_celestials_paradise: "°e)YºNPNW"
+ HVR_weather_control_tt: "òTO(uÇ10/kïuó`QR„v)Ylµc6Rýw›R"
