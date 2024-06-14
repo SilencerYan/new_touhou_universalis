@@ -14,7 +14,7 @@ country_event = {
 	option = {	#Read today's entire article
 		name = touhou_news.1.a
 		country_event = {
-			id = touhou_news.90
+			id = touhou_news.96
 		}
 	}
 
@@ -33,6 +33,13 @@ country_event = {
 
 	is_triggered_only = yes
 	
+	option = {	#Tenshi and Junko and trade nodes
+		name = touhou_news.2.j
+		country_event = {
+			id = touhou_news.96
+		}
+	}
+
 	option = {	#Kappa, Tengu and Lunarian Update and their patch notes
 		name = touhou_news.2.i
 		country_event = {
@@ -1565,6 +1572,153 @@ country_event = {
 		name = touhou_news.scroll_to_important_page
 		country_event = {
 			id = touhou_news.90
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+country_event = {
+	id = touhou_news.96
+	title = "touhou_news.96.t"
+	desc = "touhou_news.96.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.97
+		}
+	}
+	
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+country_event = {
+	id = touhou_news.97
+	title = "touhou_news.97.t"
+	desc = "touhou_news.97.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.98
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.96
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+country_event = {
+	id = touhou_news.98
+	title = "touhou_news.98.t"
+	desc = "touhou_news.98.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.99
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.97
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.96
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+country_event = {
+	id = touhou_news.99
+	title = "touhou_news.99.t"
+	desc = "touhou_news.99.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to next page
+		name = touhou_news.scroll_next_page
+		country_event = {
+			id = touhou_news.100
+		}
+	}
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.98
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.96
+		}
+	}
+
+	option = {	#Put Aya's newspaper aside
+		name = touhou_news.exit
+		highlight = yes
+	}
+}
+
+country_event = {
+	id = touhou_news.100
+	title = "touhou_news.100.t"
+	desc = "touhou_news.100.desc"
+	picture = AYAPAPERNEWS_eventPicture
+
+	is_triggered_only = yes
+
+	option = {	#Scroll to previous page
+		name = touhou_news.scroll_previous_page
+		country_event = {
+			id = touhou_news.99
+		}
+	}
+
+	option = {	#Scroll to important page
+		name = touhou_news.scroll_to_important_page
+		country_event = {
+			id = touhou_news.96
 		}
 	}
 
