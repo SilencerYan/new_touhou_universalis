@@ -824,7 +824,7 @@ HMC_ideas = {
 HVR_ideas = {
 	start = {	
 		shock_damage_received = -0.1
-		navy_tradition = 1
+		max_flagships = 1
 	}
 	
 	bonus = {
@@ -849,8 +849,8 @@ HVR_ideas = {
 	}
 	
 	HVR_The_flying_Iku = {
-		ship_durability = 0.15
-		naval_morale = 0.15
+		ship_durability = 0.1
+		naval_morale = 0.1
 	}
 	
 	HVR_Celestial_Realm = {
@@ -860,6 +860,7 @@ HVR_ideas = {
 	
 	HVR_Sword_of_Hisou = {
 		regiment_disembark_speed = 1
+		siege_blockade_progress = 1
 		shock_damage = 0.1
 	}
 	

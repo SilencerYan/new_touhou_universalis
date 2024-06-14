@@ -1341,7 +1341,7 @@ hvr_new_dragon_palace = {
 
 hvr_moon_belongs_to_us = {
 	technology_cost = -0.1
-	unjustified_demands = -0.5
+	unjustified_demands = -0.3
 }
 
 hvr_injured_tenshi = {
