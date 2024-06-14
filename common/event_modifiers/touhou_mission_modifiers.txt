@@ -3662,6 +3662,7 @@ hvr_dragon_gods_blessing = {
 	naval_attrition = -0.3
 	transport_attrition = -1
 	global_missionary_strength = 0.02
+	global_ship_trade_power = 0.3
 }
 
 hvr_explore_curiosity = {
@@ -3702,10 +3703,8 @@ hvr_ship_building_enthusiasm = {
 
 hvr_invincible_navy = {
 	siege_blockade_progress = 1
-	movement_speed_in_fleet_modifier = 0.5
 	number_of_cannons_modifier = 0.1
-	naval_forcelimit_modifier = 0.3
-	global_sailors_modifier = 0.3
+	naval_maintenance_modifier = -0.25
 }
 
 hvr_tenshis_empire = {
@@ -3717,7 +3716,6 @@ hvr_tenshis_empire = {
 hvr_worldwide_hisouten = {
 	regiment_disembark_speed = 0.5
 	tolerance_own = 2
-	morale_damage = 0.1
 	global_colonial_growth = 20
 }
 

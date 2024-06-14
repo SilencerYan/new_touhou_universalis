@@ -2395,6 +2395,7 @@ hvr_mission_fifth_slot = {
 			}
 		}
 		effect = {
+			custom_tooltip = hvr_all_colony_get_buff_tt
 			every_subject_country = {
 				limit = {
 					OR = {

@@ -1673,7 +1673,7 @@ country_event = {
 		}
 		add_country_modifier = {
 			name = hvr_fishes_hisouten
-			duration = 9125
+			duration = -1
 	  	}
 	}
 }
