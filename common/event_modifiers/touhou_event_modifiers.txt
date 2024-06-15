@@ -1358,7 +1358,8 @@ hvr_popularity_in_fish = {
 hvr_fishes_hisouten = {
 	movement_speed_in_fleet_modifier = 1
 	global_sailors_modifier = 0.1
-	trade_steering = 0.25
+	trade_steering = 0.5
+	merchants = 1
 }
 
 hvr_outworld_passion = {

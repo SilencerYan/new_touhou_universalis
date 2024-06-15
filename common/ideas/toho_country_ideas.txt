@@ -865,7 +865,7 @@ HVR_ideas = {
 	}
 	
 	HVR_Live_in_Heaven = {
-		global_unrest = -1
+		global_unrest = -2
 		global_prosperity_growth = 0.5
 	}
 	

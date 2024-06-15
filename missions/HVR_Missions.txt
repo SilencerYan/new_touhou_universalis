@@ -215,9 +215,21 @@ hvr_mission_branching_slot_1 = {
 						tooltip = hvr_teach_lesson_path_trigger_tt
 						always = no
 					}
-					all_owned_province = {
-						culture = ROOT
-						num_of_times_expanded_infrastructure = 2
+					custom_trigger_tooltip = {
+						tooltip = hvr_infrastructure_tt
+						all_owned_province = {
+							all_owned_province = {
+								OR = {
+									AND = {
+										culture = ROOT
+										num_of_times_expanded_infrastructure = 2
+									}
+									NOT = {
+										culture = ROOT
+									}
+								}
+							}
+						}
 					}
 					NOT = {
 						any_owned_province = {
@@ -410,10 +422,14 @@ hvr_mission_no_education_slot_1 = {
 				tooltip = hvr_defensive_war_tooltip
 				is_in_war = {
 					defender_leader = ROOT
-					NOT = {
-						casus_belli = cb_super_badboy
-					}
 					war_score = 50
+				}
+				NOT = {
+					is_in_war = {
+						defender_leader = ROOT
+						casus_belli = cb_super_badboy
+						war_score = 50
+					}
 				}
 			}
 		}
@@ -423,10 +439,14 @@ hvr_mission_no_education_slot_1 = {
 				limit = {
 					is_in_war = {
 						defender_leader = ROOT
-						NOT = {
-							casus_belli = cb_super_badboy
-						}
 						war_score = 50
+					}
+					NOT = {
+						is_in_war = {
+							defender_leader = ROOT
+							casus_belli = cb_super_badboy
+							war_score = 50
+						}
 					}					
 				}
 				add_trust = {
@@ -581,9 +601,21 @@ hvr_mission_teach_lesson_slot_1 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
-			all_owned_province = {
-				culture = ROOT
-				num_of_times_expanded_infrastructure = 2
+			custom_trigger_tooltip = {
+				tooltip = hvr_infrastructure_tt
+				all_owned_province = {
+					all_owned_province = {
+						OR = {
+							AND = {
+								culture = ROOT
+								num_of_times_expanded_infrastructure = 2
+							}
+							NOT = {
+								culture = ROOT
+							}
+						}
+					}
+				}
 			}
 			NOT = {
 				any_owned_province = {
@@ -2275,7 +2307,7 @@ hvr_mission_fifth_slot = {
 				manuever = 3
 				siege = 1
 				female = yes
-				name = "ï¿½YGYï¿½v)Yï¿½N"  # Curious Celestial
+				name = "‹YGY„v)YºN"  # Curious Celestial
 			}
 		}
 	}
