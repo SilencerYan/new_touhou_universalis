@@ -156,6 +156,20 @@ on_startup = {
 			id = touhou_setting.11
 		}
 	}
+	if = {
+		limit = {
+			ai = no
+			th_is_or_was_tag = {
+				tag = HVR
+			}
+			NOT = {
+				has_country_flag = hvr_has_variables_set
+			}
+		}
+		country_event = {
+			id = flavor_hvr.0
+		}
+	}
 }
 
 # country
@@ -704,7 +718,6 @@ on_monthly_pulse = {
 		flavor_hkr.7
 		flavor_hkr.10
 		flavor_hkr.16
-		flavor_hvr.0
 		flavor_hvr.5
 		flavor_hvr.6
 		flavor_hvr.7

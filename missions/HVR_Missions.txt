@@ -222,7 +222,7 @@ hvr_mission_branching_slot_1 = {
 								OR = {
 									AND = {
 										culture = ROOT
-										num_of_times_expanded_infrastructure = 2
+										num_of_times_expanded_infrastructure = 1
 									}
 									NOT = {
 										culture = ROOT
@@ -608,7 +608,7 @@ hvr_mission_teach_lesson_slot_1 = {
 						OR = {
 							AND = {
 								culture = ROOT
-								num_of_times_expanded_infrastructure = 2
+								num_of_times_expanded_infrastructure = 1
 							}
 							NOT = {
 								culture = ROOT

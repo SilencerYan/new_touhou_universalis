@@ -6,15 +6,6 @@ country_event = {
 	desc = flavor_hvr.0.desc
 	fire_only_once = yes
 	is_triggered_only = yes
-	trigger = {
-		ai = no
-		th_is_or_was_tag = {
-			tag = HVR
-		}
-		NOT = {
-			has_country_flag = hvr_has_variables_set
-		}
-	}
 	immediate = {
 		hidden_effect = {
 			set_country_flag = hvr_has_variables_set
