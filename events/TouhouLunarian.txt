@@ -704,7 +704,7 @@ country_event = {
 	id = TH_lunarian_events.17
 	title = "TH_lunarian_events.17.t"
 	desc = "TH_lunarian_events.17.desc"
-	picture = LUNARWAR_eventPicture
+	picture = TOUHOUMOON_eventPicture
 	
 	trigger = {
 		5320 = {
@@ -728,7 +728,7 @@ country_event = {
 	}
 
 	option = {
-		name = "TH_lunarian_events.16.a"
+		name = "TH_lunarian_events.17.a"
 		5320 = {
 			remove_trade_modifier = {
 				who = ROOT
