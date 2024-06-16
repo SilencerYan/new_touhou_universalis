@@ -108,6 +108,7 @@ hvr_mission_branching_slot_1 = {
 		}
 		effect = {
 			custom_tooltip = hvr_change_government_tt
+			custom_tooltip = hvr_unlock_taunt_tt
 		}
 	}
 
@@ -367,8 +368,10 @@ hvr_mission_no_education_slot_1 = {
 		}
 		effect = {
 			custom_tooltip = hvr_change_government_tt
+			custom_tooltip = hvr_unlock_taunt_tt
 			hidden_effect = {
 				set_country_flag = hvr_change_government_no_education_flag
+				set_country_flag = hvr_unlock_taunt_flag
 			}
 		}
 	}
@@ -422,13 +425,13 @@ hvr_mission_no_education_slot_1 = {
 				tooltip = hvr_defensive_war_tooltip
 				is_in_war = {
 					defender_leader = ROOT
-					war_score = 50
+					war_score = -50
 				}
 				NOT = {
 					is_in_war = {
 						defender_leader = ROOT
 						casus_belli = cb_super_badboy
-						war_score = 50
+						war_score = -50
 					}
 				}
 			}
@@ -439,13 +442,13 @@ hvr_mission_no_education_slot_1 = {
 				limit = {
 					is_in_war = {
 						defender_leader = ROOT
-						war_score = 50
+						war_score = -50
 					}
 					NOT = {
 						is_in_war = {
 							defender_leader = ROOT
 							casus_belli = cb_super_badboy
-							war_score = 50
+							war_score = -50
 						}
 					}					
 				}
@@ -553,8 +556,10 @@ hvr_mission_teach_lesson_slot_1 = {
 		}
 		effect = {
 			custom_tooltip = hvr_change_government_tt
+			custom_tooltip = hvr_unlock_taunt_tt
 			hidden_effect = {
 				set_country_flag = hvr_change_government_teach_lesson_flag
+				set_country_flag = hvr_unlock_taunt_flag
 			}
 		}
 	}
@@ -604,15 +609,13 @@ hvr_mission_teach_lesson_slot_1 = {
 			custom_trigger_tooltip = {
 				tooltip = hvr_infrastructure_tt
 				all_owned_province = {
-					all_owned_province = {
-						OR = {
-							AND = {
-								culture = ROOT
-								num_of_times_expanded_infrastructure = 1
-							}
-							NOT = {
-								culture = ROOT
-							}
+					OR = {
+						AND = {
+							culture = ROOT
+							num_of_times_expanded_infrastructure = 1
+						}
+						NOT = {
+							culture = ROOT
 						}
 					}
 				}
@@ -1838,7 +1841,6 @@ hvr_mission_third_slot_2 = {
 		required_missions = {
 			hvr_dragon_statue
 			hvr_iku_advisor
-			hvr_conquer_moon
 		}
 		provinces_to_highlight = {
 		}

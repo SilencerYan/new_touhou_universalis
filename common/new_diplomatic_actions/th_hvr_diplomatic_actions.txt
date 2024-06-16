@@ -318,3 +318,79 @@ th_hvr_weather_control_heavy_fog = {
 		always = no
 	}
 }
+
+th_hvr_taunt = {
+	category = th_diplo_action
+
+	require_acceptance = no
+
+	is_visible = {
+		has_country_flag = hvr_unlock_taunt_flag
+	}
+
+	is_allowed = {
+		FROM = {
+			is_free_or_tributary_trigger = yes
+		}
+		if = {
+			limit = {
+				FROM = { alliance_with = ROOT }
+			}
+			custom_trigger_tooltip = {
+				tooltip = TH_FROM_IS_NOT_OUR_ALLY
+				FROM = { NOT = { alliance_with = ROOT } }
+			}
+		}
+		if = {
+			limit = {
+				FROM = {
+					OR = {
+						has_country_flag = th_immunity_to_diplomatic_actions
+						has_government_attribute = enables_yama_authority
+					}
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = th_from_is_not_immune_to_diplomatic_actions_tt
+				FROM = {
+					NOT = { has_country_flag = th_immunity_to_diplomatic_actions }
+					NOT = { has_government_attribute = enables_yama_authority }
+				}
+			}
+		}
+		if = {
+			limit = {
+				FROM = {
+					th_is_ai_lunarian_before_1550 = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = AI_Lunarian_wont_do_nothing_before_1550_tt
+				FROM = {
+					NOT = { th_is_ai_lunarian_before_1550 = yes }
+				}
+			}
+		}
+		custom_trigger_tooltip = {
+			tooltip = hvr_has_used_taunt_for_15_years
+			OR = {
+				NOT = { has_country_flag = hvr_used_taunt }
+				had_country_flag = {
+					flag = hvr_used_taunt
+					days = 5475		#15 years
+				}
+			}
+		}
+	}
+
+	on_accept = {
+		FROM = {
+			country_event = {  
+				id = th_diplo_events.58
+			}
+		}
+	}
+	ai_will_do = {
+		always = no
+	}
+}

@@ -3415,3 +3415,37 @@ country_event = {
 		}
     }
 }
+
+#Tenshi's taunt
+country_event = {
+	id = th_diplo_events.58
+	title = th_diplo_events.58.t
+	desc = th_diplo_events.58.desc
+	picture = TENSHI_earthquake_eventPicture
+    is_triggered_only = yes
+    immediate = {
+        hidden_effect = {
+            FROM = {
+                clr_country_flag = hvr_used_taunt
+                set_country_flag = hvr_used_taunt
+		    }
+        }
+    }
+
+	option = {
+        name = th_diplo_events.58.a
+        declare_war_with_cb = {
+            casus_belli = cb_tenshi_insult_war
+            who = FROM            
+        }
+		ai_chance = { 
+			factor = 100
+		}
+	}
+    option = {
+        name = th_diplo_events.58.b
+		ai_chance = { 
+			factor = 0
+		}
+	}
+}

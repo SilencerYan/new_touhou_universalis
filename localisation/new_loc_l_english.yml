@@ -822,8 +822,8 @@
  flavor_hvr.17.desc: "Ø°‹—VbTÿ\n‰k^yQN!kúQ°s†NÿwNÔkNN!kôf RHV'Y0\nNgN‰kb„vêSO©‹bØS—VôfHV'Y0\n)YPR2VË‹S0\nÙN!kÿ)YPRýwQN!k‰kÌ‘uTÿ"
  flavor_hvr.17.a: "bÿ"
  flavor_hvr.18.t: "àeÕlÒbÝu„v÷‹Bl"
- flavor_hvr.18.desc: "(WŽN‰k^y„vY!k²N•-Nÿ)YLumN(WN­e RHVN|V¸SKNô•„vY²NTwû|ÿv^n·ƒÖS†N‰^ó`aNgØšÁˆ2R•„váOûN0jOHN)YLu„vàVžRßvËSÿgØšÁˆ2R•VËYn0W(WÁˆ2R-NŠegŠOPT)YLuÙN¹0\n(WÙN)Yÿ)YPRˆcacˆ–sØyÆR0WMRŽV=f^—òfôv…Sÿ(WŒTgØšÁˆ2R•ÏuÇ†NNµköeô•NHNºNåw„v²NŒTÿcˆ–s»yV†N0\ndkT‹†6q‰k^yÍN6qOŒb)YºN„v»žæpÿFOúW,gêS=fSb*Ngqb—b†N0"
- flavor_hvr.18.a: "ý=fºNÅ`NEeb†N"
+ flavor_hvr.18.desc: "(WŽN‰k^y„vY/k²N•-Nÿ)YLumN(WN­e0W:R¢c/f^—òfôv…S„vÅ`¥bÿv^n·ƒÖS†N‰^ó`aNgØšÁˆ2R•„v1V¹p0(WbŸRÉbâb†NÙNLuåNÊS0Wñr0W:S„v'Y¿R›RKNTÿ|V¸ST)YLu>múQ‰k^y„vLˆ:N×S0R†NŠegŠY„vI–.c0\nÈuŽNÐgN)Yÿ)YPRˆcacˆ–sØyÆR0WMRŽV0WñrÐgYÿ(WŒTÙNLu0|V¸SŒT0WñrvQÖN¿R›R„vãNhˆÏuÇ†NNµköeô•N:NºNåw„v²NŒTÿ|V¸SÈuŽNTaNQT)YLu>múQ‰k^y0\ndkT‹†6q‰k^yÍN6qOŒb)YºN„v»žæpÿFOúW,gêS/fSb*Ngqb—b†N0"
+ flavor_hvr.18.a: "N:WO'Y„vY²NÜw)R"
  flavor_hvr.19.t: "®pSb=f^—òfôv…S"
  flavor_hvr.19.desc: "–Nw)YLu'Y›QIew–†N–T›¿kÿte*N=f^—òfôv…Sw–eQ†N÷mqNKN-NÿgØšÁˆ2R•NåwNb*Žÿ‰k^yìNmNýK„Rƒw0\n6qw)YLu'Y›Q„vîvhv^N=fŒbgØšÁˆ2R•bw‰k^yìN—rçe&ÿw=f³QšRN³R8l8ã‰³Qî•˜˜0\n(WN5–û±rPÜgTÿNýNšSÍ‘„vŒQPR«ˆHT²NÙu†N†˜›Q„v)YPRÿNb—ÆRÆR»ž»ž°‹‹„v=fNb	g)YºN„vúW,gáOo`0\n)YPRv^¡l	gû–Ù,gŒQPRÿw=f–KbSvQ0NV0R†NN*N0WñrßpñVKN-N0\n–NwNR—ßpGSwÿåNTQmN¡l	g‰k^yýwYŒb0R)YºN„vNb(W†N0"
  flavor_hvr.19.a: "SÿR‹Tº‹SbP(W0W"
@@ -831,7 +831,7 @@
  flavor_hvr.20.desc: "å‚mžìY=fám4l-N„vºN|œÿ'`<h3zÍ‘ÿùRºN‰|mN¡l	gûNUOLeùRÃVtÿFOyYNôvæ‚ŽNT‰|«ˆºN‰|Ucß˜0\ncˆ–sÇNvQ²NŒ—Våwÿ–Nw'Ywm*‚öeãN„v0RegÿŠegŠY„v4lßW«ˆºN‰|VÑSÿˆVY|œ‰|ýàVHNÇ¦^Uc^cwÒo4NmpÝu0å‚mžìYhˆHy)YLuåb	gNLuNgHV'Y„vwm›Qÿb¸‹ïSåN.^©RyYìNNÏeZP›NÀNHN0"
  flavor_hvr.20.a: "|œ‹TmN=f‹T"
  flavor_hvr.21.t: "Ÿ^d–Uc|œ"
- flavor_hvr.21.desc: "–Nw)YLu„vN­eVgÿ(WŒcác†NNLuN„vN›NIN‰nHWTÿbìNÈuŽNýwY³QšRybkNb	g„vUc|œ‹Ny˜†N0\n–Nw)YPR„v‹TäNN¾ÿ)YLu„vwm›Q«ˆÍb0RhQýVT0WÑvcw‹TäN„vgbLˆz¦^ÿÎNdk(W)YLu„vßu»lƒôV…QÿNb	g„vUc|œIm¨RýS«ˆybk0"
+ flavor_hvr.21.desc: "–Nw)YLu„vN­eVgÿ(WŒcác†NNLuN„vN›NIN‰n:WTÿbìNÈuŽNýwY³QšRybkNb	g„vUc|œ‹Ny˜†N0\n–Nw)YPR„v‹TäNN¾ÿ)YLu„vwm›Q«ˆ>m0RhQýVT0WÑvcw‹TäN„vgbLˆz¦^ÿÎNdk(W)YLu„vßu»lƒôV…QÿNb	g„vUc|œIm¨RýS«ˆybk0"
  flavor_hvr.21.a: ">TNß˜|œÿ"
  flavor_hvr.22.t: "nN«ˆybk"
  flavor_hvr.22.desc: "'YèRn9‚ý«ˆÿQ‰lÿjOHNÑwm|œ‰|„vAu–kHWNbÿSèRÜmn9‚R«ˆ9eÅˆb†NÜm„vFU9‚ÿw|œ‰| RåTHWmNúW,g«ˆÆbÁk0\nˆVYnl«ˆëN¸Sÿ¸T|œFU)ŒTKbåTwìNmN«ˆëlLˆÿÖNìN-N'YYpeØ¡l	gŒb0RïSÿfãN„vôucu¡‹„våTjO0\nSV0W„vFUºNŒT5ÏeìNTbìN±b(`6eeQÏQS†NÿÖNìNÞ°ecˆgýbcNw†N0\nNÇÿùRŽN)YPRegô‹ÿêS‰ýw¨‹ºN|œ„v0kÃVÿ±ÈS‚YUObTÿ"
@@ -1026,7 +1026,8 @@
  hvr_hisou_sword_introduction_title: "ïuó`QR„vjo›R"
  hvr_hisou_sword_introduction_desc: "â‹î•ïuó`QR„v)Ylµc6Rýw›RåNÊSSVMR„vïuó`QR„výwÏ‘0"
  hvr_celestials_paradise: "§Y)Yi`imaƒ§!"
- hvr_has_been_used_earthquake_for_15_years: "Ý»yN/kNVÑS0W—òTÏuÇ»S15t^"
+ hvr_has_been_used_earthquake_for_15_years: "Ý»yNN/kVÑS0W—òTÏuÇ»S15t^"
+ hvr_has_used_taunt_for_15_years: "Ý»yNN/kcEˆýV¶RòTÏuÇ»S15t^"
  hvr_only_on_war_enemies: "êSýwùRb‰N-N„vLeºNO(u"
  th_hvr_weather_control_strong_sun_tooltip: "Èpåe"
  th_hvr_weather_control_blizzard_tooltip: "´fê–"
@@ -1043,6 +1044,9 @@
  th_hvr_weather_control_devastating_earthquake_tooltip: "Ákmp'`0W—"
  th_hvr_weather_control_devastating_earthquake_title: "Ákmp'`0W—"
  th_hvr_weather_control_devastating_earthquake_desc: "¨`SùRîvhýV¶RO(uÁkmp'`„v0W—ÿ\n§Gˆmw 150›Q‹N¹p 0§!\nùRîvhýV¶RVÑSb/g0W—ÿÅNïSùRb‰N-N„vLeùRýV¶RO(u05t^…QîvhýV¶Rÿ\n§R‰^X2–¡V-25%0§!\nùRTNýV¶RêSýwÏk15t^O(uN/kÿv^ÙuˆNsQû|é`Z0"
+ th_hvr_taunt_title: "cEˆå‹ýV"
+ th_hvr_taunt_tooltip: "cEˆå‹ýV"
+ th_hvr_taunt_desc: "bìNSÕ‹þVcEˆå‹ýVÿ\nÙSOå‹ýVIN¨RåN§YYe­‹No‚)YºN§!PãSÿ§G100%§!µOeuib.Vÿ·ƒ—V§G100%§!Zgÿ±‚9§G100%§!b‰NRpe‰Bl§YhQèwýN§!	ÿùRbýVÑSwb‰Nÿ\nFObìNmNïSåNùRIrÐcúQbìN„v‰Bl0"
  hvr_mood_no_education_branch_mission_1_title: ")YPR„vçVÁ"
  hvr_mood_no_education_branch_mission_1_desc: ")YPR„v'`<hØ/fNýw©‹)YLu„vT6–BS¹RÍVÿÙ©‹)YPR	g›N‘bÁ0FOyY³QšRçuíubLˆb.tÿwN/fHSgŽNN×OÄ‰éw0)YS	g8^ÿN:N'SXRÿN:NNh¡NÿFOb1S/f)YPRÿ"
  hvr_mood_no_education_branch_mission_2_title: ")YS/f^—"
@@ -1075,6 +1079,7 @@
  flavor_hvr.105.a: "åwS†N"
  flavor_hvr.106.t: "9eØSÅ`êu"
  hvr_change_government_tt: ")YPRœU`„vRLu¿uNîOckSÑSuØSS"
+ hvr_unlock_taunt_tt: "AQ¸‹§YcEˆå‹ýV§!Y²NLˆ¨R0"
  hvr_unlock_mood_change_decision_tt: "ã‰•Å`êuµc6R³Q®‹"
  flavor_hvr.106.desc: ")YPR	gÅV‰9eØSîvMR„vÅ`êuÿåN¿OŽNôf‹Y„våTjOÿ"
  flavor_hvr.106.a: "ÐcØšÅ`êu<P"

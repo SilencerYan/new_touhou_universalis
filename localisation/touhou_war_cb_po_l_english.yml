@@ -206,12 +206,17 @@
  cb_th_external_perfectionism: "Y‹sKNS"
  cb_th_external_perfectionism_desc: "býVòTûŽNó„U0TNx^KNýV.O­dN„UKNSÿbˆINN¹Rž0"
  cb_touhou_mission_hvr_hig_war: "ùR–T›JdLrÿ"
- cb_touhou_mission_hvr_hig_war_desc: "N!kÇã‰³Q‰k^yNb.b„vî•˜˜ÿ"
+ cb_touhou_mission_hvr_hig_war_desc: "‰V•^ã‰³Q‰k^yNb.b„vî•˜˜ÿ"
  cb_touhou_claim_the_hakurei_title: "±RðyZSKN^y>y"
  cb_touhou_claim_the_hakurei_title_desc: "up¦hùRyY(Wçe>y”^1ûN„vòTÏucíu*Y•öeô•›RÏ‘0=föeP¡l6eZSKN°e>yv^Šb2Nµ^^y>yßuN(WNb—×e^N†Nÿ"
  th_superiority_war_mission_hvr_hig: "US°s8—Cg"
  th_superiority_war_mission_hvr_hig_desc: "b‰Nîvh=fÇb—Vb—eegTÖNìNUS°s8—Cg0"
  HVR_MKI_MISSION_WAR_NAME: "$ORDER$$FIRST$ùR$SECOND_NAME$'YjOb"
+ cb_tenshi_insult_war: "Ye­‹No‚)YºN"
+ cb_tenshi_insult_war_desc: "No‚)YºNÅV‰˜:NyY„vLˆ:NØNúQãN÷Nÿ"
+ th_superiority_war_tenshi_insult: "US°s8—Cg"
+ th_superiority_war_tenshi_insult_desc: "b‰Nîvh=fÇb—Vb—eegTÖNìNUS°s8—Cg0"
+ HVR_INSULT_WAR_NAME: "$ORDER$$FIRST$ùR$SECOND_NAME$é`bjOb"
  th_claim_hakurei_shrine: "HYÖS–™ý"
  th_claim_hakurei_shrine_desc: "b‰Nîvh=fHYÖS–™ý0"
  TH_CLAIMERS_INVASION: "$ORDER$$FRIST$HYÖS$SECOND_NAME$^y>yb‰N"
