@@ -10,6 +10,18 @@ country_event = {
 		hidden_effect = {
 			set_country_flag = hvr_has_variables_set
 			th_hvr_initiate_rebel_counter = yes
+			set_variable = {
+				which = hvr_earthquake_counter
+				value = 0
+			}
+			set_variable = {
+				which = hvr_num_of_max_temper
+				value = 0
+			}
+			set_variable = {
+				which = hvr_weather_action_counter
+				value = 0
+			}
 		}
 	}
 	option = {
@@ -170,7 +182,6 @@ country_event = {
 	major = yes
 	option = {
 	  	name = flavor_hvr.32.a
-	  	custom_tooltip = flavor_hvr.32.a.tt
 	 	add_country_modifier = {
 			name = hvr_masochistic_tenshi
 			duration = 10950

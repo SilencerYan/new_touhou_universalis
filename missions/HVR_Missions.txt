@@ -151,7 +151,6 @@ hvr_mission_branching_slot_1 = {
 					num_accepted_cultures = 3
 					calc_true_if = {
 						all_ally = {
-							NOT = { total_development = 100 }
 							trust = {
 								who = ROOT
 								value = 90
@@ -200,13 +199,13 @@ hvr_mission_branching_slot_1 = {
 						tooltip = hvr_defensive_war_tooltip
 						is_in_war = {
 							defender_leader = ROOT
-							war_score = 50
+							war_score = -50
 						}
 						NOT = {
 							is_in_war = {
 								defender_leader = ROOT
 								casus_belli = cb_super_badboy
-								war_score = 50
+								war_score = -50
 							}
 						}
 					}
@@ -216,21 +215,14 @@ hvr_mission_branching_slot_1 = {
 						tooltip = hvr_teach_lesson_path_trigger_tt
 						always = no
 					}
-					custom_trigger_tooltip = {
-						tooltip = hvr_infrastructure_tt
-						all_owned_province = {
-							all_owned_province = {
-								OR = {
-									AND = {
-										culture = ROOT
-										num_of_times_expanded_infrastructure = 1
-									}
-									NOT = {
-										culture = ROOT
-									}
-								}
-							}
+					num_of_owned_provinces_with = {
+						OR = {
+							area = Dragon_islands
+							area = Eastern_dragon_islands
+							area = Western_dragon_islands
 						}
+						num_of_times_expanded_infrastructure = 1
+						value = 8
 					}
 					NOT = {
 						any_owned_province = {
@@ -249,13 +241,13 @@ hvr_mission_branching_slot_1 = {
 				limit = {
 					is_in_war = {
 						defender_leader = ROOT
-						war_score = 50
+						war_score = -50
 					}
 					NOT = {
 						is_in_war = {
 							defender_leader = ROOT
 							casus_belli = cb_super_badboy
-							war_score = 50
+							war_score = -50
 						}
 					}			
 				}
@@ -576,7 +568,6 @@ hvr_mission_teach_lesson_slot_1 = {
 			num_accepted_cultures = 3
 			calc_true_if = {
 				all_ally = {
-					NOT = { total_development = 100 }
 					trust = {
 						who = ROOT
 						value = 90
@@ -606,19 +597,14 @@ hvr_mission_teach_lesson_slot_1 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
-			custom_trigger_tooltip = {
-				tooltip = hvr_infrastructure_tt
-				all_owned_province = {
-					OR = {
-						AND = {
-							culture = ROOT
-							num_of_times_expanded_infrastructure = 1
-						}
-						NOT = {
-							culture = ROOT
-						}
-					}
+			num_of_owned_provinces_with = {
+				OR = {
+					area = Dragon_islands
+					area = Eastern_dragon_islands
+					area = Western_dragon_islands
 				}
+				num_of_times_expanded_infrastructure = 1
+				value = 8
 			}
 			NOT = {
 				any_owned_province = {

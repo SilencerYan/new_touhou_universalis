@@ -863,7 +863,7 @@
  hvr_no_education_path_trigger_tt: "§Y	éb:Vlxï¿u§!"
  hvr_teach_lesson_path_trigger_tt: "§Y	éb`Ôgï¿u§!"
  hvr_infrastructure_tt: "Nb	gINAm‡eSwýNòTibú^úWNx¾‹Ëe1/k"
- hvr_won_rebel_battles_tooltip: "§YòTÏuG•‹S†NóS10¡wÛS›Q§!"
+ hvr_won_rebel_battles_tooltip: "òTÏuG•‹S†NóS10¡wÛS›QÿSVMR§Y[Root.hvr_won_rebel_battles_counter.GetValue]§!	ÿ"
  hvr_reduce_debuff_level_tt: "M–NO¨Raƒé`Z"
  hvr_unstable_country_lv3: "§RôfNO„v¨Raƒé`Z§!"
  hvr_unstable_country_lv2: "§RôfNO„v¨Raƒé`Z§!"
@@ -923,7 +923,7 @@
  flavor_hvr.100.t: "ïuó`QR)Ylµc6R:g6RËNÍu"
  flavor_hvr.100.desc: "ïuó`KNQRýwY(W9VU^b-NSùR¹e„vl(lS:N)YlÿKˆN)YPR‚föe„vµc6RSƒôV„v)Yl„výw›R0\nVÑS0W—ÿˆmw150›Q‹N¹pÿùRîvhýV¶RVÑSb/g0W—ÿÅNïSùRb‰N-N„vLeùRýV¶RO(u05t^…QîvhýV¶R‰^X2–¡V-25%0àecdÿùRTNýV¶R	g15t^cdÿv^ÙuˆNsQû|é`Z0dkýw›Ràe—ã‰•ÿNN^SŽNïuó`QR„v)Ylµc6Rýw›R0\nïuó`KNQRýw›R:g6Rÿã‰•TÿåNÏkt^4¹pÿŒRbgÈuûN¡RT6¹p	ÿ„vúVšR¦^ïy/tl(ýwÏ‘	ÿ0ˆmwl((ueg9eØS)Yl0TÍy9eØS)Ylýw›R—ûN¡Rã‰•0àecdÿFOTNýV¶RêSýwTöeXR(WNÍy)YlHeœgÿËe RTSOûyd–òT	g„v)YlHeœgÿ0W—N)YlN²QzÿïSTöeXR(W	ÿ0\n´fè–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffwm›QëXl-10%ÿ9‚êSwEN¦^-5%\nÈpåeÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffVÑS±‚9+10%ÿú^.±‚9+10%\n´fê–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffûy¨R¦^-10%ÿmcw+10%\nSmþ–ÿˆmw20l(ÿîvhýV¶R·ƒ—V10t^debuffkp2O-10%ÿëXlb`Y-10%"
  flavor_hvr.100.a: "°s(Wïuó`QR	gYSl(ýwÏ‘ÿ"
- hvr_three_earthquake_tt: "òTÏuVÑSÇ	N/k§YÁkmp'`0W—§!"
+ hvr_three_earthquake_tt: "òTÏuVÑSÇ	N/k§YÁkmp'`0W—§!ÿSVMR§Y[Root.hvr_earthquake_counter.GetValue]§!/k	ÿ"
  hvr_unlock_strong_sun_tt: "ã‰•Èpåe)Yl"
  hvr_add_40_power: "ïuó`QR·ƒ—V40l(ýwÏ‘"
  hvr_unlock_blizzard_tt: "ã‰•´fê–)Yl"
@@ -1063,7 +1063,7 @@
  hvr_mood_teach_lesson_branch_mission_3_desc: "b‰NI`/fO©‹ºNlÛuæ‚ÿFObìNôfèlÍ‘ýV…Q„vÑSUSNúWNx¾‹Ëe„vú^¾‹ÿŒTs^Nú^¾‹ObìNØS—VÌRÕˆÿmN1S¡l	gÛSqNNRƒŸ^†N0"
  hvr_mood_teach_lesson_branch_mission_4_title: "àeõVàeó`"
  hvr_mood_teach_lesson_branch_mission_4_desc: "©‹vQÖNR:V»SÙVŽNVbŒTAmNˆ'Tÿw(W)YLuÿ)YPRÿ`OÿêS—‰àeõVàeó`ÿZPNagëVPN„vSÑ‘|œ1S³Y†N0"
- hvr_reach_max_temper_tooltip: "0R¾Å`êug'Y<PóS”N/k"
+ hvr_reach_max_temper_tooltip: "0R¾Å`êug'Y<PóS”N/kÿSVMR§Y[Root.hvr_num_of_max_temper.GetValue]§!/k	ÿ"
  hvr_tiger: ")YPRKN`"
  hvr_defensive_war_tooltip: "(WN:W^—SôVQ2–¡Vb‰N-NóSÖS—V50b‰NR"
  th_reenable_reeducate_ruler_tt: "AQ¸‹QYe²w)YPR³Q®‹"
@@ -1111,7 +1111,9 @@
  hvr_cannot_declare_war_before_learned_taoism: "(W¢cBl†NÙN/geYØyKNMRÿ`OØ¡lýw›RùR/f^—òfôv…SJdLr"
  hvr_all_colony_get_buff_tt: "bìN„vŽ2m–kl0WS·ƒ—V8lENîOck"
  hvr_new_celestials_paradise: "°e)YºNPNW"
- HVR_weather_control_tt: "òTO(uÇ10/kïuó`QR„v)Ylµc6Rýw›R"
+ HVR_weather_control_tt: "òTO(uÇ10/kïuó`QR„v)Ylµc6Rýw›RÿSVMR§Y[Root.hvr_weather_action_counter.GetValue]§!/k	ÿ"
+ th_hvr_massive_cannons: ")YLuàeLe0‚–"
+ th_hvr_massive_cannons_desc: ")YLu„v0‚9‚VúQeg1S=f(ueg*jkb-N„vNRœ–x„vÿ"
  TH_lunarian_events.17.t: "gºNTbìNV>e†N¹ƒXÿ"
  TH_lunarian_events.17.desc: "(WbìNbŸRŽNgb—v^`S	gN-^KN0WKNTÿØš5„vgKNlmNNON†N4Y…˜ÿhˆ:y?aaTbìNV>e¹ƒX0‹N0R‚YÊNÿgKNý¾‹Ëz„vgb—'YÓuLuòTÏuNYXR(WÿbìN„vFUºNSOŒmTÙNGrÝ„wmÿSgºN„vGYÍsVRnnN­e&^ÞVbýV0"
  TH_lunarian_events.17.a: "bìN„vöeãNeg4N†Nÿ"
