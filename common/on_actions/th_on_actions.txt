@@ -1870,6 +1870,9 @@ on_battle_won_unit = {
 }
 
 on_adm_exploited = {
+	th_tenshi_temper_gain_effect_from_provinces = {
+		value = 3
+	}
 	owner = {
 		if = {
 			limit = {
@@ -1880,14 +1883,14 @@ on_adm_exploited = {
 				power_type = th_might_of_destruction
 				value = 5
 			}
-		}
-		th_tenshi_temper_gain_effect_from_provinces = {
-			value = 3
 		}
 	}
 }
 
 on_dip_exploited = {
+	th_tenshi_temper_gain_effect_from_provinces = {
+		value = 3
+	}
 	owner = {
 		if = {
 			limit = {
@@ -1898,14 +1901,14 @@ on_dip_exploited = {
 				power_type = th_might_of_destruction
 				value = 5
 			}
-		}
-		th_tenshi_temper_gain_effect_from_provinces = {
-			value = 3
 		}
 	}
 }
 
 on_mil_exploited = {
+	th_tenshi_temper_gain_effect_from_provinces = {
+		value = 3
+	}
 	owner = {
 		if = {
 			limit = {
@@ -1916,9 +1919,6 @@ on_mil_exploited = {
 				power_type = th_might_of_destruction
 				value = 5
 			}
-		}
-		th_tenshi_temper_gain_effect_from_provinces = {
-			value = 3
 		}
 	}
 }
