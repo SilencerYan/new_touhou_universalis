@@ -278,6 +278,7 @@ Meira_missions_first_slot = {
 	#		add_yearly_manpower = 2
 	#	}
 	#}
+	#job 合理
 	OKR_kanas_request = {
 		icon = mission_placeholder
 		required_missions = {
@@ -447,6 +448,7 @@ Meira_missions_second_slot = {
 			}
 		}
 	}
+	#job
 	OKR_gain_the_popular_support = {
 		icon = mission_placeholder
 		required_missions = {
@@ -487,52 +489,27 @@ Meira_missions_second_slot = {
 			}
 		}
 		effect = {
-			Scarlett_domain = {
-				limit = {
-					not = {
-						is_core = root
-					}
-					not = {
-						is_permanent_claim = root
-					}
-				}
-				add_permanent_claim = root
-			}
-			Scarlet_mountain = {
-				limit = {
-					not = {
-						is_core = root
-					}
-					not = {
-						is_permanent_claim = root
+			4974 = {
+				if = {
+					limit = {
+						NOT = {
+							is_core = ROOT
+						}
+						NOT = {
+							is_permanent_claim = ROOT
+						}
 					}
 				}
-				add_permanent_claim = root
+				add_permanent_claim = ROOT
 			}
-			Fairy_land = {
-				limit = {
-					not = {
-						is_core = root
-					}
-					not = {
-						is_permanent_claim = root
-					}
+				add_stability_or_adm_power = yes
+				add_country_modifier = {
+				name = okr_local_support
+				duration = 7300
 				}
-				add_permanent_claim = root
-			}
-			Northern_fairy_land = {
-				limit = {
-					not = {
-						is_core = root
-					}
-					not = {
-						is_permanent_claim = root
-					}
-				}
-				add_permanent_claim = root
-			}
 		}
 	}
+	#job 贸易相关
 	OKR_ellens_request = {
 		icon = mission_placeholder
 		required_missions = {
@@ -588,6 +565,10 @@ Meira_missions_second_slot = {
 			5181 = {
 				set_center_level_3_center_of_trade = yes
 			}
+			add_country_modifier = {
+				name = okr_ellens_support
+				duration = 7300
+				}
 			add_mercantilism = 10
 		}
 	}
@@ -969,6 +950,7 @@ Meira_missions_third_slot = {
 			#not decided yet
 		}
 	}
+	#job tech相关，原版有点逆天啊,我也给点逆天的好了
 	OKR_rikako_request = {
 		icon = mission_placeholder
 		required_missions = {
@@ -986,6 +968,10 @@ Meira_missions_third_slot = {
 			add_adm_tech = 1
 			add_dip_tech = 1
 			add_mil_tech = 1
+			add_country_modifier = {
+				name = okr_rikako_support
+				duration = 730
+				}
 		}
 	}
 	#OKR_rebirth_of_meira = {
