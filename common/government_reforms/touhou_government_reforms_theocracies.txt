@@ -1,7 +1,7 @@
 #Leadership
 Gensokyan_shrine_theocracy = {
 	lock_level_when_selected = yes
-	icon = "shrine_theocracy_reform"
+	icon = "samurai_order_reform"
 	potential = {
 		OR = {
 			th_is_or_was_tag = {
@@ -36,6 +36,50 @@ Gensokyan_shrine_theocracy = {
 		tolerance_own = 2
 	}
 
+	#custom_attributes = {
+	#	enables_call_to_defensive_war = yes
+	#}
+	custom_attributes = {
+		locked_government_type = yes
+	}
+}
+TOUHOU_mingluo_theocracy = {
+	lock_level_when_selected = yes
+	icon = "shrine_theocracy_reform"
+	potential = {
+		OR = {
+			th_is_or_was_tag = {
+				tag = OKR
+			}
+			has_reform = TOUHOU_mingluo_theocracy
+			have_had_reform = TOUHOU_mingluo_theocracy
+		}
+	}
+	#legacy_equivalent = TOUHOU_mingluo_theocracy_legacy
+	can_change_primary_culture = no
+	valid_for_new_country = no
+	valid_for_nation_designer = yes
+	nation_designer_cost = 40
+	modifiers = {
+		army_tradition_decay = -0.01
+		has_samurai = yes
+        shock_damage_received = -0.1
+		manpower_in_true_faith_provinces= 0.2
+		enforce_religion_cost = -0.5
+		global_missionary_strength = 0.03
+	}
+    government_abilities = {
+		th_the_power_of_hkr_mechanic
+	}
+	effect = {
+		hidden_effect = {
+			if = {
+				limit = { is_female = yes } 
+				convert_female_ruler_to_general = 40
+			}
+			else = { convert_ruler_to_general = 40 }
+		}
+	}
 	#custom_attributes = {
 	#	enables_call_to_defensive_war = yes
 	#}
@@ -234,7 +278,8 @@ Gensokyan_myo_monastery = {
 TH_feudal_shrine_reform = {
 	icon = "mandala_system"
 	potential = {
-		has_reform = Gensokyan_shrine_theocracy 
+		has_reform = Gensokyan_shrine_theocracy
+		has_reform = TOUHOU_mingluo_theocracy
 	}
 	modifiers = {
 		warscore_cost_vs_other_religion = -0.25
@@ -254,12 +299,51 @@ TH_i_am_the_shrine = {
 	allow_normal_conversion = yes
 	potential = {
 		has_reform = Gensokyan_shrine_theocracy
+		has_reform = TOUHOU_mingluo_theocracy
 	}
 	trigger = {
 		has_reform = Gensokyan_shrine_theocracy
+		has_reform = TOUHOU_mingluo_theocracy
 	}
 	modifiers = {
 		max_absolutism = 10 
+	}
+	ai = {
+		factor = 3
+	}
+}
+TH_OKR_DIP_ANd_COST = {
+	icon = "asian_scripture"
+	allow_normal_conversion = yes
+	potential = {
+		has_reform = TOUHOU_mingluo_theocracy
+	}
+	trigger = {
+		has_reform = TOUHOU_mingluo_theocracy
+	}
+	modifiers = {
+		diplomatic_reputation = 1
+		transfer_trade_power_reasons = 50
+		global_foreign_trade_power = 0.2
+		placed_merchant_power_modifier = 0.2
+		placed_merchant_power = 10
+	}
+	ai = {
+		factor = 3
+	}
+}
+TH_OKR_mil_and_reform = {
+	icon = "mandala_scripture"
+	allow_normal_conversion = yes
+	potential = {
+		has_reform = TOUHOU_mingluo_theocracy
+	}
+	trigger = {
+		has_reform = TOUHOU_mingluo_theocracy
+	}
+	modifiers = {
+		drill_decay_modifier = -0.5
+		military_tactics = 0.1
 	}
 	ai = {
 		factor = 3
