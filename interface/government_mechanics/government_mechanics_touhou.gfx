@@ -404,3 +404,28 @@ spriteTypes = {
 		effectFile = "gfx/FX/progress.lua"
 	}
 }
+    #### OKR_HKR_POWER ###
+    spriteType = {
+		name = "GFX_th_touhouhkrpower1"
+		texturefile = "gfx/interface/government_mechanics/th_the_power_of_hkr/th_touhouhkrpower1.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_th_touhouhkrpower2"
+		texturefile = "gfx/interface/government_mechanics/th_the_power_of_hkr/th_touhouhkrpower2.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_th_touhouhkrpower3"
+		texturefile = "gfx/interface/government_mechanics/th_the_power_of_hkr/th_touhouhkrpower3.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_th_touhouhkrpower_the_gov_power"
+		texturefile = "gfx/interface/government_mechanics/th_the_power_of_hkr/th_touhouhkrpower_the_gov_power.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
