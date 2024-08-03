@@ -1,0 +1,93 @@
+th_the_power_of_hkr_mechanic = {
+	alert_icon_gfx = GFX_alerticons_government_mechanics
+	alert_icon_index = 1
+	available = {}
+
+	powers = {
+		th_the_power_of_hkr = {
+			gui = th_the_power_of_hkr_gov_mech
+			show_before_interactions = yes
+			max = 100
+			base_monthly_growth = 0.5
+			is_good = yes
+			scaled_modifier = {
+				modifier = {
+                    global_trade_power = 0.1
+					ae_impact = -0.1
+					infantry_power = 0.1
+				}
+			}
+		}
+	}
+	interactions = {
+		th_touhouhkrpower1 = {		
+			gui = th_the_power_of_hkr_left_button
+			icon = GFX_th_touhouhkrpower1
+			cost_type = th_the_power_of_hkr
+			cost = 50
+			trigger = {
+                
+			}
+			effect = {
+                custom_tooltip = " "
+				add_country_modifier = {
+					name = th_hkrpower_okr1
+					duration = 5475
+				}
+                define_advisor = {
+                    type = inquisitor
+                    skill = 3
+                    cost_multiplier = 0.5
+                }
+			}
+			ai_chance = {
+				factor = 0	
+			}
+            cooldown_years = 15
+		}
+		
+		th_touhouhkrpower2 = {		
+			gui = th_the_power_of_hkr_middle_button
+			icon = GFX_th_touhouhkrpower2
+			cost_type = th_the_power_of_hkr
+			cost = 50
+			trigger = {
+	
+			}
+			effect = {
+				custom_tooltip = " "
+				define_advisor = {
+					type = trader
+					skill = 3
+					cost_multiplier = 0.5
+				}
+				custom_tooltip = " "
+				add_country_modifier = {
+					name = th_hkrpower_okr2
+					duration = 5475
+				}
+			}
+			ai_chance = {
+				factor = 0	
+			}
+            cooldown_years = 15
+		}
+	
+        th_touhouhkrpower3 = {		
+			gui = th_the_power_of_hkr_right_button
+			icon = GFX_th_touhouhkrpower3
+			cost_type = th_the_power_of_hkr
+			cost = 100
+			trigger = {
+				tag = OKR
+			}
+			effect = {
+				custom_tooltip = " "
+			    add_country_modifier = {
+					name = th_hkrpower_okr3
+					duration = 5475
+				}	
+			}
+		}
+    }
+}
